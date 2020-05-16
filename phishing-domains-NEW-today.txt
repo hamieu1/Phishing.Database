@@ -1,5 +1,6 @@
 147.78.65.253
 1505204754.blob.core.windows.net
+188.120.236.250
 193.37.214.49
 195.211.156.193
 1vc94294c8cbb81d37a3228892a48596.webredirect.org
@@ -35,6 +36,7 @@ amazon-verificationic.webstarterz.com
 ambiotechnology.com
 americanas.app.ofertadasemana-br.com
 amicalemaisonduliban.com
+analisandosmpconsumindo.com
 anatolyspektor.com
 animauxksa.com
 anitaplast.ir
@@ -67,6 +69,7 @@ blockchainpaid.icu
 brillenland.de
 brnetworkl.com
 btw-71.ml
+buellis.com
 bukolosio.com
 buyonegetoneeeeeee.xyz
 cajamargrup.com
@@ -222,9 +225,11 @@ motarnp.com
 mst.5v.pl
 my-gaddi.com
 myhouse247.com
+n3tfx-planmembeditcrediten-ca.com
 nab.com.au.nabsecureportal.services
 ng.keywestartgalleries.com
 nirmalind.com
+notifications-orange.webador.co.uk
 nowxefedefed.com
 octopustechperu.com
 ofertameprodutas.com
@@ -273,10 +278,12 @@ runescape.com-eurs.xyz
 rustrarecoinsinvestigation.com
 saldao-bahianinho.com
 sallysandalstore.com
+sania-sh7.000webhostapp.com
 sbxxs.duckdns.org
 scentematography.com
 schiena.tv
 secure.runescape.com-up.ru
+secure.runescape.rs-ew.xyz
 selfupgradeservice.servehttp.com
 send.firefox.com
 serveur-messagerie3103.weebly.com
@@ -344,6 +351,7 @@ wellsfargo.privacy-wf.info
 wells-secure-domain.xyz
 wobunye.co.za
 wolfbattlestudio.com
+wwswa.xyz
 www-us-customer-card-auth-sign-on-dashboard.000webhostapp.com
 xenodochial-shirley-ecd81c.netlify.app
 yahoo-emailsupport247.cf
