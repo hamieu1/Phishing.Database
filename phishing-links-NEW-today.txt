@@ -194,6 +194,7 @@ https://mail.ajeetbisen.com/csc/login.php
 https://mail.thedigitalregister.com/.well-known/acme-challenge/update/chaseonline/update.profile.php
 https://mashallahlg.eccountant.co/lin/lindupdate/piled.php?email=[[-Email-]]
 https://mashallahlg.eccountant.co/lin/lindupdate/piled.php/?email=[[-Email-]]
+http://smbc-wg.com
 https://micomedor.es/wp-includes/js/tinymce/themes/.../PDF/index.php?login=&domain=&log=0&3vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 https://mindsetsmatter.org/aramark/onedrive-drive
 https://nkldsgche.ddns.net/HSH/Linkedin1/index.html
