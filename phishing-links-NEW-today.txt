@@ -5,6 +5,7 @@ http://18.207.110.64/chaseonline/banking/secured/login.php
 http://18.207.110.64/chaseonline/banking/secured/login.php?_done=https://mail.yahoo.com/d
 http://18.207.110.64/chaseonline/banking/secured/login.php?https://login_chase_com/?_src=ym
 http://18.207.110.64/chaseonline/banking/secured/login.php?https://login_chase_com/?_src=ym&amp;_lang=en-US&amp;_intl=us&amp;_done=https://mail.yahoo.com/d
+http://18.207.110.64/chaseonline/banking/secured/login.php?https://login.chase.com/?.src=ym&.lang=en-US&.intl=us&.done=https%3A%2F%2Fmail.yahoo.com%2Fd
 http://247forrent.com/online/login.alibaba-com/online/login.alibaba/Login.htm
 http://24hmzw.com/sign/getcookie/security/AMEXFRESH/home
 http://3.94.146.148/view-signin.php
@@ -100,12 +101,14 @@ http://citibank.online.account.italianamericanrelief.org/citi/login.php?cmd=logi
 http://clinpharmaclinicalresearch.com/clinpharmaconsulting.com/lib/filemanager/ImageManager/assets/link/login.php?cmd=login_submit&amp;id=35ee79c14f7bb5534b072820000654b535ee79c14f7bb5534b072820000654b5&amp;session=35ee79c14f7bb5534b072820000654b535ee79c14f7bb5534b072820000654b5
 http://clinpharmaclinicalresearch.com/clinpharmaconsulting.com/lib/filemanager/ImageManager/assets/link/login.php?cmd=login_submit&id=35ee79c14f7bb5534b072820000654b535ee79c14f7bb5534b072820000654b5&session=35ee79c14f7bb5534b072820000654b535ee79c14f7bb5534b072820000654b5
 http://commercepro.eu/modules/statslive/states
+http://comptesenlignelabanquepostale-fr.surge.sh/?wsost/OstBrokerWeb/loginform?TAM_OP=login&amp;ERROR_CODE=0x00000000&amp;URL=/voscomptes/canalXHTML/identif.ea?origin=particuliers
 http://comptesenlignelabanquepostale-fr.surge.sh/?wsost/OstBrokerWeb/loginform?TAM_OP=login&ERROR_CODE=0x00000000&URL=/voscomptes/canalXHTML/identif.ea?origin=particuliers
 http://conceptbrands.com.au/search/search
 http://conceptbrands.com.au/wp-includes/sodium_compat/src/Core32/Curve25519/litty/wells
 http://conceptbrands.com.au/wp-includes/sodium_compat/src/Core32/Curve25519/litty/WellsFargo/wells
 http://conceptbrands.com.au/wp-includes/sodium_compat/src/Core32/Curve25519/litty/wells/index.html
 http://conceptbrands.com.au/wp-includes/sodium_compat/src/Core32/Curve25519/litty/wells/wells.htm
+http://confrmacount.000webhostapp.com/ppl/ppl/paypal.html
 http://convention.tintworld.com/cc/id/younes
 http://cpanel.boostmyviews.icu/sos/CHASE/access.php
 http://cpanel.boostmyviews.icu/sos/CHASE/billing.php?SERVID=Service_Login_&_Authentication=4e0c1729a8cce46daf8a6f4ed72d13e9a41445ba
@@ -200,6 +203,7 @@ http://fidomobilecarrier.com/directing/desjardins/identifiantunique/indentificat
 http://fidomobilecarrier.com/directing/desjardins/identifiantunique/processing.php
 http://fidomobilecarrier.com/directing/desjardins/identifiantunique/questions.php
 http://fidomobilecarrier.com/directing/Simplii/details.htm
+http://fidomobilecarrier.com/directing/Simplii/?securessl=true&amp;sessionid=5e639134cbdf89db4243214a433b2426
 http://fidomobilecarrier.com/directing/Simplii/?securessl=true&sessionid=5e639134cbdf89db4243214a433b2426
 http://fidomobilecarrier.com/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/ClientSignin.htm
 http://fidomobilecarrier.com/directing/www.atbonline.com/ATB/details.html
@@ -292,6 +296,7 @@ http://katherinegesell.com/at/at/Indexxatt.htm
 http://kelvinbrown45.com/Jamesanna
 http://kilka-na-kone.ru/rmic/asrn.html
 http://ld-icloud.com/Apple
+http://letha-71.ga/vp-htp/excelz/bizmail.php?email=&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 http://letha-71.ga/vp-htp/excelz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://lnrpro.com/BankofAmerica/61502e4b29f35c5/login.php
 http://loanemicalculators.com/AT_Secured
@@ -460,6 +465,7 @@ https://autorizador5.com.br/wp-content/plugins/contact-form-7/admin/compte/pp.fr
 https://avszcs.000webhostapp.com/login.htm
 https://baarkhan.cf/Drop
 https://baarkhan.gq/onedrive/oneddrive
+https://bahamasgo.top/office/Exce/excelz/bizmail.php?email=&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 https://bahamasgo.top/office/Exce/excelz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 https://bancaporlnternet.bbva.pe.suzyhomemakerco.com/greaterglory/mades/mades/login.php
 https://banglinkpunyaidemantaplah.live/recovery.html
@@ -479,6 +485,7 @@ https://bit.ly/paypla
 https://botchiest-comforts.000webhostapp.com/a/linkedIn.business/linkedIn.com/linkedIn.com/post.php
 https://bradesco.exclusivo.digital/html/classic/ibpflogin/identificacao.1jsf.php#acesso/ibpf/conta/index.jsf
 https://bravet.pe/iv/crypt/post.php
+https://brisbanebaysideautoelectrical.com.au/oran/linkedin/linkedIn/linkedIn%20(1)/linkedIn%20(1)/LinkedIn.html?eodjh=&amp;bwazc=&amp;vzrdcf=thflx&amp;bnf=0292850679514792&amp;uzx=DERwAKPtDdfA_DgUNMsxG4vHAf7FkAeCtF
 https://brisbanebaysideautoelectrical.com.au/oran/linkedin/linkedIn/linkedIn%20(1)/linkedIn%20(1)/LinkedIn.html?eodjh=&bwazc=&vzrdcf=thflx&bnf=0292850679514792&uzx=DERwAKPtDdfA_DgUNMsxG4vHAf7FkAeCtF
 https://brookandelizabeth.com/0?email=
 https://business.fit/MCHMP
@@ -491,6 +498,7 @@ https://chase-accountverify.herokuapp.com/account/email-verification
 https://chase-accountverify.herokuapp.com/account/login
 https://chase-notification.free-download-torrent.com/surf4.php
 https://chhotumaharaj.com/storage/framework/views/css/acessssssss/access.php
+https://chhotumaharaj.com/storage/framework/views/css/acessssssss/final.htm
 https://chhotumaharaj.com/storage/framework/views/css/acessssssss/log.htm
 https://chopointed.ml/sec/nsw/data/UntitledNotebook1.html?run=login_cmd&statuts=f17ca2c829680ada2fec9fc87bc5f606bde1a38b992597e5f8d6c2dfc5757796
 https://cine.com.uy/cgi.ebay.de
@@ -647,6 +655,7 @@ https://manageaccs.com/amaz/mazon/e77ea
 https://mariasouza.000webhostapp.com/caixa/caixa
 http://smbc-wy.com
 https://meanwell.000webhostapp.com/adobe13fast/index.html
+https://meuitaucard.com
 https://m.fbpolicy.facebook.com.acc9832.com
 https://muesliwallabyies.com/Z
 https://myattreviseupdate.weebly.com
@@ -705,6 +714,7 @@ https://photocake-guides.com/usa/fault/step1.html
 https://photocake-guides.com/usa/fault/step2.html
 https://photocake-guides.com/usa/fault/step3.html
 https://piyushshrivastava.net/dheywijholYYEbedhvhdyiu23yivvnsuo37t4682ugjwd5657/roundcube/index.php?email=gcgfc@ghvhgh.com
+https://plataformavirtual2020-gt.com/cb/pages/jsp-ns/login-cons
 https://ploymte.com
 https://ploymte.com/payment_account.html
 https://ploymte.com/verify.html
@@ -750,6 +760,7 @@ https://rt24.news/support/160d3b7d27bc2687843eaf364c5e503e/verification-email.ph
 https://rt24.news/support/1aeb7923a403868801cbcb09fba157ce
 https://rt24.news/support/3dfc36456526ca90bbb21e919f010b1c
 https://rt24.news/support/8166a9d73fbe6e034d6623f3c69e051a
+https://rt24.news/support/bc117e71aa281579d4ca7e0b9a61b56d
 http://srushtiinstitutemncl.com/vendor/scruen/1/bo000000f4ssss334444/bo000000f4ssss334444
 http://srv88285.ht-test.ru/mark/Linkedin
 http://srv88301.ht-test.ru/auto/r/index.php?email=test@example.com
@@ -854,7 +865,9 @@ https://truongthanglong.edu.vn/images/30/messages.2Freply.3FM2MContac.26item.3D2
 https://truongthanglong.edu.vn/images/30/messages.2Freply.3FM2MContac.26item.3D254318413905.26requested/samsung/1.html?pID=1265260892&src=5C5E7F895F821C6390CD19F83CCC31FD
 http://st-telefonica.com/staff
 https://twincitiesshift.com/payment/OMPure%20/uh/No_cap/FBG/office.php
+http://subscription.auth5e8w8wzwog4ccwjwksinetflix.com/5d4ae76f053f8f2516ad12961ef7fe97/tnFBsV27sc3kIMJg0Z8snqenramMHIXz.php?country=US-United%20States&amp;lang=en
 http://subscription.auth5e8w8wzwog4ccwjwksinetflix.com/5d4ae76f053f8f2516ad12961ef7fe97/tnFBsV27sc3kIMJg0Z8snqenramMHIXz.php?country=US-United%20States&lang=en
+https://uitzend55.nl/wp-admin/includes/ty=3ty=3ty=3ty=3/cmd-login=9f3885a038f82d43730038c8d9043a43/?reff=MDRmN2IxNWVlYWQxNmU3NjY1NDMyNWMzMGUwZWFkZWI=
 https://ukrebates.org
 http://supercentroelfuerte.com/P2Y9ZjEmbD1hJmk9NjUyODMma2V5PTgyMDE0OA==
 http://supercentroelfuerte.com/P2Y9ZjEmYW1wO2w9ZSZhbXA7aT0yODMzOSZrZXk9NjY2Njc1NQ==
@@ -937,6 +950,7 @@ https://www.movil-particulares-ibercajaonline-directo.com/ES4578400402/65d7196ae
 https://www.networkassociati.it/public/no/42dfd094218369f8be22f4703820eb4d
 https://www.reeditalfagans.fresh2.org
 https://www.reeditalfagans.fresh2.org/login.php
+https://www.rt24.news/support/30d782444ca928abf4a3d1072b553fca
 https://www.smscheckinitau.com/home.php
 https://www.sportsbarrel.com/https
 https://www.sportsbarrel.com/https/145.239.156.897071/sucursalpersonas.transaccionesbancolombia.com/mua
