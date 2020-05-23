@@ -87,6 +87,7 @@ cazeno.gq
 cdc-coronavirus.com
 cdc-gov.org
 Cdcgov.org
+cedarsales-my.sharepoint.com
 certain-almond-juice.glitch.me
 cfdfschwb.tk
 cfdschwb.tk
@@ -418,6 +419,7 @@ drivemxdocview.z13.web.core.windows.net
 drivxmxdocviewline.z13.web.core.windows.net
 dw.adyboh.com
 easytogets.com
+empresaslocaliza.com
 enlifeentertainment.com
 erasmus-plius.tomasjs.com
 eravecuertaier.net
@@ -427,6 +429,7 @@ f8e269024b2855447.tempsite.link
 facebook-checkpoint-restore.profit-pulling-reports.com
 facebook.marketplace.thechalkcloset.com
 fashioncoronaviruspatientzero.cloud
+fclretirocrgob.com
 feb.kkooppt.com
 fe-by01p-msa.trafficmanager.net
 fercoronado.com
@@ -446,6 +449,7 @@ getcoronavirusalert.com
 getcoronavirusassistance.com
 ggpht.ml
 ginrao-arc.info
+glosvk2020.beget.tech
 gocycle.com.au
 googleappfacebook.onlinevideosapp.com
 gov.hmrc-return.uk
@@ -474,6 +478,7 @@ ims.edu.sg
 inkajungletreks.com
 insiderppe.cloudapp.net
 inspirelaw.ca
+intouchcrm.co.uk
 ip-160-153-250-20.ip.secureserver.net
 i-recovidurl.tk
 i-sharecloud.com
@@ -678,5 +683,6 @@ wy.adyboh.com
 xfinityid.com
 xml.lgin.msa.trafficmanager.net
 <?xml version="1.0" encoding="utf-8"?>
+yahoocurrentlystaysafe.weebly.com
 zap533004-1.plesk11.zap-webspace.com
 ziaco-corona.work
