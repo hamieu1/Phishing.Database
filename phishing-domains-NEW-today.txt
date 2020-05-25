@@ -1,5 +1,6 @@
 165.22.250.229
 195.231.79.247
+2020migrationportal.securechkout.com
 206.221.176.87
 aboveparmedia.com
 accountmail-serverauth.tk
@@ -82,6 +83,7 @@ packisaurelagrandz.000webhostapp.com
 palomaclub.com
 parnassyswnet.ru
 pausastre.com
+paypal-securelogs.serveirc.com
 paypalticket58331.info
 paypal-updatesecure.serveirc.com
 pertalep.org
@@ -113,6 +115,7 @@ steamnacht.cf
 steamscan.cf
 steamsey.gq
 steamzazz.ga
+submityoururl.com
 tacosjackass.com
 tetherballpistachio.com
 therootfoundation.org
