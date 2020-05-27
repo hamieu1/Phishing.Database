@@ -1,1 +1,3 @@
-http://ltau-30horas.ddns.net:422/itau
+http://gerentedigital.ddns.net:2020/Itau
+http://gerentedigital.ddns.net:2020/Libera
+http://www.sicredi.mobiletoken.online
