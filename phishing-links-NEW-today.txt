@@ -769,6 +769,7 @@ https://schwabactivation.uc.r.appspot.com/info.php?SAMLRequest=fZJRT4MwFIX/Cuk7t
 https://schwabed-com.uc.r.appspot.com/login.php
 https://seattlesmagician.com/1/02.php?id=20957834
 https://secure.runescape.com-lf.cz/m=weblogin/loginform.ws447
+https://secure.runescape.rs-xz.xyz/m=weblogin/loginform.ws342
 https://secure.runescape.rs-xz.xyz/m=weblogin/loginform.ws342,453,854,34267654,14
 https://securlty.be/lp25yx0cjdq4e0u0
 https://securlty.be/yzdeuxjjt8z5tjec
