@@ -5388,7 +5388,6 @@ appleid-appie.hopto.org
 appleid.apple.com-6964.cairnsmaintenance.com.au
 appleid.apple.com.accessid-7c6483bdcd99eb112c06.com
 appleid.apple.com.account-access-security.com
-appleid.apple.com.akadns.net
 appleid.apple.com-en.secure1.scyrs-locked.com
 appleid.apple.com.ijoejfofe-ewfhkds-wejl.com
 appleid.apple.com.location.ca-icloud.xn--q9jyb4c
@@ -23122,7 +23121,6 @@ feey.club
 fegatech.com
 fegvert34.000webhostapp.com
 fehanloukai.com
-fehupay.com
 feildingmoa.co.nz
 feirao-da-maior-loja.com
 feirao-de-oferta.com
@@ -40672,7 +40670,6 @@ mmadibuke.co.za
 mmarau.ac.ke
 mmccuneaccountants.com
 mmcrypto.io
-m.me
 mmeruetabaga.org
 mmetals-uae.com
 mmfence.com
