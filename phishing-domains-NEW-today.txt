@@ -146,6 +146,7 @@ facebook.conn.workwithamazon.com
 facebook-login.xnx54sdc63xsxx22sx3xcvr5.facebook-secure-mobile-login.zerinth.co.in
 facebook-login.xnx54sdc63xsxx22sx3xcvr5sanqfchny.zerinth.co.in
 facebookrecovery.com.diginik.net
+fargopremium-secondary.z13.web.core.windows.net
 favarica.es
 fb-ads-place.item784920048562191039.com
 fb-cofirm-id56765135486-com.preview-domain.com
@@ -196,6 +197,7 @@ hotelapexinn.com
 hotel.gramadoreceptivo.com.br
 hotmaxster.com
 hujtrek.ml
+hunin-one.web.app
 iforgot.sing-us.com
 inlineglass.com.au
 inpost-express.com
