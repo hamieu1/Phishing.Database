@@ -1,4 +1,13 @@
+http://103.215.216.2
+http://103.215.216.20
+http://103.215.216.49
+http://103.215.216.50
+http://103.215.216.51
+http://103.215.216.52
 http://103.215.216.53
+http://103.215.216.54
+http://103.215.216.57
+http://103.215.216.58
 http://103.215.216.59
 http://118.27.74.74/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://208.109.12.211/pc
@@ -124,6 +133,7 @@ https://dostarcza-inpost.com/NrnOAnHv/MGw0Cyox-inteligo/login.php?pid=VbcbM4
 https://ecartemenu.com/wp-content/uploads/2020/telus/index.php
 https://ecartemenu.com/wp-content/uploads/2020/telus/next.html?cmd=login_submit&id=&session=
 https://ecngx256.inmotionhosting.com/~rickst9/IF93848892920/login.php
+http://secure-notifications-public.xyz/identityrecover.html
 https://endurancedesignings.icu/resource/office365/office365/office365/office365/office365/office365/office365
 http://senig-cl-xyz.preview-domain.com
 https://enticingse.com/fr-orange/?s1=100&s2=996eb500-749b-4020-88b1-0a9a50309f89&s3=5eeb9ef53da77465841&s4=6c13d701-15e4-4f09-bf4a-8a3904102986&s5=
@@ -148,6 +158,7 @@ https://horadecomprarchegouaproveite.com/MeusProdutos/prefetch.php?skullid
 https://hotspotparts.com/qqqqxx/content/1d0a358cf8d7ba0d6cc9cb06e64b469f?user=jim@thejimburkefamily.com&_verify?service=mail&data:text/html;charset=utf-8;base64,PGh0bWw+DQo8c3R5bGU+IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt
 https://hotspotparts.com/qqqqxx/content/1d0a358cf8d7ba0d6cc9cb06e64b469f/?user=jim@thejimburkefamily.com&_verify?service=mail&data:text/html;charset=utf-8;base64,PGh0bWw+DQo8c3R5bGU+IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt
 https://hotspotparts.com/qqqqxx/content/680dbb6e1caa5c68092b2fde400f1d6c/?user=jim@thejimburkefamily.com&_verify?service=mail&data:text/html;charset=utf-8;base64,PGh0bWw+DQo8c3R5bGU+IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt
+https://informacoes-promocionais.com/loja/true/bask.php
 https://ing-betalingsverzoek.com/pay/H7ZcmdNW
 https://instagram-recovery-challenge.dynamic-dns.net/52238db3e51471b5f923a3481975f65d/index.php?xTlCqvwa5415217176=lBJM7giGk4T
 https://instagram-recovery-challenge.dynamic-dns.net/52238db3e51471b5f923a3481975f65d/login.html
@@ -322,6 +333,7 @@ http://www.canstamber.net/login.php
 http://www.canstamber.net/profile.php
 http://www.canstamber.net/verify.php
 http://www.chat-whatsapp29.2waky.com/login.php
+http://www.dleuvanxngba.icu
 http://www.erc5.com/docusign
 http://www.herrajesecuatorianos.com/@30@50@
 http://www.hostiotics.com/Update/Service/myaccount/signin

@@ -1,5 +1,14 @@
 0erfjd.s3.ap-south-1.amazonaws.com
+103.215.216.2
+103.215.216.20
+103.215.216.49
+103.215.216.50
+103.215.216.51
+103.215.216.52
 103.215.216.53
+103.215.216.54
+103.215.216.57
+103.215.216.58
 103.215.216.59
 118.27.74.74
 208.109.12.211
@@ -43,6 +52,7 @@ destaquesdesaldao7.com
 dewittezell.com
 dhdost.com
 digitaltaxmatters.co.uk
+dleuvanxngba.icu
 dm.calebjacobo.net
 dostarcza-inpost.com
 ecartemenu.com
@@ -73,6 +83,7 @@ hybridsbed.com
 idiotictwitchpatriarch20.com
 idlewoodproductions.com
 indentulna.com
+informacoes-promocionais.com
 ing-betalingsverzoek.com
 itaucardpro.com
 itcomm.co.id
@@ -140,6 +151,7 @@ roar-cbd.com
 rorserviceiskane.se
 rzutitcmtrzch.com
 secure2appleid.com
+secure-notifications-public.xyz
 seguridadenlinea-viabcp.es
 senig-cl-xyz.preview-domain.com
 shahapurplot.co.in
