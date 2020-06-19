@@ -1,6 +1,7 @@
 0erfjd.s3.ap-south-1.amazonaws.com
 103.215.216.2
 103.215.216.20
+103.215.216.3
 103.215.216.49
 103.215.216.50
 103.215.216.51
@@ -63,6 +64,7 @@ fb-1968754222-com.preview-domain.com
 fb-1968754233-com.preview-domain.com
 fil.tools
 forinedexline.gq
+fpc80120000125-com.preview-domain.com
 gd-8.com
 genteporaqui.com
 gov.hmrc.return-calculation.uk
@@ -124,6 +126,7 @@ netwflixbilling.com
 newlinkedatts.weebly.com
 newmanresidences.com
 nmpp.com.ua
+oesras.000webhostapp.com
 ofertasdasemanacomprecomdesconto.club
 omimmogimor.cf
 orison.thicangall.nl
