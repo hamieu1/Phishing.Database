@@ -1,5 +1,8 @@
+http://103.215.216.48
+http://103.215.219.69
 http://119.28.187.227/oem/app/index.php?/user
 http://160.251.2.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=
+http://160.251.2.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=
 http://216.235.244.68/mail/lang/en/account/00640d5564587947b8957fbe10c95bf1/index.html
 http://216.235.244.68/mail/lang/en/account/0080e5547956217f7add19a7665377b7/index.html
 http://216.235.244.68/mail/lang/en/account/0531e6101f8be08e82e0d19b771b1509/index.html
@@ -49,6 +52,8 @@ http://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=038
 http://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=bb7450cadd27ebec9e83c994e69e8a5abb7450cadd27ebec9e83c994e69e8a5a&amp;session=bb7450cadd27ebec9e83c994e69e8a5abb7450cadd27ebec9e83c994e69e8a5a
 http://54.178.207.38/chase
 http://6351798-dot-phonic-obelisk-274214.uk.r.appspot.com
+http://72.9.109.66
+http://72.9.109.67
 http://888sandmyfloor.net/floortools/drop/index.php
 http://account.consumnesriverfarm.com/tnmmwm=/myaccount/uploads
 http://account-update.amazon.co.jp.0b599d1ae29e9ff1f60b37448d717a5e.icu
@@ -106,6 +111,8 @@ http://facebook.com-id92974.com
 http://facebook.com-id986164.com
 http://fakt24-news.eu/weryfikacja/mobile
 http://fb.upgradebeta.com
+http://fem-energy.us/screen/js/css/paypal/customer_center/customer-IDPP00C737/myaccount/signin
+http://flecreyeow.nl
 http://fndsdaytings.com/r/737c1b1e-c03b-4d4f-9387-ee4e8c5e9a01/5eec63a304ec1734151
 http://footballdeclination.com/mbx/WellsFargo/wells
 http://footballdeclination.com/mbx/WellsFargo/WellsFargo/wells
@@ -139,6 +146,7 @@ http://grupxyq.otzo.com
 http://grupxyq.otzo.com/login.php
 http://hexbedded.in/css/wp-cloudy/activar.php?rich=n1zeyusc0q1u2rr5p
 http://hmrc.refund-form.uk
+http://hospitalmeninodeus.com.br/wp-includes/random_compat/mk/mkbnetbankar.hu/index.htm
 http://hqzit.com/-/chase/5b51efd7042ab8f18dca1702ab1b8989
 http://https.sandbox.paypal.com.ttlart2012ttcysu.aylandirow.tmf.org.ru
 http://igytyrt.np5qdw.cn
@@ -161,18 +169,21 @@ http://marketplace.codpipe.com/uploads/profile/compte/verifier/Apple.fr/inscript
 http://martuis-frdstyds.com/MeusProdutos/prefetch.php?skullid
 http://mediacopyright-support.com/account/confirm/login.php
 http://mindscriptstech.com/c1/login-citi001/home/3952C8DNB703DA9EE5MC/logon.php
+http://mj7x.com/news/wp-content/plugins/soo/login.php?&amp;id=372833de96288a22e688f909831b01e37f58a9c585138ff714afa77b4b64e81bd0c5019fe17e02cbaecf1ef18e248e871a3b13f971fbf175a2f7f754
 http://mzil.info/desjardinsin.php
 http://mzil.info/ondetverifier.php
 http://mzil.info/verification22.html
 http://mzil.info/verification23.html
 http://mzil.info/verification24.html
 http://ng.nathanielru.com/@30@50@
+http://nsvmp.eu
 http://nt-entreprises.com/tmp/fx/FDX/FDX/FEDEX/?email=nobody@mycraftmail.com
 http://nv-outlook-1.com.ng/mo
 http://nxmrolixrusa.com/chase/auth.php
 http://openmedicinetoday.com/fax/login/login.php?ss=2&amp;
 http://pagedemo.me/5ee8781dec9cff4ae0ef8cfc?fbclid=IwAR3VcwCMd-8OPH5J8ZE4B2ASiCfLjhRfiYLWcdi5BuIQiTnOyvLPHC5SJF8
 http://paypal.com-confirme-acount.informations-service.online/dd874759446a0d93fe36a17cabc9d89cZjNlMTYwODQ4MGU0NjIzZmVmYjJkY2FmYjAyNGU0ZWY=
+http://paytmal.xyz/upi
 http://persianpapi.com/pmt/DRIVEONEPMT/FBG
 http://pontodot.com.br/blog/mail/Notification/Sumury/Login/customer_center/customer-IDPP00C218/myaccount/signin
 http://ppattention.xyz/egg.php?secret_key=80m34ied2p5ubnhq71azvgfkj6rwts
@@ -185,7 +196,9 @@ http://prijevoz.com.hr/wp-includes/js/jquery/ui/x1x/v2/ef37e9ea75ec45b/login.php
 http://prijevoz.com.hr/wp-includes/js/jquery/ui/x1x/v2/f1827738c5dcef6/login.php
 http://refund.hmrc-taxgovernment.com
 http://rentasxal.com/hk/login.php
+http://root.nsvmp.eu
 https://3jsilver.com/chase/step3.php
+https://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=69bac3439eaa34b48e439744302d672669bac3439eaa34b48e439744302d6726&amp;session=69bac3439eaa34b48e439744302d672669bac3439eaa34b48e439744302d6726
 https://4xhcjscumch77fhmpszi.waysaeha.com/0224cd598e48c5041c7947fd5cb20d53/knhmWSOc40J4X3DJCeXJ3v1oVrLP.php?country=GB-United%20Kingdom&lang=en
 https://alarablabs.com/wp-admin/images/mtbonline2020/onlinebankingmtb/authenticate.html?onlinebanking_mtb_com/Login/MTBSignOn=
 https://ame-oferta.com/MeusProdutos/Prefetch.php?skullid=1494111025
@@ -296,6 +309,7 @@ https://marketkassa.club/b/24l3?order_id=30220366&order_idNew=30220366
 https://maxboseries.ml/sharepoint
 https://mijnomgeving-lng.nl.zap547887-1.plesk13.zap-webspace.com/verificatie
 https://mimaseggplante.com/inf/https.wellsfargo.com.home/wells-fargo-security-update
+https://mimaseggplante.com/inf/https.wellsfargo.com.home/wells-fargo-security-update/login.php?cmd=login_submit&amp;id=46810cc1da044fe7b9b0e45dadde9ec346810cc1da044fe7b9b0e45dadde9ec3&amp;session=46810cc1da044fe7b9b0e45dadde9ec346810cc1da044fe7b9b0e45dadde9ec3
 https://mimaseggplante.com/inf/https.wellsfargo.com.home/wells-fargo-security-update/login.php?cmd=login_submit&amp;id=8b47d6f58c96c4a6628e51276d2abbf38b47d6f58c96c4a6628e51276d2abbf3&amp;session=8b47d6f58c96c4a6628e51276d2abbf38b47d6f58c96c4a6628e51276d2abbf3
 https://mimaseggplante.com/inf/https.wellsfargo.com.home/wells-fargo-security-update/login.php?cmd=login_submit&id=46810cc1da044fe7b9b0e45dadde9ec346810cc1da044fe7b9b0e45dadde9ec3&session=46810cc1da044fe7b9b0e45dadde9ec346810cc1da044fe7b9b0e45dadde9ec3
 https://mimaseggplante.com/inf/https.wellsfargo.com.home/wells-fargo-security-update/login.php?cmd=login_submit&id=8b47d6f58c96c4a6628e51276d2abbf38b47d6f58c96c4a6628e51276d2abbf3&session=8b47d6f58c96c4a6628e51276d2abbf38b47d6f58c96c4a6628e51276d2abbf3
@@ -358,6 +372,7 @@ https://theinstgram.000webhostapp.com
 https://therationalafrican.co.ke/wp-includes/secured/wav/return/iccc60102457i2E9AE8133647j69i60j69i57j69i60l33666j0j7&sourceidv/site/index.html
 http://storage.googleapis.com/aoffice365-discomycetous-990319260/index.html
 http://storage.googleapis.com/aoffice365-pokily-359007114/index.html
+https://transacionsbancolombiavirtualidadsucurp-6e7340b4.localhost.run
 http://sucursalbancolxx.webcindario.com
 http://sucursalbancolxx.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
 https://untaintedgetit.com/vbl/johzipabem3v9aoxt6ip94ov.php?85eKA51592598627d5678fc54fa38b42003e267aa0ea6a01d5678fc54fa38b42003e267aa0ea6a01d5678fc54fa38b42003e267aa0ea6a01d5678fc54fa38b42003e267aa0ea6a01d5678fc54fa38b42003e267aa0ea6a01&email=&error=
@@ -423,12 +438,14 @@ http://tante-tanteopenbogrup.dicoli.in
 http://testmadox.com/ps/core/tests/Drupal/Tests/Core/Clean78mmmm.html
 http://three-login.uk
 http://three-login.uk/login.php?securessl=true&sessionid=f01f18eaec89816094bc3868f662d236
+http://turns.flecreyeow.nl
 http://u1065721.cp.regruhosting.ru/22
 http://umrouen.fr/search/search
 http://umrouen.fr/wp-content/plugins/access/info/WellsFargo/wells/index.html
 http://umrouen.fr/wp-content/plugins/access/info/WellsFargo/wells/wells.htm
 http://usbank-link-mupyndtfft---com.illmickelsonbeats.com/getStep.php?id=477c519beabc9cd40baa3a71f9b9e3bf
 http://user849494949.el.r.appspot.com/logi.html
+http://uwagencia.com/wp-includes/aa/surf3.php?cmd=login_submit&id=bfa9b5ad346c84f6dbdcce6ff4411fe8bfa9b5ad346c84f6dbdcce6ff4411fe8&session=bfa9b5ad346c84f6dbdcce6ff4411fe8bfa9b5ad346c84f6dbdcce6ff4411fe8
 http://vcfyf.kpzsom.cn
 http://vesrzxs.000webhostapp.com
 http://viabcp.portal-movil.com/bcp
@@ -448,6 +465,8 @@ http://whsaatsppsxx.ezua.com/login.php
 http://www.123formbuilder.com/form-5378808/my-form%3C/a
 http://www.apkltauconsultadigital.com/confirmacao
 http://www.apkltauconsultadigital.com/home.php
+http://www.asesoriabcp.com/site/index.php
+http://www.autorizador5.com.br/wp-includes/customize/paypal/account/verified/paypal/fr/login.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1f998ca054efbdf2c29878a435fe324eec2511727fbf3e9efc3ea5fa7009f8a5891e547a01bfce1d263ea5fa7009f8a5891e547a01bfce1d26
 http://www.bokeplndo.viral18.net/login.php
 http://www.fnqivvg.melidina.com/@20@40@
 http://www.grupwa12.otzo.com/login.php
