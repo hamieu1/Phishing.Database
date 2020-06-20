@@ -1,15 +1,2 @@
-http://162.222.215.164/sella-it-online.banca
-http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=b0a9d3ca5ef33fef70ef416cbcdb509eb0a9d3ca5ef33fef70ef416cbcdb509e&session=b0a9d3ca5ef33fef70ef416cbcdb509eb0a9d3ca5ef33fef70ef416cbcdb509e
-http://payment.macedoniaexperience.com/.well-known/pki-validation/extrapleural
-http://pcu-update.nl/pcu.org/Personal%20Banking%20%20Online%20Banking%20-%20Pawtucket%20Credit%20Union.php
-http://pt.worldorthodontics.org/mndghcvd/WellsFargo/wells
-https://charttar.net/w_hld/a1/it0/qrt_9n/1_*/0_/sr?|=
-https://charttar.net/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=cd01efe09a3c34091edcbd69433f3bbc/?email=&loginpage=&reff=YTViMjQyZDg2ZDZjMmNjZDE3NzhjNWEwMWEwMDA4OTM=
-https://secure.runescape.com-as.ru/m=weblogin/loginform603
-https://secure.runescape.com-en.ru/m=weblogin/loginform392
-https://secure.runescape.com-en.ru/m=weblogin/loginform426
-https://secure.runescape.com-un.ru/m=weblogin/loginform633
-https://secure.runescape.com-zx.ru/m=weblogin/loginform336
-https://zonasegura.bcpzonamovil.online/src/imagen/favicon/favicon-60x60.png
-http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=38b113b70434de9a903f2c3e263869c238b113b70434de9a903f2c3e263869c2&session=38b113b70434de9a903f2c3e263869c238b113b70434de9a903f2c3e263869c2
-http://viverzenspa.com.br/wp-active/login.php?cmd=login_submit&amp;id=86eb5a50dfa6d93d5dcd71c730beeb2786eb5a50dfa6d93d5dcd71c730beeb27&amp;session=86eb5a50dfa6d93d5dcd71c730beeb2786eb5a50dfa6d93d5dcd71c730beeb27
+http://fb-6968511-com.preview-domain.com/1000655841.html
+https://modest-bardeen-c5f596.netlify.app/main.js
