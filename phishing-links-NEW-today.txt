@@ -5,6 +5,7 @@ http://131425.000webhostapp.com
 http://160.251.2.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=
 http://160.251.2.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=
 http://160.251.2.158/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=
+http://162.222.215.164/sella-it-online.banca
 http://216.235.244.68/mail/lang/en/account/00640d5564587947b8957fbe10c95bf1/index.html
 http://216.235.244.68/mail/lang/en/account/0080e5547956217f7add19a7665377b7/index.html
 http://216.235.244.68/mail/lang/en/account/0531e6101f8be08e82e0d19b771b1509/index.html
@@ -258,6 +259,7 @@ http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chas
 http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chase.Bank/sign-on/secure/index.php?secure-auth/login?execution=e1s16a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d-7118711verify819
 http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chase.Bank/sign-on/secure/T.Goe/index.html
 http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=6ee01d3baf301b82ad818938fac7205f6ee01d3baf301b82ad818938fac7205f&session=6ee01d3baf301b82ad818938fac7205f6ee01d3baf301b82ad818938fac7205f
+http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=b0a9d3ca5ef33fef70ef416cbcdb509eb0a9d3ca5ef33fef70ef416cbcdb509e&session=b0a9d3ca5ef33fef70ef416cbcdb509eb0a9d3ca5ef33fef70ef416cbcdb509e
 http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=c4ed3f89d1b836d161b3069d17dfde27c4ed3f89d1b836d161b3069d17dfde27&session=c4ed3f89d1b836d161b3069d17dfde27c4ed3f89d1b836d161b3069d17dfde27
 http://jpmorgan-chase-business-service-na-d.000webhostapp.com/Secure-Online/Chase.Bank/sign-on/secure/T.Goe/Online-Data.html?6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d-6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d-6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d6a706d6f7267616e2d63686173652d627573696e6573732d736572766963652d6e612d642e303030776562686f73746170702e636f6d
 http://jppost-sb.com
@@ -329,8 +331,10 @@ http://pagedemo.me/5ee8781dec9cff4ae0ef8cfc?fbclid=IwAR3VcwCMd-8OPH5J8ZE4B2ASiCf
 http://patrician-attention.000webhostapp.com/U.S.2018/U.S.2018/LogIn/us-integrals/home/auth
 http://patrician-attention.000webhostapp.com/U.S.2018/U.S.2018/LogIn/us-integrals/home/auth/log.php
 http://pay-ee.com
+http://payment.macedoniaexperience.com/.well-known/pki-validation/extrapleural
 http://paypal.com-confirme-acount.informations-service.online/dd874759446a0d93fe36a17cabc9d89cZjNlMTYwODQ4MGU0NjIzZmVmYjJkY2FmYjAyNGU0ZWY=
 http://paytmal.xyz/upi
+http://pcu-update.nl/pcu.org/Personal%20Banking%20%20Online%20Banking%20-%20Pawtucket%20Credit%20Union.php
 http://persianpapi.com/pmt/DRIVEONEPMT/FBG
 http://pitbullvideosfunny.000webhostapp.com
 http://placardmouser.com/newmtbonline2020/onlinebankingmtb
@@ -351,6 +355,7 @@ http://prijevoz.com.hr/wp-includes/js/jquery/ui/x1x/v2/ef37e9ea75ec45b/login.php
 http://prijevoz.com.hr/wp-includes/js/jquery/ui/x1x/v2/f1827738c5dcef6/login.php
 http://ps-live.policycreator.net
 http://pt.worldorthodontics.org/mndghcvd/wells
+http://pt.worldorthodontics.org/mndghcvd/WellsFargo/wells
 http://pt.worldorthodontics.org/mndghcvd/WellsFargo/WellsFargo/wells
 http://pt.worldorthodontics.org/mndghcvd/wells/wells.htm
 http://radio03.radiogerenciavel.com.br/arquivos/destaques/Login/SHADOW-Z.1.1.8/customer_center/customer-IDPP00C919/myaccount/signin
@@ -433,9 +438,11 @@ https://charity.gofundme.com/o/en/campaign/karen-ann-quinlan-center-of-hope-hosp
 https://charity.gofundme.com/o/en/campaign/malagasy-foundation-in-environment-tany-meva
 https://charity.gofundme.com/o/en/campaign/somerset-county-4h-association1
 https://charity.gofundme.com/o/en/campaign/udin-sedunia-si-mawar
+https://charttar.net/w_hld/a1/it0/qrt_9n/1_*/0_/sr?|=
 https://charttar.net/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=5e1a1723d9bfd26aa605628ae89ccbfd/?email=&loginpage=&reff=MWFlMjRlMzcwZjIxYTBkZWMxZGRjODAwNTdhMDZmMGY=
 https://charttar.net/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=ca34bf1005b905c9f32588e9cf821582/?email=AccountsReceivable@trintech.com&amp;loginpage=&amp;reff=YWQxNWQ1OGEzYTY5MGVmNzI4NmM0ZjMyNWE3OTIxN2U=
 https://charttar.net/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=ca34bf1005b905c9f32588e9cf821582/?email=AccountsReceivable@trintech.com&loginpage=&reff=YWQxNWQ1OGEzYTY5MGVmNzI4NmM0ZjMyNWE3OTIxN2U=
+https://charttar.net/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=cd01efe09a3c34091edcbd69433f3bbc/?email=&loginpage=&reff=YTViMjQyZDg2ZDZjMmNjZDE3NzhjNWEwMWEwMDA4OTM=
 https://chat-groupwhatsapp.grups-cht.cf/login.php
 https://chatwhatsapps.ezua.com
 https://chet-whatsap.ezua.com/login.php
@@ -697,6 +704,7 @@ https://secure.runescape.com-as.ru/m=weblogin/loginform375
 https://secure.runescape.com-as.ru/m=weblogin/loginform488
 https://secure.runescape.com-as.ru/m=weblogin/loginform559
 https://secure.runescape.com-as.ru/m=weblogin/loginform579
+https://secure.runescape.com-as.ru/m=weblogin/loginform603
 https://secure.runescape.com-as.ru/m=weblogin/loginform607
 https://secure.runescape.com-as.ru/m=weblogin/loginform710
 https://secure.runescape.com-as.ru/m=weblogin/loginform745
@@ -711,6 +719,8 @@ https://secure.runescape.com-en.ru/m=weblogin/loginform222
 https://secure.runescape.com-en.ru/m=weblogin/loginform269
 https://secure.runescape.com-en.ru/m=weblogin/loginform303
 https://secure.runescape.com-en.ru/m=weblogin/loginform354
+https://secure.runescape.com-en.ru/m=weblogin/loginform392
+https://secure.runescape.com-en.ru/m=weblogin/loginform426
 https://secure.runescape.com-en.ru/m=weblogin/loginform441
 https://secure.runescape.com-en.ru/m=weblogin/loginform538
 https://secure.runescape.com-en.ru/m=weblogin/loginform544
@@ -737,6 +747,7 @@ https://secure.runescape.com-un.ru/m=weblogin/loginform464
 https://secure.runescape.com-un.ru/m=weblogin/loginform542
 https://secure.runescape.com-un.ru/m=weblogin/loginform581
 https://secure.runescape.com-un.ru/m=weblogin/loginform620
+https://secure.runescape.com-un.ru/m=weblogin/loginform633
 https://secure.runescape.com-un.ru/m=weblogin/loginform662
 https://secure.runescape.com-un.ru/m=weblogin/loginform749
 https://secure.runescape.com-un.ru/m=weblogin/loginform855
@@ -747,6 +758,7 @@ https://secure.runescape.com-zx.ru/m=weblogin/loginform180
 https://secure.runescape.com-zx.ru/m=weblogin/loginform204
 https://secure.runescape.com-zx.ru/m=weblogin/loginform216
 https://secure.runescape.com-zx.ru/m=weblogin/loginform297
+https://secure.runescape.com-zx.ru/m=weblogin/loginform336
 https://secure.runescape.com-zx.ru/m=weblogin/loginform438
 https://secure.runescape.com-zx.ru/m=weblogin/loginform560
 https://secure.runescape.com-zx.ru/m=weblogin/loginform571
@@ -919,6 +931,7 @@ https://ypanetwork.com/list/ora-doc1/index1.php?_user=
 https://ypanetwork.com/list/ora-doc1/index2.php
 https://zap547979-1.plesk10.zap-webspace.com/mijn.ing.nl-premiere-bevestigen.beleid
 https://zonasegura.bcpzonamovil.online/1592608023/iniciar-sesion
+https://zonasegura.bcpzonamovil.online/src/imagen/favicon/favicon-60x60.png
 https://zonasegura-viabcp.registrosms.com
 https://zxwhatasspgrub.pbz-cc.ga/login.php
 http://tante-tanteopenbogrup.dicoli.in
@@ -932,6 +945,7 @@ http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase
 http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/index.php?secure-auth/login?execution=e1s1746f7065646c666b6f65732e303030776562686f73746170702e636f6d-7118711verify819
 http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/T.Goe
 http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html
+http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=38b113b70434de9a903f2c3e263869c238b113b70434de9a903f2c3e263869c2&session=38b113b70434de9a903f2c3e263869c238b113b70434de9a903f2c3e263869c2
 http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=3bf099b2051ee1ca9aff22f9fd3783e43bf099b2051ee1ca9aff22f9fd3783e4&session=3bf099b2051ee1ca9aff22f9fd3783e43bf099b2051ee1ca9aff22f9fd3783e4
 http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&id=598873dafb73c526ffa39fd8e60c7be7598873dafb73c526ffa39fd8e60c7be7&session=598873dafb73c526ffa39fd8e60c7be7598873dafb73c526ffa39fd8e60c7be7
 http://topedlfkoes.000webhostapp.com/tmp.chs/tmp.chs/sys-chs/secure-online-chase.Bank/sign-on/secure/T.Goe/Online-Data.html?746f7065646c666b6f65732e303030776562686f73746170702e636f6d-746f7065646c666b6f65732e303030776562686f73746170702e636f6d-746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d746f7065646c666b6f65732e303030776562686f73746170702e636f6d
@@ -958,6 +972,7 @@ http://vervetama.com/kakao/daum/index.html
 http://vesrzxs.000webhostapp.com
 http://viabcp.portal-movil.com/bcp
 http://visuallychallenged.com/internetbnking-ASB-Online/nz
+http://viverzenspa.com.br/wp-active/login.php?cmd=login_submit&amp;id=86eb5a50dfa6d93d5dcd71c730beeb2786eb5a50dfa6d93d5dcd71c730beeb27&amp;session=86eb5a50dfa6d93d5dcd71c730beeb2786eb5a50dfa6d93d5dcd71c730beeb27
 http://viverzenspa.com.br/wp-active/login.php?cmd=login_submit&amp;id=ee1fe680503ce34ccc9a56b8b8415450ee1fe680503ce34ccc9a56b8b8415450&amp;session=ee1fe680503ce34ccc9a56b8b8415450ee1fe680503ce34ccc9a56b8b8415450
 http://webmail-limeira-sp-gov-br.000webhostapp.com
 http://wereldpas-aanvraagproces.wallacei.ir/klanten_verificatie.php
