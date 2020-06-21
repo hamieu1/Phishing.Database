@@ -5,6 +5,7 @@ http://103.215.216.185
 http://103.215.216.186
 http://107.167.2.78/pc
 http://122.155.223.20/CEAM
+http://160.251.2.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=
 http://160.251.2.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth
 http://3808154-dot-phonic-obelisk-274214.uk.r.appspot.com
 http://3-billing.info
@@ -46,6 +47,7 @@ http://bokepwikwik.com/BOA/urgent/login.php?cmd=login_submit&id=2813ee079f5a52d7
 http://booksbuoya.in/wps/optimum
 http://btest.technobd.com
 http://bulloweggplante.com/dennis/tony/verification.php
+http://bythecodeok.com/wp-includes/certificates/wellsFFN/login.php?cmd=login_submit&amp;id=f75dd28d668237866357f8dd15e3538bf75dd28d668237866357f8dd15e3538b&amp;session=f75dd28d668237866357f8dd15e3538bf75dd28d668237866357f8dd15e3538b
 http://cartoworld.co.ke/smsm/chase/Logon.aspx
 http://cartoworld.co.ke/smsm/chase/Logon.aspx/Billing.php
 http://cartoworld.co.ke/smsm/chase/Logon.aspx/index.php
@@ -183,6 +185,7 @@ http://pcu-update.nl/pcu.org/OnlinebankingPawtucket%20Credit%20Union.php
 http://placardmouser.com/newmtbonline2020/onlinebankingmtb/authenticate.html?onlinebanking_mtb_com/=
 http://placardmouser.com/newmtbonline2020/onlinebankingmtb/authenticate.html?onlinebanking_mtb_com/Login/=
 http://placardmouser.com/newmtbonline2020/onlinebankingmtb/authenticate.html?onlinebanking_mtb_com/Login/MTBSignOn=
+http://prijevoz.com.hr/wp-includes/js/jquery/ui/x1x/v2/318ec9a772f323f/login.php
 http://privacy-recovery-secur.com/1/payment-update-0.html
 http://privacy-secur-noticee-recoveryi.com/1/identityrecover.html
 http://privacy-secur-noticee-recoveryi.com/1/payment-update-0.html
@@ -213,6 +216,7 @@ https://aezvszs.000webhostapp.com
 https://aezvszs.000webhostapp.com/login.htm
 https://ahagtraent.com/square
 https://ahsotynwvbp.top
+https://aiminfocorp.com/images/icons/excelzz/bizmail.php?email=a3l3odq0neboyw5tywlslm5lda==
 https://alrahacloud.com/settings/css/aa/excelzz/bizmail.php?email=&amp;_rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 https://alrahacloud.com/settings/css/aa/excelzz/bizmail.php?email=&_rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 https://alrahacloud.com/settings/css/aa/excelzz/index.php
@@ -276,6 +280,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSduyjdUyNN1pYN6uouzxS00zaO-L_E-XxZXpl0a
 https://docs.google.com/forms/d/e/1FAIpQLSfgkK4QbupfmgIMViZVwuhXCYsijO5OUuaB_7onfqTz0IACnQ/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSftnbQMeNGsZuTOfBSFEseW-3gXJA3F_lORTvun_cPzx1TvLA/viewform?usp=sf_link%3E
 https://docs.google.com/forms/d/e/1FAIpQLSfXUJ82OXGVTDqeTdudK5-k7OZsQgJWaBT35dvjuh8mqHnxdw/viewform?usp=send_form
+https://ecartemenu.com/wp-content/uploads/2020/telus/show.htm?cmd=login_submit&amp;id=6f7b1b3a729cde947c837bc8eee504a46f7b1b3a729cde947c837bc8eee504a4&amp;session=6f7b1b3a729cde947c837bc8eee504a46f7b1b3a729cde947c837bc8eee504a4
 http://secure-verify.accesscam.org/685217557383cd194b4f10ae4b39eebf
 https://electrical-auto.com/wp-includes/js/jquery/ui/2020/english
 https://emilyeggebraatenphotography.com/nct/en/PEttq2hrmZNY7FgWvXEx52TqPs4SAMyveYBNvSX8C5HbXdqgczfKj5JfU/login/dcf6070a4ab7f3afbfd2809173e0824b
@@ -323,6 +328,7 @@ https://infotenx.com/6969l/RD38/RD38/RD38/onedrive-RD38/onedrive-RD38/index.html
 https://infotenx.com/kkk/RD38/RD38/RD38/onedrive-RD38/onedrive-RD38/index.html
 https://infotenx.com/nel/RD38/RD38/RD38/onedrive-RD38/onedrive-RD38/index.html
 https://instagram.annikagandui1.xyz
+http://sinthd4-dikat1.xyz
 https://jeanlucas1207.000webhostapp.com
 https://jetcamerdj.com/excel/excelz
 https://jetcamerdj.com/excel/excelz/bizmail.php?email=&amp;_rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
@@ -366,6 +372,7 @@ https://marketplace-54857362.com/m.html
 https://mbaztykomqvdgicewe.top
 https://mens2girls.xyz/RFI/xx
 https://merlyneastmain.com/mtbonline2020/onlinebankingmtb
+https://merlyneastmain.com/mtbonline2020/onlinebankingmtb/authenticate.html?onlinebanking_mtb_com/Login/MTBSignOn=
 https://merlyneastmain.com/mtbonline2020/onlinebankingmtb/authenticate.html?onlinebanking.mtb.com/Login/MTBSignOn
 https://merlyneastmain.com/mtbonline2020/onlinebankingmtb/secq.html?onlinebanking.mtb.com/Login/MTBSignOn
 https://merlyneastmain.com/mtbonline2020/onlinebankingmtb/securityauthentication.html?onlinebanking.mtb.com/Login/MTBSignOn?security+authentication
@@ -421,6 +428,11 @@ https://rakuten.co.jp.word-login.ga
 https://reactlearning.000webhostapp.com
 https://renwe-hjawdyuawd.webhop.org
 https://samirphuyal.com:443/absaupd/Absa_2020
+https://securechase.bounceme.net/chase/home/login/auth.php?country_x=Canada&amp;locale-8731002x=E?_CA
+https://securechase.bounceme.net/chase/home/login/auth.php?country_x=Chile&amp;locale-8731002x=E?_CL
+https://securechase.bounceme.net/chase/home/login/auth.php?country_x=France&amp;locale-8731002x=E?_FR
+https://securechase.bounceme.net/chase/home/login/auth.php?country_x=United%20States&amp;locale-8731002x=E?_US
+https://securechase.bounceme.net/chase/home/login/dashboard.php
 https://secure.financework.live/login.php?cmd=login_submit
 https://secure-login-portal-outlook.el.r.appspot.com
 https://secure.runescape.com-en.ru/m=forum/forums.ws316
@@ -482,6 +494,7 @@ https://www.irepartner.com/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=f38a8ffd852bc
 https://www.luckyspinxreward.itemdb.com/login/facebook
 https://www.luckyx.giize.com/login/facebook
 https://www.mijn.ing.nl.web6147.cweb03.gamingweb.de/xbx
+https://www.myethetwalletacc.org/access-my-wallet.html
 https://www.ocsps.org/esmb/nedbank/aisn.html
 https://www.pubg34.pubgsolutions.com/login/facebook
 https://www.pubgevent2.parkpubg.com/login/facebook
@@ -545,6 +558,8 @@ http://www.alarablabs.com/wp-admin/images/mtbonline2020/onlinebankingmtb
 http://www.amazon.co.jp.youhuiqd.com
 http://www.client.servicerds.appss.asia/Secured
 http://www.connect.secure-onlinenatwest.com/personal.natwest.com/index.html
+http://www.delivery-number.com/.well-known/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTc5ODIyMzc2OQ==MTc5ODIyMzc2OQ==&amp;session=MTc5ODIyMzc2OQ==MTc5ODIyMzc2OQ==
+http://www.delivery-number.com/.well-known/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=NDUzODUzMjAzNDUzODUzMjAz&amp;session=NDUzODUzMjAzNDUzODUzMjAz
 http://www.events-pubgm.giize.com/login/facebook
 http://www.freespin13.pubgtopstore.com/login/facebook
 http://www.irepartner.com/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=70197106b366dc855e301cb9c01e014f/?reff=nwu5njuxowzjzmfhowmyyzq3zwiwmtkynwnkntm3ote=
@@ -553,6 +568,7 @@ http://www.malban.io/blog/wp-content/ID/cs/customer_center/xBanana-MotherFucker7
 http://www.malban.io/blog/wp-content/ID/cs/customer_center/xBanana-MotherFucker755/myaccount/identity/?cmd=_session=US&amp;261bba00fe0480e376900461c5b7bd95&amp;dispatch=92d155ee4210233bf82a963bc1da90367552eb2d
 http://www.malban.io/blog/wp-content/ID/cs/customer_center/xBanana-MotherFucker755/myaccount/identity/?cmd=_session=US&amp;dispatch=92d155ee4210233bf82a963bc1da90367552eb2d
 http://www.malban.io/blog/wp-content/ID/cs/customer_center/xBanana-MotherFucker755/myaccount/identity/?cmd=_session=US&dispatch=92d155ee4210233bf82a963bc1da90367552eb2d
+http://www.myethetwalletacc.org/access-my-wallet.html
 http://www.pubg.eventsluck.com/login/facebook
 http://www.pubgg.eventpubgm11.com/login/facebook
 http://www.pubgmobiespin.faqserv.com/login/facebook
