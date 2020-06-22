@@ -1,4 +1,5 @@
 http://000p0dg.wcomhost.com/homelucky/customer_center/customer-IDPP00C889/myaccount/signin/?locale.x=en_
+http://118.27.75.103/ap/signin?openid.pape.max_auth_age=0u0026openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signinu0026openid.identity=http://specs.openid.net/auth/2.0/identifier_selectu0026openid.assoc_handle=jpflexu0026openid.mode=checkid_setupu0026key=a@b.cu0026openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_selectu0026openid.ns=http://specs.openid.net/auth/2.0u0026u0026ref_=nav_em_hd_clc_signin
 http://alldustinsusdd.com/index2.php?cmd=login_submit&id=12f5cbfdcc4e78e5b31a256c0957729e12f5cbfdcc4e78e5b31a256c0957729e&session=12f5cbfdcc4e78e5b31a256c0957729e12f5cbfdcc4e78e5b31a256c0957729e
 http://amazon.co.jp.9fe5c5dcda382815806ee97229a8159c.icu
 http://amazon.co.uk.16v2.ru
@@ -63,6 +64,7 @@ https://account-invoice.com/NetflixCanada
 https://amazon.co.jp.ecomartleece.conductt.top
 https://arevoszs.000webhostapp.com
 https://arspzs.000webhostapp.com
+https://aszxewa.000webhostapp.com/login.htm
 https://avzzsoz.000webhostapp.com/login.htm
 https://batesmutablev.com/smbc.co.jp/jp/jp/smbc.co.jp
 https://bit.ly/2V3Cup5?viewscxope
@@ -116,6 +118,7 @@ https://twitter.com/elexusdestek
 https://vocenaovaiacreditaroferts.ml/MeusProdutos/Prefetch.php?skullid=133741849
 https://www2.amazon.co.jp.c8f85ac13b13573bb984c209a181c8bcfb568a73.ph/session
 https://www7.semanadosconsumidores.com/MeusProdutos/prefetch.php?skullid
+https://www.albostechnologies.com/sendlogin/processlogin.php?huge=10x1pgeb2hb5
 https://www.amazon.co.jp.9fe5c5dcda382815806ee97229a8159c.icu
 https://www.digitaltaxmatters.co.uk/Home/.UP
 https://www.en.pubgmobilereward.com/login/facebook
@@ -142,6 +145,7 @@ https://www.roberto-victoria.com/new/Chase/Chase/d509533fb2634513d8d7f5e638709f3
 https://www.roberto-victoria.com/new/Chase/Chase/f352d9d11085921d7d988385fbb90d49
 https://www.saglikdetay.com/assistance-orange/auth/788703f9b0545a99e3fa4508e41b2b40/index.php
 https://www.siebuo.com
+https://www.siebuo.com/index.html
 https://www.storeid.services-account.appss.co/auth.logins
 https://www.ushaarmour.com/sdc-important/common_section/office.php?4CA20015927468932ceecc3e59f2791ad407db42b58d18e92ceecc3e59f2791ad407db42b58d18e92ceecc3e59f2791ad407db42b58d18e92ceecc3e59f2791ad407db42b58d18e92ceecc3e59f2791ad407db42b58d18e9
 https://www.xn--rs-sja.com/stimulus/notice
