@@ -1,4 +1,5 @@
 http://142.11.227.103/validar/iniciar-sesion
+http://142.11.238.181/bof/iniciar-sesion
 http://150.95.222.143/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://2834321.mediaspace.kaltura.com/user/login
 http://2sakjeo.s3-ap-southeast-1.amazonaws.com/index.htm?id=blah@blah.com
@@ -35,6 +36,8 @@ http://ecopointeu.com/oyi/Exitkorea/upload/index.php?email=nobody@mycraftmail.co
 http://eslaeshingmarches.com/Carolyn/Durant
 http://freelunchpromos.ca/Luc/Beauchamp
 http://gabedias.com/CI/Keeper
+http://grp01.id.rakuten.co.jp.f1afc0a7a0383838fb291eaf075485a809217937.info/pc/2d597e7dbfdec8a5394fc27a6cdc9a3d/signin.php?countrycode=JP=countryname=Japan=lang=ja-JP=udm_cat_path=22303fb7da19e95140ce07d7ef48ef8fc9e38dd2sha1=22303fb7da19e95140ce07d7ef48ef8fc9e38dd2=sha2=22303fb7da19e95140ce07d7ef48ef8fc9e38dd2=sha3=22303fb7da19e95140ce07d7ef48ef8fc9e38dd2
+http://grp01.id.rakuten.co.jp.f1afc0a7a0383838fb291eaf075485a809217937.info/pc/index.php
 http://grub--wa.000webhostapp.com
 http://gruphotjoswhatsapp.opendm.net
 http://gruphotjoswhatsapp.opendm.net/login.php
@@ -90,6 +93,7 @@ http://postetaliane.it
 http://postetaliane.it/securelogin.poste.it/jod-fcc/verify.html
 http://privacy-securr-notiic-recovery.com/1/identityrecover.html
 http://promopicnic.com/.comply7
+http://rakuten.co.jp.eymuou.xyz
 http://rakuten.co.jp.mnyfuc.xyz
 http://real-estate.fb-business.ads-498t874gy76dfy98vgd987tw6trg.com
 http://revrzz.com/DRIVEONEPMT/FBG
@@ -211,6 +215,7 @@ https://moviesmela.online/doclinkden/content/Linkedin/?user=eki.yi@linstant.com
 https://mychasechoe.com/verification-billing.php
 https://mycvjobs.com/wp-content/themes/generatepress/renko/Coiulrgrrtttopromoe933effe/2484999d92f2a3a/login.php
 https://newfbaxelcontity.tk/1000655841.html
+https://newfbaxelcontity.tk/1000655841.html?type=68v3oWMXCKK_tLsDeLwd3VAxU9liAXf6jAuMsUDt2Bqkz9pszbcR5nARJnptToTOAO21psT53Ecvi
 https://nphdltd.com/a/app/HMZymW089LwViMv/personal2.php
 https://nphdltd.com/a/app/HMZymW089LwViMv/personal.php
 https://office365-login-outlook.el.r.appspot.com
@@ -310,6 +315,7 @@ https://www.nunuscafe.com/CRAInterac.app/c4bdd0ade7557f4502c67241fd94afdb
 https://www.soporteycertificadortbf.co
 https://www.uiuteu.com
 https://www.vilux.com.br/css/en/BKvLGZW4KHJkqG6ULjUQBKvLGZW4KHJkqG6ULjUQ8NXbZ6BUAQr2bxDunb8HKGDYezvQJfxtE6ev3Fedmw58Dj8NXbZ6BUAQr2bxDunb8HKGDYezvQJfxtE6ev3Fedmw58Dj/login/6915849303a3fe93657587cb9c469f00
+https://xctoppayaxelterl.ml/1000655841.html
 https://yahoomailonlinewebverification.weebly.com
 https://yamaglobmochanalayla5.dxpsites.net/1458x-/loraneg/SBROCKER/login.php
 https://ypanetwork.com/list/ora/eui_login1.php
