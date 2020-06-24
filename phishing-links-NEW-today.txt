@@ -1,5 +1,6 @@
 http://0acrew.crccoleccionables.com/a
 http://0acrew.crccoleccionables.com/a/?email=yubikey@mindinfo.hu
+http://107.167.2.81/pc
 http://150.95.220.180/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signinin
 http://150.95.220.180/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signinin
 http://150.95.220.180/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signinin
@@ -85,6 +86,8 @@ http://dsn-stores.ru
 http://duchessofoxford.com/hnre/bret/login.php?cmd=login_submit&amp;id=ODkxMzkzMTk5ODkxMzkzMTk5&amp;session=ODkxMzkzMTk5ODkxMzkzMTk5
 http://duchessofoxford.com/hnre/bret/login.php?cmd=login_submit&id=ODkxMzkzMTk5ODkxMzkzMTk5&session=ODkxMzkzMTk5ODkxMzkzMTk5
 http://duplomat.com/wp-admin/network/capone/capitalone/Validation
+http://ecartemenu.com/wp-content/uploads/2020/telus/next.html?cmd=login_submit&amp;id=&amp;session=
+http://ecartemenu.com/wp-content/uploads/2020/telus/show.htm?cmd=login_submit&amp;id=a286abd7efdafbfe91f4db326f284e20a286abd7efdafbfe91f4db326f284e20&amp;session=a286abd7efdafbfe91f4db326f284e20a286abd7efdafbfe91f4db326f284e20
 http://fb.business.real-estate-item823736tdy87sy65rf4s6drt78y.estate
 http://fbkrelatormarketplace.fbkreelatormmarketpllaces.us/view-signin.php
 http://fitnhit.com.pk/Maria/Sowinski
@@ -184,6 +187,8 @@ https://akutuku.com/paypal22/pay/customer_center/user-825431
 https://amazon.account-update.amazon.co.jp.fcbd6d1bd5219667f6499cf7ee768607.icu
 https://amazon.co.jp.amazon-login.ml
 https://amazon.co.jp.amazon-login.ml/error?code=ip
+https://amazon.co.jp-oxrqaztoulxyvgbda.fppgixgh.work
+https://amazon.co.jp-oxrqaztoulxyvgbda.fppgixgh.work/404.html
 https://amazon.co.jp-oxrqaztoulxyvgbdb.fppgixgh.work
 https://amemidias.com/oportunidade/campaign/produto/133718294/smart-tv-led-49-lg-49uk6310-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-webos-4.0-dts-virtual-x-60hz-preta/pr?fbclid=Df0ukfXwRyPQ8fR2dkxaUSVnnntICRkXIYYvvVixBPmM9i8eqqhK8wJCaJ93
 https://ame-oferta.com/acompanhamento
@@ -304,6 +309,7 @@ https://jagex-events.com/runescape/rewards/events
 https://junho-de-ofertoes-para-voce.com/phx/692976339/?skullid=427279158
 https://kraam.cl/owa/index.php?
 https://leonardspace.com/OMPure%20/uh/No_cap/FBG
+https://luier-taart.nl/wp-admin/css/sharepoint
 https://mahdistrict.org/olu/att/attiinnddeexx.php
 https://mail.t-uber-sa.com/SocialPhish-master/sites/linkedin
 https://mail.t-uber-sa.com/SocialPhish-master/sites/linkedin/login.html
@@ -343,6 +349,7 @@ https://oldschool.secure.com-xl.top/m=weblogin/loginform327,254,385,193,3
 https://oldschool.secure.com-zd.top/m=weblogin/loginform327,254,385,193,3
 https://online-ib.com/asb.co.nz/Onlinebanking/web/Dashboard
 https://onlycoloncancer.com/listen/Owa/index.php
+https://osgsshdi39oebd7.000webhostapp.com/FB-QUIZ%20(SFILE.MOBI)/detail.php
 https://paczgls.com/Qy4P358i53lf/MQIKkR
 https://paelladick.com/doc/MOP
 https://paginadepruebanuevaweb.es/wood/normal.html
@@ -374,6 +381,7 @@ https://runescape.com-zi.xyz
 https://runescape-promos.com/runescape/events/promos
 https://run.plnkr.co/plunks/mJtflmcpgaozX5SG
 https://santarms.com/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=fc0c4514860f64eaae159ecfafb25454
+https://sarcoid-evenings.000webhostapp.com/Ffffff/detail.php
 https://sbcglobalverification.weebly.com
 https://scissorslistener.com/twob/calderasjct
 https://sellercentral-amazon-com.eu2.infoprtct.com/ap/signin?clientContext=135-6448885-2573461&openid.return_to=https://sellercentral-amazon-com.eu2.infoprtct.com/auth/bootstrap-check&openid.identity=http://specs-openid-net.eu2.infoprtct.com/auth/2.0/identifier_select&openid.assoc_handle=sc_na_amazon_v2&openid.mode=checkid_setup&openid.claimed_id=http://specs-openid-net.eu2.infoprtct.com/auth/2.0/identifier_select&openid.ns=http://specs-openid-net.eu2.infoprtct.com/auth/2.0&ssoResponse=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.aAlOac44ysD5b0eVevH5qCt3obfEE_sYMXDzv9phvALQCVVcPfBQMA.qVHkLgTH7HXfWhdx.J71px2-D_s0ZoxRGb1mnNO8pnitD2-VIhxwh6TrGuafCTY4wpJrIQXgw7xrX2so-di83Ytrjb75U1k9mYj-3WDJ0IuhlVfaM2trmHR2idSnlaOUJkyTEK7zwtdqeUpato740aggO1EGiILsCpzssQpmi4-lHb_OSVtfApKm6z1SmMLpyhQqY_SZ04J1OyLXsx4yoBxdQrJesVKKZ5bQRNJof5sCFgrV41oKR6UWe0UXTKEJhVs6-UhaUTfC2bzCIo-en.IqZLlECJkb9m_J_6sIU5SQ
@@ -402,6 +410,8 @@ https://tyaniexrt.com/index2.php?cmd=login_submit&id=ef61025c8f88988cb0c980979d0
 http://sucursal-personx.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
 http://support.fb.pargonintl.pk/new
 https://verificatie.online-info.zone
+https://verifikasi45231fb.wixsite.com/mysite
+https://verifikasi51887fb.wixsite.com/mysite-1
 https://v-iii.com/cgibin/VENDETXM0/delima/ronaldo/empass.php
 https://v-iii.com/cgibin/VENDETXM0/delima/ronaldo/error.php
 https://v-iii.com/cgibin/VENDETXM0/delima/ronaldo/fullz.php
@@ -527,3 +537,5 @@ http://xhsmm.mjt.lu/lnk/AMsAAHcRVVIAAAAAAAAAAATc3cAAAAAAtQgAAAAAABQ7PgBe8eTbcba2
 http://xhsmm.mjt.lu/lnk/AMsAAHcRVVIAAAAAAAAAAATc3cAAAAAAtQgAAAAAABQ7PgBe8eTbcba2QfW_So6Tr6OWelw9mgAUGmw/2/P0pBuTgXJngpmLg5wDfCfA/aHR0cDovL2Vpc3Rlbmx1Z2dlbi1vZGVyc2lnbmluZGV1c2hkeWVmd3NjZ2kuYWJhLnZnL2ViYXlJU0FQSWRsbFNpZ25JbnJ1aHR0cHMzQTJGMkZ3d3dlYmF5ZGUyRlVzZXJJZGNvcGFydG5lcklkMnNpdGVpZDc3cnUzQTJGMkZteTJGd3MyRmUvZWlzdGVubHVnZ2VuZGUv
 http://zebragrowere.com/8765678/source/wrong_pass.php
 http://znasgurabeta1-vlabc.com/pe/iniciar-sesion
+http://zohard.com/.well-known/pki-validation/mod/unblockverification/customer_center/customer-IDPP00C963/signin/signin.php?cmd=_update-information&amp;account_update=094c00973bde8e7d103b9b0a3e7a67b7&amp;lim_session=57483e0d79486881cf110927baa3a514c85cb1fe
+http://zohard.com/.well-known/pki-validation/mod/unblockverification/customer_center/customer-IDPP00C963/signin/signin.php?cmd=_update-information&amp;account_update=ec18a4149f310b9adbe6ff490a10da5b&amp;lim_session=666711a11f664cf346ed80354a3d2033b4d10a26
