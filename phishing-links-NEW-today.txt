@@ -1,3 +1,4 @@
+http://118.27.75.7/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=c
 http://118.27.75.7/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.77.238/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.77.238/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -43,6 +44,7 @@ http://beermogleyt.com/donedeal/cmd-login=f871294f53067d9d4745bf106dc0c3ea/?reff
 http://bespoqa.com/admin/language/ali/login.php
 http://bilgender.org/docusign/docusign/DocuSign/u.php?l=DHl-dTracking_=_JeHFUq_VJOXK0QWHtoGYDw=_JeHFUq_VJOXK0QWHtoGYDw=_JeHFUq_VJOXK0QWHto=
 http://bit.do/fF9Ky
+http://bit.ly/MPSdati
 http://bitstarz28-casino.ru
 http://bondex.co.il/wp-content/plugins/index.html
 http://bossman900.000webhostapp.com/daum/daaumm/daaum/login.php
@@ -81,6 +83,7 @@ http://fb-swap-barter.club
 http://freedollars2020101.000webhostapp.com
 http://grub-whatsapp-bokep-2020.zx-7.com
 http://grub-whatsapp-bokep-2020.zx-7.com/login.php
+http://hautenuriche.com/wp-content/plugins/contact-form-7-paypal-add-on/rillstone
 http://helpinstagramcopyright.tk
 http://hiperion.in4.hu/wp-content/plugins/ft/adobe-pdf-/adobe-pdf-/adobe-pdf/view.php
 http://hitchcokclawfirm.com/updates/fuckyou/direct.php?login=thomas.mackinnon@acuris.com
@@ -99,6 +102,7 @@ http://iconsultasapple.com/index.php/false/false/py1n.html=
 http://iconsultasapple.com/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome
 http://iconsultasapple.com/index.php/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1
 http://iconsultasapple.com/index.php/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com
+http://infofoinmorto.com/sys
 http://ingn.ga/sharedocs/hd/mlcrosoftonlineofflce3650
 http://inistagram.tk
 http://inselder.com/a2/mobile.de/login
@@ -124,6 +128,11 @@ http://iquocglum.net/sie-ihr-konto-5175923793432&amp;amp;cgi3-viewkontakt-517592
 http://iquocglum.net/sie-ihr-konto-788155562675&amp;amp;cgi3-viewkontakt-788155562675-007acctpagetype-788155562675=07708-mehr-schutz-fur-ihr&amp;amp;ebay@yoursales24.de.html
 http://itaupromocao.ga/envio1.php
 http://itaupromocao.ga/promocao.htm
+http://it-clientepersonale.biz
+http://it-clientepersonale.club
+http://it-clientepersonale.info
+http://it-clientepersonale.org
+http://ja2hyd.main.jp/Profile/Furukawa/hida-ben.htm
 http://kenpaullone.com/3d/3d
 http://lahoremutablet.com/Chase/auth.php
 http://lahoremutablet.com/Chase/auth.php?country_x=3DUnited%20States&amp;loca=
@@ -136,6 +145,7 @@ http://magazineteste15619.000webhostapp.com/promocao.php
 http://manageyourid.top
 http://meuguardiao.digital/itau/emp/it.php
 http://mhreinc-info.com/ViewInfo-Shared/sed/home/login-data-sdsdsdsdsddsds.html
+http://microsoftforvoicemailadd.weebly.com
 http://minusmechanic.com/ttwo/signin
 http://momentumeconomy.com/dan/lloyds/login.php?cmd=login_submit&amp;id=NDgxNTE3NTMxNDgxNTE3NTMx&amp;session=NDgxNTE3NTMxNDgxNTE3NTMx
 http://momentumeconomy.com/dan/lloyds/login.php?cmd=login_submit&id=NDgxNTE3NTMxNDgxNTE3NTMx&session=NDgxNTE3NTMxNDgxNTE3NTMx
@@ -183,6 +193,8 @@ https://al-sulaimi.com/login/customer_center/customer_Case=IDPP00C166/indexx.php
 https://al-sulaimi.com/login/customer_center/customer_Case=IDPP00C166/myaccount/Sign-in/?country.x=US&customer.x=ID-PA$1$dJ2SZ3Vi$Cf13wKx35Zdmclkuz.a.N0&locale.x=en_US&safety=an645getx7328y3JRZNqU4H04e93EbShrsBGb7F3Ce4eauvIWm6dKaLa0addd5cDk2e4YiOlzaj12QX4oAbwTPp0feVacM
 http://samarthhotels.com/system/files/sign-on/secure/T.Goe
 http://samarthhotels.com/system/files/sign-on/secure/T.Goe/Profile-Setting.html?73616d61727468686f74656c732e636f6d-73616d61727468686f74656c732e636f6d-73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d73616d61727468686f74656c732e636f6d
+https://amazon.co.jp.amazon-update.tk
+https://amazon.co.jp.amazon-update.tk/error?code=ip
 https://amazon.co.uk.6l0i.ru/f/index.php
 https://amazon.co.uk.8ij8.ru/f/index.php
 https://amazon.co.uk.kltx.ru/f/index.php
@@ -214,6 +226,9 @@ https://ballooncreations.co/raffe/lAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJc
 https://ballooncreations.co/raffe/lAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAMgPSURBVHhe7/login.php
 https://battle-pass2020.top
 https://battlepass-20.top
+https://bit.ly/2QyCbjZ
+https://bit.ly/3hDClCF
+https://bit.ly/3hNSk0V
 https://bladusconwo.tk/openid/login?openid.ns=http://specs.openid.net/auth/2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=https://https://bladusconwo.tk/?login&amp;openid.realm=https://https://bladusconwo.tk&amp;openid.ns.sreg=http://openid.net/extensions/sreg/1.1&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select
 https://bondex.co.il/wp-content/plugins/index.html
 https://bruisesglaucomay.com/ana.co.jp/ANA/jp/ANA/pt
@@ -330,12 +345,15 @@ https://macroworks.com/microsoft-.encryptedcenter/ownershipguid3/autherror.php?&
 https://macroworks.com/microsoft-.encryptedcenter/ownershipguid3/authperror.php?Ucofs89z3F8AeTkrBa24DNdB5O7RriKlv8BXhKxkqFVEzf5aq8f4WsF1hNTJ6D5BMGz3r6nRMjvlzBwZJM4FfKHxxBgDflf12O4tVskILQ3krAkbnpRC9z9HaqkpLzrOovhjYC1Ks55UFq63PYFZxPGIf071AyPY47i3JjNcpS75id88cO7JDNrTOzVo8LndSGgC03Pp
 https://macroworks.com/microsoft-.encryptedcenter/ownershipguid3/auth.php
 https://macroworks.com/microsoft-.encryptedcenter/ownershipguid3/authp.php?WSfTKptw2MSqv25CzoO3nRp6Rwth6et36JWR9qnbcgCIiHlR6aVu1kBSR49XiD1pnXgwoEIBUkkd2F59P0EQlfJcjSaCwb2U9iqxX99Rut5w8bGXbkOxzxKTqUwW6yQfQhNNqXFUqLryW8w8skF2RpWhkser05GQmuENrkHR59q1hX9KhPM9fJrAbF1bKI27cGUE1Cw6
+https://magazineluiza-produtos.com/promocao.php
 https://mamcupy.com
 https://meowsgrowlspetservices.biz/AAA/surf4.php
+https://microsoftforvoicemailadd.weebly.com
 http://smilexone.com/wp-content/plugins/contact-form-7/admin/js/docket
 https://minamachi.net/404
 https://minamachi.net/xzv/userid/?i=i&amp;0=a
 https://moleomar.com/js/js
+https://monte-paschl-siena.com
 https://m.runescape.com-zi.xyz
 https://nataliemerowsky.com/reactivate/mazon/6608d
 https://nataliemerowsky.com/reactivate/mazon/784d0
@@ -364,6 +382,7 @@ https://optusnetv.weebly.com
 https://optus-support.info?op=2
 https://orangeetmoi2020.weebly.com
 http://sp70.cankudis.net/modules/system/s.jsp.html#471728189220
+https://pagamenti-sella-aruba-ar63dc742e.fotoparitani.it/it/pagam/SwiftPayment.aspx/SwiftPayment.php
 https://paypal.com.ekaahasakyata.lk/logs/update-your-account-information/security-measure/log-in?bx_sender_conversion_id=236235%26utm_source=newsletter%26utm_medium=mail%26utm_campaign=you_added_a_new_email_address_to_your_paypal_account&sign=beb60e849f5c29ea061be133c394ea5a79f760aeae4b07d2edf29431d8823ec5
 https://paypal.com.ekaahasakyata.lk/logs/update-your-account-information/security-measure/log-in/signin?country.x=&locale.x=en_
 https://paypalrecords.info/users/userID-82458/en
@@ -390,6 +409,7 @@ https://purpurnchai.site/img/rtgrfd43zewd.html#
 https://pymcars.com/one/OneDriveCloud/login.php?cmd=login_submit&id=eaac352c1c8d9c5687e82ec3b5be0308eaac352c1c8d9c5687e82ec3b5be0308&session=eaac352c1c8d9c5687e82ec3b5be0308eaac352c1c8d9c5687e82ec3b5be0308
 https://qh-i219com-top-demais.com/MeusProdutos/Prefetch.php?skullid=127878831
 https://qts382lq-aqui-e-melhor.com/MeusProdutos/Prefetch.php?skullid=57974687
+https://qualitasc-my.sharepoint.com/personal/lrodriguez_qualita_es/_layouts/15/WopiFrame.aspx?guestaccesstoken=x6EgjUnw nCGNeMFdqjRmOAjQKuC9c41sQ13EDQfoEU=&amp;docid=1_16dc35173dd06466fa8c37e332833f0bd&amp;wdFormId={67D0FEEF-08D4-4D0A-8A25-0D2C9B0A2EED}/&amp;action=formsubmit
 http://squispgrzstis.com/pending.messages.Exchange392e71ec89ae4615bbc34ab6cg41109e/OWAmessages
 https://rango.cl/amzz.php
 https://renew.2020orbust.org/renew-now
@@ -406,6 +426,7 @@ https://secure.gov-refunduktax.org
 https://secure.runescape.com-rsc.xyz/m=forum/forums346,453,456,56654545,4
 https://secure.runescape.com-rsc.xyz/m=forum/forums346,453,456,56654545,5
 https://secure.runescape.com-rsm.xyz/m=weblogin/loginform366
+https://secur-web2020.it
 https://sekolahbhkjakarta.sch.id/chu/Linkedin1/index.html
 https://sembprinconradeepf.tk/openid/login?openid.ns=http://specs.openid.net/auth/2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=https://https://sembprinconradeepf.tk/?login&amp;openid.realm=https://https://sembprinconradeepf.tk&amp;openid.ns.sreg=http://openid.net/extensions/sreg/1.1&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select
 https://server206282.nazwa.pl/weryfikacja/mobile
@@ -425,6 +446,7 @@ https://sperxinglumssur.ga/openid/login?openid.ns=http://specs.openid.net/auth/2
 https://squaralpakema.tk/openid/login?openid.ns=http://specs.openid.net/auth/2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=https://https://squaralpakema.tk/?login&amp;openid.realm=https://https://squaralpakema.tk&amp;openid.ns.sreg=http://openid.net/extensions/sreg/1.1&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select
 https://stalinmauwell.gq/openid/login?openid.ns=http://specs.openid.net/auth/2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=https://https://stalinmauwell.gq/?login&amp;openid.realm=https://https://stalinmauwell.gq&amp;openid.ns.sreg=http://openid.net/extensions/sreg/1.1&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select
 https://storage.googleapis.com/aoffice365-19-double-login-branched-134606974/index.html#
+https://storefreshclass.net
 https://sucurbanlive.webcindario.com/VerificacionBanocolombia
 https://super-promocao-ame.ml/ame/oferts/acompanhamento
 https://suporte.cliente-itau.online/security.php?uYfL3c3TkzPYz5/umqNFRJ0L7kckrzCVZYPdTJGaMy
@@ -451,6 +473,7 @@ https://thimtalbbackthesica.tk
 https://thottchalnerosbo.ml/openid/login?openid.ns=http://specs.openid.net/auth/2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=https://https://thottchalnerosbo.ml/?login&amp;openid.realm=https://https://thottchalnerosbo.ml&amp;openid.ns.sreg=http://openid.net/extensions/sreg/1.1&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select
 https://tieconchennai.com/main/secured.onedrive.com/No_cap/FBG
 https://toddmkirsch.com/Drivee/2020%20Web%20VERIFY/index.php?Email=paulagrendys@prepaidlegal.com
+http://storefreshclass.net
 https://twoja-przesylka.com/9y3oHdRG77/96i4EN
 http://sucurbanlive.webcindario.com/VerificacionBanocolombia
 https://ugduhadas.com/2da6cc4a5d3a7ee43c1b3af99267ed17?tywhjdnsm=anR1Y2tlckBwcmVwYWlkbGVnYWwuY29t
@@ -491,6 +514,7 @@ https://www-iscep-kampanyakatilim.ga/is
 https://www-juntoscomvoce-americans.com/produto//909665482/?moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-c%EF%BF%BDmera-48mp-+-5mp-+-16mpazul-safira-nas-americanas&skullid=882080084
 https://www.m.runescape.com-zi.xyz
 https://www.nalandaway.org/requestform/box/login.php
+https://www.normativa-sblocco-europea.com/MPS/web/html/checkclient.php?&amp;sessionid=9d30164cdeb61a4caaff2d044a3fd599&amp;securessl=true
 https://www.ourtruecolours.com
 https://www.pilgrimfathersleiden.nl/wp-includes/blocks/social-link/chr/tools/04/Chase/?id=chase
 https://www.shreegokulamdairy.com/home
