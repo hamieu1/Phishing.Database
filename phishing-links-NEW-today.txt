@@ -7,6 +7,7 @@ http://150.95.223.41/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=h
 http://150.95.223.41/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://162.222.215.82/bper-verifica-dati
 http://162.222.215.82/credem-mr-pin
+http://2oceans.fr/modules/blog/swo/gps/file
 http://51.77.97.91
 http://acc.djpemusic.com/megax/wells
 http://acc.djpemusic.com/megax/WellsFargo/wells
@@ -123,6 +124,28 @@ http://fb-sale-marketplace.us
 http://fb-swap-barter.club
 http://fndsdaytings.com/r/928d9c3e-9867-42da-a4fb-741038267b8c/5ef1702263af2145841
 http://freedollars2020101.000webhostapp.com
+http://goalgamese10.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese10.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese11.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese11.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese1.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese1.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese2.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese2.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese3.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese3.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese4.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese4.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese5.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese5.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese6.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese6.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese7.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese7.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese8.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese8.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
+http://goalgamese9.co.vu/do.php?login=L2dtYWlsLz9pZD0xMDMzNzU4&amp;id=xxxxxac==&amp;r=IqTBw
+http://goalgamese9.co.vu/do.php?login=L2ZiMWxvZ2luL2VuLz9pZD0xMDMzNzU4&amp;id=xxxxxxxx==&amp;r=IqTBw
 http://gothic-depth-276417.uc.r.appspot.com/home.html
 http://group-b0kep-18.000webhostapp.com
 http://groupwhatsappinvite.otzo.com/login.php
@@ -256,6 +279,7 @@ http://noticiando.live/facebook/app/facebook.com?key=niy4nipsxs4etvymvkulhfpi1kk
 http://nuciferac.co.in/Suncorp-login.au/internetbanking.suncorpbank.htm
 http://oleksandr.com.ua/vendor/phpunit/phpunit/src/Util/Log/peace%20/Azure2020/realm/117-Crl.html
 http://otherhop.com/plan/build/team/office.php
+http://panchamimedient.com/.de.com
 http://panxiyanqp.52doweb.cn/wp-content/themes/mapro/receipt/details.php?island=vbk1h01x2cm5
 http://paypal.uk-userlogin.com
 http://plenavia.cl/cxc/D2017HL
@@ -300,6 +324,7 @@ https://ahistoryteacher.ru/fdsa/?authentic=675324
 https://ahistoryteacher.ru/fdsa/BXGJIxF9P639.32.60.23445bcc4920a53d968816761bc0661f53647ac8bcb82bc5031c947cc579fb35feePakistanAsiaPKAS24-06-202011-16-25am
 https://ahistoryteacher.ru/fdsa/BXGJIxF9P639.32.60.23445bcc4920a53d968816761bc0661f53647ac8bcb82bc5031c947cc579fb35feePakistanAsiaPKAS24-06-202011-16-25am/login.php?cmd=login_submit&id=da7d08659bb521879bb0a7dfde135782da7d08659bb521879bb0a7dfde135782&session=da7d08659bb521879bb0a7dfde135782da7d08659bb521879bb0a7dfde135782
 https://airbnb.reservation-client0983.com/1/listing/32/view-bchyyo4v/I3hkMx5ovw
+https://aktuell-erweiterung-skagb.xyz
 https://almagottlieb.com/Partners/box
 https://alplastic.com.mx/6547845/8657654/475468745643223
 https://al-sulaimi.com/login/customer_center/customer_Case=IDPP00C166/indexx.php
@@ -339,6 +364,7 @@ https://arrocharboat.xyz/sales/content/content/e7e4dfda50655363462a9da0734b2348/
 https://arrocharboat.xyz/sales/content/content/Linkedin/?nleo=%7B%7Bemail%7D%7D
 https://asiabestprint.com/catalog/controller/information/files/logs/update-your-account-information/security-measure/log-in/signin
 https://asiabestprint.com/catalog/controller/information/files/logs/update-your-account-information/security-measure/log-in/signin?country.x=UK&amp;locale.x=en_UK
+https://att02.weebly.com
 https://attconfigurationduesmails.weebly.com/?wtsw=abuse@att.net&amp;
 https://attcreclearattcustomer2020.weebly.com
 https://attitude.mx/mk/aGpqZoGkgerq6qmhoUFGTeKtcR1lMQzDMAzD6BAYJSnIz6ei4mIq7daNBZNiyi8ooFyMlKgUFCFlpARTNRgpqauro80330w8GIZhfLm0fVBlxl6VDGNj4/kod.php
@@ -570,6 +596,7 @@ https://macroworks.com/microsoft-.encryptedcenter/ownershipguid3/authperror.php?
 https://macroworks.com/microsoft-.encryptedcenter/ownershipguid3/auth.php
 https://macroworks.com/microsoft-.encryptedcenter/ownershipguid3/authp.php?WSfTKptw2MSqv25CzoO3nRp6Rwth6et36JWR9qnbcgCIiHlR6aVu1kBSR49XiD1pnXgwoEIBUkkd2F59P0EQlfJcjSaCwb2U9iqxX99Rut5w8bGXbkOxzxKTqUwW6yQfQhNNqXFUqLryW8w8skF2RpWhkser05GQmuENrkHR59q1hX9KhPM9fJrAbF1bKI27cGUE1Cw6
 https://magazineluiza-produtos.com/promocao.php
+https://maiilattt.weebly.com
 https://mail.bokepjandahotindo.enemy7.com
 https://mail.bokp18hotgasvidiobanyaksekali.zx-7.com
 https://mail.bokp18hotgasvidiobanyaksekali.zx-7.com/login.php
@@ -642,6 +669,8 @@ https://optus-support.info?op=2
 https://orangeetmoi2020.weebly.com
 https://orangepartners.be/multicards/index-fr.php
 https://ottokurier.com/56$129
+https://ottokurier.com/56$129/ipko
+https://ottokurier.com/56$129/millenium/bank
 http://sp70.cankudis.net/modules/system/s.jsp.html#471728189220
 https://paczkdh.com/SA74yLy71X3/MVIB3z
 https://pagamenti-sella-aruba-ar63dc742e.fotoparitani.it/it/pagam/SwiftPayment.aspx/SwiftPayment.php
@@ -767,6 +796,8 @@ https://thottchalnerosbo.ml/openid/login?openid.ns=http://specs.openid.net/auth/
 https://tieconchennai.com/main/secured.onedrive.com/No_cap/FBG
 https://toddmkirsch.com/Drivee/2020%20Web%20VERIFY/index.php?Email=paulagrendys@prepaidlegal.com
 http://storefreshclass.net
+https://toursfera.com/wp-content/uploads/2018/ok/daaum/login.php?cmd=login_submit&amp;id=0b04c9a6f8250d635942e8ead8c487360b04c9a6f8250d635942e8ead8c48736&amp;session=0b04c9a6f8250d635942e8ead8c487360b04c9a6f8250d635942e8ead8c48736
+https://toursfera.com/wp-content/uploads/2018/ok/daaum/login.php?cmd=login_submit&amp;id=0b35462948d661dc9db39d29a64852640b35462948d661dc9db39d29a6485264&amp;session=0b35462948d661dc9db39d29a64852640b35462948d661dc9db39d29a6485264
 https://trainingn.com/sharepoint/index.html
 https://trianon-1000.ru/modules/jmsslider/views/img/layers/post/post/china/logistics/ems.php
 https://twoja-przesylka.com/9y3oHdRG77/96i4EN
