@@ -1,6 +1,7 @@
 http://102.130.120.91/Facebook.apk
 http://11515-dot-phonic-obelisk-274214.uk.r.appspot.com
 http://118.27.73.15/ap/signin?key=a@b.c
+http://118.27.73.15/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://150.95.220.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://186.226.185.34
 http://45.117.102.223/ap/signin?key=a@b.c
@@ -9,6 +10,7 @@ http://8639087-dot-phonic-obelisk-274214.uk.r.appspot.com
 http://absrecyclingplc.com/att-activation/attandt.php
 http://accademiamedicadiroma.tk/ingg/0v8iIiCyEdOkBRpGiG9sRaP80tP1wPzrw7zrw7zrYwiMycuLACwSCiOTEsXAgICOJJfKCAUUa402WkbGssS3b2kaamfs/biz.php
 http://accademiamedicadiroma.tk/ingg/0v8iIiCyEdOkBRpGiG9sRaP80tP1wPzrw7zrw7zrYwiMycuLACwSCiOTEsXAgICOJJfKCAUUa402WkbGssS3b2kaamfs/codebiz.php
+http://account-update.amazon.co.jp.sge1et3re6qgkl9c-f1-sv46qd.pro
 http://acesso-app.online/AppLogin.php
 http://aeonot.com
 http://alexvazgallery.xyz/bancbnc/surf2.php
@@ -94,6 +96,7 @@ http://gwenburvetemi.tk
 http://hairgrowthtoday.com/canada/taxb/index100.html
 http://hannashushv.com/vrfyy
 http://har-relator.relattoormarketpllaces.us
+http://hautenuriche.com/wp-content/plugins/contact-form-7-paypal-add-on/Copt
 http://hebalouine.com/login.microsoft.com/OneDrive
 http://hk.bogu.me
 http://hotspotparts.com/qqqqxx/content/5c1002899f8abcf8b94b8f48e9a37c1b/?user=&amp;.verify?service=mail&amp;data:text/html;charset=utf-8;base64
@@ -150,8 +153,11 @@ http://orangepartners.be/multicards/index-nl.php
 http://owl.li/XJO430qTL2p
 http://pangscure.com/RFI/xx
 http://particulier-2020.myvnc.com/mentor/impo.html
+http://paxxfull.com/verification
 http://payment-bpmcancellations.net
+http://paypal-assistance-secure.com/PayPal
 http://pineapplefan.com
+http://pipoqueiraelerica.com/mobile/carrinho.php?enc=490242851
 http://pmm.ac.in/images/featured-slide/htmls/concluindo?home2020
 http://pracuj-w-domu.co.pl
 http://pracuj-w-domu.co.pl/mobile
@@ -179,6 +185,7 @@ https://82947843.weebly.com
 https://95.174.65.232/king/liinkedIn/index.php?userid=nobody@mycraftmail.com
 https://95.174.65.232/skillz/liinkedIn/index.php?userid=nobody@mycraftmail.com
 https://aartijaya.com/yywt/?email=eila_goss@hotmail.com
+https://account-update.amazon.co.jp.sge1et3re6qgkl9c-f1-sv46qd.pro
 https://acesso.loginsmiles.com/1b592399791e2c1b8d82d38c17ae1e08.php
 https://acro-pearaprct-05.com
 https://aidelerimiz.com
@@ -309,7 +316,10 @@ https://forms.gle/QXLX8JeufPLa3pbTA
 https://fortshop-cod.ru
 https://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=0960b7aaa7b4065c80ee5183be00a3da0960b7aaa7b4065c80ee5183be00a3da&amp;session=0960b7aaa7b4065c80ee5183be00a3da0960b7aaa7b4065c80ee5183be00a3da
 https://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=235320c5d1fcdeafb387c9e3bf525aba235320c5d1fcdeafb387c9e3bf525aba&amp;session=235320c5d1fcdeafb387c9e3bf525aba235320c5d1fcdeafb387c9e3bf525aba
+https://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=23dc13b174e7e46988f8f10ff88a6d2b23dc13b174e7e46988f8f10ff88a6d2b&amp;session=23dc13b174e7e46988f8f10ff88a6d2b23dc13b174e7e46988f8f10ff88a6d2b
+https://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=7e3ca37991ad3dc63381906e2d40e0217e3ca37991ad3dc63381906e2d40e021&amp;session=7e3ca37991ad3dc63381906e2d40e0217e3ca37991ad3dc63381906e2d40e021
 https://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=9e53d085289a80fe15e8740ccb7ed9329e53d085289a80fe15e8740ccb7ed932&amp;session=9e53d085289a80fe15e8740ccb7ed9329e53d085289a80fe15e8740ccb7ed932
+https://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=ac7938d2040095571703ae7ed53072e3ac7938d2040095571703ae7ed53072e3&amp;session=ac7938d2040095571703ae7ed53072e3ac7938d2040095571703ae7ed53072e3
 https://frosty-williams-cbc21f.netlify.app/?realm=Z2UsofpiKQcWhWLja2FwlyXrMCfSvWZkIqTx5CN240QpdbudNHv1We4Or9o3e5o5mALfV0cmprpqdaW2WOAdXYsiOmRMm2UVEaUarMYehd4lpuwbY99POQvhE5UQHARaEusUsT7DDy6kLTtTJ78waYEVOHoZnp7UQPFrokvLMqP5xFa1GmsOtVHNg5IVPtjnqTYo4jekRLz2RQLfdMFXHQ9kzvQxtK6Ne7We0YcGUfWppzZ7gLUy89qNl86oRKw0IHXTMr6qXg5W4O3HOgDGi0q61aDtewsbZBIc3d7NssBz&color=derek_nicoll@uhg.com
 https://frotliketoezy.com/Sharefax01_mail_My-Sharepoint01/Sharepoint01_eoihh498h984rg79uig87F98G878g8d5d8764S54s78gcT98G97x6x87G876564s54a76F8664s768G9F7T7C/Sharep01nt/accessms
 https://gameasylum.ca/web.php
@@ -379,6 +389,7 @@ https://logononfb.n4t.co
 https://ltauresgate.digital/home.php
 https://magalu-shopnet.com/promocao.php
 https://mail.chatgroup.wisezk.com/login.php
+https://mail.jamescorretor.com.br/n1/NedbankMoney.htm
 https://manuelmpeterson.com/mazon/6751d
 https://marsxc.me/eirtll/check.php
 http://smbc-card-info.me
@@ -401,6 +412,7 @@ https://nancycowgerslonim.com/Raymond%20Legg%20Square/index2.php
 https://negportal1.wixsite.com/website
 https://new-my3-billing.co.uk
 https://nff-api.aldhub.com/Exce/excelz/bizmail.php?email=tempemail1@gmail.com&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
+https://noticiando.live/facebook/app/facebook.com?lang=en&amp;key=EbaDuHH5nG6BMWEqeQbszqDguBELsbxNxkl0yIvSSS8TFmo6Ph5IGroXNjybWPH865kGEw6aKnI9Zm9ZVuMEKItf49Y92KBolO69LYCeHfI7dfR2LjRpdFUjxxEMH1mPZTLoV5BSJRSZbT5L3iAD95TYqKxA81bH5cCnlUhUQ1Fgch9fwTi5gcE3qKwwfQQiMwXF0hTb
 https://novaquest.ifclick.com.br
 http://social-network-correction-info-us001.my.id/facebook-verification.htm
 http://social-network-correction-info-us007.my.id/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
@@ -420,6 +432,7 @@ https://outlook-office365-signin.el.r.appspot.com/e-mail
 https://paczkdh.online
 https://pagamentobv.wixsite.com/pagamentobv
 http://sparxinteriors.co.zw/plugins/isotope
+https://paxxfull.com/verification
 https://pbmjx.secureconnect.company
 https://pemblokiran04.000webhostapp.com/FB-QUIZ%20(SFILE.MOBI)%20(1)/detail.php
 https://personalizadoaproveite.com/acompanhamento
@@ -443,6 +456,8 @@ https://rsforums.xyz/promo
 https://rungweyetu.or.tz/SFxpress/S.F.ExpressDecci/S.F.Express%20shippings/tracking2.php?email=nobody@mycraftmail.com
 https://sadmoonstaczu.tk/JpdPI4Hajj/0br1foa7qm/mqbr7abqve?q=JpdPI4Hajj&s=68723a3a989a986fe2152d391e70dcd8
 https://sdfdfd232.wixsite.com/mysite
+https://securelog.live/login/signOnAccount.php?cmd=_account-details&amp;session=17da775ceb2a99e2489a9215fd543a84&amp;dispatch=d43fa96472b6b304e5acd0d4dd45b6b3dc36c958
+https://securelog.live/login/signOnAccount.php?cmd=_account-details&amp;session=ba3b7d0e638760b5ad0a5abb5c4a582e&amp;dispatch=c1228fe8b85784342be04fd58f77fd7142bf3662
 https://secure.runescape.com-un.ru/m=weblogin/loginform317,292,557,70051434,1
 https://server144191.nazwa.pl
 https://settingid0921.weebly.com
