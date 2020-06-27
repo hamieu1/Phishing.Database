@@ -1,6 +1,8 @@
 02-update.billing71.com
 102.130.120.91
 118.27.73.15
+118.27.76.194
+118.27.77.236
 186.226.185.34
 45.117.102.223
 63.250.35.181
@@ -11,6 +13,7 @@
 aartijaya.com
 absrecyclingplc.com
 accademiamedicadiroma.tk
+account-update.amazon.co.jp.customerservice-manage.top
 account-update.amazon.co.jp.sge1et3re6qgkl9c-f1-sv46qd.pro
 acesso-app.online
 acesso.loginsmiles.com

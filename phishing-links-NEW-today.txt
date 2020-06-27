@@ -1,7 +1,10 @@
 http://102.130.120.91/Facebook.apk
 http://11515-dot-phonic-obelisk-274214.uk.r.appspot.com
 http://118.27.73.15/ap/signin?key=a@b.c
+http://118.27.73.15/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.73.15/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://118.27.76.194/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://118.27.77.236/ap/signin?key=a@b.c
 http://150.95.220.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://186.226.185.34
 http://45.117.102.223/ap/signin?key=a@b.c
@@ -541,6 +544,7 @@ https://worksitehealthsolutions.org/gdocs
 https://www16.levamosatevc.com/BMZwQAvOgqNdO/1162/proTyvLoYHou/1447437989/notebook-dell-inspiron-i14-5480-a40x-intel-core-i7-16gb-geforce-mx150-com-2gb-1tb-128gb-ssd-w10-14-?fbclid=IwAR2cMb5UMIhsS5HNBahPZRhpBb2ETfslzF3lNFPkvTHCQ-Y1cy3iYjHg2-o
 https://www16.levamosatevc.com/tOEiOBLQsQxyA/1162/proaELCeamUi/1447437989/notebook-dell-inspiron-i14-5480-a40x-intel-core-i7-16gb-geforce-mx150-com-2gb-1tb-128gb-ssd-w10-14-?fbclid=IwAR0FapfD8gdozp1blYnRIoeLsDajGocU8fvrnR-9cU_q3TNsMBkne_B9T7Q
 https://www37.tudodital.life/proda2cfd3293e6211fedf6f5cf9217b7272lnk/smartphone-samsung-galaxy-a30s-64gb-branco-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/1555696/te/sa3s
+https://www.account-update.amazon.co.jp.customerservice-manage.top
 https://www.activadordigitalcr.com
 https://www.a-jolly.com/plugins/search/emcom/v2/3280d619bbebb1c/cc.php
 https://www.amazon.co.jp.sge1et3re6qgkl9c-f1-sv46qd.pro
