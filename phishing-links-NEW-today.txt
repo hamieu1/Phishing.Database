@@ -10,9 +10,12 @@ http://118.27.76.194/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claim
 http://118.27.76.194/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.76.194/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.77.236/ap/signin?key=a@b.c
+http://118.27.77.236/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.79.149/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://150.95.220.158/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://186.226.185.34
+http://198.46.82.25/~nbc6515/onlinebankingmtb
+http://198.46.82.25/~nbc6515/onlinebankingmtb/authenticate.html
 http://45.117.102.223/ap/signin?key=a@b.c
 http://4554178-dot-phonic-obelisk-274214.uk.r.appspot.com
 http://8639087-dot-phonic-obelisk-274214.uk.r.appspot.com
@@ -131,8 +134,10 @@ http://formpost1.arthaus.mk/wp-content/plugins/zbuluzn/kingkey/kingkey/login.htm
 http://formpost1.arthaus.mk/wp-content/plugins/zbuluzn/kingkey/kingkey/password.html
 http://fouadzwiml.online/az72ss5zbxy0nf
 http://foxcatcher.de/verify/home.php
+http://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=63e4c3bae5052dcbdda3700f707d0ea763e4c3bae5052dcbdda3700f707d0ea7&amp;session=63e4c3bae5052dcbdda3700f707d0ea763e4c3bae5052dcbdda3700f707d0ea7
 http://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=71362ac49be499ae2dada6b0966b6f5971362ac49be499ae2dada6b0966b6f59&amp;session=71362ac49be499ae2dada6b0966b6f5971362ac49be499ae2dada6b0966b6f59
 http://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=92d976396e46f3fa243a135b2796fdf792d976396e46f3fa243a135b2796fdf7&amp;session=92d976396e46f3fa243a135b2796fdf792d976396e46f3fa243a135b2796fdf7
+http://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=b6ea34706b90b35637d03a38947ff78bb6ea34706b90b35637d03a38947ff78b&amp;session=b6ea34706b90b35637d03a38947ff78bb6ea34706b90b35637d03a38947ff78b
 http://foxy-bites.000webhostapp.com/online-chase.Bank/online-chase.Bank/secure-online-chase.Bank/sign-on/secure/T.Goe/index.html?secure-auth/login?execution/cmd=login_submit&amp;id=c9065de34a47578f3394074b3ea30cf1c9065de34a47578f3394074b3ea30cf1&amp;session=c9065de34a47578f3394074b3ea30cf1c9065de34a47578f3394074b3ea30cf1
 http://geforce7.com/0/?email=
 http://geodeticsac.com/interac/banks/Desjardins/ondetverifier.php
@@ -197,6 +202,7 @@ http://libertyhillmbchurch.com/images/blog/FOV/a12902cc87170e7ea585ef6051f18764
 http://lloydsbank.tel
 http://lmy.de/5cQ71
 http://logln-office365-0nline.wm.r.appspot.com/e-mail
+http://logv2-fb.ooguy.com/login.php
 http://ltauresgates.com/home.php
 http://ltlcr.com/bancolombia
 http://luxuriouscollection.in/goal/Cra/Finance/desj
@@ -446,6 +452,7 @@ https://dtiblog.com
 https://dyson-official.com
 http://secure58.webhostinghub.com/~nbc6515/onlinebankingmtb
 http://secure58.webhostinghub.com/~nbc6515/onlinebankingmtb/authenticate.html
+http://secure58.webhostinghub.com/~nbc6515/onlinebankingmtb/authenticate.html?onlinebanking_mtb_com/Login/MTBSignOn=
 http://secure58.webhostinghub.com/~nbc6515/onlinebankingmtb/authenticate.html?onlinebanking.mtb.com/Login/MTBSignOn
 http://secure58.webhostinghub.com/~nbc6515/onlinebankingmtb/secq.html?onlinebanking.mtb.com/Login/MTBSignOn
 http://secure58.webhostinghub.com/~nbc6515/onlinebankingmtb/securityauthentication.html?onlinebanking.mtb.com/Login/MTBSignOn?security+authentication
@@ -509,6 +516,7 @@ https://hairgrowthtoday.com/canada/taxb/desj/index2.php
 https://hairgrowthtoday.com/canada/taxb/desj/index91484101498.php
 https://hairgrowthtoday.com/canada/taxb/desj/questions.php
 http://shanpattanam.com/.de.com
+http://sharadbank.com/images/boardofdirectors/wlw/customer_center/customer-idpp00c427/myaccount/signin
 https://har-relator.relattoormarketpllaces.us/view-signin.php?facebook_com=&mUniqueID=113819470
 https://helplogo.weebly.com
 https://highfive1.000webhostapp.com
