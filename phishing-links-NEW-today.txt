@@ -70,6 +70,7 @@ http://plrnotice.com/c/c/c/details.php?LOB=RBGvalidate&amp;_pageLabel=validate
 http://plrnotice.com/c/c/c/details.php?LOB=RBGvalidate&_pageLabel=validate
 http://plrnotice.com/c/c/c/index.htm
 http://plrnotice.com/c/c/c/Logon.php?LOB=RBGLogon
+http://plrnotice.com/c/c/c/Logon.php?LOB=RBGLogon&amp;_pageLabel=page_logonform
 http://plrnotice.com/c/c/c/Logon.php?LOB=RBGLogon&_pageLabel=page_logonform
 http://qportals.com/wp-includes/js/us/wellsfargo/regrodc/indexs.php
 http://rakia.com.ar/fshare/frontlines/antor.php
@@ -90,6 +91,7 @@ https://axelklopedtor.tk/1000655841.html
 https://azescvzs.000webhostapp.com/login.htm
 https://bb.grandrapidssnowplowservices.com/chaseaccountservices/chase2020/chase2019/login.html
 https://confirm-lnstagram.com.de
+https://daw-net.pl/includes/intranet/php/files/coss/news/Dskbanknewstyle/dsbanknew/bg-BG
 http://secureupdate.appleld.com.duilawyeryork.com/ap/1e6e6c10fb66635?cmd=_update&dispatch=1e6e6c10fb6663584&locale=_US
 http://secureupdate.appleld.com.duilawyeryork.com/ap/1e6e6c10fb66635/?cmd=_update&dispatch=1e6e6c10fb6663584&locale=_US
 http://secureupdate.appleld.com.duilawyeryork.com/ap/643872fdf2ed9ec?cmd=_update&dispatch=643872fdf2ed9ec3b&locale=_US
@@ -166,9 +168,11 @@ https://www.sodagur.com/wp1/894cb40a7992c166d75425883fcca321/billing.php?Session
 https://www.sodagur.com/wp1/894cb40a7992c166d75425883fcca321/?dispatch=?%3C?php+echo+.=.._.11a87a656b2c7beec54c075291981a9c.=.;+x?%3E
 https://www.sodagur.com/wp1/894cb40a7992c166d75425883fcca321/payment1.php
 https://www.sodagur.com/wp1/894cb40a7992c166d75425883fcca321/payment.php?SessionID-xb=.=.._.71d927fdb3972ad1e5c5b52f4f1ecb0c.=.
+https://www.surveygizmo.com/s3/5684983/AT-T-Login
 https://yaahooasbccc.weebly.com
 http://techrine.com/wp-admin/.../wells-fargo-online/dashboard/login.php?7777772e7465636872696e652e636f6d7777772e7465636872696e652e636f6d7777772e7465636872696e652e636f6d7777772e7465636872696e652e636f6d=
 http://tessie0316.000webhostapp.com/update/crypt/crypt/index.html
+http://u7694748mc.ha004.t.justns.ru/login.php?37bb86d92fd454f3a37c0d579f9cfbfd86ad96bc
 http://u7714649fv.ha004.t.justns.ru/orangeeeee/fixed_new/customer_center/customer-IDPP00C371/login.php
 http://u7714649fv.ha004.t.justns.ru/orangeeeee/fixed_new/customer_center/customer-IDPP00C433/login.php
 http://u779864bbk.ha004.t.justns.ru/akidoulda/Assistenza/fatturazione
@@ -183,6 +187,7 @@ http://www.amazon.co.jp.xhxbls.com
 http://www.autorizador5.com.br/wp-includes/customize/paypal/account/verified/paypal/fr/login.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1f998ca054efbdf2c29878a435fe324eec2511727fbf3e9efc132fabf32f640090c0cd9c61841c7447132fabf32f640090c0cd9c61841c7447
 http://www.autorizador5.com.br/wp-includes/customize/paypal/account/verified/paypal/fr/login.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1f998ca054efbdf2c29878a435fe324eec2511727fbf3e9efc31db648c0008a459e3988bab5006b69c31db648c0008a459e3988bab5006b69c
 http://www.autorizador5.com.br/wp-includes/customize/paypal/account/verified/paypal/fr/login.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1f998ca054efbdf2c29878a435fe324eec2511727fbf3e9efc49cdbfc41d06a24281a3d69ede557aae49cdbfc41d06a24281a3d69ede557aae
+http://www.bmisec.com/bmiptc/it
 http://www.bmisec.com/bmiptc//it
 http://www.bmisec.com/phpMyAdmin/it
 http://www.diamonddiving.co.uk/wp-includes/SimplePie/XML/Declaration/-/MARKET
