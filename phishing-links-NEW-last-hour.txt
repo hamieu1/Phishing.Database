@@ -1,8 +1,7 @@
-http://150.95.223.208/ap/signin?openid.pape.max_auth_age=0%5Cu0026openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin%5Cu0026openid.identity=http://specs.openid.net/auth/2.0/identifier_select%5Cu0026openid.assoc_handle=jpflex%5Cu0026openid.mode=checkid_setup%5Cu0026key=a@b.c%5Cu0026openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select%5Cu0026openid.ns=http://specs.openid.net/auth/2.0%5Cu0026%5Cu0026ref_=nav_em_hd_clc_signin
-http://150.95.223.208/ap/signin?openid.pape.max_auth_age=0u0026openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signinu0026openid.identity=http://specs.openid.net/auth/2.0/identifier_selectu0026openid.assoc_handle=jpflexu0026openid.mode=checkid_setupu0026key=a@b.cu0026openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_selectu0026openid.ns=http://specs.openid.net/auth/2.0u0026u0026ref_=nav_em_hd_clc_signin
-https://docs.google.com/forms/d/e/1FAIpQLSeP5Oq7a-c9A4I0m7tQkruGYvmR7dlTwYrHvi-tZwpQufQmOw/viewform?usp=send_form
-https://ilhademaltaresidence.com.br/wp-admin/sharepoint/file.html?dispatched=91&amp;id=3003625079&amp;websrc=59c275dc2e97dd3b896ed4ff2b82a8fd
-https://ilhademaltaresidence.com.br/wp-admin/sharepoint/file.html?websrc=59c275dc2e97dd3b896ed4ff2b82a8fd&amp;dispatched=91&amp;id=3003625079
-https://nicoledeas.com/I1Al5VOeLO
-https://nicpro.net/hard333
-https://zenithautomotive.com/reo/ms-/SecuredPortal/InvestMent_PDF/e49831f24b68d2d7b7526b44c439e560/login.php?cmd=login_submit&amp;id=f42459a6908c0eb288e7f692dd74a1adf42459a6908c0eb288e7f692dd74a1ad&amp;session=f42459a6908c0eb288e7f692dd74a1adf42459a6908c0eb288e7f692dd74a1ad
+http://crm.vitalplus.com.co/cm/main_content
+http://hocviennongnghiep.com/wp-admin/on/index.php
+https://animatetastefule.com
+https://japanbok.com
+https://japanbok.com/index.html
+https://zealyte.com/html/update/t8vlp97fev4yf7trnv33orqc.php
+http://updatepaypal-services.com/paypal/Login.php
