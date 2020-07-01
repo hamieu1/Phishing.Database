@@ -4,6 +4,7 @@ http://118.27.80.179/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=h
 http://118.27.80.179/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://160.251.2.163/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://160.251.2.163/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://160.251.2.210/ap/signin?key=a@b.c
 http://4eomkeale.s3-ap-northeast-1.amazonaws.com/index.htm?id=my@mail.com
 http://afiliado-es.haztemprendedor.com
 http://afy-456822th-com.preview-domain.com/incorrec1.html?fb=invalid_request
@@ -45,7 +46,9 @@ http://downtowndavis.org/wp-content/plugins/fication.html?&eventual-chase-intern
 http://downtowndavis.org/wp-content/plugins/id.html?&amp;eventual-chase-international-dashboard9379487-jhbg76389
 http://downtowndavis.org/wp-content/plugins/id.html?&eventual-chase-international-dashboard9379487-jhbg76389
 http://duiweboer.co.za/?to=support@mybtc.com
+http://easywin.projex.me/iu8wre7.php?r=bD1odHRwczovL2Vrb250by1yYi5tZS9yYg==
 http://euw-league0flegends-2020highnoon-capsule.000webhostapp.com
+http://exodus-staking.web.app
 http://facebook.id324235346.business-page56786754435435354.com
 http://facebookvideo8d5.blogspot.com
 http://faktonet.eu/weryfikacja/mobile
@@ -62,6 +65,7 @@ http://grihabhumirealestate.com/wp-content/plugins/up/web_inc/srt-en/style/morfo
 http://helpmymanage.ddns.net/signin/mc4c/websrc?country.x=pk&locale.x=pk_pk
 http://hunnybunnyschool.com/wb/lux/index.html
 http://hunnybunnyschool.com/wb/lux/wells.htm
+http://immoxa.ch/update/index.php?i=i&0
 http://inf0utook.cabanova.com
 http://interac-e-transfer.duckdns.org
 http://interac-e-transfer.duckdns.org/directing/atbonline/details.html
@@ -86,6 +90,7 @@ http://itcitymm.com/wp-content/themes/confirmnewboa/confirmnewboa/login.php?cmd=
 http://itcitymm.com/wp-content/themes/confirmnewboa/confirmnewboa/login.php?cmd=login_submit&amp;id=938950bc2390680caad6c673fc9451f3938950bc2390680caad6c673fc9451f3&amp;session=938950bc2390680caad6c673fc9451f3938950bc2390680caad6c673fc9451f3
 http://itcitymm.com/wp-content/themes/confirmnewboa/confirmnewboa/login.php?cmd=login_submit&id=587a2628faaea9edfcf197b735f48784587a2628faaea9edfcf197b735f48784&session=587a2628faaea9edfcf197b735f48784587a2628faaea9edfcf197b735f48784
 http://jamaicaprestigerooms.com/includes/filetransfer/updatedsss
+http://jppost-aho.top/ift.html
 http://koodaktv.ir/wp-content/plugins/login/,
 http://ligapremier-fmf.mx/moze/nem/login.php
 http://light-architecture.fr/modules/forum/swo/gps/file
@@ -175,6 +180,7 @@ https://cnprealtime.ru/trew/?premium=346532
 https://codemixto.com/put/uber
 https://commonsenunitedfamily.com/ch-amazon/?s1=11H&s2=f3e13372-2344-41fb-bcd4-bda469b79d27&s3=bb&s4=&Fname=&Lname=&Email=
 https://controle-its.joomla.com/administrator/logs/seeeet/web/control.php
+https://crone-icas.web.app
 https://crystaldeluxe.lt/wp-content/plugins/wp-nested-pages/vendor/ebay-kleinanzeigen/ebay-gdpr-login-anzeigen/ebay-kunde-login/index.htm
 https://cucu91.com/js/candy/res/sharepoint
 https://cycling.ebay.bicycles-sporting-goods.itm1l78ol29.com/2018-cannondale-trigger-3-carbon-fiber-full-suspension-mountain-bike-large
@@ -183,6 +189,7 @@ https://ddhost.ro/modules/gateways/acceptjs/emcom/v2/67436289348e19e/login.php
 https://ddhost.ro/modules/gateways/acceptjs/emcom/v2/fe8cce5788eb4de/cc.php
 https://ddhost.ro/modules/gateways/acceptjs/emcom/v2/fe8cce5788eb4de/loading1.php
 https://ddscsuntrgso.weebly.com
+https://desderuralviamejor.com/rurales/acces/particulares/clientes/socios/permite/6f17b1a49a5e960afb7abff7e80acb3a
 https://dravitech.com/avxccsbgdygd/att/attiinnddeexx.php
 https://drivxmxdocsviewsbm2.z13.web.core.windows.net
 https://ebay.cameras.digital-cameras.itm1l78ol29.com/Brand-New-Canon-EOS-5D-Mk-IV-Digital-SLR-Camera
@@ -195,6 +202,8 @@ http://secureupdate.appleld.com.duilawyeryork.com/ap/ee82177ae0969fc/?cmd=_updat
 https://ellyme.com/wp-content/plugins/newOffice2
 http://server210328.nazwa.pl/weryfikacja/mobile
 http://server428873.nazwa.pl/weryfikacja/mobile
+https://exodus-staking.web.app
+https://exodus-staking.web.app/mnemonic.html
 https://facebook.id324235346.business-page56786754435435354.com
 https://fanxiang.gq/wp-content/plugins/apikey/?qazwsxedcrfvtgbbpojiqubsxuhdbefvhjfdbsdbetypoiqaqaxsduxwwuf
 https://fanxiang.gq/wp-content/plugins/apikey/?qazwsxedcrfvtgbpojiqubsxuhdbefvhjfdbsdbetyopiqaqaxsduxwwuf
@@ -248,6 +257,7 @@ https://kisemee.com/pll
 https://kisemee.com/pll/app/check.php
 https://kisemee.com/pll/app/index.php
 https://kurier-dhl.pl/90xJfD6h81F/G1sK67
+https://livestudentccc-my.sharepoint.com/personal/swheeler18_student_ccc_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=OOzNPLCYZlTabGG4ySTg5kSUpp8gTpcoV86LMbOSQjA%3d&docid=1_1e8776f50e0b147fe848ffe7f15593584&wdFormId=%7B4605A38E%2DF096%2D4C60%2D98B9%2D793226915EA5%7D
 https://login-microsoft-0nline.ts.r.appspot.com/e-mail
 https://login-microsoft-0nline.ts.r.appspot.com/logi.html,
 https://login-microsoft-outlook.el.r.appspot.com/e-mail
@@ -262,6 +272,7 @@ https://mcia.mu/wp-includes/wireless_call/owa/?email=savvas.mallas@stonehageflem
 https://mcia.mu/wp-includes/wireless_call/owa/login.php?email=savvas.mallas@stonehagefleming.com&cas.cloudplatform1.com/owa/auth/logon.aspx?replaceCurrent=1&url=https://cas.cloudplatform1.com/owa
 https://mhtsc.edu.bd/lohn/luxehome/mhtscedu/ali/login.php
 https://mhtsc.edu.bd/wp-includes/js/tinymce/themes/ali/login.php
+https://mkbcompany-my.sharepoint.com/:o:/p/mlingenfelter/EqTVTt5fUxVFtHWIN9DBIDYB2hSsVFy6k7lDg4GAQ0Glbg?e=JK8Ktx
 https://newmesssage.fra1.digitaloceanspaces.com/index.html
 https://news.pubgcompany.com/login/facebook
 https://newyears-eve.com/ex/cel/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&amp;fid_13InboxLight_aspxn_1774256418=&amp;fid_125289964252813InboxLight99642_Product-email=&amp;email=
@@ -293,6 +304,7 @@ https://online.appleld.com.update.employmentbasedimmigrationattorney.com/app/3f9
 https://online.appleld.com.update.employmentbasedimmigrationattorney.com/app/826a6af67555e46
 https://online.appleld.com.update.employmentbasedimmigrationattorney.com/app/9685cedcb8a6a73
 http://soporte.ruptivo.com/snuck/update
+https://outhe-dare.web.app
 https://outlook-0ffice365-0nline.nw.r.appspot.com/e-mail
 https://outlook-0ffice365-0nline.nw.r.appspot.com/logi.html,
 https://pagos.topsoluciones.com/img/OTP-EN/notification/signin.php
@@ -332,6 +344,7 @@ https://sekolahbhkjakarta.sch.id/abb/Linkedin1/index.html
 https://servitout.ca/wp-content/themes/sydney/inc/b2020123/1/index2.php?https://account.1und1.de/home/particulares_esAssistanceDesktop/LoadLoginAssistance?type=pwd
 https://sexagenarian-plots.000webhostapp.com/FB-QUIZ%20(SFILE.MOBI)/detail.php
 https://smartphonescomsuperdesconto.club/MeusProdutos/Prefetch.php?skullid=134582528&fbclid=IwAR3ksZ5nCmI852xUCtH7yYrZf09rrX85iw56bNqgMGm5skPnQx57i6yzycA
+https://soportedigital.co/bancos
 https://soporteline.webcindario.com/surcusalonline
 https://spins.pubgcompany.com/login/facebook
 http://ssteaamconmunlty.net.ru
@@ -373,6 +386,7 @@ https://viabcp.reactivaperu-registro.com
 https://v-iii.com/src/jf/fx9
 https://viralp0st.com/wp-content/cache/b2020123/1/run/com.php
 https://vszxczs.000webhostapp.com
+https://wrap.co/wraps/a68b4894-1125-42b0-820b-0db1706734fd
 https://www1.personal-netwast.natyie.com/myca/login.php?&sessionid=f12b4ea966bd4c2430fd7184e1c37460&securessl=true
 https://www51.smartphonecelularsmartphone.com/prod9439bfc1c448b785db5cc6ae3e4df698lnk/smartphone-samsung-galaxy-a50-128gb-25mp-tela-6-4-branco-sm-a505gzwszto/p/bc93b1b2gk/te/sga5?fbclid=IwAR1kX_UbQUD9miRLVpxMsxzvfZqcrGOF2anZtvLG0SS06-AA5GlgDpM0_UU
 https://www.account-update.amazon.co.jp.updateandcontorlyouraccount.top
@@ -411,9 +425,11 @@ https://xn--kckj2hwc8bx402b8t3ayl2csqg.xyz/banko/974824a8f1148b605e5db38772ea7be
 https://xn--kckj2hwc8bx402b8t3ayl2csqg.xyz/banko/974824a8f1148b605e5db38772ea7bee/sec/l0wkjylej6dg6zo66l31q43gb8fefdb9c8e9aba0f526dc8176725f94.php?email=
 https://y80yyxccn.df.r.appspot.com/,
 https://yahoo-safesecured.weebly.com
+https://yun-maut.web.app
 https://zap556400-1.plesk09.zap-webspace.com
 https://zonasegurabeta-viabcp.iniciomovil.com
 https://zonasegurabeta-viabcp.iniciomovil.com/1593555544/iniciar-sesion
+http://tawayrd.com/amazon/mazon/amazon
 http://test.macmoro.com/wp-includes/file/nsw/data/UntitledNotebook1.html
 http://thortonpost.com/f/ir/m
 http://tonnacticus.cf/000/nsw/data/UntitledNotebook1.html?run=login_cmd&amp;statuts=f17ca2c829680ada2fec9fc87bc5f6069f465168249cc0c248f69544453c74ea
