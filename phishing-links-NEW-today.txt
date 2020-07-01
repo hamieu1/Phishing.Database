@@ -2,6 +2,7 @@ http://118.27.80.179/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;open
 http://118.27.80.179/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://118.27.80.179/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.80.179/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://160.251.2.163/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://160.251.2.163/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://4eomkeale.s3-ap-northeast-1.amazonaws.com/index.htm?id=my@mail.com
 http://afiliado-es.haztemprendedor.com
@@ -133,6 +134,7 @@ http://qrwtdcyc.gb.net/login.php
 http://rebrand.ly/igoha7g
 http://reformsports.com/hope/Savage/?email=
 http://reformsports.com/hope/Savage/error.php
+http://rioinformal.com/wordpress/wp-content/plugins/ubb/@@@@/daaum/login.php?cmd=login_submit&amp;id=31365ced4fb850203ebc7f7bafd2b72131365ced4fb850203ebc7f7bafd2b721&amp;session=31365ced4fb850203ebc7f7bafd2b72131365ced4fb850203ebc7f7bafd2b721
 https://3dtour.ezdanrealestate.qa/wp-content/themes/busify/?qazw$*edcrfvtgbp0jiqubs*uhdbefvhifdb$dbetyp0lqaq@xsduxwwuf
 https://3dtour.ezdanrealestate.qa/wp-content/themes/busify/?qazwsxedcrfvtbgpojiqubsxuhdbefvhjfdbsdbetypoiqaqaxsduxwwuf
 https://3dtour.ezdanrealestate.qa/wp-content/themes/busify/?qazwsxedcrfvtgbpojiqubsxuhdbefvhjfdbsdbetypoiqaqxasduxwwuf
@@ -142,6 +144,7 @@ https://amazon.co.jp.huanlexiaoyutanga.top/?qkofxgdtq
 https://amedigital.www-americanas-com.ml/MeusProdutos/Prefetch.php?skullid=1735152849
 https://apple.com.br.maps-pt.com/iCloud
 https://apple.com.jp.plpfsc.com/manage
+https://appleid.apple.com.7f20f883ed41d8cd98f.net
 https://aproveitegrandediadecomprarbarato.club/MeusProdutos/Prefetch.php?skullid=1299774034
 https://atthelp.yolasite.com
 https://att-services-upgrade2020.weebly.com
@@ -310,6 +313,7 @@ https://recovers01-fbactive.000webhostapp.com/update/safetycredit.html?login-sub
 https://recovers01-fbactive.000webhostapp.com/update/safety.html?login-submit&dispatch=99778d926097d1e1020dbc1b0173ca886c37411e94d6fbe47af9d67cf900fb210917e855
 https://redwood-dot-skype-meeting.uc.r.appspot.com
 https://refricararcondicionado.com.br/wp-includes/SimplePie/Net/mother/login.php?cmd=login_submit&id=30394fb2ef2b96aef58359be57f6302930394fb2ef2b96aef58359be57f63029&session=30394fb2ef2b96aef58359be57f6302930394fb2ef2b96aef58359be57f63029
+https://registrodefirmadigital2020.com/fir1/indexfir1.php
 https://revinconsultancy.com/wp-includes/certificates/blogm/no/053bad2e664ea76/login.php
 https://riseasoneaau.com/db/vm.php
 https://runescape-reward.online/m=weblogin/loginform.ws346,645,654,76765656,2
@@ -368,6 +372,7 @@ https://www1.personal-netwast.natyie.com/myca/login.php?&sessionid=f12b4ea966bd4
 https://www51.smartphonecelularsmartphone.com/prod9439bfc1c448b785db5cc6ae3e4df698lnk/smartphone-samsung-galaxy-a50-128gb-25mp-tela-6-4-branco-sm-a505gzwszto/p/bc93b1b2gk/te/sga5?fbclid=IwAR1kX_UbQUD9miRLVpxMsxzvfZqcrGOF2anZtvLG0SS06-AA5GlgDpM0_UU
 https://www.account-update.amazon.co.jp.updateandcontorlyouraccount.top
 https://www.amazon-email.top
+https://www.ame-oferta.com/MeusProdutos/Prefetch.php?skullid=1494111025
 https://www.apple.com.br.maps-pt.com/iCloud
 https://www.blueskywarehousing.com
 https://www.btl.net.bd/administrator/templates/isis/img/regions2020/index1.html
