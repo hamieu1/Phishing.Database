@@ -1,5 +1,6 @@
 http://118.27.80.179/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://118.27.80.179/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://160.251.2.163/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://4eomkeale.s3-ap-northeast-1.amazonaws.com/index.htm?id=my@mail.com
 http://afiliado-es.haztemprendedor.com
 http://afy-456822th-com.preview-domain.com/incorrec1.html?fb=invalid_request
@@ -89,6 +90,7 @@ http://masuk-grupwhatsapp.infotournamen.com/login.php
 http://m.facebook.com-marketplace-item-467682.screenplaybid.com
 http://m.facebook.com-marketplace-item-789632.dondoker.com
 http://m.g2215.com/index.htm
+http://nab.com.au.banking-secure.services
 http://nertflix.xyz/48ab2f9b45957ab574cf005eb8a76760
 http://nwabopula.blogspot.com
 http://octopustechperu.com/zoom_video9300/appsuite/index.html?af1035876576f5a2f9d3c7b3eba93b49af1035876576f5a2f9d3c7b3eba93b49=af1035876576f5a2f9d3c7b3eba93b49af1035876576f5a2f9d3c7b3eba93b49af1035876576f5a2f9d3c7b3eba93b49af1035876576f5a2f9d3c7b3eba93b49
@@ -277,6 +279,7 @@ https://pawsdetectiveings.icu/log/err.php
 https://pawsdetectiveings.icu/log/select.php
 http://spins.pubgcompany.com/login/facebook
 https://plewebkvis.com/overview
+https://portalminhacausa.com.br/wp-content/themes/charity-ngo/framework/languages/reconnect/reconnect.htm?h=yexc@zeitohyform.com
 https://pplverify.resolvelimitations.tk/account/step-verification.php
 https://qnaqaaa08cowa.et.r.appspot.com/logi.html,
 https://queima-de-estoque-imperdivel.ddnsfree.com/Ofertas/Produtos/Smart-TV-58/TV-58/Smart-TV-4K-LED-58-Samsung-NU7100-Wi-Fi-HDR-Conversor-Digital-3-HDMI-2-USB.php
