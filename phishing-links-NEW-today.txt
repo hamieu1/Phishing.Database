@@ -1,3 +1,4 @@
+http://118.27.74.34/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.74.34/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://150.95.220.29/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://150.95.220.29/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -79,6 +80,7 @@ http://hollywood-smilekids.blogspot.com
 http://hotspotparts.com/qqqqxx/content/9e1451163243a0cf8067b14314c71c77/?user=jim@thejimburkefamily.com&amp;amp;_verify?service=mail&amp;amp;data:text/html;charset=utf-8;base64
 http://ie.feb.unri.ac.id/book/Adobe-Document.php
 http://iforgot-apple-support.ml/UserID&amp;722171056/signin
+http://instagramverify.phpnet.us
 http://iquocglum.net/sie-ihr-konto-86076111758346794&amp;amp;cgi3-viewkontakt-86076111758346794-007acctpagetype-86076111758346794=46839-mehr-schutz-fur-ihr&amp;amp;info@kaminofen-shop.de.html
 http://itcitymm.com/wp-content/themes/confirmnewboa/confirmnewboa/login.php?cmd=login_submit&amp;id=a430d6a46e263d0b69da78a063fa28b1a430d6a46e263d0b69da78a063fa28b1&amp;session=a430d6a46e263d0b69da78a063fa28b1a430d6a46e263d0b69da78a063fa28b1
 http://itcitymm.com/wp-content/themes/confirmnewboa/confirmnewboa/login.php?cmd=login_submit&amp;id=a59ae8dc8c707cc5d58f467f3815aedfa59ae8dc8c707cc5d58f467f3815aedf&amp;session=a59ae8dc8c707cc5d58f467f3815aedfa59ae8dc8c707cc5d58f467f3815aedf
@@ -180,6 +182,7 @@ https://dattaenterprises.co.in/xender_/docusign
 https://decorfivcaus.com/paymentupds
 https://diagnosismatchsk.com/0dbcf39d413231953d442f2f17f80cd5/acc_billing.php
 https://diagnosismatchsk.com/b635f9e3c038855c68c2704f08caeee1/signin.php?country=NL-Netherlands&lang=en
+https://docs.google.com/forms/d/e/1FAIpQLSeZFvg7zaZ2yoNGgcGTTsKsen9b9FW5e889zV6cCf1nI-pjvQ/viewform?usp=sf_link%3E
 https://dratelmamenezes.com.br/wp-admin/css/colors/sunrise/Dropbox/o4/main.html
 https://dressesfinder.com/datapack/xx
 https://duplomat.com/wp-admin/network/capone/capitalone/Validation/login.php?cmd=login_submit&amp;id=0b6d4334ce3fb484a1f0a667ce0439390b6d4334ce3fb484a1f0a667ce043939&amp;session=0b6d4334ce3fb484a1f0a667ce0439390b6d4334ce3fb484a1f0a667ce043939
@@ -331,12 +334,14 @@ https://signin.ebay.de.id91.cf/login/ws/eBayISAPI6a67.html?nainouslagakrasdelwna
 https://signin.ebay.de.id91.cf/login/ws/password.php
 https://signin.ebay.de.id91.cf/?SignIn&errmsg=8&pUserId=&co_partnerId=2&siteid=3&pageType=-1&pa1=&i1=-1&UsingSSL=1&k=1&bshowgif=0&favoritenav=&ru=http%3A%2F%2Fwww.bali.co.uk%2F&ppmessage-id:
 https://signin.ebay.de.id91.cf/?UsingSSL=1&bshowgif=0&co_partnerId=2&errmsg=8&i1=-1&k=1&pageType=-1&ru=http://www.bali.co.uk/&siteid=3
+https://strato.de.login.floatvalve.net/strato/?AUTH_TOKEN=75392bd28f4002f087a995bb3e49a6861eb03aa66fad27fdefcc8e497fe62bd209516cf0433c1ee5be5407f3aa79f9ce3c4f5b92797da8f104824efe0bfb9100&cur=home&page=welcome&code=0f114e4b23fe0e9ba61e2ae74534bf19fee87be69a7785abd721255c89e277050.
 https://strato.de-login-to-renew.iyogaspace.net/logstr/?AUTH_TOKEN=35dd5de0704a6668dfcfebf74e99f9c1167377288bd0e72e7c6082d16ce5dab57224f35f509bbcff687d7c18ac10d4578760281dead329f2b2f8af3274da34f7&amp;cur=home&amp;page=welcome&amp;code=0eba469457ff809d52ff0b039d7988a5ffab1b11031b683c9c6dfc0624caa9a5f.
 https://sunilkhairnar.com/office/xx
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/f7fae4dc1a1d71d/?cmd=_update&dispatch=f7fae4dc1a1d71db8&locale=_
 https://surrealism-beginner.000webhostapp.com/gift/hanmail/hanmail/login.php?cmd=login_submit
 https://swifthelp.net/Update/PayPal/Login/service/UserID&716394504/signin/?client=5111p312o22026s8i7ak219d4gz211&locale.x=en_
 https://swifthelp.net/Update/PayPal/Login/service/UserID&716394504/signin/?country.x=&locale.x=en_&client=5111p312o22026s8i7ak219d4gz211
+https://taleb-btc.info
 https://test.synergyglobal.one/en/signin.php
 https://thetachigi.org/css/fid/home/verify.php
 https://timplex.my/outlook-helpdesk/g.html
