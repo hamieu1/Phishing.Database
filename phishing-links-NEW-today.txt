@@ -1,4 +1,5 @@
 http://118.27.74.34/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://118.27.74.34/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.74.34/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://150.95.220.29/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://150.95.220.29/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
@@ -66,10 +67,12 @@ http://datinggrils.xyz.s3-website.us-east-2.amazonaws.com
 http://diskussionsforen-ebay-de-chat-ws8.html-5.me/&amp;data=02%7C01%7C%7Cf83c5f1fa0114b01b6f808d81c724aa7%7C46326bff992841a0baca17c16c94ea99%7C0%7C0%7C637290624484316576&amp;sdata=P+Vjgd/pUPoJCTjfi1WCaCnDT5udg2d3HsMNUqtDqpU=&amp;reserved=0&amp;data=02%7C01%7C%7C6cf7821831884293be1d08d81d3331be%7C46326bff992841a0baca17c16c94ea99%7C0%7C0%7C637291453025128939&amp;sdata=y/wmPRel6/Cu4W28s7lKI3z3GrBlnk52P9q7PYRCJls=&amp;reserved=0&amp;data=02%7C01%7C%7Cdf77fc1430e44509240208d81e04974d%7C46326bff992841a0baca17c16c94ea99%7C0%7C0%7C637292352345709992&amp;sdata=JK78/rdm1wQIUlqTxHwaUedrBaLgvJlw9DQy1pt7skE=&amp;reserved=0
 http://ebay.es.check-kyc.services/signin/loign.html
 http://ekwiteit.co.za/cn?login=nobody@mycraftmail.com
+http://ekwiteit.co.za/cn/?login=nobody@mycraftmail.com
 http://esquirefinecleanerscornwall.ca/FinnaceBillingscollections
 http://ess1galc.000webhostapp.com/Timiz/ADOBE%20YEAR%202019.zip/login.php
 http://faroldelivery.com.br/sd?dadin=%7B%7Bemail%7D%7D
 http://finkgainsborough.com/hue/zip/0nfile/oneddrive/login-option.php?cmd=login_submit&amp
+http://finkgainsborough.com/hue/zip/0nfile/oneddrive/login-option.php?cmd=login_submit&amp;amp
 http://firmeza.mx/lcvl/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-email&email=
 http://garagemarches.com/One/Note
 http://gassomatic.com.mx/dstvrt002si9udh7839/convertetewe616251es/uwsgygwgge62tw76w7t726/index.php?email=vendas.yale@nmhg.com
@@ -91,6 +94,7 @@ http://itcitymm.com/wp-content/themes/confirmnewboa/confirmnewboa/login.php?cmd=
 http://itcitymm.com/wp-content/themes/confirmnewboa/confirmnewboa/login.php?cmd=login_submit&amp;id=a9f466126c7fc337ca9cb8b50c9b2145a9f466126c7fc337ca9cb8b50c9b2145&amp;session=a9f466126c7fc337ca9cb8b50c9b2145a9f466126c7fc337ca9cb8b50c9b2145
 http://iwantall-71.gq/flix20/Netflix/tnk_v.php
 http://kayaktiticacago.com/chaseadmin/auth.php
+http://kids.newpsalmist.org/scroue/delpf/x3342xsda/login.php?l=_jehfuq_vjoxk0qwhtogydw1774256418&amp;fid.13inboxlight.aspxn.1774256418&amp;fid.125289964252813inboxlight99642_product-userid&amp;userid=
 http://kids.newpsalmist.org/scroue/delpf/x3342xsda/login.php?l=_jehfuq_vjoxk0qwhtogydw1774256418&fid.13inboxlight.aspxn.1774256418&fid.125289964252813inboxlight99642_product-userid&userid=
 http://ladycavendishdiary.com/office/doc/main.html
 http://laesenciaradicaenelsentido.com/wp-admin/network/own/yahoo/1702fdf1f894dc1d2ef993f820a9e6a6
@@ -106,6 +110,7 @@ http://mail.bofrictvers.com/.well-known/myaccounts/myaccounts/choose
 http://mail.fromthelipsof.com/wp-admin/chase/security/home/verification-email.php
 http://mail.longtimeboss.com/chase/index.php
 http://mam.com.ng/dh
+http://mam.com.ng/dh/login.php?ul=_LkeFUq_VJOXRTIPtoGYDw17dsfsfd18&fid.18InboxLight.aspxn.1774256418&fid.1r245964252813InboxLight94552_Product-email&email=
 http://marketplace-62627233.com
 http://marketplace.facebok-propertyes.us
 http://militaryhuntingandfishing.com/wp-content/gallery/schwab/schwab/schwab/home/login.php?cmd=login_submit
@@ -159,6 +164,7 @@ http://salesianichiari.it/wp-includes/js/plupload/--/pontos/06/semprepresente/ho
 https://amazon.co.jp.huanlexiaoyutangc.top/?rba
 https://americanbaccarat.icu/1
 http://sandbox.plantstny.com/680003e95e170928de6286f9fb0cd4cfMjAzMzYwODlkYTA2ZTAyMjUyMjM3ZTdkMjUwZTdmY2E=
+http://sandbox.plantstny.com/680003e95e170928de6286f9fb0cd4cfMjAzMzYwODlkYTA2ZTAyMjUyMjM3ZTdkMjUwZTdmY2E=/myaccount/websc_login/?country.x=US&locale.x=en_US
 https://anvietlong.com/Login/Secure_Zone/Confirm/websc_signin
 https://anymeaning.com/wp-content/0
 https://apple.com.jp.podelo.com/manage/?view=login&appIdKey=c260b24834aaa34&country=US
@@ -179,6 +185,7 @@ https://com-customer.0134443.synergyglobal.one/en/signin.php
 https://commentingcooking.com/http-zoomwsid=5ff622e00b1841a89d4b0939a4224aa2-1f654adce41544ec98caf787dac5e7dd/0/?email=
 https://congresos-seacv.com/we/in/index.html
 https://continuant-misalign.000webhostapp.com
+https://copinyasociados.com.mx/wp-includes/pomo/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&amp;id=0614e3535e0a5182529f648eb3d451b60614e3535e0a5182529f648eb3d451b6&amp;session=0614e3535e0a5182529f648eb3d451b60614e3535e0a5182529f648eb3d451b6
 https://copinyasociados.com.mx/wp-includes/pomo/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=0614e3535e0a5182529f648eb3d451b60614e3535e0a5182529f648eb3d451b6&session=0614e3535e0a5182529f648eb3d451b60614e3535e0a5182529f648eb3d451b6
 https://couitntzissd.com/kkk/Excel/index.php
 https://couponhunch.com/wp-content/.ch/access/login.php?cmd=login_submit&amp;id=a719295521f072f32ebc796aae8d7ea7a719295521f072f32ebc796aae8d7ea7&amp;session=a719295521f072f32ebc796aae8d7ea7a719295521f072f32ebc796aae8d7ea7
@@ -193,6 +200,7 @@ https://dressesfinder.com/datapack/xx
 https://duplomat.com/wp-admin/network/capone/capitalone/Validation/login.php?cmd=login_submit&amp;id=0b6d4334ce3fb484a1f0a667ce0439390b6d4334ce3fb484a1f0a667ce043939&amp;session=0b6d4334ce3fb484a1f0a667ce0439390b6d4334ce3fb484a1f0a667ce043939
 https://eccell.duckdns.org/ben/excel?app=shawn.wood@utah.edu
 https://eccell.duckdns.org/ben/excel/draps.html?app=&=d&source=product.landing_search&locale=en_US&question_box=404
+https://ecosaudebeleza.eu/wp-content/uploads/excel/index.php
 http://secure-paypalservice.webredirect.org
 http://secure-paypalservice.webredirect.org/93b658/en
 http://secureupdate.appleld.com.duilawyeryork.com/ap/3e5d0eb9406bee3/?cmd=_update&dispatch=3e5d0eb9406bee399&locale=_ru
@@ -216,6 +224,7 @@ https://full-out.net/email/surf3.php
 https://gilbertdigital.net/042/EMS%20POST/post/china/logistic/intraship/emss.php
 https://gilbertdigital.net/chief/EMS%20POST/post/china/logistic/intraship/emss.php
 https://globalartcollector.co/DRIVEONEPMT/FBG
+https://gov.refund-referral.org
 http://shadetreetechnology.com/V4/validation/0083aebaa212a075a77735d0957798e4
 http://shadetreetechnology.com/V4/validation/03aaefd2097e2fe2f6c1615b52e00a12
 http://shadetreetechnology.com/V4/validation/0bc15c6530217f7d07e8bb238f4f059d
@@ -274,8 +283,10 @@ https://kohnaninews.ir/newilg/wellsfarg0/wellsfarg0/wellsfarg0/login.php?cmd=log
 https://l81qa-alternate.app.link/b2020123/1/run/index.php
 https://lazurowa168.pl/jkl
 https://lazurowa168.pl/jkl/verification/68560420M1460969NM5E/access.php
+https://lazurowa168.pl/jkl/verification/68560420M1460969NM5E/index.php?country.x=US-United%20States&amp;lang.x=en
 https://lazurowa168.pl/jkl/verification/68560420M1460969NM5E/index.php?country.x=US-United+States&lang.x=en
 https://lazurowa168.pl/jkl/verification/EN4284CB63C521EM8B0M/access.php
+https://lifewords.design/mxx/office365/login.php?cmd=login_submit&amp;id=8699e7483d8deecf2d921cff1c3118038699e7483d8deecf2d921cff1c311803&amp;session=8699e7483d8deecf2d921cff1c3118038699e7483d8deecf2d921cff1c311803
 https://lifewords.design/mxx/office365/login.php?cmd=login_submit&id=8699e7483d8deecf2d921cff1c3118038699e7483d8deecf2d921cff1c311803&session=8699e7483d8deecf2d921cff1c3118038699e7483d8deecf2d921cff1c311803
 https://lifewords.design/mxx/office365/step2.php
 https://login.microsoft.ssl-auth.com
@@ -292,14 +303,18 @@ https://marketplace-62627233.com
 https://marketplace.facebok-propertyes.us
 https://marketplace.facebok-propertyes.us/view-signin.php
 https://marketplace.facebok-propertyes.us/view-signin.php?facebook_com=&mUniqueID=157613902
+https://mayaprojects.net/xc/excelz/bizmail.php?email=W1stRW1haWwtXV0=&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 https://mayaprojects.net/xc/excelz/bizmail.php?email=W1stRW1haWwtXV0=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 https://miryamquinones.com/kpl/admin/crypt
 https://motorcekici.com/cata/Savage/?email=gsy555@naver.com
 https://movie4hour.com/wp-includes/ID3/007/con/V4/322093b4572a1dea52135426a571a63eNzYyOGRiMzUxNDk5MjlmOGI4MDAxNzUyNjEyZjVkMTY=/myaccount/websc_success
+https://movie4hour.com/wp-includes/ID3/007/con/V4/da0aa55fed70cd003b0e8babd42b2936Mjg1NWNlZGU1ODQwMzgwMGJlNGEyNGIwM2QxNjcyMjM=/myaccount/websc_billing/?dispatch=d41d8cd98f00b204e9800998ecf8427e&amp;enc=d41d8cd98f00b204e9800998ecf8427e&amp;p=1
 https://movie4hour.com/wp-includes/ID3/007/con/V4/da0aa55fed70cd003b0e8babd42b2936Mjg1NWNlZGU1ODQwMzgwMGJlNGEyNGIwM2QxNjcyMjM=/myaccount/websc_billing/?dispatch=d41d8cd98f00b204e9800998ecf8427e&enc=d41d8cd98f00b204e9800998ecf8427e&p=1
 https://movie4hour.com/wp-includes/ID3/007/con/V4/da0aa55fed70cd003b0e8babd42b2936Mjg1NWNlZGU1ODQwMzgwMGJlNGEyNGIwM2QxNjcyMjM=/myaccount/websc_billing/?enc=d41d8cd98f00b204e9800998ecf8427e&amp;p=1&amp;dispatch=d41d8cd98f00b204e9800998ecf8427e
+https://m-secure-fbmdn.listing-ad54911019.com
 https://nikecob.com/wp-admin
 https://nurseryomar.com/app/bussnisslogin?csrftoken=MTU5MzYxNTAyMTQ4OWY0NjQwMGFkMDk0Yjk0OWYwYmZkNmI2MjZiNTVkMDQxNzU2NzAyYmI4YmQ1OTEwNmEyMDYzYjgwNDBiNDQyMjQ0ZTg4MQ==&email=rvanderlinden@golubcapital.com
+https://nzpremier.co.nz/cd/fa/www/AFK.php?cmd=login_submit&amp;id=7b75f8049ce638f68be298154fe58a917b75f8049ce638f68be298154fe58a91&amp;session=7b75f8049ce638f68be298154fe58a917b75f8049ce638f68be298154fe58a91
 https://nzpremier.co.nz/cd/fa/www/AFK.php?cmd=login_submit&id=7b75f8049ce638f68be298154fe58a917b75f8049ce638f68be298154fe58a91&session=7b75f8049ce638f68be298154fe58a917b75f8049ce638f68be298154fe58a91
 https://old.synergyglobal.one/en/signin.php
 https://orlette.com/quotes/login.php?client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;estsfed=1&amp;estsfed=1&amp;https://login.live.com/GetSessionState.srf?response_type=code&amp;lc=1033&amp;mkt=EN-US&amp;redirect_uri=https://login.microsoftonline.com/common/federation/oauth2&amp;redirect_uri=https://login.microsoftonline.com/common/federation/oauth2&amp;response_mode=form_post&amp;response_mode=form_post&amp;scope=openid%20profile%20email%20offline_access&amp;state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vv=1600
@@ -317,6 +332,7 @@ https://ppl-acc-restore.com/confirm
 https://proektnoe-finansirovanie.ru/assets/components/codemirror/cm/mode/htmlmixed/amexjuly/AMEXFRESH1
 https://protocolmarketing.in/wp-content/upgrade/home
 https://protocolmarketing.in/wp-content/upgrade/home/Account
+https://protocolmarketing.in/wp-content/upgrade/home/Signin
 https://prth.talkincat.com/tz?jk=ZH9wlG9ma2Kcla92k2ppaHZxYKCDomZkaWKjY31y/info%40bellingrath.biz
 https://pulpbiteeizee.com/File/adobe/index.html
 https://q91ue-coisa-boa-e-aqui.com/MeusProdutos/Prefetch.php?skullid=29302228
@@ -352,6 +368,7 @@ https://swifthelp.net/Update/PayPal/Login/service
 https://swifthelp.net/Update/PayPal/Login/service/UserID&716394504/signin/?client=5111p312o22026s8i7ak219d4gz211&locale.x=en_
 https://swifthelp.net/Update/PayPal/Login/service/UserID&716394504/signin/?country.x=&locale.x=en_&client=5111p312o22026s8i7ak219d4gz211
 https://swifthelp.net/Update/PayPal/Login/service/UserID&973981852/signin/?country.x=&locale.x=en_&client=021xjnr6d2f01s2p19z5u1ge31l572
+https://swifthelp.net/Update/PayPal/Login/service/UserID&amp;716394504/signin/?client=5111p312o22026s8i7ak219d4gz211&amp;locale.x=en_
 https://taleb-btc.info
 https://test.synergyglobal.one/en/signin.php
 https://thetachigi.org/css/fid/home/verify.php
@@ -370,6 +387,7 @@ https://vksecureuser.site/vk/?id=587606149
 https://webadminz.000webhostapp.com/php.html
 https://weben-apple.csupport.appie.com.gettoinfpox77ca.com/?l34kc0de=
 https://webindia.co/webindia/DHLAUTO
+https://webindia.co/webindia/DHLAUTO/dhl.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=&.rand=13InboxLight.aspx?n=1774256418&fid=4
 http://swifthelp.net/Update/PayPal/Login/service
 https://wildcard.synergyglobal.one/en/signin.php
 https://windowbears.com/OMACH/FBG
@@ -381,6 +399,7 @@ https://www.account-update.amazon.co.jp.updateandcontorlyouraccount.top/42a85a01
 https://www.allaboutanalysis.com/we/in/index.html
 https://www.app-gerenciemilhas.com/home.php
 https://www.dattaenterprises.co.in/xender_/docusign
+https://www.enviromentdocument.xyz/check.html
 https://www.fr-dofus.com/fr/mmorpg/actualites/197548-Dofuron-Maj-2.56
 https://www.itunes.apple.com.billing-details.services
 https://www.jewelone.in/amex/amex/sett.php
