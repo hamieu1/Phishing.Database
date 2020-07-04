@@ -211,6 +211,7 @@ http://ericgoodlifejohnson.com/.com
 http://exaltist.com/wordpress/wp-includes/js/tinymce/utils/page/index.html
 http://facebook.oliverjanz.com
 http://facebook.starsacademy.ml
+http://faturasorteada.com
 http://fayezhang.com/raiffeisen/lograiffeisenFull
 http://fayezhang.com/raiffeisen/lograiffeisenFull/kred.php
 http://fayezhang.com/raiffeisen/lograiffeisenFull/sms2.php
@@ -729,6 +730,7 @@ https://www.aritar.in/lang/home/home/Identification.php
 https://www.aritar.in/lang/home/home/verification-email.php
 https://www.aritar.in/lang/home/home/verification.php
 https://www.atendimentocooperativa.com
+https://www.autoatendimentomobille.com/home.php
 https://www-bcpzonasegurabeta-viabcp-compe.info/actualiza/seguridad/datos/inicia-sesion
 https://www.buloneraoeste.com.ar/wp-content/plugins/images/dswag/V!RUS/login/myaccount/signin/?locale.x=en_
 https://www.chat.whatsapp.sange.getsviip7.com/login.php
@@ -845,6 +847,7 @@ http://www.gradshower.com/wp-content/plugins/Update/bancor
 http://www.gradshower.com/wp-content/plugins/Update/bancor/98f4bdfa854dd48802276c2feeca5462/auth.php
 http://www.gradshower.com/wp-content/plugins/Update/bancor/98f4bdfa854dd48802276c2feeca5462/info.php
 http://www.gradshower.com/wp-content/plugins/Update/bancor/a13823eca0aaca046f27fba623c194aa
+http://www.gradshower.com/wp-content/plugins/Update/bancor/a13823eca0aaca046f27fba623c194aa/auth.php
 http://www.gradshower.com/wp-content/plugins/Update/bancor/b5eb0ddca0c0d84486a2fa0bc4d8ba12
 http://www.grouppjoin.viiptv.com
 http://www.gs4bf.com/indexre.php
