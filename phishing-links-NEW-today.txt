@@ -4,6 +4,7 @@ http://150.95.220.191/ap/signin?key=a@b.c
 http://160.251.0.68
 http://174.139.46.86/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&ref_=nav_em_hd_clc_signin
 http://18r.f02.myftpupload.com/paypal/paypal/7c9bbb7b41ff0ece1fbd06f5b116566eYTI5MTljNWZiODA3ZGZmNzExNjQ2MTRjN2NiYmVmMWE=
+http://193.37.212.92/VAHDFC.6TCDGBV.SMART/SMARTHG9376S/28402C
 http://2gether2jfs.000webhostapp.com
 http://4794418-dot-phonic-obelisk-274214.uk.r.appspot.com
 http://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;amp
@@ -22,6 +23,7 @@ http://a20.4bf.myftpupload.com/paypal/paypal/6b997efdc927a984681bd3cba8f6b244MmQ
 http://account.rakuten.co.jp.rakuten-account.monster
 http://account-update.amazon.co.jp.djwe1fw36-ew-36qc.co
 http://aienergy.co/fonts/cbt_options-social-icons.json.htm
+http://akmaterials.net/.bank/login/auth.php
 http://alnasirlab.com/mhsn
 http://amandagolins.000webhostapp.com/registro1.html
 http://amanda-johnson.com/asf/33f7c4bacffec0b0d3e3f8974ad34d28/view/login.php?userid=
@@ -114,6 +116,7 @@ http://digitalflashbacks.ca/support/customer_center/customer-IDPP00C887/myaccoun
 http://digitalflashbacks.ca/support/customer_center/customer-IDPP00C887/myaccount/identity/?cmd=_session=US&amp;7c68a138d24919e86a2d22f8200c8686&amp;dispatch=3f8f4f5b7c5008c6f4b5ecf8eaeb469d8f3e426f
 http://diplomatplastic.com/glass/normal.html
 http://directmeetup.me/mgbc24
+http://doblecinco.com.ar/galerias/wp-link
 http://drcur.smevmail.com/index.php?id=6741e888c8eaa649c1a616ffd2104e6d&amp;on=1&amp;response_type=code&amp;email=fofa@yahoo.com&amp;date=1593272380&amp;token=ebcd5b8338278a6cc45878eba0923930
 http://dreamersden.in/Contact/signin
 http://ebay.com-itm-123894550973.item-78.com
@@ -134,6 +137,7 @@ http://eyudt.top/pay/error
 http://eyudt.top/pay/paypal
 http://fakih.net/dev/wp-content/upgrade/files/logs/update-your-account-information/security-measure/log-in/signin?country.x=ro&amp;amp
 http://faturasorteada.com/~/index.html
+http://faturasorteada.com/~/index.html?GMK9uQnfohrVd5lGcr6CTbSmNhIgC/e5g3YReQ6omQk1apj4cpv8w7NW-iGg6fC#WudX6lN41GgMRDaHGkFqWN4
 http://faturasorteada.com/~/login
 http://fb-buy-trade-sell.club
 http://fb-checking-update.tankprankers.com/confirmation.html
@@ -146,6 +150,7 @@ http://fb-recovery-200000765732020.my.id/update_security.htm
 http://fb-swap-trade.club
 http://fc8010210001901-com.preview-domain.com
 http://fndsdaytings.com/r/737c1b1e-c03b-4d4f-9387-ee4e8c5e9a01/5eeb9ff395b81124151
+http://freegiftcardd.000webhostapp.com/Payment-update-01.html?fb_source=bookmark_apps&amp;ref=bookmarks&amp;count=0&amp;fb_bmpos=login_failed
 http://freegiftcardd.000webhostapp.com/Payment-update-01.html?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed
 http://freegiftcardd.000webhostapp.com/Payment-update-0.html?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed
 http://freegiftcardd.000webhostapp.com/recovery-answer.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed
@@ -195,8 +200,11 @@ http://ing.pyctor.network
 http://instagramsupport.rf.gd
 http://invesku.com/Amazon/Amazon/Amazon/Amazon/Amazon/Billing_Center/login.php
 http://invesku.com/Amazon/Amazon/Amazon/Amazon/Amazon/Billing_Center/login.php?action=billing_login=true&amp;_session;c75ea2a77201819cc29a8c2a3eb04750c75ea2a77201819cc29a8c2a3eb04750
+http://iqfilms.com/Auth/260850859231fabbecc8e2f8e7ef4374MmI4ZjAwYmE3Y2U0Zjk0ZjI5ZDI5NWUwMWY1NWVjYTY=/resolution/websc_login/?country.x=RO&amp;locale.x=en_RO
 http://iqfilms.com/Auth/260850859231fabbecc8e2f8e7ef4374MmI4ZjAwYmE3Y2U0Zjk0ZjI5ZDI5NWUwMWY1NWVjYTY=/resolution/websc_login/?country.x=RO&locale.x=en_RO
+http://iqfilms.com/Auth/4b4f58a20404ded5e75a4622a7beb921YjViYjhhODhmNTE5YWFlYjMxMzJmM2UyYTAwZDJkMTc=/resolution/websc_login/?country.x=US&amp;locale.x=en_US
 http://iqfilms.com/Auth/4b4f58a20404ded5e75a4622a7beb921YjViYjhhODhmNTE5YWFlYjMxMzJmM2UyYTAwZDJkMTc=/resolution/websc_login/?country.x=US&locale.x=en_US
+http://iqfilms.com/Auth/57dfaaed925987a1c0b5f3b40e2c2b68NDM0NWMzZWNiYzdlNWNiZmE5NWI0YzQ3ZWZiYWU5NzM=/resolution/websc_login/?country.x=JP&amp;locale.x=en_JP
 http://iqfilms.com/Auth/57dfaaed925987a1c0b5f3b40e2c2b68NDM0NWMzZWNiYzdlNWNiZmE5NWI0YzQ3ZWZiYWU5NzM=/resolution/websc_login/?country.x=JP&locale.x=en_JP
 http://iquocglum.net/sie-ihr-konto-3971616571225&amp;amp;cgi3-viewkontakt-3971616571225-007acctpagetype-3971616571225=1815813-mehr-schutz-fur-ihr&amp;amp;gutschlafenundwohnen@hilgenhaus.de.html
 http://iquocglum.net/sie-ihr-konto-753648905338955827&amp;amp;cgi3-viewkontakt-753648905338955827-007acctpagetype-753648905338955827=122808-mehr-schutz-fur-ihr&amp;amp;info@tito-express.de.html
@@ -399,6 +407,7 @@ https://customersupportcenter.co.in/retail/login.php
 https://dashboard.onpubg.com/login/facebook
 https://davekurier.com/oplata4
 https://davekurier.com/oplata4/millenium/bank
+https://delonatural.com
 https://dhldostawa.com
 https://docs.google.com/forms/d/1cftY9nPkgtssMgHl5uc070iUbDW-vRpa7sBpQQYOSCk/viewform?edit_requested=true
 https://docs.google.com/forms/d/1ObhqbcD01r85A0xr5Hxda0S5UcgLKfWMPC1F13eIaCk/viewform?edit_requested=true
@@ -440,6 +449,7 @@ https://getgohelp.com/at-amazon-tpl2/?s1=1CS&s2=e5488d4f-4034-404a-be3c-716a57ec
 https://gjdghjdhj.weebly.com
 https://gov.hmrc-returncalculate.com
 https://gov.hmrc-tax-gain.com
+https://granhongo.com/wp-includes/Login/customer_center/customer-IDPP00C824/myaccount/identity/?cmd=_session=US&amp;dispatch=3ca119e0036f5dd52757270e38d3b0322f965418
 https://grenadadevelopmentbank.com/EMS/post/china/logistics/ems.php?email=xuefei.mao@jinbei-auto.com
 https://gs-jewellery.com/admin/controller/extension/extension/noa434w
 https://gs-jewellery.com/admin/controller/extension/extension/noa434w/32a33824063ce7d7c747b0b67259beff/3refd.htm
@@ -450,6 +460,7 @@ https://hempmeds-my.sharepoint.com/personal/kevin_kannaway_com/_layouts/15/WopiF
 https://herenciaycafe.com/anse/erns.php
 http://shiningstarschildminding.co.uk/xhdj/excelzz
 https://hn-sprkasse-hsn1.cloudconnect57884.de/TfBHQo4g8qf4JnMOHXAC5j4tYf2jsvakS1FQQ9QPhCuyuqzTIamHnIdzq0l4JUOL/sparkasse/info
+http://shop.littleabd.com/.well-known/pki-validation/Medism
 https://hotelgrandpapua.com/enter/parcel/document/invoice/1767dd45d506a41ececa1a210eb631e3/deliveryform.php
 https://hotelgrandpapua.com/enter/parcel/document/invoice/30c8ba8ed7f9eab8f75b0ee118af7402/deliveryform.php
 https://hotelgrandpapua.com/enter/parcel/document/invoice/3b7232a83937f0ff5e34dcea5836477c/deliveryform.php
@@ -486,6 +497,7 @@ http://simontokonlineweb.000webhostapp.com/login/google/phone.php
 https://infopemblokiran2020.000webhostapp.com/FACEBOOK%20GUA/detail.php
 https://instagramhelpline.com/help
 https://instagram-verified-badge-form.naip.net
+https://instagramwebsecurity.cf
 https://invesku.com/Amazon/Amazon/Amazon/Amazon/Amazon/Billing_Center
 https://ionshoppingmall.ionliveradio940fm.net/Suncorp-personal.au/internetbanking.suncorpbank.htm
 https://ippko.site/#
@@ -645,6 +657,7 @@ https://secureweb.page-inc20487526.semuadfg.com/session/?appIdKey=3D&cou=
 https://secureweb.page-inc20487526.semuadfg.com/session/?appIdKey=3D&countr=
 https://secureweb.page-verify75689415.mekgsgsm.com/session/?view=login&appIdKey=&country=CA&error=1
 https://secureweb.page-verify75689415.qwerrwxc.com/session/?appIdKey=&country=US&view=login
+https://senatorsweeney.com/wp-admin/css/jsnew/login.php
 https://services.runescape.com-as.ru/m=forum/forums.ws154
 https://services.runescape.com-as.ru/m=forum/forums.ws154,667,824,21552238,1136
 https://sfofr32.000webhostapp.com
@@ -761,6 +774,7 @@ https://www18.fimdesemanatacomtudo.com/GthfSDIUmmPRA/1337/protuKcosdOE/495161500
 https://www19.oferta-exclusivas-precos-justos.com/ceNKDGbnSjXDc/1303/proqgEhxoRAv/1299774034/smartphone-xiaomi-redmi-note-8
 https://www20.exclusivo-mesdejunho.com/tLirElRzoyEKE/1313/proqHwKlMXov/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja?fbclid=IwAR00WH55ATP_B8pAfvnNIBLYQl2kmyG6qlTYEjUWz3Q1Gl_jdcZ5429K3j4
 https://www21.mesdejulhocompromocao.com/xZjFcpoQJsPog/1378/proqWxcOoFCf/134251382/smartphone-samsung-galaxy-a30-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-16mp-5mp-preto
+https://www2.amazonjp.info/err.php
 https://www3.wellsfargo.com.rmawnvd.xyz
 https://www40.magazin-promocao-mes-de-julho.com/prod7fbf8c38884be03b83bb59d52116d420lnk/smartphone-samsung-galaxy-a30s-64gb-preto-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/1555694/te/sa3s/?fbclid=IwAR16NX1YvLJA1aA_PDM18kpPFUHQGkLbQLtNLYyREdcotpo588WHF5yAHgs
 https://www40.painota10.com/prod0f676cb70fe68191fa341fb5a680fe0clnk/smartphone-samsung-galaxy-a30s-64gb-branco-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/1555696/te/galx?fbclid=IwAR3ZjwwGHmhez4goAOYcZ3cvVtGIQ1iCJJiKw8UVtOx0CKIEs91bijhWkuU
@@ -808,6 +822,7 @@ https://www.kavijagat.com/wp-content/cache/winbank/profile/index.html
 https://www.kskwn.de/de/home.html
 https://www.lnstaqrambluetick.cf
 https://www.lucky.onpubg.com/login/facebook
+https://www.m-checkinacess.com/confirmacao
 https://www.mk12.com.br/wp-admin/ems/post/china/logistic/intraship
 https://www.operador-telefonica.eu/dkb/q99550/00951124a.php?web=succes&amp;local=_&amp;id=60843518
 https://www.polyformalin.com/wp-includes/theme-compat/white
@@ -886,6 +901,7 @@ http://wereldpas-recyclings-proces.ihchart.ir/index.php/false/py1n.html/discover
 http://wereldpas-vervang.com/panelx.php
 http://ww17.login-appleid.apple.com.alert-wode.com/?fp=r0q58tnvktv5kwfr1po8uz6q2cdkwplm/ohu5k7hl4dpwhe42vfnlidbfpmjuuy1nrswz5zexzpduvu3gndryz4z2vzfjm9dpbvotuqaftcktznrqt8skf8cqs/3orns9lyclzmdrz%209prpczzuyfzkx38lkf/vstxywnhi9o0o=&amp;amp
 http://www26.menor-preco-so-na-magalu.com/prod7f2e8e73f28d8c53e4586153a4e5c362lnk/smartphone-xiaomi-redmi-note-8-64gb-azul-neptune-blue-4gb-ram-63-cam-quadrupla-cam-selfie-13mp/p/2252009/te/red8/?fbclid=IwAR2XDExVugfXl0OWf4r-A9di6Ttc8ybK8l3FNHdIFcXxM2MxHLWzdXqPx4c
+http://www2.amazonjp.info
 http://www.about.facebook-page.business-id-145654234324234.com
 http://www.accounthelpers.com
 http://www.amazon.vendor.central.acc-info.com
