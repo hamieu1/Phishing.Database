@@ -7,6 +7,8 @@ http://174.139.46.90/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=h
 http://174.139.46.92/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://174.139.46.92/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://20200706122922.entrecos.cloudns.cl/pacts/?672=9j5s0ync6&
+http://204.44.85.63
+http://2a7619be102970422.temporary.link/AZ0FQ66QDGZ5RG68EG7FDF4DSMOL/0H6RJ32D2ZERA9T89R9888ER/V0B5V62ERGEG5VC26SGB52V0R
 http://45.135.118.144/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://770tree.com/bount.html
 http://86g8ur.000webhostapp.com
@@ -53,6 +55,7 @@ http://boringglaucomat.com/Chase/auth.php?country_x=3D&amp;locale-8731002x=
 http://bravobravo.me/movox
 http://bustv.in/.well-known/pki-validation/pronegotiation/search_results/getthumbnail/bemvindo/insertcupon.php?seed=nf1fh012hdv5wdd&amp;produce=sense&amp;base=region
 http://c695d96d092970391.temporary.link/5ZE4GRE6F8R65F65F1NBMFPEZE8GR/ZZGH9EF63AF0G5FSFBNPZEOIRE/036GR6Z/987654dhl-information-contact.html
+http://c695d96d092970391.temporary.link/5ZE4GRE6F8R65F65F1NBMFPEZE8GR/ZZGH9EF63AF0G5FSFBNPZEOIRE/036GR6Z/ossawaiting-for-load-track-number.html
 http://carewanderlust.com/wp-content/plugins/acf-field-date-time-picker/js/localization/Mirabilis
 http://chaserequest-001-site1.itempurl.com
 http://chaserequest-001-site1.itempurl.com/authmail.html
@@ -106,6 +109,7 @@ http://iconsultasapple.com/index.php/2019-07-19_dw
 http://inner-nuance-269123.ue.r.appspot.com/billing.php?cmd=update_submit&amp;id=2936a7a039d5a503a2bff81dea9963782936a7a039d5a503a2bff81dea996378&amp;session=2936a7a039d5a503a2bff81dea9963782936a7a039d5a503a2bff81dea996378
 http://inner-nuance-269123.ue.r.appspot.com/billing.php?cmd=update_submit&id=2936a7a039d5a503a2bff81dea9963782936a7a039d5a503a2bff81dea996378&session=2936a7a039d5a503a2bff81dea9963782936a7a039d5a503a2bff81dea996378
 http://iquocglum.net/sie-ihr-konto-33984741905155&amp;amp;cgi3-viewkontakt-33984741905155-007acctpagetype-33984741905155=947893-mehr-schutz-fur-ihr&amp;amp;info@agrarking.de.html
+http://jibun-tm.com
 http://joindewasa.qpoe.com
 http://joindewasa.qpoe.com/login.php
 http://joingrupbokepnew-08.holl15.com
@@ -150,6 +154,7 @@ http://pplinkpo.000webhostapp.com
 http://pplinkpo.000webhostapp.com/login.php?cmd=login_submit&amp;id=dad8e53d1a4d917e1479ac1f27b6e3cfdad8e53d1a4d917e1479ac1f27b6e3cf&amp;session=dad8e53d1a4d917e1479ac1f27b6e3cfdad8e53d1a4d917e1479ac1f27b6e3cf
 http://pplinkpo.000webhostapp.com/login.php?cmd=login_submit&id=375d18b51e73742f97fe43a5c5d7263e375d18b51e73742f97fe43a5c5d7263e&session=375d18b51e73742f97fe43a5c5d7263e375d18b51e73742f97fe43a5c5d7263e
 http://pplinkpo.000webhostapp.com/login.php?cmd=login_submit&id=dad8e53d1a4d917e1479ac1f27b6e3cfdad8e53d1a4d917e1479ac1f27b6e3cf&session=dad8e53d1a4d917e1479ac1f27b6e3cfdad8e53d1a4d917e1479ac1f27b6e3cf
+http://purabiinsurance.com/wp-content/themes/0nfile/0nfile/oneddrive/login-option.php
 http://purabiinsurance.com/wp-content/themes/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&amp;id=ee4d73e63b13dc9384b6dbf8621d517aee4d73e63b13dc9384b6dbf8621d517a&amp;session=ee4d73e63b13dc9384b6dbf8621d517aee4d73e63b13dc9384b6dbf8621d517a
 http://purabiinsurance.com/wp-content/themes/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=ee4d73e63b13dc9384b6dbf8621d517aee4d73e63b13dc9384b6dbf8621d517a&session=ee4d73e63b13dc9384b6dbf8621d517aee4d73e63b13dc9384b6dbf8621d517a
 http://qweiall.com/COSTCO/Finance/atb/details.php
@@ -278,6 +283,7 @@ https://marketplace-6635272.com/m.html
 https://marketplace-8385382.com/m.html
 https://markgmyrek.com/Christina%20Lavieri/mazon/amazon
 https://mauinibkp.toh.info/login.php
+https://melaniedandrea.com/tovlsk3kd/nptoris/currentevents/demoexpired/tag_data.php?ancient=tesf1hrv1r1nb00s&amp;mind=store&amp;spring=suddenly
 https://mettlelawchambers.com/ak/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&amp;id=2184f27b1b0d3400c85872e62268dc062184f27b1b0d3400c85872e62268dc06&amp;session=2184f27b1b0d3400c85872e62268dc062184f27b1b0d3400c85872e62268dc06
 https://mettlelawchambers.com/ak/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=2184f27b1b0d3400c85872e62268dc062184f27b1b0d3400c85872e62268dc06&session=2184f27b1b0d3400c85872e62268dc062184f27b1b0d3400c85872e62268dc06
 https://mfbtermsreqoestorecov.000webhostapp.com/peymants%20opdette%200.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count
@@ -382,9 +388,11 @@ https://support-appleld.com.secureupdate.duilawyeryork.com/ap/6e230ad6ed5cf09?cm
 https://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?country.x=LU&amp;locale.x=_LU
 https://tg65-htd2-hfc-hdd8-attt-gv5.weebly.com
 https://the6figuresalesfunnel.com/itlhfhfhtfjlds/nridistribution.com/office_365_authentication
+https://the6figuresalesfunnel.com/itlhfhfhtfjlds/nridistribution.com/office_365_authentication/office.php?01DbKJ159409446950f4a2e8fb9bd18a6ef0a5868aacee1750f4a2e8fb9bd18a6ef0a5868aacee1750f4a2e8fb9bd18a6ef0a5868aacee1750f4a2e8fb9bd18a6ef0a5868aacee1750f4a2e8fb9bd18a6ef0a5868aacee17
 https://the6figuresalesfunnel.com/itlhfhfhtfjlds/nridistribution.com/office_365_authentication/office.php?AeeKGL1594087685717b9a25b1df27674fb1fb49a8f6dc37717b9a25b1df27674fb1fb49a8f6dc37717b9a25b1df27674fb1fb49a8f6dc37717b9a25b1df27674fb1fb49a8f6dc37717b9a25b1df27674fb1fb49a8f6dc37
 https://tiendaviva.co/?v=42983b05e2f2
 https://tr4f-6tjk-f24v-attt-vlpf3.weebly.com
+https://transmigrantseahorse.htmlpasta.com
 https://travel-trends.net/mkbb/mkbnetbankar.hu/index.htm
 https://travel-trends.net/sdn/mkbnetbankar.hu/index.htm
 https://trez0r.com
@@ -407,6 +415,7 @@ https://webmail-msn-live1.com.ng/kaka/login.php?ul=_LkeFUq_VJOXRTIPtoGYDw17dsfsf
 https://web-official.ddnsking.com/secure/cmd-login=6d218b637aaa309c210d7a86059de41b/validate.php?src=DluZDluZHNmNDBlb2RzaDluZHNmNDDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbHNmNDBlb2RzaTRDluZHNmNDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbZWppZXdpb2U5NDluZHNmNDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpb25ja29uc2NrIGtjIGtqIHZqayBj&email=
 https://werkdashborde.com/updatevify/login.php?cmd=login_submit&id=c0dc65054d2383598a3e8489d3068390c0dc65054d2383598a3e8489d3068390&session=c0dc65054d2383598a3e8489d3068390c0dc65054d2383598a3e8489d3068390
 https://whitespringsatvolterras.com/newpaymentclaimslogin/FBG
+https://www15.atacado-varejo-compra-garantia.com/oXcNbIONVrMfA/1303/profQlhNUHad/1299774034/smartphone-xiaomi-redmi-note-8
 https://www20.hoje-ultimas-unidade-detv.com/PBvPDdUqzDvId/1091/proEFaWQAPTN/1237561068/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-vermelho
 https://www.abramansig.com.br/home-ID/secure
 https://www.account-update.amazon.co.jp.296b902abf12ea9b3488385ca60b54e0.buzz/?session_cookie=3lax2k8pfvsmoi2fkvokql7tpw0jyp9clavuowqu&amp;yenfsain5ayct0067gakli0l1rffdn7l=zf74wnkae0dohc3kclgkgkksfmcxenusemail=aaaa@example.jp&amp;04isyyfbyiqgmvxtbzpx86y94tmpzzii&amp;email=aaaa@example.jp
@@ -439,6 +448,7 @@ https://yahoomailaccountverificationloginllinepage.weebly.com
 https://yaloo-yourserver-20.000webhostapp.com/yaho/Sign_e.html
 https://yaloo-yourserver-20.000webhostapp.com/yaho/Sign_p.html
 https://your-online-ee-bill.000webhostapp.com
+http://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/success
 http://tipoffshusht.com/amazon/64d75584996135989e3a
 http://transmigrantseahorse.htmlpasta.com
 http://ttechttech.000webhostapp.com
