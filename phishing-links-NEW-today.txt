@@ -1,5 +1,8 @@
 http://0167189.synergyglobal.one/en/signin.php
+http://104.129.131.148/~instantauthentic/login.php?cmd=login_submit
 http://104.129.131.148/~instantauthentic/login.php?cmd=login_submit&amp;id=3d50cdd36e35f484461965df630347f23d50cdd36e35f484461965df630347f2&amp;session=3d50cdd36e35f484461965df630347f23d50cdd36e35f484461965df630347f2
+http://104.129.131.148/~instantauthentic/login.php?cmd=login_submit&amp;id=80acd2ebc110451b3d3c3aa58229d36a80acd2ebc110451b3d3c3aa58229d36a&amp;session=80acd2ebc110451b3d3c3aa58229d36a80acd2ebc110451b3d3c3aa58229d36a
+http://118.27.73.197/ap/signin?key=a@b.c
 http://150.95.222.245/ap/signin?key=a@b.c
 http://174.139.46.89
 http://174.139.46.89/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -10,6 +13,7 @@ http://174.139.46.92/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claim
 http://20200706122922.entrecos.cloudns.cl/pacts/?672=9j5s0ync6&
 http://204.44.85.63
 http://2a7619be102970422.temporary.link/AZ0FQ66QDGZ5RG68EG7FDF4DSMOL/0H6RJ32D2ZERA9T89R9888ER/V0B5V62ERGEG5VC26SGB52V0R
+http://3-recipient.com
 http://45.135.118.144/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://770tree.com/bount.html
 http://86g8ur.000webhostapp.com
@@ -177,10 +181,12 @@ http://reeboknanoxperts.com/digitalservices.fidelity.investmentsportal/home.php
 http://rhinopowerelectric.com/v4/validation/2bee3ebaf300061f9b3058659987e46b
 https://104.129.131.148/~instantauthentic/login.php
 https://104.129.131.148/~instantauthentic/login.php?cmd=login_submit
+https://104.129.131.148/~instantauthentic/login.php?cmd=login_submit&amp;id=1c71f7b50e0fb85fa7ece0a92daf43a71c71f7b50e0fb85fa7ece0a92daf43a7&amp;session=1c71f7b50e0fb85fa7ece0a92daf43a71c71f7b50e0fb85fa7ece0a92daf43a7
 https://104.129.131.148/~instantauthentic/login.php?cmd=login_submit&amp;id=60124d3861d7fd46b6f6ac2963e851c260124d3861d7fd46b6f6ac2963e851c2&amp;session=60124d3861d7fd46b6f6ac2963e851c260124d3861d7fd46b6f6ac2963e851c2
 https://104.129.131.148/~instantauthentic/login.php?cmd=login_submit&amp;id=8ba12a346d29d7b87c40064ffc7e1bdf8ba12a346d29d7b87c40064ffc7e1bdf&amp;session=8ba12a346d29d7b87c40064ffc7e1bdf8ba12a346d29d7b87c40064ffc7e1bdf
 https://104.129.131.148/~instantauthentic/login.php?cmd=login_submit&amp;id=aef9ec9ad5ea6011760c712e730ba6f7aef9ec9ad5ea6011760c712e730ba6f7&amp;session=aef9ec9ad5ea6011760c712e730ba6f7aef9ec9ad5ea6011760c712e730ba6f7
 https://191.233.198.107/loja/true/bask.php
+https://345987y45yu.000webhostapp.com/webmail.lf1.cuni.cz.html
 https://86g8ur.000webhostapp.com/login.php?cmd=login_submit
 https://account04paypal.serveirc.com/MONSTRONIX%20V1.1/7a411936bcb70511bbda510d4bc2f8bbYjBjNzAzNmU4OWNiZDczYjVhMjc5MTBmYmU3ZTgxZGQ=/resolution/websc_success
 https://acesso-apk.ml/home.php
@@ -229,6 +235,7 @@ https://buscar.iphone-maps.info/app
 https://churrasdelivery.com/wellsfargo/login.php
 https://clck.ru/PUNbB
 https://confiraeaproveitarsemanalinda.com/americanas/680878279/?smartphone-motorola-one-vision-128gb-dual-chip-android-pie-9.0-tela-6
+https://congressoagrotec.com.br/wp-includes/SimplePie/Content/Type/DHL2020/dhl//index.php?email
 https://creware.asia/icon/cpu/NetSUPP897398729792/net/01e9565cecc4e989123f9620c1d09c09
 https://crypto-musk.top/?gclid=1
 https://cupom3.motog-plus-8thgeneration.com/produto/1594065620/smartphone-motorola-g8-plus-64gb-azul-safira-4g-4gb-ram-tela-63-cam-tripla-cam-selfie-25mp/p/155567800/te/mg8p/&uid=7325212021
@@ -252,6 +259,7 @@ https://ethdrop.io
 https://ethfoundation.info
 https://etransfer.interac.ca-lap.best/sh/H804e3/cdnbnk/confirm
 https://etransfer.interac.ca-lap.best/sh/H804e3/cdnbnk/login.php?cmd_login_submit&amp;id_bcee442eaaa8a46086767cef1f4cb1c3bcee442eaaa8a46086767cef1f4cb1c3&amp;session_bcee442eaaa8a46086767cef1f4cb1c3bcee442eaaa8a46086767cef1f4cb1c3
+http://sevenbtk.com
 https://excel-auth-service.ml/newexcel/purchadept//index.php?login=user@example.com
 http://sex.evenxfree.com
 http://sex.evenxfree.com/login.php
@@ -348,6 +356,7 @@ https://oxance.fr/centres/bancor/2a03432d866a7a78455318b0c0b3f690/auth.php
 https://oxance.fr/centres/bancor/fddcbce2853ee42490599534f5386243
 https://oxance.fr/centres/bancor/fddcbce2853ee42490599534f5386243/auth.php
 https://oxance.fr/centres/bancor/fddcbce2853ee42490599534f5386243/info.php
+https://paczka-dpd.pl/so12nWuDHK/M6uVAg
 https://paczpocztex.online/B5r4vg20Y/MvSnJ4
 https://pahslnc.edu.np/boa.com/56aecf5e06eda340826c3c1fcf6c70bc
 https://pahslnc.edu.np/boa.com/82cefb8b5d4bf70e599f5607e75a7d4a
@@ -377,6 +386,7 @@ http://srv88676.ht-test.ru/itallain/siydfgigsidgskafdgisdfugiu/sodufhisud5me5fis
 https://rva-ltd.co.uk/chase/obachase/chaseU/login.php
 https://rva-ltd.co.uk/chase/obachase/chaseU/login.php?cmd=login_submit&amp;id=11928a026d3cb0de5d017e005439a82111928a026d3cb0de5d017e005439a821&amp;session=11928a026d3cb0de5d017e005439a82111928a026d3cb0de5d017e005439a821
 https://rva-ltd.co.uk/chase/obachase/chaseU/login.php?cmd=login_submit&amp;id=3ffd9b16ae17a1b43b6b49ed3e2408c63ffd9b16ae17a1b43b6b49ed3e2408c6&amp;session=3ffd9b16ae17a1b43b6b49ed3e2408c63ffd9b16ae17a1b43b6b49ed3e2408c6
+https://rva-ltd.co.uk/chase/obachase/chaseU/login.php?cmd=login_submit&amp;id=e4e63ab2a424344579c145a05155dbf8e4e63ab2a424344579c145a05155dbf8&amp;session=e4e63ab2a424344579c145a05155dbf8e4e63ab2a424344579c145a05155dbf8
 https://rva-ltd.co.uk/chase/obachase/chaseU/login.php?cmd=login_submit&amp;id=e9ea3bb123a99c42dcbd9e807fb03d46e9ea3bb123a99c42dcbd9e807fb03d46&amp;session=e9ea3bb123a99c42dcbd9e807fb03d46e9ea3bb123a99c42dcbd9e807fb03d46
 https://secure2.app.grandrapidscleanteam.com/Login
 https://secure2.app.grandrapidscleanteam.com/Login/Account?Update=Information
@@ -406,6 +416,7 @@ https://security-jpmorganchase.serveuser.com/myaccount/vbv.php?websrc=e17ea285ad
 https://security-jpmorganchase.serveuser.com/myaccount/vbv.php?websrc=e17ea285ad581008aac6b89b49ab879e&dispatched=78&id=6131251519
 https://security-jpmorganchase.serveuser.com/za1mwq=
 https://send.firefox.com/download/d1db1c0466c3d3f0/#NHHd0vyABc03jBHEG_CSSg
+https://sevenbtk.com/index.html
 https://sex.evenxfree.com/login.php
 https://shelves.co.tz/wp-admin/index.html
 https://shp-wallboards.com.au/controllers/front/b2020123/1/index2.php?https://account.1und1.de/home/particulares_esAssistanceDesktop/LoadLoginAssistance?type=pwd
@@ -509,6 +520,7 @@ http://u789144d5i.ha004.t.justns.ru/caID815601/AToo80465/3f7b2b5db54a5d7ac9c4671
 http://u789144d5i.ha004.t.justns.ru/caID815601/AToo80465/3f7b2b5db54a5d7ac9c46715e0b0b11625a0b42dfe51a4733f6d2beee57c6300aea011a99878900c94f3babcf1b17c2f/inderr.php?gUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3&ug=cudzMub3JnLzE5OTkveGh0bWwiPg0KICAgIDxoZWFkPg0KICAgICAgICA8dGl0bGU+IEFwcGxlI
 http://u789144d5i.ha004.t.justns.ru/caID815601/AToo80465/3f7b2b5db54a5d7ac9c46715e0b0b11625a0b42dfe51a4733f6d2beee57c6300aea011a99878900c94f3babcf1b17c2f/indx.php?gUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3&amp;ug=cudzMub3JnLzE5OTkveGh0bWwiPg0KICAgIDxoZWFkPg0KICAgICAgICA8dGl0bGU%20IEFwcGxlIC0gQ29uZ
 http://u789144d5i.ha004.t.justns.ru/caID815601/AToo80465/3f7b2b5db54a5d7ac9c46715e0b0b11625a0b42dfe51a4733f6d2beee57c6300aea011a99878900c94f3babcf1b17c2f/indx.php?gUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3&ug=cudzMub3JnLzE5OTkveGh0bWwiPg0KICAgIDxoZWFkPg0KICAgICAgICA8dGl0bGU+IEFwcGxlIC0gQ29uZ
+http://ueisueusklak.moonfruit.com
 http://user574nrtflix.tk/serviceid35678909543/red.html
 http://user69809809832789.el.r.appspot.com
 http://webpostmedia.com/Autokeep/Confirm/websc_signin
