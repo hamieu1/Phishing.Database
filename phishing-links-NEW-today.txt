@@ -5,11 +5,13 @@ http://174.139.46.95/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claim
 http://174.139.46.98/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://191.236.36.79:8080/accounts/lang/il
 http://191.236.36.79:8080/accounts/lang/il/314e8acaa9a76f5beca0eb5372dbad82/index.html
+http://53.com-customer.0167189.synergyglobal.one/en/signin.php?sessionid=ueknw69kwmmc3haenvnoss6faetlvemqs7dpdnjajwmnnx1bsppvhvasktdf80v17jql7avqgsdtpf4suunc0o4kshq1hw2pgtkndgej8inyxsqsneenci8v0ywivzhb2s&amp;sslchannel=true
 http://67.198.237.213
 http://67.229.29.14/ap/signin?key=a@b.c
 http://7294277277.margenal.org/index
 http://770tree.com/hnin.html
 http://addictionexplained.icu/log/select.php
+http://aeszcszs.000webhostapp.com/secure.htm
 http://alertspaqessystem.cf
 http://alethearsnyder.com/Michaela%20Cordes%20Square
 http://alethearsnyder.com/Michaela%20Cordes%20Square/index2.php
@@ -22,6 +24,8 @@ http://appmobileweb.com
 http://apps.satgob.club/app/device/inicio/aplicationDeviceFisica_webApp.php
 http://apps.satgob.club/app/device/inicio/aplicationInfoFisica_webApp.php
 http://athrluckyday0003.top/wp-content/plugins/wp-ecommerce-paypal/Embolomeri
+http://avpges.000webhostapp.com/verifikasi.htm
+http://azrvrisz.000webhostapp.com/verifikasi.htm
 http://banescopamaonline.com/ve
 http://banescopamaonline.com/ve/index2.html
 http://banescopamaonline.com/ve/index3.html
@@ -272,6 +276,8 @@ http://sharedpont77wwjxjx.df.r.appspot.com/ver.html
 https://helenitaobcfa.com/produto/1594156738/smartphone-samsung-galaxy-a50-128gb-preto/p/je2kh62k3h/te/sga5/&amp;uid=1915446558
 https://helenitaobcfa.com/produto/1594156738/smartphone-samsung-galaxy-a50-128gb-preto/p/je2kh62k3h/te/sga5/&uid=1915446558
 https://hugecloud.is-a-techie.com/promotions/?id=d606757a9c50dedc85e3cc90949b10ae-cIDewY204cgZma5Qe-aaaa@example.jp-MkTIG
+http://sign-in-pay-pal.tk
+http://sign-in.websupport.appleid.apple.com.godgoeisinbo.com/noscript
 https://inet24h.ml/.well-known/acme-challenge/RD37/onedrive-RD37/index.html
 https://ing.online-check.info/index.php/2019-07-19_dw/m0uhxhf6tpgspmzi
 https://ing.online-check.info/index.php/2019-07-19_dw/m0uhxhf6tpgspmzi/vyzn2.aiiw.ia_jfcyepqv9sd8fcn.absaa
@@ -461,10 +467,12 @@ https://services.runescape.com-memb.top/m=weblogin/loginform.ws.mod=www&ssl=0&de
 https://sevenbtk.com
 https://sevenubk.com
 https://sevenubk.com/index.html
+https://sign-in.websupport.appleid.apple.com.godgoeisinbo.com/noscript
 https://simplified-chests.000webhostapp.com/locate/toll/free/Dbox/dropbox/login.html
 https://snappyframes.com/OMACH/FBG
 https://sn.giasplayground.com/ppsecure/machinedeactivationnewpage/deactivation/source/index.php?email%5C=junyong.chang@daishin.com
 https://sodium-ceremony-277916.dt.r.appspot.com/ver.html
+https://sst-egy.com/teller/dssdsd/bizmail.php?email=cGF3ZWxAYXZlcnNzY3JlZW5zLnBs&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 https://sttppcappr.com/mazon/6ebeb
 https://sumerevleri.com/session/login
 https://superofertasdodia.com/Produto_37117/produto.php?&amp;sku=9890082
