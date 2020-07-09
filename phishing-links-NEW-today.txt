@@ -1,12 +1,16 @@
 http://45.117.101.114/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a
+http://82.165.27.36/img/8ee7e0a3a9ae1040a9b53725d2caed7c77.png
+http://82.165.27.36/.intesa125/?abuse@alice.it
 http://98.126.214.114/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://account.apple.com.kkcoffee.ml
 http://ammoheat.com/wp-admin/mk/mkbnetbankar.hu/index.htm
 http://bapro.myddns.me
+http://biusjkwvhl.pfirmann-bau.de/.intesa136/?abuse@alice.it
 http://casasbahiasuperofertas.ml/cb/802046
 http://dulesmodmen-com-br.umbler.net/way/Chrome2019/atualiza.php?04.Jul.2020.04.56.04?JAEDWJHIGGUU7SAHODAAHSEJ+SOA2H7IJSWISU7D28+OGJH7H7GHJO+GJAJCHSIUO7J+SGHZJ+O77WSO7EJJHU+CSJIGCOHJ8OGAU777JE+UI7IIHWWIJHHA2J8J7DC+SIA7C2J+COWWEUDJIDUHIGJWGOW7SW+JAJGWD8E+UJCDG+OZ7WHOJU7OOUS7G8787ZUJH7ASUHOUSDEU7EZHIGWJ2+SSUO2A7U+H+SHA7ACS8DZJ77AZGOAH+ZW+D8SCAGICUCDEJJWGGCOJDIDU8O+A7J8H7UJAAGOC7JJHHH+AZ8CWW7DCHGHJGSID7UZ82HHE7A+7AUOJCGU8GUG8ZDHU+7JOAD8SDCH2ADGIAO++7SAJWU8A7UC8GGO7AWEC+HUSAJU8W7WAOW+ADI2UOS7IAU7AHHGSHDJA8I+UZEC7JOSO7HCA28S7E8JAD7D7E+OOODOSDUO+ISD7GW7C+UJSGSJGZDAAHU87JZO
 http://fotosface.info/app/facebook.com/?lang=en&amp;key=wKrrPPrSIp8oNKN9Tb4hb7SOBh0EX2Zw6Nswe2gXfJt1Hn8obFDDnxW1UTZjZxpych4l9crVZsX1Q6qCCbqiaK0RaUSDmoZXMe6PtC1cK0mHuTl3bnMTBczCjXtPpDSxOXE9EHYkq4SaWG9oCCIBirGLEgyEiTd7j9H5aVUo86Xn20y38yYR7CdPrBP3JDOE5UE3WHJ4
 http://homecontasegura.digital
+http://ikuhzdswpx.pfirmann-bau.de/img/8ee7e0a3a9ae1040a9b53725d2caed7c77.png
 http://ikuhzdswpx.pfirmann-bau.de/.intesa125/?abuse@alice.it
 http://jagex-rewards.online/m=weblogin/loginform.ws234
 http://jp1chase.com/chase/index.php
@@ -14,6 +18,7 @@ http://login-account.aba.vg
 http://mail.jp1chase.com/chase/index.php
 http://mj7x.com/news/wp-content/plugins/soo/login.php?&amp;id=564f2f8a00c06e878043f4ca415b79b80689422d01db80cb2ea4a87c67cbb5e666fd45ec0b016915330fd3ef382b53f1d2ab1956411c06abff5077b6
 http://nabitita1870.blogspot.jp
+http://owceduamazon.xyz
 http://paypal.co.uk.nkqh.ru/j
 http://pinetreehotels.in/site/ID/po.php
 http://rakuten.co.jp.rakutensdfawejfl.monster
@@ -35,6 +40,7 @@ https://digidecorator.ir/.well-known/pki-validation/bancor
 https://digidecorator.ir/.well-known/pki-validation/bancor/32c57ca18705330eb990cb47b97f9032/auth.php
 https://digidecorator.ir/.well-known/pki-validation/bancor/32c57ca18705330eb990cb47b97f9032/info.php
 https://digidecorator.ir/.well-known/pki-validation/bancor/91a88591ebf14000859adf5d0877b5bc
+http://sevenqbk.com
 http://sges.jigsy.com
 https://help-three-co-uk.com/account/login
 https://hipeni.or.id/midtrans/examples/snap/regions2020/index1.html
