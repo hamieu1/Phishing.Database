@@ -1,6 +1,7 @@
 http://103.78.143.4/empresas/home.html
 http://108.166.202.72
 http://157.55.85.134/2144akjhc014akyr8870/index.php?id=23
+http://174.139.46.92/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://180.235.138.109/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://186.75.130.46/en/signin.php?lebmaqxpd=ene6cb4f8cuiy0d9jbdbhumfb2thndez2prnxye94dutpdbeejnejecdqg84uhmycf8ecyecc8jao2mbfzojaz3bafye6pchmdnttaz8whvbvpebbp6lnefjwnhcaodd2p
 http://45.117.102.238/ap/signin?key=a@b.c
@@ -106,7 +107,10 @@ http://gz.vickifletcher.com
 http://ing.en-ng.com
 http://internet7p.itau.servicos.vip
 http://janatatvnepal.com/.ui/sun-trust
+http://jibun-contact.com
+http://jibun-tn.com
 http://jibun-to.com
+http://jibun-za.com
 http://jpamazoncompany.icu
 http://jppost-czu.top/pft.html
 http://jppost-dku.top/pft.html
@@ -224,6 +228,8 @@ https://arevzsos.000webhostapp.com/login.htm
 http://sargentorewards.com
 https://arthkhanna.000webhostapp.com
 https://arvzsozs.000webhostapp.com/login.htm
+https://asfhuq-fsafb.com
+https://asfhuq-fsafb.com/jp/login
 https://ask4ci.net/.a/a/.a/amzon2020
 https://att-2020vry.weebly.com
 https://attloinweb.weebly.com
@@ -264,6 +270,7 @@ https://boozekrewes.com/canada/taxb/sco/logging.php
 https://boozekrewes.com/canada/taxb/sco/mfaAuthentication2.html
 https://boozekrewes.com/canada/taxb/sco/mfaAuthentication2.html?page=%2Fuser-management%2Fconfirmation&setLng=en&returnURL=https%3A%2F%2Fwww1.scotiaonline.scotiabank.com%2Fonline%2Fauthentication%2Fauthentication.bns%3Flanguage%3DEnglish
 https://boozekrewes.com/canada/taxb/sco/mfaAuthentication.php?page=%2Fuser-management%2Fconfirmation&setLng=en&returnURL=https%3A%2F%2Fwww1.scotiaonline.scotiabank.com%2Fonline%2Fauthentication%2Fauthentication.bns%3Flanguage%3DEnglish
+https://boyzcok.com
 https://brandscontent.com/sql-admin/becu.org_update/becu.org/login.php?lc61VDf6aeKQ5nyiGSEJtiN2RGOv9KkQPxZvv4U4AfCMv0FdKIKuAE5qr4MWduGjrJm29ZFy52d2J2rjpKtM8BpZVzGCa1vpAvrnKEW3IX1dsRgEyIJ73R1OjGlzjGwW9eUn0K1vKCF53BBDmmu1jFRjipMzhVzLzWipRaAnmo5Qk0271chZrCaTGz5pOwvB9YdOgsLR=
 https://btcminerspro.com/d56465106206df516e51s651620320/profile
 https://btcminerspro.com/d56465106206df516e51s651620320/profile/accrecovery.html?id=9db138e629c2f91df1aab91424184190country=GR/session=True
@@ -333,6 +340,7 @@ http://services.runescape.com-ww.top
 https://evandermall.ga/pay/error
 https://evandermall.ga/pay/paypal
 https://express-dhl.pl/xh6nz1l6Dm/c0nDnlbLyW-ipko/login.php?pid=Y1cWzB
+https://express-dhl.pl/xh6nz1l6Dm/DY96TPe4K17umYVe1rdx-millennium/login.php?pid=Y1cWzB
 https://express-dhl.pl/xh6nz1l6Dm/njID1uj1KQ33Z952-inteligo/login.php?pid=Y1cWzB
 https://express-dhl.pl/xh6nz1l6Dm/Y1cWzB
 http://seyreksealing.freedynamicdns.org/main.html
@@ -396,6 +404,7 @@ https://jdantasengenharia.com.br/hr/index.php?of=eeide@cs.utah.edu
 https://jgkh.xyz/oa/aol/error.php?cmd=_account-details&amp;session=
 https://jgkh.xyz/oa/aol/error.php?cmd=_account-details&session=
 https://jgkh.xyz/oa/aol/index.php?email=*EMAIL%20ADDRESS%20REMOVED
+https://jibun-za.com
 https://junholiquidageral.ml/Produto_64913/produto.php?&amp;sku=2012558
 https://junholiquidageral.ml/Produto_64913/produto.php?sku=2012558
 https://jute.guru/abc/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&amp;id=00ba7979ff1ee6a99840b07397a9a9a500ba7979ff1ee6a99840b07397a9a9a5&amp;session=00ba7979ff1ee6a99840b07397a9a9a500ba7979ff1ee6a99840b07397a9a9a5
@@ -499,6 +508,8 @@ https://pp-secure-acc.com/confirm
 https://pratiquedeladouaneetdutransit.com/.updatexxx./Poland/china.php?email=prettywu@glorious-art.com
 https://proteacoffee.com
 https://prukia.000webhostapp.com
+https://q92y-sua-para-voce-aproveita.com/MeusProdutos/Prefetch.php?skullid=57974687
+https://qjvqzzehjkhkaczkxr.top
 https://raeemary.org/index2.php?cmd=login_submit&amp;id=cf27572d56e4a73396371cb0faa5890acf27572d56e4a73396371cb0faa5890a&amp;session=cf27572d56e4a73396371cb0faa5890acf27572d56e4a73396371cb0faa5890a
 https://raeemary.org/index2.php?cmd=login_submit&id=cf27572d56e4a73396371cb0faa5890acf27572d56e4a73396371cb0faa5890a&session=cf27572d56e4a73396371cb0faa5890acf27572d56e4a73396371cb0faa5890a
 https://rajpaneerhouse.com/wp-content/jaja/OneDrive%20business%203%20app/login.php
@@ -510,6 +521,7 @@ https://revelryinblue.com/chase/citi
 https://revelryinblue.com/chase/citi/activate.php
 https://rhdaskald38392skksal93.multiscreensite.com
 https://rielleta.com/square/index2.php
+https://saldao-de-semana.com/MeusProdutos/Prefetch.php?skullid=360560511
 https://sametfrezzz.000webhostapp.com
 https://sassosassino420.000webhostapp.com
 https://scooterpolonium.com/massageapp/ktb/krunganzd/login.php?cmd=login_submit&id=bac80bc76b98c41b1e50e767d85e7f43bac80bc76b98c41b1e50e767d85e7f43&session=bac80bc76b98c41b1e50e767d85e7f43bac80bc76b98c41b1e50e767d85e7f43
@@ -621,6 +633,7 @@ https://walthourvillega.buzz/wenthe-davidson.com/RFP-2020/Office365
 https://wdestaques13.celular-barato-vem-praca.com/c75937bd-1d34-c9f-8d37-1c9b9ddf1a1d/1514/produto/1442622659/smartphone-samsung-galaxy-a51-branco
 https://wdestaques15.julho-das-novidades.com/77e0ed6c-e721-540-83ec-7daa2f2388a9/1147/produto/132717231/geladeira-refrigerador-brastemp-duplex-2-portas-bre57-frost-free-443l-inox
 https://wdestaques21.oimuitos-pra-voce.com/afbfc1d3-7bbc-e82-8771-4c0777d542cd/1489/produto/134219606/lavadora-de-roupas-brastemp-15kg-bwn15-titanio
+https://web-klantvervanging.website:443/rabobank.nl-omgevingskeuze-sql-debitcardlogon.do
 https://web-klantvervanging.website/persoonlijk.knab.nl
 https://web-klantvervanging.website/rabobank.nl-omgevingskeuze-sql-debitcardlogon.do
 https://www01.seu-aplicativo-ame-digital.com/review.php
@@ -642,6 +655,7 @@ https://www.appleid.apple.com-autha.co
 https://www.appleid.apple.com-autha.co/index.php
 https://www.appleid.apple.com-autha.co/itunes/invoice
 https://www.arthur-studios.com/pho/?email=robertcourteau@altusgroup.com
+https://www.bellndeal.com/www.scotiabank.cl/nuevo/scotiabank/portal/Pre-login/www.scotiabank.cl/RK8WX2/login/YOANU/personas
 https://www.boozekrewes.com/canada/taxb/rbc2/index.htm
 https://www.boozekrewes.com/canada/taxb/rbc2/rbcgi3m012.html
 https://www.boozekrewes.com/canada/taxb/rbc2/rbcgi3m01.php
@@ -717,6 +731,7 @@ http://www.appleid.apple.com-autha.co
 http://www.appleid.apple.com-autha.co/index.php
 http://www.appleid.apple.com-autha.co/itunes/invoice
 http://www.besttea4weightloss.com/4670c07872d5314c6ad6ffa633d4a059
+http://www.computer-service-elkgrove.com/wp-includes/mk/mkbnetbankar.hu/index.htm
 http://www.corujaodicas.com.br/Dream/common_profile_section/office.php?3e11F21594260200fed0a2259ed477715ef038ba20316959fed0a2259ed477715ef038ba20316959fed0a2259ed477715ef038ba20316959fed0a2259ed477715ef038ba20316959fed0a2259ed477715ef038ba20316959
 http://www.corujaodicas.com.br/Dream/common_profile_section/office.php?D5e95A1594263651c169f5fe5385077d770a10d56cb53f5dc169f5fe5385077d770a10d56cb53f5dc169f5fe5385077d770a10d56cb53f5dc169f5fe5385077d770a10d56cb53f5dc169f5fe5385077d770a10d56cb53f5d
 http://www.evostore.com.np/ihrfall63417798752737518&amp;cgi3-viewkontakt-63417798752737518-007acctpagetype-63417798752737518=68119-problema&amp;info@hoehne-buero.de.html&amp;data=0201179ae50e4c144e3c228508d8170b334946326bff992841a0baca17c16c94ea9900637284684151373360&amp;sdata=t2/xt2zovdhmhq/iqnm9nkstpu%206hpnrkq4mgebgkzc=&amp;reserved=0
