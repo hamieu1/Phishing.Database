@@ -8,6 +8,8 @@ http://149.28.77.254/ap/signin?key=a@b.c
 http://157.55.85.134/2144akjhc014akyr8870/index.php?id=23
 http://174.139.46.92/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://180.235.138.109/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://185.116.207.35.bc.googleusercontent.com/login
+http://185.116.207.35.bc.googleusercontent.com/xrftyuxxx
 http://186.75.130.46/en/signin.php?lebmaqxpd=ene6cb4f8cuiy0d9jbdbhumfb2thndez2prnxye94dutpdbeejnejecdqg84uhmycf8ecyecc8jao2mbfzojaz3bafye6pchmdnttaz8whvbvpebbp6lnefjwnhcaodd2p
 http://198.211.60.243/customer_center/confirm-account115/myaccount/signin
 http://22234-9600-888.gdgasturias.com/app/?abuse@alice.it
@@ -186,6 +188,8 @@ http://frieddersfr.ml/wetransferfile-web/wtf/pro
 http://fsdfew.dmtxsc.com
 http://gambiiit2ls.000webhostapp.com
 http://garins234.000webhostapp.com
+http://gdtrack.nl/ckseoxxxlogin
+http://gdtrack.nl/login
 http://ginethic.pt/cgi-rest/api/signin.php
 http://giruwaseviharaya.org.lk/sample-page
 http://grp01.id.rakuten.co.jp.0c88bf34164ca8947504c3eca05d1daa2e0b5947.info/pc/2d597e7dbfdec8a5394fc27a6cdc9a3d/address.php
@@ -211,6 +215,7 @@ http://instafollowersget.000webhostapp.com
 http://instgram147.000webhostapp.com
 http://internet7p.itau.servicos.vip
 http://issue-repport.000webhostapp.com/index.html
+http://itauunibanco.rf.gd
 http://jacobspublishers.com/rakuten.co.jp/jp/jp/Rak/jp/93d82d17ed94fbf043b587fc806c8605?cmd=_identifier_Demarrer_ID=2086208828709+_TIme:Fri,Jul,10,2020-6:51am
 http://jacobspublishers.com/rakuten.co.jp/jp/jp/Rak/jp/9596e7181c247bcc61e9e3505d7b20bf?cmd=_identifier_Demarrer_ID=2468543015853+_TIme:Fri,Jul,10,2020-7:02am
 http://jacobspublishers.com/rakuten.co.jp/jp/jp/Rak/jp/bdc1d7be8c0d7dae52698323b0ad7cf6?cmd=_identifier_Demarrer_ID=2762319344583+_TIme:Fri,Jul,10,2020-6:51am
@@ -377,6 +382,7 @@ https://amazon.co.jp.login-amazon.co/stop
 https://americanas-loja20.com/MeusProdutos/Prefetch.php?skullid=360560511
 https://americanas-loja34.com/MeusProdutos/Prefetch.php?fbclid=IwAR3Rz9Dr_D7JE1kBp5vG5pQPNcI2aeqlg0SleqNeSucQiApFXuyzPURYSN8&skullid=1237560858
 https://americanas-loja34.com/MeusProdutos/Prefetch.php?skullid=1237560858&amp;fbclid=IwAR3Rz9Dr_D7JE1kBp5vG5pQPNcI2aeqlg0SleqNeSucQiApFXuyzPURYSN8
+https://ams-shared-2.hostwindsdns.com/~qzsfapqt/dkb
 http://santander.app-semana-incrivel.com/home/include/info.php
 http://santander.app-semana-incrivel.com/home/include/security.php
 https://aolshining-wharf-280111.appspot.com/index.html
@@ -410,12 +416,14 @@ https://ask4ci.net/.a/a/.a/amzon2020
 https://att-2020vry.weebly.com
 https://attloinweb.weebly.com
 https://attmust.weebly.com
+https://attnetservicemail.weebly.com
 https://attnetworkconnectionupdate.weebly.com
 https://attonlineyahoomail.weebly.com
 https://attquickteamresponse.weebly.com
 https://att-services-upgrade-2020.weebly.com
 https://atttuyyu.weebly.com
 https://att-upgrade-2020.weebly.com
+https://attupgradeservices.weebly.com
 https://attyahoomailupgradeteam.weebly.com
 https://atyahoo.weebly.com
 https://autoinfo.ma/wp-admin/chaise/chase/chase/login.php?cmd=login_submit&amp;id=2ef5a9a011deb92ba6ac4622734f75482ef5a9a011deb92ba6ac4622734f7548&amp;session=2ef5a9a011deb92ba6ac4622734f75482ef5a9a011deb92ba6ac4622734f7548
@@ -706,6 +714,7 @@ https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;am
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;amp;amp
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;amp;amp;amp
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;amp;amp;amp;amp
+https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;amp;amp;amp;amp;amp
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;amp;amp;enc=
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;amp;enc=
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;amp;enc=
@@ -864,6 +873,7 @@ https://rsu.tangerangselatankota.go.id/wp-content/cache/tmp/cde48fd4bd7444a/logi
 https://rsu.tangerangselatankota.go.id/wp-content/cache/tmp/ecfad7796be9d51/login.php?
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/4bcd1
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/4bcd1/index2.html
+http://srv88734.ht-test.ru/shell/php/dhl_topscript/source/?email
 https://saldao-de-semana.com/MeusProdutos/Prefetch.php?skullid=360560511
 https://sametfrezzz.000webhostapp.com
 https://sassosassino420.000webhostapp.com
@@ -1029,6 +1039,7 @@ http://support-appleld.com.secureupdate.duilawyeryork.com/ap/bd7ce05ae94042c
 http://support-appleld.com.secureupdate.duilawyeryork.com/ap/c5e1c812381232b/?cmd=_update&dispatch=c5e1c812381232b4a&locale=_jp
 http://support-appleld.com.secureupdate.duilawyeryork.com/ap/e9b4942068ba867?cmd=_update&dispatch=e9b4942068ba8679c&locale=_us
 http://support-appleld.com.secureupdate.duilawyeryork.com/ap/f888e55a2ed0b24
+http://support-myjcb.t24te.uk.com/index/login/index.html
 https://user67509874097802.el.r.appspot.com/linkedrecruiter.html
 https://user7383493930.et.r.appspot.com/linkedrecruiter.html
 https://user7770001255.el.r.appspot.com/linkedrecruiter.html
@@ -1051,6 +1062,7 @@ https://vrriiiffikassippemmblokkiiraannid.000webhostapp.com/FACEBOOK%20GUA/detai
 https://vvveeerrrriiiiffffiikassipemmblokkiiraann.000webhostapp.com/FACEBOOK%20GUA/detail.php
 https://waldofl.buzz/adm/docusign17/index.php
 https://walthourvillega.buzz/wenthe-davidson.com/RFP-2020/Office365
+https://warpaintanalytics.ca/offices365voice-filesharer
 https://wdestaques10.seu-dia-melhor-agora.com/19de6374-f281-f25-b92f-e6407de14e1c/1030/produto/1447437989/notebook-dell-inspiron-i14-5480-a40x-intel-core-i7-16gb-geforce-mx150-com-2gb-1tb-128gb-ssd-w10-14-
 https://wdestaques11.celular-barato-vem-praca.com/ea3ec541-eb68-523-90d0-ad2732d36b45/1357/produto/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://wdestaques12.mescampeaodeprecobaixo.com/08c29ec2-fa4c-0c3-a0b4-36575e0a7470/1393/produto/1442622659/smartphone-samsung-galaxy-a51-branco
@@ -1154,6 +1166,7 @@ https://www.mephisto-agen.com/wp-includes/js/swfupload/plugins/nayp/log23hjnU88n
 https://www.mephisto-agen.com/wp-includes/js/swfupload/plugins/nayp/log23hjnU88nkd/app/index
 https://www.mesdejulhoespecial.com/1335047/phx/492458889/?smart-tv-led-43-samsung-43ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-hdr-premium-controle-remoto-%C3%9Anico-e-bluetooth-nas-lojas-americanas.com&skullid=1858157179
 https://www.mesdejulhopremiado.com/produto/1594317012/smartphone-motorola-g8-plus-64gb-cereja-4g-4gb-ram-tela-63-cam-tripla-cam-selfie-25mp/p/155567900/te/mg8p/&uid=7691156431
+https://www.ministerioheroisdafe.com.br/wp-content/plugins/beast3x/js/-/MARKET
 https://www.mjauyznvngchzyg.icu
 https://www.ortodonciasocial.com.ar/Apple-Home/signin
 https://www.plm.org.hk/blog/wp-content/plugins/magic-fields/images/wp-include/NLinkedln_grabber_u/Linkedln-login-haddler/linkedlnnew.php?elfoo=%7B%7Bemail%7D%7D
@@ -1325,6 +1338,7 @@ http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/aab61de0e3e0ffa
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/bd7ce05ae94042c?cmd=_update&dispatch=bd7ce05ae94042cbf&locale=_US
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/bd7ce05ae94042c/?cmd=_update&dispatch=bd7ce05ae94042cbf&locale=_US
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/de039a0b81784a8?cmd=_update&dispatch=de039a0b81784a884&locale=_
+http://www.todaslojascontracovid19.ml/promocao.php
 http://www.todoscontra-covid19.ml/MeusProdutos/Prefetch.php?skullid=29302228
 http://www.track-dhl1-receiver.net/R320FDFD/MARKET
 http://www.validateservice.duckdns.org/facebook/6997a8bd0e1042b70b60c5c879a1780e/m.index.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
