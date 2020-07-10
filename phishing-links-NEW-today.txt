@@ -43,6 +43,9 @@ http://banistmosucursal.com/ws/users/userID-29787/token.php
 http://bcoosupurrttviirttu.atwebpages.com/login.php
 http://bimdkcqxs.xyz/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://bimdkcqxs.xyz/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://bit.do/20B_Zes96
+http://bit.do/Jin933
+http://bit.do/NizRs20B
 http://blueboy.studio/edge/views/downloads/files1497366477.php?email=
 http://buscandopravc.com/mobile/login.php
 http://civil-campaign-279715.el.r.appspot.com/linkedrecruiter.html
@@ -311,6 +314,7 @@ http://server062295.nazwa.pl/weryfikacja/mobile
 http://server364714.nazwa.pl/weryfikacja/mobile
 http://services.runescape.com-ww.top
 https://evandermall.ga/pay/error
+https://evandermall.ga/pay/paypal
 https://express-dhl.pl/xh6nz1l6Dm/c0nDnlbLyW-ipko/login.php?pid=Y1cWzB
 https://express-dhl.pl/xh6nz1l6Dm/njID1uj1KQ33Z952-inteligo/login.php?pid=Y1cWzB
 https://express-dhl.pl/xh6nz1l6Dm/Y1cWzB
@@ -371,7 +375,9 @@ https://jute.guru/abc/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&
 https://jute.guru/abc/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=00ba7979ff1ee6a99840b07397a9a9a500ba7979ff1ee6a99840b07397a9a9a5&session=00ba7979ff1ee6a99840b07397a9a9a500ba7979ff1ee6a99840b07397a9a9a5
 https://khamitkarandassociates.com/Xll/onedrive-drive/index.php
 https://king-oreoo-85.com/login.microsoft/?hint=jdoe1@emailhost.c
+https://kiripanes.com/Apollo
 https://kiripanes.com/Apollo/1aa923eef42e28fad9b64f1ff72182ef
+https://kiripanes.com/Apollo/39039cdf3f84172a3d763f381996d5bc
 https://kiripanes.com/Apollo/9935191b79107bea8e4b843e03f653b8
 https://kiripanes.com/Apollo/df1112c9a3bf9553a0f08c0f87d78899
 https://kiripanes.com/Apollo/f1120f69608aea3151ed2b2e7316daa7
@@ -485,13 +491,18 @@ https://secure07b-cox.000webhostapp.com/confirm/stepcoxmail/log/sycho
 https://secure07c-cox.000webhostapp.com/confirm/stepcoxmail/log/sycho
 https://secure08c-cox.000webhostapp.com/confirm/stepcoxmail/log/sycho
 https://secure-login-portal-outlook.el.r.appspot.com/linkedrecruiter.html
+https://secure.runescape.com-as.ru/m=forum/forums.ws579
 https://secure.runescape.com-as.ru/m=weblogin/loginform545,656,192,73306076,1
 https://secure.runescape.com-as.ru/m=weblogin/loginform788,687,715,24115589,1
 https://secure.runescape.com-as.ru/m=weblogin/loginform923586,235989,623524,441772356182,1
+https://secure.runescape.com-en.ru/m=forum/forums.ws492
 https://secure.runescape.com-en.ru/m=weblogin/loginform201,715,554,36293845,1
 https://secure.runescape.com-en.ru/m=weblogin/loginform364,574,379,45356348,1
 https://secure.runescape.com-en.ru/m=weblogin/loginform445,489,296,74501834,1
 https://secure.runescape.com-en.ru/m=weblogin/loginform674,676,982,80800771,1
+https://secure.runescape.com-un.ru/m=forum/forums.ws327
+https://secure.runescape.com-un.ru/m=forum/forums.ws412
+https://secure.runescape.com-un.ru/m=forum/forums.ws666
 https://secure.runescape.com-un.ru/m=weblogin/loginform113,522,552,115,1948
 https://secure.runescape.com-un.ru/m=weblogin/loginform226,436,985,54454819,1
 https://secure.runescape.com-un.ru/m=weblogin/loginform433,532,558,77148198,1
@@ -505,6 +516,7 @@ https://secureupdate.appleld.com.duilawyeryork.com/ap/f66000c2dd41836/?cmd=_upda
 https://security-page-transparency-adss.000webhostapp.com/recovery-chekpoint-login.html
 https://serverr.000webhostapp.com
 https://services.runescape.com-as.ru/m=forum/forums.ws774
+https://services.runescape.com-un.ru/m=forum/forums.ws258
 https://services.runescape.com-un.ru/m=forum/forums.ws446,562,958,81453375,1136
 https://services.runescape.com-un.ru/m=forum/forums.ws473,459,136,79662346,1136
 https://seventbk.com
