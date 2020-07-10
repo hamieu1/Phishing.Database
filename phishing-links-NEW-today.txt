@@ -7,6 +7,7 @@ http://180.235.138.109/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to
 http://186.75.130.46/en/signin.php?lebmaqxpd=ene6cb4f8cuiy0d9jbdbhumfb2thndez2prnxye94dutpdbeejnejecdqg84uhmycf8ecyecc8jao2mbfzojaz3bafye6pchmdnttaz8whvbvpebbp6lnefjwnhcaodd2p
 http://45.117.102.238/ap/signin?key=a@b.c
 http://45.117.102.238/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://53588-7244-802.gdgasturias.com/app
 http://53.com-customer.0167189.synergyglobal.one/en/signin.php?sessionid=2x9yhk129rlbmkl0jj4prktntcbm6tt9rcizwjb6amhmh2nrmrgel91fmdctx5cphkye3zkew20d4n4rpl5bv7rrltkjyxifigulge0dg0qlovddhjpmrgec9zvhwdxekr&amp;sslchannel=true
 http://53.com-customer.0167189.synergyglobal.one/en/signin.php?sessionid=6tvuz1jwn1y9frenn97p6hfkazol4bqbvm54npbbr9k6byuy8bofteztdxehz5s4ry9pok0pukwvjrur3sgwwgpadesnjkraj108m0yglucemh6panl73lhhp949uwkexk&amp;sslchannel=true
 http://67.229.29.119/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -168,6 +169,7 @@ http://pawtampcrzaaz.com/citi/citi
 http://pawtampcrzaaz.com/citi/citi/activate.php
 http://pornhub-teens.com/vendor/symfony/polyfill-mbstring/Resources/unidata/1/index2.php
 http://pornhub-teens.com/vendor/symfony/polyfill-mbstring/Resources/unidata/1/run/com.php
+http://portioncouncil.com/AbsaOnlineBanking-httpsib.absa.co.zaabsa-onlinelogin.jsp-Logon-AbsaExpress/AbsaLogin.htm
 http://pp-secure-acc.com/confirm
 http://qnaqaaa08cowa.et.r.appspot.com/linkedrecruiter.html
 http://rakuten.co.jp.ifeowin234ihsfomngesd1ligorejhh.tk
@@ -182,6 +184,7 @@ http://rimasindramayu.com/wordpress/wp-content/plugins/akismet/diablo/dhl-com/tg
 https://02-update.billing79.com/?o2=2
 https://233553429att.weebly.com
 https://53.com-customer.0167189.synergyglobal.one/en/signin.php?sessionid=2x9yhk129rlbmkl0jj4prktntcbm6tt9rcizwjb6amhmh2nrmrgel91fmdctx5cphkye3zkew20d4n4rpl5bv7rrltkjyxifigulge0dg0qlovddhjpmrgec9zvhwdxekr&amp;sslchannel=true
+https://54b42cb95f2f4ac095265b612f232287.svc.dynamics.com/t/r/3cF26dleZva2KNX6hkC6no_9Unre-EgPcfhsils8bKY#contact@singleparentmeet.com:dY9RILCR6Y9RILCR608S84K9GLJZ008S84=Lqc2tWZcjLheb1-LSZIS4HtGi8GRkc
 https://5reviews.info/pa/alibaba/index.html
 https://5reviews.info/pa/alibaba/page2.html
 https://648287442.weebly.com
@@ -394,6 +397,7 @@ https://helpins.000webhostapp.com
 https://hiremathworld.com/restaurant%20food/yahoo/login.php
 https://hmrc.secured-panel.com
 https://hoyongsopbuah.com/secure03b.chase.com
+https://improvementlab.com.br/wp-includes/include/unifr.ch
 https://income-i.000webhostapp.com
 https://innominate-suit.000webhostapp.com
 https://instafollowersget.000webhostapp.com
@@ -580,6 +584,8 @@ https://softnoonng.com/wp-admin/images/welcomeasb/73ca05c786a878dc8db3ca2b5b1b14
 https://softnoonng.com/wp-admin/images/welcomeasb/e19777ecb4a14a934909d1fe4c446467/vbvyy.htm
 https://sonofgodsog.000webhostapp.com/r-zagcurion/paypal.com
 https://soportefimacrgo.com
+https://specialrisk.com.ec/emsa/absa/login.jsp.php?session_id=60yvb8UAhKPCzxxqnqxoZvZUhn8ZDXvKY4f9caJuUz6t6EUu5sT4XSYfg7eU4KE2PUc14WvYvCsChn7m
+https://specialrisk.com.ec/emsa/absa/login.jsp.php?session_id=aLP6wUIt3zYrgLlJj1YuF5hawG7T8q0jbQpIK7bNG9fXVBHeDGJjL1tiHBcQ1c9d2yVNF7BmhQjcs1r5
 https://speecial.com/wp-admin/js/widgets/custom
 https://speecial.com/wp-admin/js/widgets/custom/security_v14/signin?country.x=SE&locale.x=en_SE
 https://sticersvkcom.000webhostapp.com
@@ -604,6 +610,7 @@ https://totallyfreefortnitevbucks.000webhostapp.com
 https://totochild.com/abc/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=5c76b998d0b829f5f4ea41aa4ed42dd55c76b998d0b829f5f4ea41aa4ed42dd5&session=5c76b998d0b829f5f4ea41aa4ed42dd55c76b998d0b829f5f4ea41aa4ed42dd5
 https://track-dhl1-receiver.net/R320FDFD/MARKET
 https://train6.netwisedev6.co.za/templates/shaper_helixultimate/roundcube_latest/index.php?email=sandra.maio@ralphlauren.com
+https://ubredaio.cloudns.asia/.covidapprove
 http://sucursarlvirtual-co.com/inicio
 https://unoppressive-notati.000webhostapp.com/marney/hanmail/hanmail
 https://unoppressive-notati.000webhostapp.com/marney/hanmail/hanmail/login.php?cmd=login_submit&id=99797b93a4335de936365b7ae250f8d199797b93a4335de936365b7ae250f8d1&session=99797b93a4335de936365b7ae250f8d199797b93a4335de936365b7ae250f8d1
@@ -630,14 +637,18 @@ https://vkfreestik21.000webhostapp.com
 https://vk-sdam-kv37.000webhostapp.com
 https://vk-stickers-vk.000webhostapp.com
 https://vkstiker456.000webhostapp.com
+https://voicemaile9hjr9h3cnmy040g3hrh.s3.us-east-2.amazonaws.com/index.html?c
 https://vrriiiffikassippemmblokkiiraannid.000webhostapp.com/FACEBOOK%20GUA/detail.php
 https://vvveeerrrriiiiffffiikassipemmblokkiiraann.000webhostapp.com/FACEBOOK%20GUA/detail.php
 https://waldofl.buzz/adm/docusign17/index.php
 https://walthourvillega.buzz/wenthe-davidson.com/RFP-2020/Office365
 https://wdestaques13.celular-barato-vem-praca.com/c75937bd-1d34-c9f-8d37-1c9b9ddf1a1d/1514/produto/1442622659/smartphone-samsung-galaxy-a51-branco
+https://wdestaques14.seu-amor-merece-um-presentao.com/8c6b0d35-0e25-977-9543-29ef48a3d59f/1356/produto/133234960/admins
 https://wdestaques15.julho-das-novidades.com/77e0ed6c-e721-540-83ec-7daa2f2388a9/1147/produto/132717231/geladeira-refrigerador-brastemp-duplex-2-portas-bre57-frost-free-443l-inox
 https://wdestaques17.julho-de-oferta-americana.com/d5bcfdcf-6722-d3e-b0a9-5926a50be2b2/1446/produto/1299771212/admins
+https://wdestaques18.avisando-hoje-o-melhor-dia.com/50ff72d5-74dd-7b8-a60c-101693e0b6b8/1504/produto/134511121/notebook-dell-inspiron-i15-5584-a20s-intel-core-i5-8gb-geforce-mx130-com-2gb-1tb-15-6-w10-prata?fbclid=IwAR0URlqnAxOmfMj-Mp4VTIGwyyRpDCq1JQOx7VisM95FX1h--gqHaBewVlo
 https://wdestaques21.oimuitos-pra-voce.com/afbfc1d3-7bbc-e82-8771-4c0777d542cd/1489/produto/134219606/lavadora-de-roupas-brastemp-15kg-bwn15-titanio
+https://webhost.accentuatehost.com/wp-includes/images/nico/ned/NedbankMoney.htm
 https://web-klantvervanging.website:443/rabobank.nl-omgevingskeuze-sql-debitcardlogon.do
 https://web-klantvervanging.website/persoonlijk.knab.nl
 https://web-klantvervanging.website/rabobank.nl-omgevingskeuze-sql-debitcardlogon.do
@@ -654,6 +665,7 @@ https://www93.mesdeofertamagalu.com/prod5b263b9fb061e86f32ae2a035d63f0calnk/smar
 https://www97.showdeofertasweb.com/prod24604192847a679e0571e7f8c58fc07dlnk/smartphone-samsung-galaxy-a20s-32gb-vermelho-4g-3gb-ram-tela-65-cam-tripla-selfie-8mp/p/1555692/te/s20s
 https://www.account-update.amazon.co.jp.reset-and-manage.top
 https://www.allufyjgbhkljmlijhiujfvht.com/index2.php
+https://www.amazon.co.jp.azomcojp0.buzz
 https://www.amazon.co.jp.ckfg2r-r1-jy2eq6dre31qds.cc
 https://www.ame-oferta.com/MeusProdutos/Prefetch.php?skullid=19895685
 https://www.appleid.apple.com-autha.co
