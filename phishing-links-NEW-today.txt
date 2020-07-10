@@ -1,4 +1,5 @@
 http://103.78.143.4/empresas/home.html
+http://104.156.239.55/ap/signin?key=a@b.c
 http://108.166.202.72
 http://157.55.85.134/2144akjhc014akyr8870/index.php?id=23
 http://174.139.46.92/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -180,6 +181,7 @@ http://rimasindramayu.com/wordpress/wp-content/plugins/akismet/diablo/dhl-com
 http://rimasindramayu.com/wordpress/wp-content/plugins/akismet/diablo/dhl-com/tg36mjt3ouaeavaz61cyo06m.php?dispatched=1448589419&email=wserh.jawegadas@fwrferf.ru&id=1448589419498c9c19d0a0ac953ebad11a8f5cdcf5&websrc=498c9c19d0a0ac953ebad11a8f5cdcf5
 https://02-update.billing79.com/?o2=2
 https://233553429att.weebly.com
+https://53.com-customer.0167189.synergyglobal.one/en/signin.php?sessionid=2x9yhk129rlbmkl0jj4prktntcbm6tt9rcizwjb6amhmh2nrmrgel91fmdctx5cphkye3zkew20d4n4rpl5bv7rrltkjyxifigulge0dg0qlovddhjpmrgec9zvhwdxekr&amp;sslchannel=true
 https://5reviews.info/pa/alibaba/index.html
 https://5reviews.info/pa/alibaba/page2.html
 https://648287442.weebly.com
@@ -431,6 +433,7 @@ https://log-aktivest20.000webhostapp.com/update/question.html?login-submit&dispa
 https://log-aktivest20.000webhostapp.com/update/safetycredite.html?login-submit&dispatch=99778d926097d1e1020dbc1b0173ca886c37411e94d6fbe47af9d67cf900fb210917e855
 https://log-aktivest20.000webhostapp.com/update/safetycredit.html?login-submit&dispatch=99778d926097d1e1020dbc1b0173ca886c37411e94d6fbe47af9d67cf900fb210917e855
 https://log-aktivest20.000webhostapp.com/update/safety.html?login-submit&dispatch=99778d926097d1e1020dbc1b0173ca886c37411e94d6fbe47af9d67cf900fb210917e855
+https://loja.casasbahiashowdeoferta.com/desk/carrinho.php?enc=578227610
 https://ltauclient.com/promocao/descontao/card/home.php?zstfNhDPwsBOB/EjMISTS0CCJkqw2D9NOGYQTGXzVMhIszz3RVWXh2CzvdaSau3wde6OpS--gW/HQ-JW4Bp3unixS9sHBEzrEWWV
 https://magalu-crediarioloja04.com/promocao.php
 https://magaluloja8.com/promocao.php
@@ -575,6 +578,7 @@ https://sodium-ceremony-277916.dt.r.appspot.com/linkedrecruiter.html
 https://softnoonng.com/wp-admin/images/welcomeasb/73ca05c786a878dc8db3ca2b5b1b14df/lemlem.htm?ip=203.109.151.212
 https://softnoonng.com/wp-admin/images/welcomeasb/73ca05c786a878dc8db3ca2b5b1b14df/vbvyy.htm
 https://softnoonng.com/wp-admin/images/welcomeasb/e19777ecb4a14a934909d1fe4c446467/vbvyy.htm
+https://sonofgodsog.000webhostapp.com/r-zagcurion/paypal.com
 https://soportefimacrgo.com
 https://speecial.com/wp-admin/js/widgets/custom
 https://speecial.com/wp-admin/js/widgets/custom/security_v14/signin?country.x=SE&locale.x=en_SE
@@ -632,6 +636,7 @@ https://waldofl.buzz/adm/docusign17/index.php
 https://walthourvillega.buzz/wenthe-davidson.com/RFP-2020/Office365
 https://wdestaques13.celular-barato-vem-praca.com/c75937bd-1d34-c9f-8d37-1c9b9ddf1a1d/1514/produto/1442622659/smartphone-samsung-galaxy-a51-branco
 https://wdestaques15.julho-das-novidades.com/77e0ed6c-e721-540-83ec-7daa2f2388a9/1147/produto/132717231/geladeira-refrigerador-brastemp-duplex-2-portas-bre57-frost-free-443l-inox
+https://wdestaques17.julho-de-oferta-americana.com/d5bcfdcf-6722-d3e-b0a9-5926a50be2b2/1446/produto/1299771212/admins
 https://wdestaques21.oimuitos-pra-voce.com/afbfc1d3-7bbc-e82-8771-4c0777d542cd/1489/produto/134219606/lavadora-de-roupas-brastemp-15kg-bwn15-titanio
 https://web-klantvervanging.website:443/rabobank.nl-omgevingskeuze-sql-debitcardlogon.do
 https://web-klantvervanging.website/persoonlijk.knab.nl
