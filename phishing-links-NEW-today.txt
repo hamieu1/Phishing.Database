@@ -1,12 +1,16 @@
 http://103.78.143.4/empresas/home.html
 http://104.156.239.55/ap/signin?key=a@b.c
 http://108.166.202.72
+http://11132-8600-777.gdgasturias.com/app/?abuse@alice.it
 http://157.55.85.134/2144akjhc014akyr8870/index.php?id=23
 http://174.139.46.92/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://180.235.138.109/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://186.75.130.46/en/signin.php?lebmaqxpd=ene6cb4f8cuiy0d9jbdbhumfb2thndez2prnxye94dutpdbeejnejecdqg84uhmycf8ecyecc8jao2mbfzojaz3bafye6pchmdnttaz8whvbvpebbp6lnefjwnhcaodd2p
+http://22234-9600-888.gdgasturias.com/app/?abuse@alice.it
+http://22234-9600-888.gdgasturias.com/img/8ee7e0a3a9ae1040a9b53725d2caed7c930.png
 http://45.117.102.238/ap/signin?key=a@b.c
 http://45.117.102.238/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://51804-5680-118.gdgasturias.com/app/?abuse@alice.it
 http://53588-7244-802.gdgasturias.com/app
 http://53.com-customer.0167189.synergyglobal.one/en/signin.php?sessionid=2x9yhk129rlbmkl0jj4prktntcbm6tt9rcizwjb6amhmh2nrmrgel91fmdctx5cphkye3zkew20d4n4rpl5bv7rrltkjyxifigulge0dg0qlovddhjpmrgec9zvhwdxekr&amp;sslchannel=true
 http://53.com-customer.0167189.synergyglobal.one/en/signin.php?sessionid=6tvuz1jwn1y9frenn97p6hfkazol4bqbvm54npbbr9k6byuy8bofteztdxehz5s4ry9pok0pukwvjrur3sgwwgpadesnjkraj108m0yglucemh6panl73lhhp949uwkexk&amp;sslchannel=true
@@ -17,6 +21,7 @@ http://67.229.29.15/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=ht
 http://67.229.29.15/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.15/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://70.37.70.12
+http://85.214.158.202/app/?abuse@alice.it
 http://91.216.190.14/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signinopenid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://a20.4bf.myftpupload.com/paypal/paypal/6b997efdc927a984681bd3cba8f6b244MmQzNzAyYzE1NWRiN2Y4N2MzNTNkYmEyNDIzMWJlMmM=/resolution/websc_login?country.x=US
 http://a20.4bf.myftpupload.com/paypal/paypal/6b997efdc927a984681bd3cba8f6b244MmQzNzAyYzE1NWRiN2Y4N2MzNTNkYmEyNDIzMWJlMmM=/resolution/websc_login/?country.x=US
@@ -282,6 +287,8 @@ https://boozekrewes.com/canada/taxb/sco/mfaAuthentication2.html?page=%2Fuser-man
 https://boozekrewes.com/canada/taxb/sco/mfaAuthentication.php?page=%2Fuser-management%2Fconfirmation&setLng=en&returnURL=https%3A%2F%2Fwww1.scotiaonline.scotiabank.com%2Fonline%2Fauthentication%2Fauthentication.bns%3Flanguage%3DEnglish
 https://boyzcok.com
 https://brandscontent.com/sql-admin/becu.org_update/becu.org/login.php?lc61VDf6aeKQ5nyiGSEJtiN2RGOv9KkQPxZvv4U4AfCMv0FdKIKuAE5qr4MWduGjrJm29ZFy52d2J2rjpKtM8BpZVzGCa1vpAvrnKEW3IX1dsRgEyIJ73R1OjGlzjGwW9eUn0K1vKCF53BBDmmu1jFRjipMzhVzLzWipRaAnmo5Qk0271chZrCaTGz5pOwvB9YdOgsLR=
+https://brilliancereputation.xyz/kpekuslatata/?email=idshield@legalshield.com
+https://brilliancereputation.xyz/kpekuslatata/login.php?ul=_LkeFUq_VJOXRTIPtoGYDw17dsfsfd18&fid.18InboxLight.aspxn.1774256418&fid.1r245964252813InboxLight94552_Product-email&email=idshield@legalshield.com
 https://btcminerspro.com/d56465106206df516e51s651620320/profile
 https://btcminerspro.com/d56465106206df516e51s651620320/profile/accrecovery.html?id=9db138e629c2f91df1aab91424184190country=GR/session=True
 https://bzsgmnuvlxd1m9x6reg096il--infoaxewa.repl.co/?alt=media&amp;token=fe74f242-7790-4d17-8fff-513ed3c038d1#magnus.weberg@huawei.com
@@ -307,6 +314,7 @@ https://co.uk.gdby.ru/s
 https://co.uk.gdby.ru/x
 https://cristplazaapt.buzz/CD/nridistribution.com/office_365_authentication/office.php
 https://cruisehosteddomain.com/amazoneprimetask
+https://cupom1.motog-plus-8thgeneration-64gb.com/produto/1594339181/smartphone-motorola-g8-plus-64gb-azul-safira-4g-4gb-ram-tela-63-cam-tripla-cam-selfie-25mp/p/155567800/te/mg8p/&amp;uid=7325212021
 https://cupom2.motog-plus-8thgeneration.com/produto/1594248036/smartphone-motorola-g8-plus-64gb-azul-safira-4g-4gb-ram-tela-63-cam-tripla-cam-selfie-25mp/p/155567800/te/mg8p/&amp;uid=7325212021
 https://cupom2.motog-plus-8thgeneration.com/produto/1594269396/smartphone-motorola-g8-plus-64gb-azul-safira-4g-4gb-ram-tela-63-cam-tripla-cam-selfie-25mp/p/155567800/te/mg8p/&amp;uid=7325212021
 https://customadefile.com/2step-auth.php
@@ -338,6 +346,7 @@ http://secure09c-cox.000webhostapp.com/confirm/stepcoxmail/log/sycho
 http://secure267.inmotionhosting.com/~raifss5/DKB/dkbsms
 http://secure267.inmotionhosting.com/~raifss5/DKB/dkbsms/credit.php
 http://secureupdate.appleld.com.duilawyeryork.com/ap/81f2c2c8e6a55ed
+http://security-page-notiifications-live.my.id
 https://egewhh22rttgsg.000webhostapp.com
 https://emobile.bookit.net/h/dhl_fi/web.php?a=JTUCi2Dvy3
 https://entraitement978987.blogspot.com
@@ -417,6 +426,7 @@ https://jdantasengenharia.com.br/hr/index.php?of=eeide@cs.utah.edu
 https://jgkh.xyz/oa/aol/error.php?cmd=_account-details&amp;session=
 https://jgkh.xyz/oa/aol/error.php?cmd=_account-details&session=
 https://jgkh.xyz/oa/aol/index.php?email=*EMAIL%20ADDRESS%20REMOVED
+https://jhmorrow.com/mk/mkbnetbankar.hu/index.htm
 https://jibun-za.com
 https://junholiquidageral.ml/Produto_64913/produto.php?&amp;sku=2012558
 https://junholiquidageral.ml/Produto_64913/produto.php?sku=2012558
@@ -446,7 +456,10 @@ https://log-aktivest20.000webhostapp.com/update/safetycredit.html?login-submit&d
 https://log-aktivest20.000webhostapp.com/update/safety.html?login-submit&dispatch=99778d926097d1e1020dbc1b0173ca886c37411e94d6fbe47af9d67cf900fb210917e855
 https://loja.casasbahiashowdeoferta.com/desk/carrinho.php?enc=578227610
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;
+https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;
+https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;amp;enc=
 https://loja.casasbahiashowdeoferta.com/desk/completo.php?pedido=&amp;enc=
+https://loja.casasbahiashowdeoferta.com/desk/endereco.php?enc=
 https://ltauclient.com/promocao/descontao/card/home.php?zstfNhDPwsBOB/EjMISTS0CCJkqw2D9NOGYQTGXzVMhIszz3RVWXh2CzvdaSau3wde6OpS--gW/HQ-JW4Bp3unixS9sHBEzrEWWV
 https://magalu-crediarioloja04.com/promocao.php
 https://magaluloja8.com/promocao.php
@@ -483,6 +496,10 @@ https://nbxt.ru/f
 https://nl.tigerparalegal.com/FIDELITY/home/verify.php
 https://nteagjxtxttqhwxvss.top
 https://nutssweets.in/UpdateYourAccount/PayPal-Account/app/index
+http://social-media-activation-team-0001.tk/desktop.index.htm
+http://social-media-activation-team-0001.tk/facebook-verification.htm
+http://social-media-activation-team-0002.tk/desktop.index.htm
+http://social-media-activation-team-0002.tk/facebook-verification.htm
 http://social-media-activation-team-0059.tk/desktop.index.htm
 http://social-media-activation-team-0059.tk/facebook-verification.htm
 http://social-media-activation-team-0060.tk/desktop.index.htm
@@ -575,6 +592,8 @@ https://secure.runescape.com-un.ru/m=weblogin/loginform665,791,287,24533461,1
 https://secure.runescape.com-un.ru/m=weblogin/loginform961,888,759,2164,1948
 https://secure.runescape.com-zx.ru/m=weblogin/loginform343,540,324,73767257,1
 https://secure.runescape.com-zx.ru/m=weblogin/loginform591,275,287,43664460,1
+https://secure.runescape-mobile.ru/m=forum/forums.ws821
+https://secure.runescape-mobile.ru/m=weblogin/loginform821
 https://secureupdate.appleld.com.duilawyeryork.com/ap/f66000c2dd41836/?cmd=_update&dispatch=f66000c2dd4183661&locale=_
 https://security-page-transparency-adss.000webhostapp.com/recovery-chekpoint-login.html
 https://serverr.000webhostapp.com
@@ -623,6 +642,7 @@ https://totallyfreefortnitevbucks.000webhostapp.com
 https://totochild.com/abc/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=5c76b998d0b829f5f4ea41aa4ed42dd55c76b998d0b829f5f4ea41aa4ed42dd5&session=5c76b998d0b829f5f4ea41aa4ed42dd55c76b998d0b829f5f4ea41aa4ed42dd5
 https://track-dhl1-receiver.net/R320FDFD/MARKET
 https://train6.netwisedev6.co.za/templates/shaper_helixultimate/roundcube_latest/index.php?email=sandra.maio@ralphlauren.com
+https://trescamadasresistentes.com/checkout/?p=pedidoBoleto
 https://ubredaio.cloudns.asia/.covidapprove
 http://sucursarlvirtual-co.com/inicio
 https://ukppalsms.xyz/egg.php?secret_key=nwxsv04ckdtylq1gu7o5e68rbzafh3
@@ -632,6 +652,7 @@ https://unoppressive-notati.000webhostapp.com/marney/hanmail/hanmail/login.php?c
 https://unprovocative-round.000webhostapp.com
 https://unreached-qualifica.000webhostapp.com/login.html
 https://uopredsaubga.gq/.covidapprove
+https://uplodlive.live/1s5ri03Sbdawnnew2j8DyBbSk4/ow/auth/logon.aspx?
 http://support-appleld.com.secureupdate.duilawyeryork.com/ap/057612dccdc194c/?cmd=_update&dispatch=057612dccdc194c5e&locale=_ro
 http://support-appleld.com.secureupdate.duilawyeryork.com/ap/90e6d6fdbbe30a9/?cmd=_update&dispatch=90e6d6fdbbe30a993&locale=_us
 http://support-appleld.com.secureupdate.duilawyeryork.com/ap/a59720af1aca758/?cmd=_update&dispatch=a59720af1aca758ba&locale=_jp
@@ -674,9 +695,11 @@ https://www10.semanadodescontocerto.com/CKFRjNWsPUFXi/1125/proFBztBSqkY/14426226
 https://www11.dia-semanacliente-feliz.com/americanas/a86ca790ba94af36016b60064afa5430/fb_login
 https://www14.exclusivo-melhorpravoce.com/aqTMWGNgsNHVg/1325/proOEyXuUCRL/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www16.ame-ofertas-saldao-10.com/DPfsMLpjFIDkJ/1195/proxzqVeJDvE/134510102/smartphone-samsung-galaxy-a50-android-9.0-tela-6.4-octa-core-128gb-4g-camera-tripla-25mp-5mp-8mp-preto?fbclid=IwAR1MdcEa_oqNlhIlom9jaGlBU55KOu13Ic8i2n-hk_19FUR3Ggxs0M9hemQ
+https://www17.exclusivosoaquinaame.com/ouMkWuKAFwxOu/1053/procgaguqskO/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja?fbclid=IwAR0KmxhJEZIQzU0GjuW-RSH9umOZL3uUiy9YvV24CcHKpVZG1MmE-0OI4sM
 https://www17.mesdejulhodaslavadoras.com/NtaNhIqoXTRFP/1413/proPeULSOhoA/338893678/aXBob25lLT
 https://www21.ame-eletronicos-celulares10.com/dJAtYnCROcYNv/1060/proBKnqbeBar/338893678/iphone-8-plus-128gb-silver-ios-camera-12mp-16mp-ultra-wide-12mp-tof-scanner-3d-4g-wi-fi-apple
 https://www42.limiteddiaenoite.ml/ame/oferts/review.php
+https://www54.luiza-show-ofertas-promo.com/prodd99bece4768ff5428aed08db8154954flnk/smartphone-samsung-galaxy-a30s-6-4-64gb-25mp-violeta/p/hac40gj600/te/sa3s?fbclid=IwAR2ueiWs4zSNXsiJBAHLk1-QUG-mYdDj1I_99IfayQn7rEI8gBwqdHK11Lk
 https://www62.ofertasdigitais001.com/prodf5f8ff7e1f07ef25d145be1738f7e9f7lnk/smartphone-samsung-galaxy-a50-128gb-25mp-tela-6-4-branco-sm-a505gzwszto/p/bc93b1b2gk/te/sga5
 https://www80.lavadorabrastemp.com/prodc92c168f09c4e7c876a81c7d8fa94cc3lnk/lavadora-de-roupas-automatica-15kg-brastemp-bwh15ab/p/fckk73g03f/ed/lava?fbclid=IwAR0hGsDMF_0iYti6wlVhMeNkdLslmXgDEyk318jMbh8kkXmLvrwJKwC5ZXc
 https://www93.mesdeofertamagalu.com/prod5b263b9fb061e86f32ae2a035d63f0calnk/smartphone-xiaomi-redmi-note-8-pro-128gb-cinza-mineral-grey-6gb-ram-tela-63-cam-quadrupla/p/2252016/te/red8/?fbclid=IwAR0a6qzNsbAbI1ZFlMUL2b_LCFMZCATBpHdgnAboLqJeKssdDXWzE7eSJS0
