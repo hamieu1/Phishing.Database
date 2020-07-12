@@ -1,6 +1,7 @@
 2344444jctrading.000webhostapp.com
 34.94.148.132
 39361407544399159355.us-south.cf.appdomain.cloud
+45.137.10.89
 45.77.28.74
 82.166.42.244:32000
 aapps.satgobmx.club
@@ -40,6 +41,7 @@ daytimebrunchalways.com
 dm.adamxwagner.co.uk
 ebay.co.uk-online.ukhelp-desk.com
 elletau.com
+eposcard-01.com
 eth-buterin.top
 fotkinapiec.com.pl
 fraudeitadetectada-tk.umbler.net
