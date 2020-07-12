@@ -3,9 +3,11 @@ http://160.251.2.167/ap/signin?key=a@b.c
 http://160.251.2.167/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://160.251.2.167/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://160.251.2.167/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://207.148.100.212/ap/signin?key=a@b.c
 http://34.94.148.132/chat.itau/inde.html
 http://39361407544399159355.us-south.cf.appdomain.cloud
 http://45.137.10.89/ap/signin?key=a@b.c
+http://45.77.17.135/ap/signin?key=a@b.c
 http://45.77.28.74/ap/signin?key=a@b.c
 http://82.166.42.244:32000/accounts/lang/il
 http://aapps.satgobmx.club/app/device/inicio/aplicationDeviceJuridica_webApp.php
@@ -210,6 +212,7 @@ https://askazz.com/wp-includes/blocks/jesusallaholohun/4ebf20f3897b870b2979c9a0e
 https://askazz.com/wp-includes/blocks/jesusallaholohun/83e76cfde337a94492c8a12022d464fb/bolayinka.htm
 https://askazz.com/wp-includes/blocks/jesusallaholohun/f858cc03f19cbadfb6072120fce9b312/bolayinka.htm?ip=38.145.83.44
 https://askazz.com/wp-includes/blocks/jesusallaholohun/fb8923bf425ca2fc635102253e484e76/bolayinka.htm?ip=184.188.74.140
+https://attatt.godaddysites.com
 https://attscerver.weebly.com
 https://attssdget.weebly.com
 https://attupdateserc.weebly.com
@@ -221,6 +224,7 @@ https://axeldlowgclow.tk/payments/Add-Payments-Method.htm?type=68v3oWMXCKK_tLsDe
 https://azreszv.000webhostapp.com
 https://azrvzsta.000webhostapp.com
 https://azvpszrecovers.000webhostapp.com
+https://banco-general-loahausshaj.financiamientosmexico.com
 https://bancolombia-sasa.webcindario.com
 https://bancolombia-sasa.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
 https://bancosestadocl.com/estado/imagenes/comun2008
@@ -228,8 +232,11 @@ https://bb.comeseemedia.com/Fidelity/home/verify.php
 https://beyondot.com/ChaseBank/488770918
 https://bit.ly/3edrf4g
 https://bit.ly/3ehI8ed
+https://bit.ly/3fwqVPL
+https://bit.ly/3gYy5wv
 https://britaxtetosolar.com.br/wp-content/b2020123/1
 https://britaxtetosolar.com.br/wp-content/b2020123/1/index2.php?https://account.1und1.de/home/particulares_esAssistanceDesktop/LoadLoginAssistance?type=pwd
+https://casatukcxgu.com/produto/1594513978/lavadora-de-roupas-electrolux-lac13-13kg-12-programas-de-lavagem/p/010556900/ed/lava/&amp;uid=6823007295
 https://casualtyomar.com/secure.chase.com/0a3126536975b2bbbcc613e3ae280b5c
 https://casualtyomar.com/secure.chase.com/0c825a411d3d4ccf9543657c81633cb1
 https://casualtyomar.com/secure.chase.com/3534651b46f2f46d978b40ad5fa78f08
@@ -291,6 +298,7 @@ https://indiainsta01.000webhostapp.com
 https://indiainsta01.000webhostapp.com/login.html
 https://info-webank-italia.com
 http://sistemaverde.cl/docusmentsecured/pdf/onedrivelogon.php
+https://j.mp/2DvigPj
 https://latiniciofbook-login-com.filesusr.com/html/c541f0_dcacdc29889034cdad18f13b05e8b658.html?NDgzNzA3Mg==facebook/d=sn&*RXplZ29tZXp1Y2VzQGhvdG1haWwuY29t*aHR0cHM6Ly9ocmVmLmxpLz9odHRwczovL3d3dy5mYWNlYm9vay5jb20=**UGpJWnhhdHJWbjk4OWN1dA==*RmFjZWJvb2sgRXNwYcOxb2w=*
 https://lecturer.ppns.ac.id/docs%20oo/?_branch_match_id=810832440929824320&utm_source=onedrive&utm_campaign=onedrive&utm_medium=onedrive
 https://lifebylife.org/fidelity/aboutus.php
@@ -330,6 +338,7 @@ https://myhtwxvdagtzbsgkhu.top
 https://mysp.ac/4cTdf
 https://olympic.mn/vendor/phpunit/phpunit/src/Util/PHP/chio/uas/index.php
 https://onedrivej2.app.link/docx
+https://paggenotificationserviceakun.co.vu
 https://paypal-verification.applmanager.com
 https://paypal-verification.applmanager.com/customer_center/user-876547
 https://pianostore.pl/libraries/dangoteee33/81a70fea8f2a36e0e9f8bea721f9f7f5/yinka.htm?ip=184.188.74.235
@@ -345,6 +354,7 @@ https://pt.usell4more.com/PC/atbonline/secquestions.php
 https://pubggiftuc.com/claim.php#fb
 https://rapidscreening.com.au/chase/user/info/surf3.php
 https://reactivostu.webcindario.com/Autenticate2
+https://re-verif.weebly.com/yahoo.html
 https://rodriguesbusiness.com/libraries/joomla/google/jesusallaholohun
 https://roldanlogistica2-my.sharepoint.com/:o:/g/personal/comercial1_rolcoshipping_com1/EruuxkY76YxLk7VZdFZRFZYBICM0kmV7-914pwcPo9G4mQ?e=PPoGt
 https://ronyhakim.com/simple.php
@@ -398,6 +408,7 @@ https://signupattloginmail.weebly.com
 https://sites.google.com/site/verifycheckpointpaqes
 https://sites.google.com/site/xempaqesrecover
 https://situsresmifbb.000webhostapp.com/FACEBOOK%20GUA/detail.php
+https://sparkase-de.produkte-de-kundenservice.pro/a1b2c3/f06bd1a551713367ffb296c467520bf6
 https://supoortpagenotification.co.vu
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/1a3020f4b119996?cmd=_update&dispatch=1a3020f4b119996eb&locale=_US
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/1a3020f4b119996/?cmd=_update&dispatch=1a3020f4b119996eb&locale=_US
@@ -430,11 +441,13 @@ https://u792854due.ha004.t.justns.ru/NETFLIX/NETFLIX-DK/Account/bill.html
 https://u792854due.ha004.t.justns.ru/NETFLIX/NETFLIX-DK/Account/inc/KS_sms2.php
 https://u792854due.ha004.t.justns.ru/NETFLIX/NETFLIX-DK/Account/loading.html
 https://udavckuzbdqsmfmnph.top
+https://umbrellacorp.id/killbot/r/la9ykzH
 https://upenda.com/CD/nridistribution.com/office_365_authentication
 https://upenda.com/CD/nridistribution.com/office_365_authentication/office.php
 https://upenda.com/CD/nridistribution.com/office_365_authentication/office.php?51iAiG1594519244594465a9b6d298e80825abd33ac434be594465a9b6d298e80825abd33ac434be594465a9b6d298e80825abd33ac434be594465a9b6d298e80825abd33ac434be594465a9b6d298e80825abd33ac434be
 http://suporte.app-sacmobile.com
 https://user7774398409.el.r.appspot.com/c:/users/user/downlo
+https://vvujcatsfykeengspx.top
 https://wdestaques11.a-melhor-ofertaeaqui.com/568e9ca8-13bd-fc1-b39b-485b020676ce/897/produto/134240624/smart-tv-led-55-samsung-55ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://wdestaques11.chegouespecialmesdejulho.com/899742bc-8d27-3dd-a756-4bb424c964fe/1393/produto/1442622659/smartphone-samsung-galaxy-a51-branco
 https://wdestaques11.semana-de-precos-baixo-corra.com/ff7ba418-f45a-68d-bdb5-0450363dfcc6/1530/produto/1632505761/smart-tv-led-32-sony-kdl-32w655d-z-hd-com-wi-fi-2-usb-2-hdmi-motionflow-240-e-x-reality-pro
@@ -449,13 +462,17 @@ https://wdestaques14.melhor-semana-pra-liquida.com/8fcee9b2-76be-656-9957-927841
 https://wdestaques14.mescampeaodeprecobaixo.com/61b421ae-4147-dab-a2f9-ac87c1f0f4d8/1195/produto/134510102/smartphone-samsung-galaxy-a50-android-9.0-tela-6.4-octa-core-128gb-4g-camera-tripla-25mp-5mp-8mp-preto
 https://wdestaques14.mesdejulhocomomelhor0720.com/4558a04f-0aa9-608-b63d-e6269d9df805/1524/produto/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://wdestaques15.americanas-limpa-estoque-mes.com/d5ed9ec2-9dde-39c-ae7e-78221a620397/1498/produto/134544901/smart-tv-led-50-lg-50um7360-ultra-hd-4k-com-conversor-digital-wi-fi-2-usb-3-hdmi-thinq-ai-controle-smart-magic
+https://wdestaques15.mesespecial-eaqui.com/6ec06dc8-0c87-ac4-980e-914a50328a5b/974/produto/134315981/smartphone-samsung-galaxy-a70-128gb-dual-chip-android-9.0-tela-6.7-octa-core-4g-camera-tripla-32mp-5mp-8mp-uw-branco
 https://wdestaques16.vocesempreconectadoaomundo.com/c4403f31-4a85-184-8757-3be35d2b19ca/1467/produto/1299774034/smartphone-xiaomi-redmi-note-8
 https://wdestaques17.ame-brastemp-semanadeofertascontinua.com/f99f96b3-61ee-f1d-ac21-1d1e0ca7910c/1457/produto/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://wdestaques18.ame-confiranossosmelhoresprodutos.com
+https://wdestaques18.americanas-julho-mes-de-queima-total.com/c072fc69-eb6e-2f5-bf63-19461c1962c2/1303/produto/1299774034/smartphone-xiaomi-redmi-note-8
 https://wdestaques19.mesespecial-eaqui.com/5b06d0ff-2a79-77a-91f4-2c0bb7b7970b/1389/produto/1442622536/smartphone-samsung-galaxy-a51-android-tela-6-5-super-amoled-octa-core-2.3-128gb-4g-camera-48mp-12mp-5mp-azul
 https://wdestaques19.sua-melhor-escolha-e-aqui.com/b7068c2a-fb07-084-8a34-59b10143718e/1294/produto/132522927/lavadora-brastemp-15kg-com-double-wash-bwd15-branco
 https://wdestaques20.encontre-melhore-precos-so-aqui.com/3933aa3c-4968-197-abf5-47b69deab3d0/1303/produto/1299774034/smartphone-xiaomi-redmi-note-8
+https://wdestaques20.melhor-semana-pra-liquida.com/76862a20-1840-f25-b38a-58eb2050d754/1464/produto/1650696855/smart-tv-led-43-uhd-4k-samsung-43tu7000-crystal-uhd-wi-fi-hdr-borda-ultrafina-controle-remoto-unico-e-bluetooth
 https://wdestaques20.oimuitos-pra-voce.com/5b4943e7-919f-37c-bb38-cf5dd378e9f1/1489/produto/134219606/lavadora-de-roupas-brastemp-15kg-bwn15-titanio
+https://wdestaques20.sua-melhor-escolha-e-aqui.com/fd85941e-2b0a-af5-9fb3-6af77fe68862/1070/produto/1447209353/smartphone-samsung-galaxy-a71-azul?fbclid=IwAR3srKfQTOpboFZhfTYFUmBeAHVYXegCbVJVjupOAvEwxaOZ8RRViWv6_c4
 https://wdestaques21.a-melhor-ofertaeaqui.com/5efb50d8-4e8b-a5c-a06d-4f4397e2b68f/1517/produto/134251403/smartphone-samsung-galaxy-a30-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-16mp-5mp-azul
 https://wdestaques21.sua-melhor-escolha-e-aqui.com/e20a7a1a-a006-b31-9131-98fbf800e594/1426/produto/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://web6326.cweb03.gamingweb.de/inx
@@ -467,14 +484,19 @@ https://wizardly-johnson-2fdf24.netlify.app
 https://womromsnd.com/amazon/mazon/7148f
 https://www10.ame-ofertas-saldao-10.com/fqRDeNDIUVtlI/1060/promGtPxtWoF/338893678/iphone-8-plus-128gb-silver-ios-camera-12mp-16mp-ultra-wide-12mp-tof-scanner-3d-4g-wi-fi-apple
 https://www10.luiza-show-ofertas-promo.com/prod8dd3981279b7dc000f5b0b4f6a29bb0blnk/smartphone-samsung-galaxy-a30s-6-4-64gb-25mp-violeta/p/hac40gj600/te/sa3s?fbclid=IwAR0akYLKmeRsN42AYZ8b5pex36Ngj52I32H77yPJ97k6GTXeNzimxkk9-mU
+https://www.123formbuilder.com/form-5545237/slgn-ln-outlook?email=comunicacion@marcatel.net
 https://www12.ame-confiranossosmelhoresprodutos.com/TAoDEdjcVVpLj/1379/proLYreiERjN/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www13.a-melhor-ofertaeaqui.com/drBfTKFpLiUJW/1325/provcebToQMm/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www14.produtos-com-qualidade-aproveite.com/PmpBvXsngCxZE/1303/provlMprQFEG/1299774034/smartphone-xiaomi-redmi-note-8
+https://www18.smartphonecelularssmartphone.com/prod48e875395dc1b6ca685f1ac7e532a6f8lnk/smartphone-samsung-galaxy-a30s-64gb-6-4-sm-a307gt-branco/p/bbdhgjc9k9/te/sa3s?fbclid=IwAR3JbCYG1cohaC3P0tOafKzMi3QxqWyRR73RRI9BqLMP_WYeTjUDRNHdsU8
 https://www19.ferramentasluh.com/produto/1594305555/kit-furadeira-parafusadeira-gsr-120-li-com-chave-de-impacto-gdr-120-li-bosch/p/hh182d4746/fs/fprr/&uid=1922908097
 https://www20.oferta-exclusivas-precos-justos.com/7204083b-987d-eb7-af00-0bd2c04a55d6/1309/produto/1617586072/xiaomi-note-8-dual-sim-64-gb-branco-lua-4-gb-ram
 https://www33.magazin-promocao-mes-de-julho.com/prodceb69126b016e7ca088f2f2ac3de2570lnk/smartphone-samsung-galaxy-a30s-6-4-64gb-25mp-violeta/p/hac40gj600/te/sa3s/?fbclid=IwAR3ZQUtHTsGQH-trKtvRiztUV__bhxl8JWS5oRHsCqJKcF9xNAEaojVG6zU
 https://www70.luiza-show-ofertas-promo.com/prod889f8b9960bb83139dc68d5f2c6c1e7flnk/smartphone-samsung-galaxy-a30s-6-4-64gb-25mp-violeta/p/hac40gj600/te/sa3s
 https://www.abn.co-host-listing-25130.casa/login/loginsms.html
+https://www.akmaterials.net/.webapp/service
+https://www.akmaterials.net/.webapp/service/app/index
+https://www.akmaterials.net/.webapp/service/app/signin
 https://www.amazon.co.jp.ekvs5v1e3q-0vw2vv-qv4.party
 https://www.amazon.co.jp.intmkt3w41enr-mt3-s2qve.run
 https://www.bcpzonasegurabeta.vlabcp.co/.value/inicias-sesion
@@ -522,6 +544,7 @@ http://theofficesa.com/Secure-verify/wfnyxt3wn1y03fvpu8413kh3mail.chase.com.php?
 http://theofficesa.com/Secure-verify/wfnyxt3wn1y03fvpu8413kh3mail.chase.com.php?7iA6C61594471218bd6ad24b91be8937f3443c5f4c61fe59bd6ad24b91be8937f3443c5f4c61fe59bd6ad24b91be8937f3443c5f4c61fe59bd6ad24b91be8937f3443c5f4c61fe59bd6ad24b91be8937f3443c5f4c61fe59=&userId=
 http://trepgtd.ml/king/upload/index.php?email=zhaojing.kou@eastech.com
 http://trianon-1000.ru/modules/jmsslider/views/img/layers/post/post/china/logistics/ems.php
+http://tudotem20salda-oo.com/produto/1594473647/fritadeira-air-fryer-af-14-inox-red-mondial-127v/p/hjh4cjcjb1/ep/frel/&amp;uid=5030313098
 http://tudotem20salda-oo.com/produto/1594473647/fritadeira-air-fryer-af-14-inox-red-mondial-127v/p/hjh4cjcjb1/ep/frel/&uid=5030313098
 http://u785034cf8.ha004.t.justns.ru/impots.gouv.fr/espace
 http://u785034cf8.ha004.t.justns.ru/impots.gouv.fr/espace/sms1.htm
@@ -556,6 +579,7 @@ http://www.magaluappsdescontos.com/Produto_12119/produto.php?sku=6896987
 http://www.modesupportinc.webredirect.org/signin/m376/websrc?country.x=pk&amp
 http://www.m-resgatemilhasemate24hrs.com/home.php
 http://www.nucare.com.au/go/my
+http://www.oldschoolrunsecape.com
 http://www.recuperesuasmilhasagora-mobile.com/confirmacao
 http://www.sex.eventfreex.com
 http://www.sex.eventfreex.com/login.php
@@ -566,4 +590,5 @@ http://www.smbc-cardd.com
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/0e9b1eb6e2ea456?cmd=_update&dispatch=0e9b1eb6e2ea45640&locale=_US
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/0e9b1eb6e2ea456/?cmd=_update&dispatch=0e9b1eb6e2ea45640&locale=_US
 http://x394uirjomokf30.wm.r.appspot.com/c:/users/user/downlo
+http://zjowceduamazon.xyz
 http://zwaveguide.com/update/www.loginalibaba.com/alibaba/alibaba/login.alibaba.com.php
