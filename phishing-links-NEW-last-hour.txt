@@ -1,11 +1,5 @@
-http://paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se/1d72b69c8e37aec662e13e39d929d6e3d111111111111
-http://redirect-secure-verif.fr
-https://antecipecomdesconto.com
-https://bootnbonnet.org/wp/wp-includes/Text/excel/excel/excel/login.php?cmd=login_submit&amp;amp
-https://lascared-authen.netlify.app
-https://pateltutorials.com/admin/vendor/league/?go=info@am-terrace.com
-https://pwieurc.godaddysites.com
-https://tdsmal.yolasite.com
-https://tpstorage.com.au/office.com/microsoft/onedrive
-http://tdsmal.yolasite.com
-http://tiny.cc/02cdqz
+http://52.109.32.22/odc/v2.1/hrd?lcid=1033&amp;syslcid=1033&amp;uilcid=1033&amp;app=1&amp;ver=16&amp;build=16.0.12827&amp;p=0&amp;a=1&amp;hm=7&amp;sp=0&amp;fpenabled=1
+http://52.109.88.5/odc/v2.1/hrd?lcid=1033&amp;syslcid=1045&amp;uilcid=1033&amp;app=1&amp;ver=16&amp;build=16.0.11929&amp;p=0&amp;a=1&amp;hm=7&amp;idp=adal&amp;sp=2&amp;fpenabled=1
+http://52.109.88.5/odc/v2.1/hrd?lcid=1033&amp;syslcid=9242&amp;uilcid=1033&amp;app=0&amp;ver=16&amp;build=16.0.12730&amp;p=0&amp;a=0&amp;hm=1&amp;sp=0&amp;fpenabled=1
+http://wholesalebarbour.top
+http://www.wholesalebarbour.top

@@ -3,6 +3,9 @@ http://35.198.29.166
 http://40.88.33.157
 http://45.76.210.137/ap/signin?key=a@b.c
 http://52.109.20.1/odc/v2.1/hrd?lcid=1033&amp;syslcid=1033&amp;uilcid=1033&amp;app=0&amp;ver=16&amp;build=16.0.12827&amp;p=0&amp;a=1&amp;hm=7&amp;sp=0&amp;fpEnabled=1
+http://52.109.32.22/odc/v2.1/hrd?lcid=1033&amp;syslcid=1033&amp;uilcid=1033&amp;app=1&amp;ver=16&amp;build=16.0.12827&amp;p=0&amp;a=1&amp;hm=7&amp;sp=0&amp;fpenabled=1
+http://52.109.88.5/odc/v2.1/hrd?lcid=1033&amp;syslcid=1045&amp;uilcid=1033&amp;app=1&amp;ver=16&amp;build=16.0.11929&amp;p=0&amp;a=1&amp;hm=7&amp;idp=adal&amp;sp=2&amp;fpenabled=1
+http://52.109.88.5/odc/v2.1/hrd?lcid=1033&amp;syslcid=9242&amp;uilcid=1033&amp;app=0&amp;ver=16&amp;build=16.0.12730&amp;p=0&amp;a=0&amp;hm=1&amp;sp=0&amp;fpenabled=1
 http://a0454558.xsph.ru/ID9839D7NA736/loading.php
 http://aapf.aapj.xyz/1207/device/inicio/aplicationDeviceFisica_webApp.php
 http://aapf.aapj.xyz/1207/device/inicio/aplicationInfoFisica_webApp.php
@@ -525,6 +528,7 @@ http://vtpgroup.co.in/formatt/regions2020/index1.html
 http://vtpgroup.co.in/formatt/regions2020/index2.html
 http://vtpgroup.co.in/formatt/regions2020/index3.html
 http://wh493095.ispot.cc/gonder1.php
+http://wholesalebarbour.top
 http://wholesale-football.com
 http://wholesale-football.com/M
 http://wordpress.pnmb.com.my/wp-content/themes/twentysixteen/js/confirm.php
@@ -550,6 +554,7 @@ http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/6ee8588c3c0d1da
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/6ee8588c3c0d1da/?cmd=_update&dispatch=6ee8588c3c0d1daac&locale=_
 http://www.vashtrainer.com/dhl-online-tracking.htm
 http://www.verifica-sicurezza.info/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/secure
+http://www.wholesalebarbour.top
 http://www.wholesale-football.com
 http://www.wholesale-football.com/M
 http://www.xcountdash.com/mazon/a4e9f
