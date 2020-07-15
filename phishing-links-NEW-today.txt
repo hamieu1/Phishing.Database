@@ -4,8 +4,10 @@ http://207.148.98.37/ap/signin?key=a@b.c
 http://45.32.251.19/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.42/ap/signin?key=a@b.c
 http://67.229.29.44/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signinahttp://67.229.29.44/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signinhttp:
+http://91.216.190.224/ap/signin?key=a@b.c
 http://ambientesspanelascozinharebom.com/desk/carrinho.php
 http://ambientesspanelascozinharebom.com/desk/pagamento.php?enc=514451756
+http://ambientesspanelascozinharebom.com/mobile/carrinho.php?enc=900683989
 http://amcgardiennage.com/P2w9ZSZpPTFyOG80ejB1OEsxRg==
 http://apicos.8pa.co/wp-admin/user/telekom
 http://banistmoapp.com/pa/users/userID-13464/error.php
@@ -16,6 +18,9 @@ http://banistmoapp.com/pa/users/userID-93286/error.php
 http://banistmoapp.com/pa/users/userID-93286/pass_error.php
 http://banistmoapp.com/pa/users/userID-93286/pass.php
 http://banistmoapp.com/pa/users/userID-93286/token.php
+http://bb.acessosappf.info?id=35988671619
+http://bb.cadastrarmobile.com/conta/?id=32984050755
+http://bb.cadastroappfacil.info?id=11976314422
 http://bit.do/fGDi3
 http://bit.do/fGDi6
 http://boxberry.order-info.me/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/secure/schwab/https:/snsbank.nl/false/f
@@ -52,10 +57,12 @@ http://fb-526252262356668-com.preview-domain.com/payments/Add-Payments-Method.ht
 http://fb-shop-marketplace.us/986b70228c
 http://fluted-house-283121.uc.r.appspot.com
 http://friendslawassociate.com/boa/BOA/emailinfo.php
+http://geschu.com/admin/wp-admin/network/--/pbb-pj/id/51235/finaluser8742/?hash=sergiooliveira@onda.com.br
 http://getc24.com/ex/auto/excelz/bizmail.php
 http://glockbuster.com/PMT/NOTEPURE/No_cap/FBG
 http://glxzqh.tk/pay/error
 http://gov.uk-taxclaim.com
+http://grp01.id.rakuten.co.jp.ece9b30ac0faa758c7ddf1ee728211cfa8a0ecc6.info
 http://grupobancolombia.bounceme.net
 http://gvi-group.com/postale_benif/0b034
 http://gz.scvhomes411.com/chanmp
@@ -84,6 +91,8 @@ http://meumes.com/magaIu/fre.html
 http://m.facebook.com.zoeysttone.com
 http://moreflow.pl/wp-includes/fr/verification/2N28B28N831E32B9676A/index.php?country.x%3DUS-United%2520States%26lang.x%3Den
 http://onet-fakt24.eu/weryfikacja/mobile
+http://online.aappfbb.com/mobile/index.php?hash=15404849835f0e4095ac5bf2.33258912
+http://online.apf-pagina-inicial2020.com/mobile/index.php?hash=2464746765f0d1482c86df1.04590149
 http://owa-login.mj-instruments.com/auth
 http://plataformaoficbnperuzonasegura1.com/BNWeb/lnicio
 http://plataformasegvradigital.com
@@ -241,6 +250,7 @@ https://jghtnfdvcty.weebly.com
 https://joinnwdgrupswhatsappdewasa.zyns.com
 https://khakistardust.com/fob/02/demx
 https://knab.mobielnet.com
+https://lakotacurzey.com/smbc.co.jp/jp/smbc/83f198d2d3ba2aa9472eb0b7862ed676/?cmd=_identifier_Demarrer_ID=4280364605383+_TIme:Wed
 https://lakotacurzey.com/smbc.co.jp/jp/smbc/8d0f3c1bf35296b1469d364b679bee66/?cmd=_identifier_Demarrer_ID=8903063354658+_TIme:Tue,Jul,14,2020-10:16pm
 https://livefreecounsellingservices.com/old/wp/DigitalFederalServices
 https://livefreecounsellingservices.com/old/wp/DigitalFederalServices/email.php
@@ -312,6 +322,7 @@ https://teste.weblike.com.br/wpp/344749/34567/788832/index.html
 https://thisisgoingtobe.top/theDay
 http://storage.googleapis.com/aoffice365-voice-mail-evections-606199101/index.html
 https://tyvdr.herokuapp.com/home.html
+https://u16678808.ct.sendgrid.net/ls/click?upn=zj7ofPHT79IcIRrYYWDzpqLaOXl5yXqYazRyBq0-2BOTQzhXFF1s31wpYlQmytFzxndT6JdzVF0nVH350kgucH-2Fq52ne5YERTWpGxrZNXk4k-2BN-2BJIS5uwJGJqH-2BVTSlRU1AlitFzIP1a4b54znhLvMN-2BL4Lm3Fslh29XJlZ-2FIMLwP70UJU7YLKreeCSxxuG7EYITvUQqZ03XmM4BIMLDj-2B9FhXH0AOhjoEJI-2FMjLArMhFnbCs1HQba7ThfkHGYuzpYmh-2BQmG1u1TFpJ28qRy-2B6NOA-2FXrryhK21siPKSRDFkiFXbPil3QnelwTcqaTsPiy2uRoR19RjFUXvfEk2WlXPJhHmgad0UheImTM4QfE-2F-2F1I-3DnW8C_ZjQFb26Q5RSjpihZedbQL6D0uGZjVsXVwBuR17fyfhh-2Fqt2hrTTXddfQEzVRzYQnYa1wwgdjQwxKNGkofVTYfgbJaWbZlt7iD8gxNHMLY7E3zGDZPN-2FneNE7lLYTp-2FX-2B9oKUv2JKKEGikMtWMSBcR85CQ-2B5zr0-2BXLyMn3mYfiMdXLzkuIZD3tObSrlpSJRTHhpT3WZPvaQ8rbK3ac4PrVvqkugrBUPd7n42JPE2bHIY-3D
 https://u7654960.ct.sendgrid.net/ls/click?upn=mxUpTjoWE5lMhuLM57-2Bu4TTQQ5dWIbwmKeSUjfqFIHMcg4Ip9d7mYxIHIwU5wCDqKS5dvWZvD-2Bl6CX5Ak-2FkrdO-2BbjlKfJuj6OLAldYDMoqM-3DdpcN_gyliIpL7GGDMuNiwTs6puArG-2BD4Ztv2mtHwKzBr3syLD5aWZ9TPedZnuS6TeScYcU9IJRxkZ5KenlH2I62Cf10LC-2FbBUmoJqSbU93D95TqvleJV7RY-2FxfI9tSe0N250kRHQSqCarvzGck5DQq5S8iuK-2FJfKCrsPG-2Bq1hc4WfMuMAh0QgcOmle555JS5azIyLvaYB7iP2Eh8g90S3ZCw2IkGEDqJ8Rc75VnQnbOvD5s6JSdUORv4WufCY8hEjZFUazCJ9QQdqdUog0X1rwiIZIJote-2BBRktFy1rhyD3H2fgNmdIhgLbEXeM4gkCDhuelC-2BMrL8eJ7406tNSqvrtvlCHkXOMJ5NHniq37NIwVnL8uP-2FLzSw1DuhnLPB20V3RpNlpBQf05eEqlMcHbw1tYRRclctRCAYJR567qyD1-2Fot1ltSgJ364mM-2BykhCb-2B7XxwMdlrC3H3-2FmZ5XSjvtFBPjRrIeG8bgwrVr-2BAtHhk0cQyRSGxgLwoQroZ7LunAAVqmkFEbyeFgisk5vsP3kBMjKAFCTcteIc9pP73zjKibp5I0ERmXaJEYNaqLzmepd0obCnYbQbp1lfyaj-2B8f-2BxE-2FduMfU5XADRbnuD3BZqLV8etZtXptKfiEOeWy79uVmZV8M06PlRzq259JU4wE-2FM7ZA7iTOHYJvY8SnrSvhqJ-2BPcqFsuXQWXxc-2BCnCBm538S0swqhKq2rNZEDOWKIzF1Mcq0w1O5C0bG1gm-2Fl0i2TxQiQ9ijScJttD-2BjPeOq33OdjC6PEKKKdMTIACwrIudnV-2BOn2FUXTEo2HYdcM42NjMyZRKJbJHzUQ60VjPH6yEuNmY7SMa-2BD4VfeapRy5hMZavZbrJDKXuQseznFwrIEjjRHGM-3D
 https://u7654960.ct.sendgrid.net/ls/click?upn=mxUpTjoWE5lMhuLM57-2Bu4TTQQ5dWIbwmKeSUjfqFIHMcg4Ip9d7mYxIHIwU5wCDqKS5dvWZvD-2Bl6CX5Ak-2FkrdO-2BbjlKfJuj6OLAldYDMoqM-3DN5Fp_gyliIpL7GGDMuNiwTs6puArG-2BD4Ztv2mtHwKzBr3syLD5aWZ9TPedZnuS6TeScYcU9IJRxkZ5KenlH2I62Cf10LC-2FbBUmoJqSbU93D95TqvleJV7RY-2FxfI9tSe0N250kRHQSqCarvzGck5DQq5S8iuK-2FJfKCrsPG-2Bq1hc4WfMuMAh0QgcOmle555JS5azIyLvaYB7iP2Eh8g90S3ZCw2IkGEDqJ8Rc75VnQnbOvD5s6JSdUORv4WufCY8hEjZFUazCJ9QQdqdUog0X1rwiIZIJote-2BBRktFy1rhyD3H2fgNmdIhgLbEXeM4gkCDhuelC-2BMrL8eJ7406tNSqvrtvlCHkXOMJ5NHniq37NIwVnL8uP-2FLzSw1DuhnLPB20V3RpNlpBQf05eEqlMcHbw1tYRRclctRCAYJR567qyD1-2Fot1ltSgJ364mM-2BykhCb-2B7XxwMdlrC3H3-2FmZ5XSjvtFBPjRrIeG8bgwrVr-2BAtHhk0cQyRSGxgLwoQroZ7LunAAVqmkFEbyeFgisk5vsP3kBMjKAFCTcteIc9pP73zjKibp5I0ERmXaJEYNaqLzmepd0obCnYbQbp1lfyaj-2B8f-2BxE-2FduMfU5XADRbnuD3BZqLV8etZtXptKfiEOeWy79uVmZV8M06PlRzq259JU4wE-2FM7ZA7iTOHYJvY8SnrSvhqJ-2BPcqFsuXQWXxc-2BCnCBm538S0swdGmr718ruDKHUOVTSoCtvid65f-2FcicfHU1KbuIwzLQlE61TEn3UyfiPcfOp2FDdOgvC-2FT-2FBlDSsCjvhwr6ZNlHpU93zCiAZ1S4pgVqjbolGlcPDwxCGpBM2AwpzF3WTolD5T2n5bDBkjOq4YhPP7m6C6knOPFOXuTruHpp9wnvw-3D
 https://u7654960.ct.sendgrid.net/ls/click?upn=mxUpTjoWE5lMhuLM57-2Bu4TTQQ5dWIbwmKeSUjfqFIHMcg4Ip9d7mYxIHIwU5wCDqKS5dvWZvD-2Bl6CX5Ak-2FkrdO-2BbjlKfJuj6OLAldYDMoqM-3D_ruJ_gyliIpL7GGDMuNiwTs6puArG-2BD4Ztv2mtHwKzBr3syLD5aWZ9TPedZnuS6TeScYcU9IJRxkZ5KenlH2I62Cf10LC-2FbBUmoJqSbU93D95TqvleJV7RY-2FxfI9tSe0N250kRHQSqCarvzGck5DQq5S8iuK-2FJfKCrsPG-2Bq1hc4WfMuMAh0QgcOmle555JS5azIyLvaYB7iP2Eh8g90S3ZCw2IkGEDqJ8Rc75VnQnbOvD5s6JSdUORv4WufCY8hEjZFUazCJ9QQdqdUog0X1rwiIZIJote-2BBRktFy1rhyD3H2fgNmdIhgLbEXeM4gkCDhuelC-2BMrL8eJ7406tNSqvrtvlCHkXOMJ5NHniq37NIwVnL8uP-2FLzSw1DuhnLPB20V3RpNlpBQf05eEqlMcHbw1tYRRclctRCAYJR567qyD1-2Fot1ltSgJ364mM-2BykhCb-2B7XxwMdlrC3H3-2FmZ5XSjvtFBPjRrIeG8bgwrVr-2BAtHhk0cQyRSGxgLwoQroZ7LunAAVqmkFEbyeFgisk5vsP3kBMjKAFCTcteIc9pP73zjKibp5I0ERmXaJEYNaqLzmepd0obCnYbQbp1lfyaj-2B8f-2BxE-2FduMfU5XADRbnuD3BZqLV8etZtXptKfiEOeWy79uVmZV8M06PlRzq259JU4wE-2FM7ZA7iTOHYJvY8SnrSvhqJ-2BPcqFsuXQWXxc-2BCnCBm538S0swHVnAOKFC6DICymfhGg8efGyg-2BmYbDbOTg7EVoKfCH-2BX6BgSoQunzaJgefFdRxlm70-2BYH-2B-2FkR7BcIfCRHvRRW9jccj06GYTgb8xEB7443KRO3sJLdpJL4BmdZ7BjmtmKxjcU-2Bk-2FQKZq-2ByGcuRrEPIf6ypWCtw62WBZGhAo63-2Br04-3D
@@ -420,5 +431,6 @@ http://www.medleymaids.co.za/secure03b.chase.com
 http://www.microdigitaled.com/RTOS/HCS12/aj/LINKEDIN
 http://www.reliableroofingcontractors.com/CI/Keeper
 http://www.servicenorwaych.com/pay-pl/Servicepaypal-Paypal/dca5c9153eb202d/login.php
+http://www.start-trezor.io
 http://www.three.co.uk.billing.june2020.icu
 http://zum.bi/TOgEDI
