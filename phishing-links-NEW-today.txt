@@ -6,6 +6,7 @@ http://150.95.221.44/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claim
 http://150.95.221.44/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://150.95.221.44/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://173.82.143.219
+http://173.82.143.236
 http://185.18.196.229/img/d508e2a83065a72b52ed7754561bf3ce.png
 http://185.18.196.229/webapp/?abuse@alice.it
 http://185.244.150.51/daum.com/login.daum.nets/home.html
@@ -93,6 +94,7 @@ http://healthfiles.co.in/oky/Excel/xl/link/Excel/index.php?mylove=trent.schell@d
 http://het-impp11.com/servi-mail-pro-webb111928270383jksddkjsdjks191171927282827383322/65161e73848c8bbbf7a4bc07e77a8454/sms1.htm
 http://het-impp11.com/servi-mail-pro-webb111928270383jksddkjsdjks191171927282827383322/65161e73848c8bbbf7a4bc07e77a8454/sms2.html
 http://het-impp11.com/servi-mail-pro-webb111928270383jksddkjsdjks191171927282827383322/65161e73848c8bbbf7a4bc07e77a8454/sms.html
+http://hiltonphorma.it
 http://himafarmaavicenna.ulm.ac.id/cgi-bin/Excel/xl/link/Excel/PO/page.php
 http://hmrc.gov.returns-gb.com
 http://hmrc.uk.info-support-gb.com
@@ -110,6 +112,7 @@ http://mangunministries.com/ACH/FBG
 http://metropolitanogoiania.com.br/apple
 http://miquellhennigan.com/DRIVEONEPMT/FBG
 http://moratdss.spiekermann-porzellan2.de
+http://mufg-ad.com
 http://naruds.com/vr/75f995a620981c45605da6f3a9199af9
 http://naruds.com/vr/75f995a620981c45605da6f3a9199af9/ver/index.html
 http://naruds.com/xq/b1683889723f236a620112da657a74ca
@@ -412,10 +415,12 @@ http://support-appleld.com.secureupdate.duilawyeryork.com/ap/f4438ed6fdc31df/?cm
 https://urlid2020.000webhostapp.com/FACEBOOK%20GUA/detail.php
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?qazw$*edcrfvtgbpojiqubs*uhdbefvhifdbsdbetypoiq@q@xsduxwwuf
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?qazwsxedcrfvtbgpojiqubsxuhdbefvhjfdbsdbetypoiqaqaxsduxwwuf
+https://vayvontinchap5s.com/wp-content/uploads/2020/07/?qazwsxedcrfvtgbpojiqqubsxuhdbefvhjfdbsdbetypoiqaqaxsduxwwuf
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?qazwsxedcrfvtgbpojiqubsxuhbdefvhjfdbsdbetypoiqaqaxsduxwwuf
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?qazwsxedcrfvtgbpojiqubsxuhdbefvhhjfdbsdbetypoiqaqaxsduxwwuf
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?qazwsxedcrfvvtgbpojiqubsxuhdbefvhjfdbsdbetypoiqaqaxsduxwwuf
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?q@zw$*edcrfvtgbp0jiqub$xuhdbefvhifdbsdbetyp0iqaq@x$duxwwuf
+https://vayvontinchap5s.com/wp-content/uploads/2020/07/?q@zws*edcrfvtgbp0j|qubsxuhdbefvhifdb$dbetyp0iqaq@*sdu*wwuf
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?q@zwsxedcrfvtgbp0i1qub$xuhdbefvhjfdbsdbetyp0iq@qa*$du*wwuf
 https://vayvontinchap5s.com/wp-content/uploads/2020/07/?q@zwsxedcrfvtgbp0jiqub$xuhdbefvhjfdb$dbetyp0|qaq@*sdu*wwuf
 https://verify.myhmrctax-rebate.com
@@ -467,6 +472,7 @@ https://www.janamarbles.com/images/oi/LINKEDIN
 https://www.janamarbles.com/images/oi/LINKEDIN/index.html
 https://www.keeplookingtojesusguy.org/cc/?email=uk2@yt-tool.com
 https://www.keeplookingtojesusguy.org/cc/serro.php
+https://www.mediafire.com/file/knk424numeobuja/Csps_17072033201.7z/file
 https://www.pause-derive.xyz
 https://www.secureupdate.appleld.com.duilawyeryork.com/ap/0fbb11329a3b4b3
 https://www.secureupdate.appleld.com.duilawyeryork.com/ap/c9b10b9cdfb4ad1/?cmd=_update&dispatch=c9b10b9cdfb4ad156&locale=_RU
