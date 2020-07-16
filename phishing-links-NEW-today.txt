@@ -16,6 +16,7 @@ http://45.117.102.178/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;ope
 http://45.117.102.178/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://45.117.102.178/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://45.117.102.178/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://4b26d6cc92.nxcli.net/air/Maerskk/maer.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-email&email
 http://53.com-customer.6283320.synergyglobal.one/en/signin.php?sessionid=6cwous2eq2eaahuirkmt2hujivaq491bmxzqp2vg5kqf1lnsfamirqramcbqlcb7zbypeu6jexpgin9yxvgpm80jlb9weleoncd17kllhabzykywgfldnmm8owfchjrewf&sslchannel=true
 http://53.com-customer.6283320.synergyglobal.one/en/signin.php?sessionid=affmnntmwvpgzl38gfyqsmtgpmkrdzanfqacdtzkyoqy9u6qjfgc1ztrwdiadtnsjyvxruiqt8p3dwtnbazdase66xgkq4ca28yudgvwpka2qtp23zfdsukzr1ji6wj95s&sslchannel=true
 http://6mftk.weblium.site
@@ -35,6 +36,7 @@ http://agenciawecan.com.br/.well-known/pki-validation/raifservice/lograiffeisenF
 http://al-lameenwcc.com.my/paypal.co.uk.signin.returnUri.https.www.paypal.com.2Fcgi-bin.2Fwebscr.3fcmd.3d_upd-exp.26wid.html
 http://almasabshod.com/admn/fedex/fedex.htm
 http://amazon.co.jp.amazon-jpfbasjfbasujdhaiufheuhefhsjdfbasfhnsjakasfdas.xyz
+http://ambienteprotegido.foregon.com/casasbahia/1001/bdlcb/cartao-casas-bahia-visa-internacional/step1
 http://americanas-anuncios.com/acompanhamento
 http://amowceuamazon.monster/p
 http://apple.com.aieuv.cn/mim/1uf2h76h02964177t130se9l0l2n996bp952fudd15287n8z18.html
@@ -124,6 +126,7 @@ http://pub6.bravenet.com/emailfwd/show.php
 http://punchmoglen.com/Garrett/Sparks
 http://qnaqaaa08cowa.et.r.appspot.com/logi.html
 http://rakuten.co.jp.rakaten.xyz
+http://rakuten.co.jp.rakiten.xyz
 http://rakuten.co.jp.rakuetnsdfwewemcasmlwefasd.buzz
 http://randomstring.intesareview.com/api/?abuse@alice.it
 http://randomstring.intesareview.com/webapp/?abuse@alice.it
@@ -155,12 +158,15 @@ https://agrover.uz/.well-known/pki-validation/bancor/3de91fa84fbfd9f91a881db5ad7
 https://agrover.uz/.well-known/pki-validation/bancor/5c2adefa4bc3e8b70c1966c4cecd964d/auth.php
 https://agrover.uz/.well-known/pki-validation/bancor/5c2adefa4bc3e8b70c1966c4cecd964d/info.php
 https://agrover.uz/.well-known/pki-validation/bancor/fc60fe737773911156248826d34b005e
+https://agrover.uz/.well-known/pki-validation/bancor/fc60fe737773911156248826d34b005e/info.php
 https://ahiiim.000webhostapp.com/commercial.html
 https://amazon-co-jp-login.club
 https://amazon-jpfbasjfbasujdhaiufheuhefhsjdfbasfhnsjakasfdas.xyz
 https://anthonymangun.cc/ACH/FBG
 https://anthonymangun.co/ACH/FBG
 https://anthonymangun.org/ACH/FBG
+https://app-dkb.de.cool/cgi/index.php
+https://app-dkb.de.cool/cgi/q99550/00951124a.php?web=succes&local=_&id=96579359
 https://applbxsa.apoioapp.site/app/device/inicio/aplicationDeviceFisica_webApp.php
 https://applbxsa.apoioapp.site/app/device/inicio/aplicationHome_webApp.php?brazil=16,14,51,PM,196,7,07,000000,15,4,2020,Wednesday.dll
 https://applbxsa.apoioapp.site/app/device/inicio/aplicationInfoFisica_webApp.php
@@ -200,9 +206,11 @@ https://czrealty.net/wp-cache/AMENCN-1/index.php?email=petersun@cranecpe.com
 https://d8ngmjd9wddxc5nh3w.login.theubanks.com/shareArticle?mini=true&title=Home+Learning&url=https://templates.office.com/en-us/collection-home-learning
 https://devinni.com.br/em/f84d4bd781aa574a5982cae4c9594a8c/ver/index.html
 https://devinx.net/takmex
+https://dev.tafsir.net/vendor/barryvdh/upd/terranet/?email
 https://dhl-tracking-germany.forexcreed.com
 https://differentwnet.ru/rtgf/?activity=4789652
 https://dnspostmaster.000webhostapp.com/webmail/webmail/webmail/yt/login.php?use%20rid=rafael.morasch@sap.com
+https://docs.google.com/forms/d/e/1FAIpQLScxLV8bLqYjvj1YTbS5xrwlxcQNwQPf-xI4tAy46zm4CzpRLA/viewform?usp=send_form
 https://docs.google.com/forms/d/e/1FAIpQLSdUyOIrYIlQCBgzfOVrBziBjBoM587xa9nvGbrbPkVafNeJFQ/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSeajVhm-7kHmSvheEQLGleSSu3lJAVqpR2LP-QEDyCHjJcp0g/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSeNbgplVPARq7B3foRs4UqQ7M6g6ZO2WTxYlX9IUBAaLTQC3w/viewform
@@ -286,6 +294,7 @@ http://smartishpace.com/morongo/BoxOffice/authorize.php?client_id=00000001-0000-
 https://mechnwawerife29.typeform.com/to/ybcdf81a
 https://mickeymangun.com/DRIVEONEPMT/FBG
 https://miragesupportappleidsigin.janganhiraukansaja.com/session/?view=login&appIdKey=&country=US
+https://mufg-ad.com
 https://myclassic1rs0onliner.info/my3ir-secure-online-support.html
 https://myclassic1rs0onliner.info/my3ir-secure-online-support.html?https://www.ird.govt.nz/online-services/myir-online-services-information061195
 https://namafundraiser.top/whio
@@ -305,6 +314,7 @@ https://paypal.co.uk.4d78.ru/j
 http://speakwellandbewell.com/pitzyllc/caplock
 https://prestigecustedwca.ru/wsxc/?authentic=675324
 https://prosecur-orangetelephonie.web.app
+https://protezione-webank.com
 https://rakuten.co.jp.helloasdnincwoeirjoasjdio5.ga
 https://rakuten.co.jp-updateinfo.rakoten.shop
 https://retail.santander.co.uk.softkenya.net/reo/retail/login.php?cmd=login_submit&id=190e8d8787e146b30af732d42ecd0c58190e8d8787e146b30af732d42ecd0c58&session=190e8d8787e146b30af732d42ecd0c58190e8d8787e146b30af732d42ecd0c58
@@ -363,6 +373,7 @@ https://vtrtuer.com/boa-user/login/en
 https://vtrtuer.com/boa-user/login/en/challenge.php
 https://vtrtuer.com/boa-user/login/en/confirm_login.php
 https://vtrtuer.com/boa-user/login/en/profile.php
+https://vvyucgyyeqwjzynkyevd.top
 https://wdestaques19.liquidamesdejulho.com/AcSRQbWAWFloYRaUgPU/1545/progBglTeMLm/133731106/smartphone-samsung-galaxy-j8-64gb-dual-chip-android-8.0-tela-6-octa-core-1.8ghz-4g-camera-16mp-f1.7-5mp-f1.9-dual-cam-preto
 https://webank-alert.com
 https://webank-business.com
@@ -391,6 +402,8 @@ https://www.creadictos.com.bo/oman/mic/index.php
 https://www.energetica.ind.br/energetica01/Videos/pagina
 https://www.energetica.ind.br/energetica01/Videos/pagina/promocao.php
 https://www.energetica.ind.br/wp-content/languages/plugins/pagina
+https://www.eugeniocolombo.it/wp-content/themes/skanda/bvc
+https://www.farinadicastagne.it/wordpress/bnm
 https://www.finec.com.pa/vendor/egulias/email-validator/EmailValidator/Parser/pagina
 https://www.gov.rebate157.com
 https://www.itunes.uaies.cn/mim/163e1416w8682y23829bb7t268565y6h2exqpa44a178g01ig7.html
@@ -401,10 +414,12 @@ https://www.janamarbles.com/images/oi/LINKEDIN
 https://www.janamarbles.com/images/oi/LINKEDIN/index.html
 https://www.keeplookingtojesusguy.org/cc/?email=uk2@yt-tool.com
 https://www.keeplookingtojesusguy.org/cc/serro.php
+https://www.pause-derive.xyz
 https://www.secureupdate.appleld.com.duilawyeryork.com/ap/0fbb11329a3b4b3
 https://www.secureupdate.appleld.com.duilawyeryork.com/ap/c9b10b9cdfb4ad1/?cmd=_update&dispatch=c9b10b9cdfb4ad156&locale=_RU
 https://www.sicrediempresasib.com
 https://www.sicrediempresasib.com/index.html
+https://www.sucursalbcolv.com/cc5b0ceeacf934b00ad3d485b6e1287a/wps/portal/empresas
 https://www.sucursalprsbcol.com/cc5b0ceeacf934b00ad3d485b6e1287a/wps/portal/empresas
 https://www.sulabhcorporation.in/A/Asb/index.htm
 https://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/24632e693deb59e/?cmd=_update&dispatch=24632e693deb59ea0&locale=_LU
@@ -438,12 +453,15 @@ http://via-palpay-fix.000webhostapp.com/myaccount/signin
 http://vrachogan.cloudaccess.host/Sweden-konto
 http://web.appleld.apple.signin-feedback-id.kofanuyf.com/session
 http://web.appleld.apple.signin-feedback-id.kofanuyf.com/session/?view=login&appIdKey=&country=US
+http://webmail.auth.jacobim.gq/log.php?eml=deloreshill@legalshield.com
 http://wilsheresloow.com/produto/1594713822/kit-furadeira-parafusadeira-gsr-120-li-com-chave-de-impacto-gdr-120-li-bosch/p/hh182d4746/fs/fprr/&uid=4335263297
 http://wq.lt/BaT8/fcQs4AhIEOK5tyvKhFOaZHsDMO6Zg2HXdalx
 http://www.akmsnvs.com/amazon/mazon/b7c6d
 http://www.app-regulazireseucadastro.com/home.php
 http://www.brockstarapparel.com/File/BicWorld/onedrive-drive
 http://www.creadictos.com.bo/oman/mic/index.php
+http://www.eugeniocolombo.it/wp-content/themes/skanda/bvc
+http://www.farinadicastagne.it/wordpress/bnm
 http://www.firstiraqibank.icu/Login_step_2.html
 http://www.firstiraqibank.icu/Login_step_3.html
 http://www.firstiraqibank.icu/pd.html
@@ -468,6 +486,7 @@ http://www.itunes.zatos.cn/mim/1uf2h76h02964177t130se9l0l2n996bp952fudd15287n8z1
 http://www.itunes.zatos.cn/mim/57r83n53w23u636g33h4m9hfl28r263558f2605i13v7t55j8o.html
 http://www.mistakement.com/pnc/PNCBANK-ONLINE-BANKING-VERIFICATION-2020s.html
 http://www.rugidom.ro/validation/upgrade/new/126a927d3a65e4955d9ab96577602a25/Up-dating.php
+http://www.sucursalbcolv.com/cc5b0ceeacf934b00ad3d485b6e1287a/wps/portal/empresas
 http://www.sucursalprsbcol.com/cc5b0ceeacf934b00ad3d485b6e1287a/wps/portal/empresas
 http://www.sulabhcorporation.in/A/Asb/index.htm
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/d02a67da75f3366?cmd=_update&dispatch=d02a67da75f33666c&locale=_US
