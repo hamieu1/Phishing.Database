@@ -8,6 +8,7 @@ http://210.1.51.166:32000/mail/lang/fr2
 http://45.117.102.178/ap/signin?openid.pape.max_auth_age=0u0026openid.return_to=www.amazon.co.jp/?ref_=nav_em_hd_re_signinu0026openid.identity=specs.openid.net/auth/2.0/identifier_selectu0026openid.assoc_handle=jpflexu0026openid.mode=checkid_setupu0026key=a@b.cu0026openid.claimed_id=specs.openid.net/auth/2.0/identifier_selectu0026openid.ns=specs.openid.net/auth/2.0u0026u0026ref_=nav_em_hd_clc_signin
 http://45.32.22.107/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://45.32.22.107/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://67.229.29.56/ap/signin?key=a@b.c
 http://77423075472693407483.us-south.cf.appdomain.cloud
 http://78.143.96.35/wordpress/gam/index.php?amp;hc=1&amp;hc=1&amp;hc=1&amp;hm=uk`1d72fj2b2vi&amp;hm=uk`1d72fj2b2vi&amp;hm=uk`1d72fj2b2vi&amp;bidderblocklogin;&lt;265&lt;265bidderblocklogin&lt;265bidderblocklogin
 http://91.216.190.152/ap/signin?key=a@b.c
@@ -111,6 +112,8 @@ http://compras-magalu-2020.com/9nkc3NHdjBQS9R2purG/?hash=qRtKXdixSqAc3z6F9f0l2AY
 http://com.velarvega.com/xsel.php
 http://confirmaciondavivienda.digital
 http://confirmar-identidad-usuarios-xyz.preview-domain.com/#no-back-button
+http://confrimspaqes09789679.gq/login-account.html
+http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/kod.php
 http://creativecombat.com/wp-admin/network/acct/login.php?rand=13inboxlightaspxn.1774256418&amp;amp;amp
 http://dailyshoppingtoday.com/mailer/redirect.php?id=PDhkYmJlNGE1YTlkMDNhNDM1MDcyNDgzZWZkMmFlMWM5QGRhaWx5c2hvcHBpbmd0b2RheS5jb20%2B&amp;ref=aHR0cHM6Ly93d3cuc21iYy1jYXJkLmNvbS5zbWJjY2FyZHBhbHltYXJ0LmNvbS93YXAvaW5kZXgvaW5kZXgxLmh0bWw%3D&amp;e=1
 http://dailyshoppingtoday.com/mailer/redirect.php?id=PGI2MjQ4ZDhhNzJiMTZlYTYzZTFhNjM4MjBmMzgzZDJkQGRhaWx5c2hvcHBpbmd0b2RheS5jb20%2B&amp;ref=aHR0cHM6Ly93d3cuc21iYy1jYXJkLmNvbS5zbWJjY2FyZHBhbHltYXJ0LmNvbS93YXAvaW5kZXgvaW5kZXgxLmh0bWw%3D&amp;e=1
@@ -251,6 +254,7 @@ http://metalestorino.com/cbt_options-social-icons.json.htm
 http://meteringshop.com.au/mkb/AAAARnQU1OTEsXAgICOJJfKCAUUa402WkbGssS3b2kaamBAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAHqNSURBVHhe7b0JgB1Hde5/home/kod.php
 http://m.facebook.com.charlotterussell.info
 http://m.g2215.com
+http://millkdjz.000webhostapp.com
 http://misejouraccount.com
 http://mnsglobal.ge/fahrzeugmarkt/mobile.de/login
 http://mnsglobal.ge/fahrzeugmarkt/mobile.de/login/tanValidate.php
@@ -266,6 +270,7 @@ http://nationrider.com/wiz/0nfile/0nfile/oneddrive/login-option.php?cmd=login_su
 http://netfllx.club/login.php
 http://nqnzxnybrmcfodahgdaliwnveooldbwxonidhl.wq.lt/jzn5E/yAgc0oGsGpO3UQiqRvu_ap8ZZukI7K32Vb
 http://octobertiller.com/wells
+http://ofertas2020submarino.club
 http://ofertasmaglu.cf/Produto/identificacao.php?id=3
 http://ofertasquecabeparavoce.com/acompanhamento
 http://officecloudweb.oa.r.appspot.com
@@ -387,6 +392,7 @@ https://attverificationcenter.weebly.com
 https://attyahoolead.weebly.com
 https://austonstore.cf/pay/error
 https://austonstore.cf/pay/paypal
+https://axzaz.000webhostapp.com/login.htm
 https://azreoszcz.000webhostapp.com
 https://azrevosz.000webhostapp.com/login.htm
 https://azrvxzs.000webhostapp.com
@@ -427,6 +433,7 @@ https://com-customer.7083719.synergyglobal.one/en/signin.php?sessionid=s6iVEDnVi
 https://com-customer.7704482.synergyglobal.one/en/signin.php
 https://com-customer.7704482.synergyglobal.one/en/signin.php?sessionid=mD7rNUClhexllT1UTfUt2AgRsGR5696sNeUA8xWpMuL7nM2h1WL3x1VZIM4OWbgJqakyIgYuKJB8wDpxAaB7cw7UicIenZXNahmSylmi5XqBAQ9b1Kidgp7yBQMZPKNZ2a&amp;sslchannel=true
 https://com-customer.7704482.synergyglobal.one/en/signin.php?sessionid=mD7rNUClhexllT1UTfUt2AgRsGR5696sNeUA8xWpMuL7nM2h1WL3x1VZIM4OWbgJqakyIgYuKJB8wDpxAaB7cw7UicIenZXNahmSylmi5XqBAQ9b1Kidgp7yBQMZPKNZ2a&sslchannel=true
+https://comprecomasmelhoresofertasparavoce.club/MeusProdutos/Prefetch.php?skullid=29302228
 https://conciergehousecalls.com/baiyf/26784003943393120b4d0696d302a056/view/login.php?userid=
 https://conciergehousecalls.com/baiyf/32a6684465185ddf5331ad4c85687014/view/login.php?userid=
 https://conciergehousecalls.com/baiyf/449496ef74d50072745b473394c9c01e/view/login.php?userid=
@@ -474,6 +481,7 @@ https://djsourceonline.com/Login/ABU/48fb390b428762be1ba207038fb93e46/??auth=2&a
 https://djsourceonline.com/Login/ABU/48fb390b428762be1ba207038fb93e46/??auth=2&client-request-id=bcc7c79d-ad79-43ec-9c70-d12e378805d20cDovL3d3dy5hc@&from=PortalLanding&home=1
 https://djsourceonline.com/Login/ABU/ae492768d0793fec7bb777af0b1b3526/?login=&amp;?auth=2&amp;home=1&amp;from=PortalLanding&amp;client-request-id=bcc7c79d-ad79-43ec-9c70-d12e378805d20cDovL3d3dy5hc@
 https://djsourceonline.com/Login/ABU/ae492768d0793fec7bb777af0b1b3526/?login=&?auth=2&home=1&from=PortalLanding&client-request-id=bcc7c79d-ad79-43ec-9c70-d12e378805d20cDovL3d3dy5hc@
+https://dnewxcaxelpass.ga/1000655841.html?type=68v3oWMXCKK_tLsDeLwd3VAxU9liAXf6jAuMsUDt2Bqkz9pszbcR5nARJnptToTOAO21psT53Ecvi
 https://docs.google.com/forms/d/e/1FAIpQLScOL1gtCHoTuQzCkJzv1imOsDrCjkW0CJAanPP5t9njvcwJYg/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSda3dN0ypN6BvU6gzfK0u2R6HZk64-aJZh9G9s9kopzEbrl4A/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSdqEv1q4v6Sd97IfNeIYObw7ec1F59VDoxRBwSMIopVm0KiSg/formResponse
@@ -595,6 +603,7 @@ https://magluoferta.cf/promocao.php
 https://mailamialattttt.weebly.com
 https://mail.aroundnepal.com/WeTransfer/WeTransfer/WeTransfer/index.php
 https://mailhold.weebly.com
+https://manage-your-account.com/ganjibane.php
 http://smartcloudfiles-2020.nw.r.appspot.com/view_document/index.html?common=oauth2.authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&amp;redirect_uri=https:/www.office.com/landing&amp;response_type=code%20id_token&amp;scope=openid%20profile&amp;response_mode=form_post&amp;nonce=637145969124955120.M2E3YzczOGQtNTJmZi00YzNkLTkxNDMtNDlkOGRhMDljZDdiMTQxM2IzNDgtMGUwNi00Zjk5LTgzMGYtZDhlOGEzYmVlMDNk&amp;ui_locales=en-US&amp;mkt=en-US&amp;client-request-id=5f3bc0b1-d846-4f49-b5bc-73270dc49e37&amp;state=hssK1R06r3VcndOvbREFA528Uv4BZYHKPJ4l2fYBxyVUX6QufTMyg1e-ITKFEp3Ck7By5uz_nGKjOBU_6jFUtTUYRGApyetU0ABvh0-sue-lXYvNzKGdxrzqaK7pR8TISQPtcbsk1JB1njE_6grNDQ15jFd7IAmQDH4ZT8pt4IJ08_Egk3yhJLZZhqSEsctu45tCOd3ve-PXYf_tHfEUZ1VDDPKadTPsoY1cNGJusAcyNLOS6bZrh5dr35yQOR3Oi1PJvN5vRM_50ryL_IzeCA&amp;x-client-SKU=ID_NETSTANDARD2_0&amp;x-client-ver=6.2.0.0
 http://smartcloudfiles-2020.nw.r.appspot.com/view_document/index.html?common=oauth2.authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https:/www.office.com/landing&response_type=code+id_token&scope=openid+profile&response_mode=form_post&nonce=637145969124955120.M2E3YzczOGQtNTJmZi00YzNkLTkxNDMtNDlkOGRhMDljZDdiMTQxM2IzNDgtMGUwNi00Zjk5LTgzMGYtZDhlOGEzYmVlMDNk&ui_locales=en-US&mkt=en-US&client-request-id=5f3bc0b1-d846-4f49-b5bc-73270dc49e37&state=hssK1R06r3VcndOvbREFA528Uv4BZYHKPJ4l2fYBxyVUX6QufTMyg1e-ITKFEp3Ck7By5uz_nGKjOBU_6jFUtTUYRGApyetU0ABvh0-sue-lXYvNzKGdxrzqaK7pR8TISQPtcbsk1JB1njE_6grNDQ15jFd7IAmQDH4ZT8pt4IJ08_Egk3yhJLZZhqSEsctu45tCOd3ve-PXYf_tHfEUZ1VDDPKadTPsoY1cNGJusAcyNLOS6bZrh5dr35yQOR3Oi1PJvN5vRM_50ryL_IzeCA&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.2.0.0
 https://mavtecq.com/home/excelzz/bizmail.php?email=cmVnYW4ubG9Acm9iZXJ0d2FsdGVycy5jb20uaGs=&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
@@ -602,6 +611,7 @@ https://mcafeepro.com
 https://melhoresofertasonlineaqui.com/promocao.php
 https://mesdoclienteluiza.com/produto/1594929942/smartphone-motorola-moto-g8-plus-64gb-dual-chip-4g-tela-6-3-camera-tripla-48mp-16mp-5mp-cereja/p/ga4f06cbkh/te/mg8p/&uid=1842835956
 https://mesdoclienteluiza.com/produto/1594988248/smartphone-motorola-moto-g8-plus-64gb-dual-chip-4g-tela-6-3-camera-tripla-48mp-16mp-5mp-cereja/p/ga4f06cbkh/te/mg8p/&amp;uid=1842835956?fbclid=IwAR14zPlAL-0ccXHfBvxjNGyWx4ksI25-SO2HZtXcvWsHQwd5ci4kygm7DxY
+https://mfacebook.blogspot.rs
 https://microsoft-outlook.com.twinklelittlehouse.com
 https://mitsubishi-motors.co.in/images/wellsfargo_mag/index.htm
 https://mjnjhv.ml/we/sharepoint-v9
@@ -653,6 +663,7 @@ https://pypl-updates.site/app/index
 https://pypl-webobjects.com/2bd11414b9eb90fefe1c0670c6f6f162
 https://q81g-que-e-bom-e-top.com/MeusProdutos/Prefetch.php?skullid=360560511
 https://qk.pt/wjcUJoO
+https://ranchhodraiji.com/mkb/mkbnetbankar.hu/index.htm
 https://ranchhodraiji.com/mk/mkbnetbankar.hu/index.htm
 https://renatamalls.tk/pay/error
 https://renatamalls.tk/pay/paypal
@@ -694,6 +705,7 @@ https://secureupdate.appleld.com.duilawyeryork.com/ap/5776029e52e5c26/?cmd=_upda
 https://secureupdate.appleld.com.duilawyeryork.com/ap/b6181a939f2561d/?cmd=_update&dispatch=b6181a939f2561d4b&locale=_RU
 https://secureupdate.appleld.com.duilawyeryork.com/ap/bf5ec9ba4a6dae4/?cmd=_update&dispatch=bf5ec9ba4a6dae4d4&locale=_RU
 https://securityteams56.weebly.com
+https://server986408.nazwa.pl/weryfikacja
 https://service-maintenance-agence.com/be/login
 https://services.runescape.com-gift.xyz
 https://services.runescape.com-zx.ru/m=weblogin/loginform347,772,262,86215169,1731
@@ -831,6 +843,7 @@ https://valentinamalls.ml/pay/error
 https://valeriemalls.ga/pay/error
 https://vanessamalls.ga/pay/error
 https://vem-pra-magalu-hoje.com/3mREUD5USehEqdUVvy4/?hash=VP00bfpJRw97OVgcWj8P0qrekRR5Ti6CPSbmUi3BL9CsF7B86Z&id=68
+https://verifyattonlineprotect.weebly.com
 https://vernashopping.tk/pay/error
 https://vernashopping.tk/pay/paypal
 https://veromcashopping.cf/pay/error
@@ -917,6 +930,7 @@ https://www.servizi-n26-online.it/clienti
 https://www.servizi-n26-online.it/clienti/N-looog.php
 https://www.servizi-n26-online.it/privati
 https://www.surveygizmo.com/s3/5729133/AT-T
+https://www.surveygizmo.com/s3/5731291/AT-T-Login
 https://www.theretreatsrilanka.com/konsole
 https://www.verify.myhmrctax-rebate.com
 https://www.webank-controllo-urgente.com
