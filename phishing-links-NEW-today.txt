@@ -2,7 +2,9 @@ http://118.27.80.233/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=h
 http://13.115.40.246/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://210.1.51.166:32000/mail/lang/fr2
 http://45.117.102.178/ap/signin?openid.pape.max_auth_age=0u0026openid.return_to=www.amazon.co.jp/?ref_=nav_em_hd_re_signinu0026openid.identity=specs.openid.net/auth/2.0/identifier_selectu0026openid.assoc_handle=jpflexu0026openid.mode=checkid_setupu0026key=a@b.cu0026openid.claimed_id=specs.openid.net/auth/2.0/identifier_selectu0026openid.ns=specs.openid.net/auth/2.0u0026u0026ref_=nav_em_hd_clc_signin
+http://45.32.22.107/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://77423075472693407483.us-south.cf.appdomain.cloud
+http://abbychow.yswdy.cn
 http://absoluteamusements.com/netzero_com/w3bm1l
 http://absoluteamusements.com/netzero_com/w3bm1l/CustomerBillingUpdate.html
 http://account-update.amazon.co.jp.afklfbd2b4ed87ge54hr-re5.buzz
@@ -16,6 +18,7 @@ http://alerts11.webcindario.com/www/BBT/hg8oho84hcgp89heghg834ghkhg8allajfl/log/
 http://alertsonline234.webcindario.com/www/BBT/hg8oho84hcgp89heghg834ghkhg8allajfl/log/ow
 http://alertsonline234.webcindario.com/www/BBT/hg8oho84hcgp89heghg834ghkhg8allajfl/log/ow/details.html
 http://alertsonline234.webcindario.com/www/BBT/hg8oho84hcgp89heghg834ghkhg8allajfl/log/ow/Lockedaccount.html?616c657274736f6e6c696e653233342e77656263696e646172696f2e636f6d?616c657274736f6e6c696e653233342e77656263696e646172696f2e636f6d?616c657274736f6e6c696e653233342e77656263696e646172696f2e636f6d
+http://amazocn.webstarterz.com/?catchmeshit
 http://amazon.co.jp.uolthfjdfyheruekrtghdfhewkfgndfghsdfhshfh.cf/en
 http://amazonlogistics.eu/ap/signin?openid.assoc_handle=amazonlogistics_eu&openid.claimed_id=http:/specs.openid.net/auth/2.0/identifier_select&openid.identity=http:/specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http:/specs.openid.net/auth/2.0&openid.pape.max_auth_age=28800&openid.return_to=https:/www.amazonlogistics.eu/&suppresschangeemaillink=1&suppresssigninradiobuttons=1
 http://ankhedlaidttfa.com/azertyuio
@@ -25,6 +28,7 @@ http://autentificazione.com/intesa
 http://baanvitaminsea.com/uploads/uploads/form/twoje-adresy-email.htm?_encoding;9f91a4eaa4aad4b4ddbe66d1f8cc94699f91a4eaa4aad4b4ddbe66d1f8cc9469
 http://bancolombia-sapp.webcindario.com
 http://bancolombia-sapp.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
+http://bit.do/fGE9z
 http://bit.do/fGGNe
 http://bnloyrs.cf/apache/upload/sxc.php?email=zhaojing.kou@kyetek.com&amp;.rand=13InboxLight.aspx?n=1774256418&amp;fid=4
 http://bnloyrs.cf/apache/upload/sxc.php?email=zhaojing.kou@kyetek.com&.rand=13InboxLight.aspx?n=1774256418&fid=4
@@ -56,6 +60,8 @@ http://classicindiamilngavie.co.uk/image/catalog/sample/logs/update-your-account
 http://compras-magalu-2020.com/9nkc3NHdjBQS9R2purG/?hash=qRtKXdixSqAc3z6F9f0l2AY0YNggCoGzTVqHrCCMlFfAGeL6XC&id=70
 http://com.velarvega.com/xsel.php
 http://confirmaciondavivienda.digital
+http://dailyshoppingtoday.com/mailer/redirect.php?id=PDhkYmJlNGE1YTlkMDNhNDM1MDcyNDgzZWZkMmFlMWM5QGRhaWx5c2hvcHBpbmd0b2RheS5jb20%2B&amp;ref=aHR0cHM6Ly93d3cuc21iYy1jYXJkLmNvbS5zbWJjY2FyZHBhbHltYXJ0LmNvbS93YXAvaW5kZXgvaW5kZXgxLmh0bWw%3D&amp;e=1
+http://dailyshoppingtoday.com/mailer/redirect.php?id=PGI2MjQ4ZDhhNzJiMTZlYTYzZTFhNjM4MjBmMzgzZDJkQGRhaWx5c2hvcHBpbmd0b2RheS5jb20%2B&amp;ref=aHR0cHM6Ly93d3cuc21iYy1jYXJkLmNvbS5zbWJjY2FyZHBhbHltYXJ0LmNvbS93YXAvaW5kZXgvaW5kZXgxLmh0bWw%3D&amp;e=1
 http://dash-net.com/wp-contents/login.php?l=_jehfuq_vjoxk0qwhtogydw1774256418&fid.13inboxlight.aspxn.1774256418&fid.125289964252813inboxlight99642_product-email&email=
 http://da.sodobe.com/wp-content/wp-image/excelz
 http://destinymalls.ga/pay/error
@@ -115,6 +121,7 @@ http://joint.eventfreex.com
 http://jppost-bde.top/yft.html
 http://jppost-bni.top/yft.html
 http://kraustech.back4app.io/kraus.html
+http://laylachotty.com/nmz/wells
 http://login.live.com.office.socofinoffice365.socofinsa.myshn.net/login.srf?wa=wsignin1.0&rpsnv=13&ct=1593087369&rver=7.0.6737.0&wp=mbi_ssl&wreply=https:/outlook.live.com.office.socofinoffice365.socofinsa.myshn.net/owa?rpscsrfstate=e9b6863d-8994-5247-54ff-823c966ee845&id=292841&aadredir=1&cbcxt=out&lw=1&fl=dob,flname,wld&cobrandid=90015
 http://magazineluisa.ml/promocao.php
 http://mailstoreage3657892-info114143.codeanyapp.com/user-notifications/mlogchecktapi-notifiersapi/signonapi-sso/confirm.php
@@ -148,6 +155,7 @@ http://primashopping.cf/pay/error
 http://promocional.casasbahia.pw/PRODUTO285749true/produto.php?linkcompleto=https://www.casasbahia.com.br/Eletroportateis/LiquidificadoreseAcessorios/Liquidificadores/conjunto-especial-mondial-kt-105-b-espremedor-premium-batedeira-pratica-liquidificador-turbo-power-preto-55005457.html&amp;id=3
 http://puentesocial.com/reloaded/5126571725fe0855993e90384a6f8d05
 http://rajafotocopy.com/olos/doc-new/index.php
+http://rakuten-acardsyhd.com
 http://rakuten.co.jp.i3oignreoibn43hidobgnoeirwngheroi034nklgneilgrenmoe.tk
 http://rakuten.co.jp.ljgjkfgh3asfgsdg2gsdgdfhgfg56gfnjbmn.ga
 http://rakuten.co.jp.rakutenajklwmefmasdfwefas.buzz
@@ -177,6 +185,7 @@ https://7704482.synergyglobal.one/en/signin.php?sslchannel=true&sessionid=8bEJyu
 https://88currentlyupdate.weebly.com
 http://sabinamalls.cf/pay/error
 https://abizobindia.com/.cl.selector/w/a686cf
+https://accedi-a-webank.com
 https://account-update.amazon.co.jp.afklfbd2b4ed87ge54hr-re5.buzz
 https://accppalcare.xyz/egg.php?secret_key=9ugihrmkqc8aosfpvl1763ywexbtj4
 https://accppalcare.xyz/egg.php?secret_key_duear2j4n6s51xl83mpiytqv0z7fkw
@@ -186,6 +195,7 @@ https://annazaraernest.com/zzaibakdds
 https://atlasfm.com/webtexttofilevm/login.php?
 https://atlasfm.com/webtexttofilevm/login.php?cmd=login_submit&amp;id=d7bbccaa1a1798de3f8514369ca1862ed7bbccaa1a1798de3f8514369ca1862e&amp;session=d7bbccaa1a1798de3f8514369ca1862ed7bbccaa1a1798de3f8514369ca1862e
 https://atlasfm.com/webtexttofilevm/login.php?cmd=login_submit&id=d7bbccaa1a1798de3f8514369ca1862ed7bbccaa1a1798de3f8514369ca1862e&session=d7bbccaa1a1798de3f8514369ca1862ed7bbccaa1a1798de3f8514369ca1862e
+https://attuppdatted.weebly.com
 https://attverificationcenter.weebly.com
 https://azreoszcz.000webhostapp.com
 https://azrevosz.000webhostapp.com/login.htm
@@ -274,6 +284,7 @@ https://fraldinhas-julho.tk/loja/true/bask.php
 https://f.samsung-lucky-winner.xyz
 https://gdnamesg.firebaseapp.com
 https://gertierney.com/index2.php?cmd=login_submit&id=3d6bc7bb31255e1c8c0aa16a824edee03d6bc7bb31255e1c8c0aa16a824edee0&session=3d6bc7bb31255e1c8c0aa16a824edee03d6bc7bb31255e1c8c0aa16a824edee0
+https://gruppobpm-italia.com
 https://gruppoispallerthp.000webhostapp.com/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/secure/schwab/https:/snsbank.nl/false
 https://guetsemalls.gq/pay/error
 http://shaklostyle.com/wp-includes/fonts/OneDrive/u1
@@ -298,6 +309,7 @@ https://kalantarart.com/canada/taxb/bmo
 https://kalantarart.com/canada/taxb/bmo/information.php?product=7
 https://kalantarart.com/canada/taxb/bmo/secquestions.php
 https://kooswift.com/Rechnung-486631690517&amp;cgi3-Rechnung-486631690517-007acctpagetype-486631690517=1764905-problema&amp;info@sportgoedde.de.html
+https://laylachotty.com/nmz/WellsFargo/WellsFargo/wells/index.html
 https://ldjlkfplsaj.weebly.com
 https://lean-continuousexpo.com/medikainc/medikainc/sign/in/4ac1810fab1ca66380da8bcfc9c3480b/login.php?cmd=login_submit&amp;id=1cf7e2a255844b8da2ff76c4a080f4431cf7e2a255844b8da2ff76c4a080f443&amp;session=1cf7e2a255844b8da2ff76c4a080f4431cf7e2a255844b8da2ff76c4a080f443
 https://lean-continuousexpo.com/medikainc/medikainc/sign/in/4ac1810fab1ca66380da8bcfc9c3480b/login.php?cmd=login_submit&id=1cf7e2a255844b8da2ff76c4a080f4431cf7e2a255844b8da2ff76c4a080f443&session=1cf7e2a255844b8da2ff76c4a080f4431cf7e2a255844b8da2ff76c4a080f443
@@ -341,6 +353,7 @@ https://protect-za.mimecast.com/s/r6xBCO7ky4TpR4DppTEUqAQ?domain=webmailsettingz
 https://pypl-updates.site
 https://pypl-updates.site/app/index
 https://pypl-webobjects.com/2bd11414b9eb90fefe1c0670c6f6f162
+https://q81g-que-e-bom-e-top.com/MeusProdutos/Prefetch.php?skullid=360560511
 https://renatamalls.tk/pay/error
 https://reyesrobertsfamily.com/ITdept
 https://reyesrobertsfamily.com/ITdept/log.htm
@@ -365,6 +378,7 @@ https://seuprodutocesta.com/produto/1594905648/fritadeira-eletrica-sem-oleo-air-
 https://showdoc4all.000webhostapp.com/secure/dropbox-login/main.html?accessToFile=valid&fileAccess=31318&encryptedCookie=85d69f5a4ee97829ff0356921d759e23&u=751b56f63e4fb394636c5d6e28cf4682&connecting=f1a879b03a8ea06d1c875dc13cf3b68e&phaseAccess=c4e3a62847a1f906b815435eb0a85cb4&p=51ed1a6dfb927223db6b0ea481c5e035
 https://signcom.in/CSM/main.html?accessToFile=true&amp;fileAccess=4146&amp;encryptedCookie=578ea1a55cca3da10d6de189b152ae71&amp;u=07f85096853e71df71ae26d6a86c4124&amp;connecting=b8927dcc8f32a1568e03c5322232792e&amp;phaseAccess=7368997f9666acd459e9b47744c7997d&amp;p=2534be4072130d1db08c0477a1049371
 https://signcom.in/CSM/main.html?accessToFile=true&fileAccess=4146&encryptedCookie=578ea1a55cca3da10d6de189b152ae71&u=07f85096853e71df71ae26d6a86c4124&connecting=b8927dcc8f32a1568e03c5322232792e&phaseAccess=7368997f9666acd459e9b47744c7997d&p=2534be4072130d1db08c0477a1049371
+https://signin.ebay.de.id60.cf/login/ws/eBayISAPI6a67.html
 https://signin.ebay.de.id60.cf/login/ws/eBayISAPI6a67.html?scdimnnpnraaranakauwndsitttakbenaaorsoospbglirialgsulaauundoeztgilelklanadiwsttaapgilsrroanndtpuarnnsarogbzlunbildnsitlaeaauekoeugasocim90318640782
 https://sites.google.com/site/protectionszempaqes0
 https://sixfiguredreambiz.icu/mhr/nsw/data/UntitledNotebook1.html
@@ -420,6 +434,7 @@ https://vivienmalls.gq/pay/error
 https://wallisshopping.tk/pay/error
 https://wandashopping.cf/pay/error
 https://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af43650828c41a9735c3d36b89f6eec6cc38760828c41a9735c3d36b89f6eec6cc3876
+https://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af43654cda1bddb6be81603c56791069bf87af4cda1bddb6be81603c56791069bf87af
 https://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af43656507f675d8ab7f009bae4a47ef1af5536507f675d8ab7f009bae4a47ef1af553
 https://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af436582fd849ab19b8fc12943e2fed997053982fd849ab19b8fc12943e2fed9970539
 https://wereldpas-vervang.com/banks/online.lloydsbank.co.uk/mobile
@@ -491,6 +506,7 @@ http://vivienmalls.gq/pay/error
 http://wallisshopping.tk/pay/error
 http://wandashopping.cf/pay/error
 http://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af43650828c41a9735c3d36b89f6eec6cc38760828c41a9735c3d36b89f6eec6cc3876
+http://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af43654cda1bddb6be81603c56791069bf87af4cda1bddb6be81603c56791069bf87af
 http://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af43656507f675d8ab7f009bae4a47ef1af5536507f675d8ab7f009bae4a47ef1af553
 http://wellsconfirm-account.com/webscr.php?cmd=_login-run&amp;dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af436582fd849ab19b8fc12943e2fed997053982fd849ab19b8fc12943e2fed9970539
 http://wereldpas-aanvraagproces.varamar.ir/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F:%D0%9B%D1%83%D0%BA%D0%BE%D0%B9%D0%BB-%D0%98%D0%BD%D1%82%D0%B5%D1%80-%D0%9A%D0%B0%D1%80%D0%B4_(%D0%9B%D0%B8%D0%BA%D0%B0%D1%80%D0%B4)
@@ -525,6 +541,7 @@ http://www.davidyyt.com/mazon
 http://www.dsadoors.com/wp-content/themes/twentytwenty/upgared/english%20newchn/newchn
 http://www.garantiliopelbeyintamiri.com/qf/23c5d6fe01bb400f256aa4697dce63d3
 http://www.garantiliopelbeyintamiri.com/qf/23c5d6fe01bb400f256aa4697dce63d3/ver/index.html
+http://www.hedaodesign.com/wp-includes/SimplePie/carbonApi/del_tema/testemail.php?sharp=ru1cgd01aep25z&country=lay&moving=pay
 http://www.hot.eventfreex.com
 http://www.inbioma.pe/problem-5229636598965739&amp;cgi3-viewkontakt-5229636598965739-007acctpagetype-5229636598965739=636972-&amp;info@aureifen.de.html
 http://www.inbioma.pe/rechnung-911598940549094688&amp;cgi3-viewkontakt-911598940549094688-007acctpagetype-911598940549094688=51470-&amp;info@aureifen.de.html
