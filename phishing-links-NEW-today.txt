@@ -4,6 +4,8 @@ http://210.1.51.166:32000/mail/lang/fr2
 http://45.117.102.178/ap/signin?openid.pape.max_auth_age=0u0026openid.return_to=www.amazon.co.jp/?ref_=nav_em_hd_re_signinu0026openid.identity=specs.openid.net/auth/2.0/identifier_selectu0026openid.assoc_handle=jpflexu0026openid.mode=checkid_setupu0026key=a@b.cu0026openid.claimed_id=specs.openid.net/auth/2.0/identifier_selectu0026openid.ns=specs.openid.net/auth/2.0u0026u0026ref_=nav_em_hd_clc_signin
 http://45.32.22.107/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://77423075472693407483.us-south.cf.appdomain.cloud
+http://91.216.190.152/ap/signin?key=a@b.c
+http://91.216.190.152/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signinopenid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://abbychow.yswdy.cn
 http://absoluteamusements.com/netzero_com/w3bm1l
 http://absoluteamusements.com/netzero_com/w3bm1l/CustomerBillingUpdate.html
@@ -187,6 +189,8 @@ http://sabinamalls.cf/pay/error
 https://abizobindia.com/.cl.selector/w/a686cf
 https://accedi-a-webank.com
 https://account-update.amazon.co.jp.afklfbd2b4ed87ge54hr-re5.buzz
+https://accppalcare.xyz
+https://accppalcare.xyz/egg.php?secret_key=4ry0d6j83khuwm7eig2acoqslfbvpx
 https://accppalcare.xyz/egg.php?secret_key=9ugihrmkqc8aosfpvl1763ywexbtj4
 https://accppalcare.xyz/egg.php?secret_key_duear2j4n6s51xl83mpiytqv0z7fkw
 https://acesseitaucadastroatualizacao.com/aafc2e19b03c5fdb7e5d2.php
@@ -210,6 +214,7 @@ https://bccrfirmacrgo.com
 https://bccrfirmacrgo.com/banco-nacional
 https://bccrfirmacrgo.com/bancos
 https://bit.ly/2B3FNWA
+https://bit.ly/2Wrupvb
 https://bit.ly/PEMBLOKIRAN2020
 https://bmdimaginativa.com/wp-content/themes/twentyfifteen/404.php#jon@ness.com
 https://btcomlandlinemanagechange.web.app
@@ -361,6 +366,7 @@ https://roboticsinglesitesurgery.com/smbc.co.jp/jp/SMBC/smbc.co.jp
 https://roboticsinglesitesurgery.com/smbc.co.jp/jp/SMBC/smbc.co.jp/c32fc2ca4c3f2064066fb80a87e06e8e/?cmd=_identifier_Demarrer_ID=4745422935614+_TIme:Thu
 https://roboticsinglesitesurgery.com/smbc.co.jp/jp/SMBC/smbc.co.jp/c32fc2ca4c3f2064066fb80a87e06e8e/?cmd=_identifier_Demarrer_ID=4745422935614+_TIme:Thu,Jul,16,2020-11:37pm
 https://roseshopping.cf/pay/error
+https://royalbank.waysforbank.net/rbaccess/index.php
 https://royalfiverecords.com/xxx/excelzz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 https://sabinamalls.cf/pay/error
 https://saghomedecor.com/wp-includes/js/us/regrodc/index.php
@@ -387,6 +393,7 @@ https://so936ue-bom-sempre.com/MeusProdutos/Prefetch.php?skullid=57974687
 https://springshopping.tk/pay/error
 https://ssupportervicespartners.ml/uk-ch-win
 https://stoic-lamport-01777c.netlify.app
+https://storage.googleapis.com/administrativetools/security/index.html
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/00c69269d9ba85a/?cmd=_update&dispatch=00c69269d9ba85a10&locale=_RU
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/2668f38371ef398/?cmd=_update&dispatch=2668f38371ef398dd&locale=_RU
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/30555d4466cc7a8/?cmd=_update&dispatch=30555d4466cc7a808&locale=_RU
@@ -398,6 +405,7 @@ https://support-appleld.com.secureupdate.duilawyeryork.com/ap/96065680c99e288/?c
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/b75143f4faa5401?cmd=_update&dispatch=b75143f4faa5401dc&locale=_US
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/b75143f4faa5401/?cmd=_update&dispatch=b75143f4faa5401dc&locale=_US
 http://ssupportervicespartners.ml/uk-ch-win
+https://syringefunction.com/abm/raiffeisen.hu/login.php
 https://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?amp;locale.x=_us&amp;country.x=us
 https://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?country.x=ro&amp;amp
 https://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?country.x=us&amp;amp
@@ -421,6 +429,7 @@ https://valeriemalls.ga/pay/error
 https://vanessamalls.ga/pay/error
 https://vem-pra-magalu-hoje.com/3mREUD5USehEqdUVvy4/?hash=VP00bfpJRw97OVgcWj8P0qrekRR5Ti6CPSbmUi3BL9CsF7B86Z&id=68
 https://vernashopping.tk/pay/error
+https://vernashopping.tk/pay/paypal
 https://veromcashopping.cf/pay/error
 https://veronicashopping.ml/pay/error
 https://vickyshopping.gq/pay/error
@@ -482,6 +491,7 @@ https://yourattserviceteam.weebly.com
 https://zapps.in/hang0wer/DocuSign/u.php?l_DHl-dTracking___JeHFUq_VJOXK0QWHtoGYDw__JeHFUq_VJOXK0QWHtoGYDw__JeHFUq_VJOXK0QWHto_
 https://zimb66580.uc.r.appspot.com
 http://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?amp;locale.x=_us&amp;country.x=us
+http://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?country.x=ro
 http://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?country.x=us&amp;amp
 http://tessie0316.000webhostapp.com/update/crypt/crypt
 http://thisismybesttry.xyz/migracionesdedatosconfirmacion/login2.php
@@ -491,6 +501,7 @@ http://ulashopping.gq/pay/error
 http://unamalls.tk/pay/error
 http://valeriemalls.ga/pay/error
 http://vanessamalls.ga/pay/error
+http://vanphugia.com/wp-content/themes/skanda/christue/en.php
 http://vd4.com.br/downloadlnQ3YcqRVJnDihsXOO7fgcVYoSx46_7djO2bFY2BgYOjFUYoAFqVOLRFXServices-
 http://veldhuyzenkaas.gq/verifications/appsuite/office365/sign-in-2/index.php
 http://vernashopping.tk/pay/error
