@@ -8,6 +8,7 @@ http://66.42.118.178/0MA01011001_77DH
 http://67.229.29.53
 http://67.229.29.56/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.56/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://98.126.214.121/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://98.126.214.121/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://account-update.amazon.co.jp.befo7w2a1w4qefe2-1dw.boutique
 http://adash.io/w_hld/a1/it0/qrt_9n/1_*
@@ -349,6 +350,7 @@ http://servilab.com.co/wp-content/plugins/ChaseBank/147361d8e/signin.php?session
 http://servilab.com.co/wp-content/plugins/ChaseBank/181f2b6b3
 http://servilab.com.co/wp-content/plugins/ChaseBank/49a883823
 http://servilab.com.co/wp-content/plugins/ChaseBank/49a883823/signin.php?session=333533666164
+http://servilab.com.co/wp-content/plugins/ChaseBank/49a883823/signin.php?session=376431363338
 http://servilab.com.co/wp-content/plugins/ChaseBank/49a883823/signin.php?session=636234316337
 http://servilab.com.co/wp-content/plugins/ChaseBank/home/signin.php?session=323533336265
 http://servilab.com.co/wp-content/plugins/ChaseBank/home/signin.php?session=373839393361
@@ -378,6 +380,7 @@ http://shootatsight.com/dhre/clfe/login.php?cmd=login_submit&id=odq0ntg5njk=odq0
 https://infobcp.xyz/txt
 https://internetbanking.ninetysbankasi.com
 https://jagex-bonus.com/info
+https://jagex-bonus.com/rs-promos
 https://jasilte.com/produto/1594816471/jogo-de-panelas-tramontina-turim-antiaderente-vermelha-10-pecas/p/6198612/ud/cjpn/&uid=738553767
 https://journeythroughclimatechange.com/re
 https://julho-desmarts.myddns.me/ultra4k-aproveite/TV-58/Smart-TV-4K-LED-58-Samsung-NU7100-Wi-Fi-HDR-Conversor-Digital-3-HDMI-2-USB.php?ass=SHrXTEqThH8GCzn_Kdks-FcItvh1gpUwWznv$3%gPQGD7DDeDi4u@Oev_1H*DBtKgDp
@@ -395,6 +398,7 @@ https://literatureomar.net/boa/boa/B/challenge.php
 http://sloaneandhyde.com/drs/new2015/document.php/google_logo_41.png
 http://sloaneandhyde.com/imm/new2015/document.php/jewel.png
 https://lodgingiq.org/microsoft102/microsoft102
+https://login-live.com-s02.info/es
 https://loginscreenmain.weebly.com
 https://magalushoploja.com/2144akjhc014akyr8870/index.php?o-de-panelas-tramontina-antiaderente-de-aluminio-vermelho-7-pecas-turim-20298-721/p/220241700/ud/cjpn/&id=9
 https://mail.assamad.com/ssodirektnet/direktnet
@@ -905,6 +909,7 @@ https://wdestaques18.presentes-especiais-voce-encontra-aqui.com/MeXuTjBUCYKNiPCC
 https://wdestaques19.televisoresemqueimatotal.com/TJLYTrlDAAiFvvbmOmI/1593/proiUlMdhkIO/133234960/lavadora-de-roupas-electrolux-12kg-lac12-branca
 https://webresmi2020.000webhostapp.com/FACEBOOK%20GUA/detail.php
 https://web-webank.com
+https://winifredshopping.cf/pay/error
 https://winifredshopping.cf/pay/paypal
 https://woningontruimingarnhem.eu/wp-content/uploads/2020/b2020r/identity.php
 https://www.15percpizza.hu/vendor/phpunit/phpunit/src/Util/PHP/NG/ing-es-cc
@@ -1046,6 +1051,8 @@ http://www.meucartaodecredito.com/wp-content/plugins/bedtvjr/login.php
 http://www.molen-desire.nl/administrator/cache/secure
 http://www.paypal.imited-support.com/banks/hsbc.co.uk
 http://www.premiumztore.com/www.paypal.com
+http://www.premiumztore.com/www.paypal.com/72aa5307f6a145555ec134682aac3b0aZjVjMzYyMmJmMDRhMWYxZjNlMDVmYTcxMDQxYmYzNzQ=/resolution/websc_login/?country.x=&locale.x=en_
+http://www.profelectrik.ru/update/16179a2c27a6c9f84ed0f7f90d45c965Yjk0MGI1ZGEzMGM0ZTIwZTA3YjUyODhiZDg4NDdkODE=/myaccount/websc_login/?country.x=FR&amp;locale.x=fr_FR
 http://www.profelectrik.ru/update/16179a2c27a6c9f84ed0f7f90d45c965Yjk0MGI1ZGEzMGM0ZTIwZTA3YjUyODhiZDg4NDdkODE=/myaccount/websc_login/?country.x=FR&locale.x=fr_FR
 http://www.securedchase.duckdns.org/auth.php
 http://www.server986408.nazwa.pl/weryfikacja/mobile
