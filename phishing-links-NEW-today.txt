@@ -14,6 +14,7 @@ http://579c80ddcc3005456.temporary.link/AEZR8EZT8ER639HGTGFOGKBKDVNY/FE0RB1V002R
 http://579c80ddcc3005456.temporary.link/AEZR8EZT8ER639HGTGFOGKBKDVNY/FE0RB1V002R5REFEZ8F8G520T0G5/6EZF8E4GERF6ER65ER65/id.html
 http://78.41.40.16/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://abhishekgroup.co.in/wp-http/hanmail/login.php?cmd=login_submit
+http://agrover.uz/.well-known/pki-validation/bancor
 http://agrover.uz/.well-known/pki-validation/bancor/1c88506e8d275e1abcd8f9530a1aac15
 http://agrover.uz/.well-known/pki-validation/bancor/1c88506e8d275e1abcd8f9530a1aac15/info.php
 http://agrover.uz/.well-known/pki-validation/bancor/fc60fe737773911156248826d34b005e
@@ -161,6 +162,7 @@ https://agenciasviajesbolivia.com/taxe/sco/mfaAuthentication2.html
 https://agenciasviajesbolivia.com/taxe/sco/mfaAuthentication2.html?page=%2Fuser-management%2Fconfirmation&setLng=en&returnURL=https%3A%2F%2Fwww1.scotiaonline.scotiabank.com%2Fonline%2Fauthentication%2Fauthentication.bns%3Flanguage%3DEnglish
 https://agenciasviajesbolivia.com/taxe/sco/mfaAuthentication.php
 https://agenciasviajesbolivia.com/taxe/sco/mfaAuthentication.php?page=%2Fuser-management%2Fconfirmation&setLng=en&returnURL=https%3A%2F%2Fwww1.scotiaonline.scotiabank.com%2Fonline%2Fauthentication%2Fauthentication.bns%3Flanguage%3DEnglish
+https://agrover.uz/.well-known/pki-validation/bancor/159c78dcae661b36d75fb65e5a7f66cf
 https://aldcliffe.com
 https://americanas-a.com/MeusProdutos/Prefetch.php?skullid=104175040
 https://arquha.com/amazon/mazon/amazon
@@ -399,6 +401,7 @@ https://shyamalamotors.com/admin/productimages/1/BancoBPM/bpm-popolare-di-milano
 https://smartflora.co.ke/secure07d.chase.com.web.auth/dashboard/secure07b.chase.com/web/auth/chase/chase
 https://sportingwichita.com/NewOMACH/FBG
 https://steamcommunitu.ru/profiles/76561198929642426
+https://strato.comodisegni.com/deinsat/ttc-werl.de
 https://summarymanagementautomaticpaymentsupdate.camdvr.org/amazon/signin.php?country=FR-France&lang=en
 https://summarymanagementautomaticpaymentsupdate.camdvr.org/amazon/signin.php?country=-&lang=en
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/24632e693deb59e
@@ -408,6 +411,7 @@ https://support-appleld.com.secureupdate.duilawyeryork.com/ap/cdff4062170c694?cm
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/cdff4062170c694/?cmd=_update&dispatch=cdff4062170c6940c&locale=_US
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/efb3a7c3f247eba?cmd=_update&dispatch=efb3a7c3f247eba03&locale=_
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/efb3a7c3f247eba/?cmd=_update&dispatch=efb3a7c3f247eba03&locale=_
+https://toddyandassociates.com/web/english/index.php?email=honeypot@domain.com
 https://traeminentindiatours.com/vendor/phpunit/phpunit/src/Util/PHP/hhh/update/Bankofamerica-Doc/Bankofamerica-Doc/identity.php
 http://stspower.com.vn/wp-admin/user/wellsfargo/tjjn2e=/myaccount/billing
 http://stspower.com.vn/wp-admin/user/wellsfargo/tjjn2e=/myaccount/uploads
@@ -518,6 +522,7 @@ http://www.paypal.com.11111111111111111111111111.com
 http://www.porn.eventfreex.com
 http://www.rakuten.co.jp.rakutem.shop
 http://www.skyline-china.com/wp-includes/css/xwells/https.wellsfargo.com.home/wells-fargo-security-update/login.php?cmd=login_submit
+http://www.smbc-card.vip
 http://www.socializesafe.com/css/images/anz/index_files/login.html
 http://www.uber.supoort.loglns.com
 http://www.yuc2.hyperphp.com/yb
