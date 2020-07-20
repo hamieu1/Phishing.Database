@@ -14,6 +14,7 @@ http://579c80ddcc3005456.temporary.link/AEZR8EZT8ER639HGTGFOGKBKDVNY/FE0RB1V002R
 http://78.41.40.16/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://agrover.uz/.well-known/pki-validation/bancor/1c88506e8d275e1abcd8f9530a1aac15
 http://agrover.uz/.well-known/pki-validation/bancor/1c88506e8d275e1abcd8f9530a1aac15/info.php
+http://agrover.uz/.well-known/pki-validation/bancor/fc60fe737773911156248826d34b005e/info.php
 http://amcgardiennage.com/P2w9YSZpPThJNWcxajE3M1U=
 http://amcgardiennage.com/p2w9zizpptjanku3rduxmnqznw==
 http://amcgardiennage.com/p2w9zizpptjpmlozbjjjm1a2dq==?fbclid=iwar3_gjio8ciwro-eynyki--nvalbysptjyxnp18fal9odgwujzqp3plwnbk
@@ -43,6 +44,7 @@ http://delsas.dyndns-free.com
 http://dop5.hyperphp.com/yb
 http://dop5.hyperphp.com/yb/?i=1
 http://drpilarvillegas.com/sssd/excelz
+http://drpilarvillegas.com/sssd/excelz/bizmail.php?email=&amp;_rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 http://drpilarvillegas.com/sssd/excelz/bizmail.php?email=&_rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://e710z0ear.du.r.appspot.com/app/index
 http://e710z0ear.du.r.appspot.com/app/index/index.html
@@ -80,6 +82,7 @@ http://login-offlce365-0utl00k.nn.r.appspot.com/app/index/index.html
 http://logln-micr0s0ft-0nline.ts.r.appspot.com/app/index
 http://luckypubgm2020.com/login/facebook
 http://magazinepda.000webhostapp.com/22405a7jvbbgteklaopjnm/index.php?id=1
+http://mail.idhlsafewaystatus.ml/2007225/95843/Excelz/excelz/bizmail.php?email=&amp;_rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 http://mail.idhlsafewaystatus.ml/2007225/95843/Excelz/excelz/bizmail.php?email=&_rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://mail.whatsappp-join.eventsluck.com
 http://mail.zoomic.io/wp-includes/neworder
@@ -105,6 +108,7 @@ http://piscfgkalslatds.com/produto/1595176103/kit-furadeira-parafusadeira-gsr-12
 http://pizzafactory.co.il/wp-content/themes/schwab
 http://powersant.pt/wp-content/plugins/hw/english.php?email=kevin.curran@santander.us
 http://prodisosiologi.fisip.ulm.ac.id/wp-admin/user/veref/c3c3f/32fe4/fb275
+http://proydent.com.ve/paymnt/o/indexa.php?P=AAMkADcyMWNlOGU4LTA1MTctNGU5NC04NmVhLTM2ZjY2MWQ1ODUyZQAuAAAAAACPL3Vd8cnLS4/rNHDvh%20urAQDLxtTRqKyYQrNPEBhBv0F3AAAMdHa7AAA_93894574342hdfjsixaoweue5_j1489738549283781331983743fncn_Product-UserID&amp;___=
 http://proydent.com.ve/paymnt/o/indexa.php?P=AAMkADcyMWNlOGU4LTA1MTctNGU5NC04NmVhLTM2ZjY2MWQ1ODUyZQAuAAAAAACPL3Vd8cnLS4/rNHDvh+urAQDLxtTRqKyYQrNPEBhBv0F3AAAMdHa7AAA_93894574342hdfjsixaoweue5_j1489738549283781331983743fncn_Product-UserID&___=
 http://pt.patramodel.com/PC/atbonline/details.php
 http://pt.patramodel.com/PC/atbonline/secquestions.php
@@ -164,6 +168,7 @@ https://choeurdhommes-syl-roussel.fr/jquery/themes/base/accunts/customer_center/
 https://choeurdhommes-syl-roussel.fr/jquery/themes/base/accunts/customer_center/customer-IDPP00C551/myaccount/signin/?country.x=US&locale.x=en_US
 https://choeurdhommes-syl-roussel.fr/jquery/themes/base/accunts/customer_center/customer-IDPP00C729/myaccount/signin
 https://choeurdhommes-syl-roussel.fr/jquery/themes/base/accunts/customer_center/customer-IDPP00C729/myaccount/signin/?country.x=US&locale.x=en_US
+https://choeurdhommes-syl-roussel.fr/jquery/themes/base/accunts/customer_center/customer-IDPP00C989/myaccount/signin/?country.x=NL&amp;locale.x=en_NL
 https://choeurdhommes-syl-roussel.fr/jquery/themes/base/accunts/customer_center/customer-IDPP00C989/myaccount/signin/?country.x=NL&locale.x=en_NL
 https://conciergehousecalls.com/baiyf/699ca85db8f6bde4c4e587e67f94ce47/view/login.php
 https://coutoproyectos.com/pp/oo/ii/b/schwab/home/login.php
@@ -246,6 +251,7 @@ https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/st
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/8d6e0
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/8d6e0/index2.html
 http://srv88839.ht-test.ru/korea/google/net/en.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=&.rand=13InboxLight.aspx?n=1774256418&fid=4
+https://sec0ndservices.3utilities.com/customer_center/openid.assoc_handle=865/8684923dc4
 https://secure.runescape.com-as.ru/m=weblogin/loginform13
 https://secure.runescape.com-as.ru/m=weblogin/loginform141
 https://secure.runescape.com-as.ru/m=weblogin/loginform149
@@ -402,6 +408,7 @@ https://www.evoshave.com/wp-content/plugins/tee/BECU1/login.php?cmd=login_submit
 https://www.evoshave.com/wp-content/plugins/tee/BECU1/login.php?cmd=login_submit&id=7d2aa214806dd423237abdf4268ec28d7d2aa214806dd423237abdf4268ec28d&session=7d2aa214806dd423237abdf4268ec28d7d2aa214806dd423237abdf4268ec28d
 https://www.evoshave.com/wp-content/plugins/tee/BECU1/step2.php
 https://www.itcoin.xyz/update
+https://www.itcoin.xyz/update/PP_V2_UPDATE_1/new
 https://www.itcoin.xyz/update/PP_V2_UPDATE_1/new/payment.php?dispatch=
 https://www.itcoin.xyz/update/PP_V2_UPDATE_1/new/personal.php?dispatch=
 https://www.kembali-baru.site/ind/login_attempt=1&lwv=110.htm
@@ -414,6 +421,7 @@ https://www.move-recover.xyz/m.login_attempt=1&lwv=110.htm
 https://www.move-recover.xyz/m.pay.confirm.htm
 https://www.move-recover.xyz/recoverhelp.ml/checkpoint.htm
 https://www.move-recover.xyz/recoverhelp.ml/login_attempt=1&amp;lwv=110.htm
+https://www.my3.billing-information.co.uk
 https://www.nomorework.co.uk/re
 https://www.oceaniccachet.co.tz/wp-content/themes/constructo/Godaddy/godaddyfix/godaddyfix/login.php
 https://www.porn.eventfreex.com
@@ -427,6 +435,7 @@ https://yahoomedialink.weebly.com
 https://yu64ysoasotimasemelhores.com/MeusProdutos/Prefetch.php?skullid=57974687
 https://zfrmz.com/WWO8BqIEXokW6eWkulVw
 https://zoomic.io/wp-includes/neworder
+https://zoomic.io/wp-includes/neworder/bizmail.php?email=&amp;_rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 https://zoomic.io/wp-includes/neworder/bizmail.php?email=&_rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://taezletexorcit.com/onedrive
 http://tgbfashion.com/cgi/normal.html
@@ -461,6 +470,7 @@ http://wereldpas-recyclings-proces.ihchart.ir/index.php/d0%9A%D0%BE%D0%BC%D0%BF%
 http://wereldpas-recyclings-proces.ihchart.ir/index.php/d0%EF%BF%BD%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F:%D0%9C.%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-%D0%AD%D0%BB%D1%8C%D0%B4%D0%BE%D1%80%D0%B0%D0%B4%D0%BE
 http://wereldpas-recyclings-proces.ihchart.ir/index.php/step2.php
 http://wvb.lgtlkt.cn
+http://www.firepulsesports.com/wp-content/uploads/2019/10/Source.php
 http://www.homebeta-viabcp.movil-net.com
 http://www.homebeta-viabcp.movil-net.com/app/template/login/waiting.php
 http://www.lasorgentecentroestetico.it/wp-includes/images/chase_ssn_mail/4f15b180ed36adc3f75b040a69c8009d
