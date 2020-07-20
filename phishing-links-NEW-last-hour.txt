@@ -1,5 +1,10 @@
-http://holbyfoundation.org/wp-content/themes/u-design/account/index.php?login={{email}}
-https://choeurdhommes-syl-roussel.fr/jquery/themes/base/accunts/customer_center/customer-IDPP00C598/myaccount/signin/?country.x=US&locale.x=en_US
-https://holbyfoundation.org/wp-content/themes/u-design/account/index.php?login={{email}}
-https://www.zonaseguraviabcp.sms-pe.com
-https://www.zonaseguraviabcp.sms-pe.com/app/template/login/waiting.php
+http://45.117.101.65/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://abhishekgroup.co.in/wp-http/hanmail/login.php?cmd=login_submit
+http://bitskinscie.ml/kBykc8RIsz/5254yfqpsl/qrf67qx7ls?q=kBykc8RIsz&amp;s=341420953be4425cd241c99972ef2694
+http://cy.castellwinery.com/wells/login/login.php?cmd=login_submit
+http://rakuten-ac.com
+https://bit.ly/3eMZorQ
+https://freestyleusbcable.com/otherwise/success
+https://rentry-co-info-login-facebookapp96.webnode.com
+https://seonic.top/team/mazon
+http://wereldpas-vervang.com/wp-admin/network/capone/capitalone

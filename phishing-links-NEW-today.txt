@@ -7,11 +7,13 @@ http://2020.ilocus.fi/.well-known/pki-validation/y93d3cuYXBwbGUuY29tL3wxYW9zZTQy
 http://2020.ilocus.fi/.well-known/pki-validation/y93d3cuYXBwbGUuY29tL3wxYW9zZTQyMmM4Y2NkMTc4NWJhN2U2ZDI2NWFmYWU3NWI4YTJh/Store/Profil/login-desktop.html
 http://275021806.storage.googleapis.com/275021806.html
 http://45.117.101.65/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://45.117.101.65/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://579c80ddcc3005456.temporary.link/AEZR8EZT8ER639HGTGFOGKBKDVNY/FE0RB1V002R5REFEZ8F8G520T0G5/6EZF8E4GERF6ER65ER65/auths1.html
 http://579c80ddcc3005456.temporary.link/AEZR8EZT8ER639HGTGFOGKBKDVNY/FE0RB1V002R5REFEZ8F8G520T0G5/6EZF8E4GERF6ER65ER65/auths_2ess.html
 http://579c80ddcc3005456.temporary.link/AEZR8EZT8ER639HGTGFOGKBKDVNY/FE0RB1V002R5REFEZ8F8G520T0G5/6EZF8E4GERF6ER65ER65/auths.html
 http://579c80ddcc3005456.temporary.link/AEZR8EZT8ER639HGTGFOGKBKDVNY/FE0RB1V002R5REFEZ8F8G520T0G5/6EZF8E4GERF6ER65ER65/id.html
 http://78.41.40.16/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
+http://abhishekgroup.co.in/wp-http/hanmail/login.php?cmd=login_submit
 http://agrover.uz/.well-known/pki-validation/bancor/1c88506e8d275e1abcd8f9530a1aac15
 http://agrover.uz/.well-known/pki-validation/bancor/1c88506e8d275e1abcd8f9530a1aac15/info.php
 http://agrover.uz/.well-known/pki-validation/bancor/fc60fe737773911156248826d34b005e/info.php
@@ -33,11 +35,13 @@ http://app.fretusfolks.com/A/2.php
 http://aproveitemesdejulho.com/acompanhamento/acompanhamento_files/dest5.html
 http://arevzshs.000webhostapp.com
 http://b62820721e.nxcli.net/svg/IK/js/WeChat.7.3.1/?email=sarah.elliott@ros.com
+http://bitskinscie.ml/kBykc8RIsz/5254yfqpsl/qrf67qx7ls?q=kBykc8RIsz&amp;s=341420953be4425cd241c99972ef2694
 http://blockmarketplace.asia/wp-includes/rest-api/chasegoodnew/login/auth.php?country_x=Netherlands&amp;locale-8731002x=E?_NL
 http://blogsdominicanos.com/wp-content/themes/siteorigin-unwind/css/schwab/swab/schwab/schwab/home/login.php?cmd=login_submit
 http://callmorron.cf/us/office
 http://crm.vitalplus.com.co/es/app.html
 http://csp.zp.ua/bin/Chase/Chase/2019182e949b3b3de97cb0e80b3aec71
+http://cy.castellwinery.com/wells/login/login.php?cmd=login_submit
 http://dcnvda.org/img/ps2.php
 http://de-item68452133.com/fahrzeuge
 http://delsas.dyndns-free.com
@@ -114,6 +118,7 @@ http://proydent.com.ve/paymnt/o/indexa.php?P=AAMkADcyMWNlOGU4LTA1MTctNGU5NC04NmV
 http://pt.patramodel.com/PC/atbonline/details.php
 http://pt.patramodel.com/PC/atbonline/secquestions.php
 http://pt.patramodel.com/PC/cibc/Step2.php
+http://rakuten-ac.com
 http://rakuten.co.jp.k3kngroeniu4lkdsbnhoirtehj43osapferphnmo5dsk.ga
 http://rakuten.co.jp.rakutan.top
 http://rakuten.co.jp.rakutencalksdmfkwefasdfw.buzz
@@ -157,6 +162,7 @@ https://attonline2312.weebly.com
 https://azrvzsc.000webhostapp.com
 https://betaviabcp.reactivasmsperu.com/app/template/login/waiting.php
 https://bit.ly/30r5lFR
+https://bit.ly/3eMZorQ
 https://bit.ly/3fKqjGc
 https://bitskinsgulyp.tk/pUFU59Y1E2/0lxdxgysri/azqlxm3zkf?q=pUFU59Y1E2&amp;s=2c7c4a7dfa0f92c1e5ed5de1c2c99f98
 https://bk.nemoauqa.com/read_me/linkeden/linkeden
@@ -205,6 +211,7 @@ https://elevenpuppy.com/tat/sbc/sbc/sbcglobal.net.htm
 http://seonic.top/team/mazon
 https://evenpubg.com/login/facebook
 https://filperet.com/produto/1595180653/combo-parafusadeira-furadeira-de-impacto-gsb120li-eparafusadeira-gdr120li-bosch/p/bgj0b67gc7/rc/rcnm/&uid=278661434
+https://freestyleusbcable.com/otherwise/success
 https://ge.pixsonality.com/bank%20of%20america/BOA019/home/login.php?cmd=login_submit
 https://gestative-insulatio.000webhostapp.com/solid/rocket/Dbox/dropbox/login.html
 https://ge.thepersonalizationplace.com/PCV/atbonline/details.php
@@ -245,6 +252,7 @@ https://prodisosiologi.fisip.ulm.ac.id/wp-admin/user/veref/c3c3f/32fe4
 https://rakuten.co.jp.rakutencalksdmfkwefasdfw.best
 https://realestate-page-id-2657986531.pinkheartcreations.com
 https://reinvestmentservice.com/ch-swisscom/?s1=1CS&s2=0e18d45b-b99c-4aa4-a114-0e3fc52d7f29&s3=5eff60961bf0f465048&s4=&s5=&Fname=&Lname=&Email=
+https://rentry-co-info-login-facebookapp96.webnode.com
 https://review-pages-identify-fb2020.my.id
 https://review-pages-identify-fb2020.my.id/m.index.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 https://rm510.app.link/39JEnVCoc8?platform=hootsuite
@@ -315,6 +323,7 @@ https://secure.runescape.com-zx.ru/m=weblogin/loginform947,722,172,45821662,1
 https://secure.runescape.com-zx.ru/m=weblogin/loginform949,531,712,88739142,1
 https://secure.runescape.com-zx.ru/m=weblogin/loginform96,28,268,57399410,1
 https://secure.runescape-mobile.ru/m=weblogin/loginform382,772,314,4370077,2
+https://seonic.top/team/mazon
 https://servicecasecuripass.ddns.net/10d0f338b07ae1b277df8aed277ce34d
 https://services.runescape.com-as.ru/m=weblogin/loginform121
 https://services.runescape.com-as.ru/m=weblogin/loginform152
@@ -474,6 +483,7 @@ http://wereldpas-aanvraagproces.wetransfr.ir/index.php/step2.php
 http://wereldpas-recyclings-proces.ihchart.ir/index.php/d0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F:%D0%9C.%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-%D0%AD%D0%BB%D1%8C%D0%B4%D0%BE%D1%80%D0%B0%D0%B4%D0%BE
 http://wereldpas-recyclings-proces.ihchart.ir/index.php/d0%EF%BF%BD%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F:%D0%9C.%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-%D0%AD%D0%BB%D1%8C%D0%B4%D0%BE%D1%80%D0%B0%D0%B4%D0%BE
 http://wereldpas-recyclings-proces.ihchart.ir/index.php/step2.php
+http://wereldpas-vervang.com/wp-admin/network/capone/capitalone
 http://wvb.lgtlkt.cn
 http://www.firepulsesports.com/wp-content/uploads/2019/10/Source.php
 http://www.homebeta-viabcp.movil-net.com
