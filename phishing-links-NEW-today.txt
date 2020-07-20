@@ -84,6 +84,8 @@ http://holbyfoundation.org/wp-content/themes/u-design/account/index.php?login=%7
 http://holbyfoundation.org/wp-content/themes/u-design/account/index.php?login={{email}}
 http://idhlsafewaystatus.ml/office/login/safe/OWA
 http://instagramcopyright-support.com/copyright
+http://iqfilms.com/Auth/260850859231fabbecc8e2f8e7ef4374MmI4ZjAwYmE3Y2U0Zjk0ZjI5ZDI5NWUwMWY1NWVjYTY=/resolution/websc_login/?country.x=US&locale.x=en_US
+http://iqfilms.com/Auth/57dfaaed925987a1c0b5f3b40e2c2b68NDM0NWMzZWNiYzdlNWNiZmE5NWI0YzQ3ZWZiYWU5NzM=/resolution/websc_login/?country.x=US&locale.x=en_US
 http://ituncle.cn/wp-content/Chase-check-api/7839849004890028233434/7407ee59e5e1278b4df8417fa6d6ad30
 http://ituncle.cn/wp-content/Chase-check-api/7839849004890028233434/7407ee59e5e1278b4df8417fa6d6ad30/verification-email2.php?cmd=_account-details&session=b5254c26bb42797c57963d12a345fefa&dispatch=2b1f10c17dc6bc3d94fdb0381ceba77e53ed16cc
 http://ituncle.cn/wp-content/Chase-check-api/7839849004890028233434/7407ee59e5e1278b4df8417fa6d6ad30/verification-email2.php?cmd=_account-details&session=ea0329e641db266bc2da8b7e6a934138&dispatch=eac8c7d224f8c93e19ea30af207af475eec258e5
@@ -173,6 +175,7 @@ https://agrover.uz/.well-known/pki-validation/bancor/159c78dcae661b36d75fb65e5a7
 https://aldcliffe.com
 https://americanas-a.com/MeusProdutos/Prefetch.php?skullid=104175040
 https://amzaon-c0-jp.co
+http://santarms.com/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=d3993414284beca7c9d20faab65c690f/?reff=ntq0mtgwmzi2odgwzwfimme3mjjkyzrhmtzky2mymwu=
 https://arquha.com/amazon/mazon/amazon
 https://artistslumber.com/index.php?email
 https://astucious-minerals.000webhostapp.com/?id=dobesignonH0JVuiISgwAf4NcRYnqzNgFJb6SW0oqms
@@ -529,6 +532,7 @@ http://wvb.lgtlkt.cn
 http://www.firepulsesports.com/wp-content/uploads/2019/10/Source.php
 http://www.homebeta-viabcp.movil-net.com
 http://www.homebeta-viabcp.movil-net.com/app/template/login/waiting.php
+http://www.iqfilms.com/Auth/b89877178a43d44f8ebb4a8e56d6ed52OTI4NzUzNWUyMmU5NTRkYjhiZTM0NmVjZmY0OTU5NTA=/resolution/websc_login/?country.x=US&locale.x=en_US
 http://www.kubet7vn.com/wp-content/languages/plugins/supercompression
 http://www.lasorgentecentroestetico.it/wp-includes/images/chase_ssn_mail/4f15b180ed36adc3f75b040a69c8009d
 http://www.lasorgentecentroestetico.it/wp-includes/images/chase_ssn_mail/4f15b180ed36adc3f75b040a69c8009d/verification-card.php
