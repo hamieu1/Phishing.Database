@@ -7,6 +7,7 @@ http://118.27.75.199/ap/signin?key=a@b.c
 http://13.80.123.101/82mRFqKpG
 http://144.172.64.123
 http://144.172.64.123/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0
+http://150.95.220.250/ap/signin?key=a@b.c
 http://174.139.46.28/ap/signin?key=a@b.c&openid.assoc_handle=jpf%20lex&openid.claimed_id=http://specs.ope%20nid.net/auth/2.0/identifier_select&openid.identity=http%3%20A//specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net%20/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https%20://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://180.235.138.96/ap/signin?openid.pape.max_auth_age=0&openid.return_to=http%20s://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http%25%203A//specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jp%20flex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.op%20enid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.ne%20t/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://1830488.synergyglobal.one/en/signin.php?sessionid=lcuoyjcm6edlwmuqewspl35kpgrh8ptt1xs0hunn918gn3wbzo0ls6ghmxyuwryyprz6mmuwn2cb6in56oqyu7qheombglzgdymzlhv9jhkqq7vwvm5qtv88kvj1hjhkru&amp;sslchannel=true
@@ -47,6 +48,7 @@ http://amcgardiennage.com/P2w9ZSZpPTI2Nlk1VTdNMkgzUw==
 http://amcgardiennage.com/P2w9ZSZpPTIwN0szQTJwNUIwVg==
 http://amcgardiennage.com/P2w9ZSZpPTJEN1k3MzB3OG0xbw==
 http://amcgardiennage.com/P2w9ZSZpPTJHNnE3VDFwODgxeA==?fbclid=IwAR3KfqsUQqFNU_odQ3ROOJd0aZrBFIFBS2BTJisGMuw4D00RQ_9CqKceUXI
+http://amwebprojects.com/dwalt/wp-admin/secure/alibaba/login.alibaba.com.php
 http://amzupload.cf/hot
 http://andreacostafisio.com.br/wp-content/plugins/adob/login.php?cmd=login_submit&amp;amp
 http://aoleinloggen.yolasite.com
@@ -77,6 +79,7 @@ http://bancolombia-banq.webcindario.com
 http://bancolombia-banq.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
 http://bancolombia-se20.webcindario.com
 http://bancolombia-se20.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
+http://bcpz0nasegvrabeta.viabcp.c0m.calgaryhardwoodrefinishing.com/inicia-sesion
 http://bellailusi.com.my/paypal.co.uk.signin.returnUri.https.www.paypal.com.2Fcgi-bin.2Fwebscr.3fcmd.3d_upd-exp.26wid.html
 http://beta.kenaidanceta.com/postamok/d39a2/source
 http://betesxeleke.com/ourtimepge
@@ -98,6 +101,7 @@ http://casualtyomar.com/secure.chase.com/3372f3c38d8b90b3faef41c057e0ad44/verifi
 http://casualtyomar.com/secure.chase.com/3372f3c38d8b90b3faef41c057e0ad44/verification-email.php
 http://casualtyomar.com/secure.chase.com/bc50ef513bace090f14697a49d9e856f
 http://casualtyomar.com/secure.chase.com/c83852b553ed9643ffb6b04d9ad2ad56
+http://chakayblue.my.id
 http://chatwhatsapp259.giize.com
 http://chat.whstaspp.com/KVMWc2V0tg5DkDzamzCg1H
 http://chocolatecaress.icu
@@ -142,6 +146,7 @@ http://freerobuxtopsecretversion.000webhostapp.com/login.html
 http://g102d3e13e313e1.com/ap
 http://gaddynama.tk/Cns/nsw/data/UntitledNotebook1.html
 http://gamersdoctor.life/wellsfargo/wellsfargo.com/login.php
+http://gazzbozzskuy.my.id
 http://giaanhvu.com.vn/wp-content/languages/plugins/Cladoselachidae
 http://gramview.yellow-bat-79.telebit.io
 http://grp01.id.rakuten.co.jp.336a61490138ab28f7311c622e4748c869efd0a9.info/pc/rms/address.php
@@ -263,6 +268,7 @@ https://alertasynotificacionespreferenciales.com/MUA/paso02.php
 https://alexismtyler.com/chase
 https://amemidiammkt.com/travel/campaign/produto/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth/pr?fbclid=PsyNMsV0AiQuL9E_VasI9szGuhiHbgj6vgT7fPJMNq7qTNCqvJiH-1dhIuHn
 https://amemidiammkt.com/travel/campaign/produto/495161500/smart-tv-led-50-lg-50um7510-ultra-hd-4k-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip/pr?fbclid=vw0-2Ds38PVs5QLkVD_mOsFQriuIGDOUpe5KTuhXMhECF9OPvZQLaLCAXJKr
+https://americnasuper.com/produto.php?linkcompleto=smartphone-samsung-galaxy-a20s-32gb&amp;id=1
 https://andreacostafisio.com.br/wp-content/plugins/adob/login.php?cmd=login_submit&amp;amp
 https://aoleinloggen.yolasite.com
 https://aolsiigninn.yolasite.com
@@ -302,6 +308,7 @@ https://bb.comeauxscajunspice.com/exce/excelz/bizmail.php?email=YmVubnpAYmVubnpz
 https://bb.comeauxspice.com/auth/itune/index.html
 https://bccrfirmadorcr.com/banco-nacional
 https://bellsouthadmina.weebly.com
+https://bendigohighland.com/sat/60.php
 https://betesxeleke.com/ourtimepge
 https://bfscontadores.com.br/wp-admin/user/privacy
 https://bhmfinancialreviews.com/welfs/new
@@ -378,6 +385,7 @@ https://estaciodesa.wixsite.com/medi
 http://settlecovere.com/admin.appled/drfoued/3d278af65f4b101d4ca758c03028cb41/update.Apple.account
 http://settlecovere.com/admin.appled/drfoued/7362b7adb110318ffcc5446f15014e9a/update.Apple.account
 http://settlecovere.com/admin.appled/drfoued/99adeb4058140033099578b8bd8d33aa/update.Apple.account
+https://evesyalari.tk/login.html
 https://evocative-bus-278011.nw.r.appspot.com
 https://ezoomeranggrow.com/web/english/index.php?email
 https://ezoomeranggrow.com/web/english/index.php?email=aaaa@example.jp
