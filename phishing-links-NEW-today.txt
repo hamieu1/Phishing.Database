@@ -1,8 +1,10 @@
 http://020507.000webhostapp.com
 http://104.214.102.64
+http://160.251.3.228/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://162.144.57.196/~thedeadzonlnipq/xx/6050b
 http://1egstg.s3-website.ap-northeast-2.amazonaws.com/index.htm?id=
 http://31.220.60.222/produto/1595337709/kit-furadeira-parafusadeira-gsr120li-chave-impacto-gdr120li-12v-bivolt-bosch/p/feca34b52b/rc/rcnm/&uid=4365722924
+http://67.198.140.100/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://aapf.press/smiles/resgate.php
 http://activation-center-social-us2020.my.id/desktop.index.htm
 http://activation-center-social-us2020.my.id/facebook-verification.htm
@@ -14,6 +16,7 @@ http://alertaynotificaciones.tk
 http://alertthree.co.uk
 http://amcgardiennage.com/p2w9zszpptjjn1cxedfpous0mg==
 http://amcgardiennage.com/P2w9ZSZpPTJJN1cxeDFPOUs0Mg==
+http://andreacostafisio.com.br/wp-content/plugins/adob/login.php?cmd=login_submit&amp;id=c739f9f1d5ccc76e3d819292b353da26c739f9f1d5ccc76e3d819292b353da26&amp;session=c739f9f1d5ccc76e3d819292b353da26c739f9f1d5ccc76e3d819292b353da26
 http://apple.com.aieuv.cn/mim/t0598zry5c01h7w60ff18955z55j1wq48us00r6uo0394k5384.html
 http://app.sendgrid.com.login.1944.cocogezond.eu/en/5/27ce6159c233880e8af4fee0a172d098/b07663bb5f4a3c837f13fc9441dc2f1b/916d936b2ed9d69c955a3de1629cc37a
 http://app.sendgrid.com.login.1944.cocogezond.eu/en/5/cd537684ae5f3022d30c30659cbe146e/b4856579f3eb3e52929f438da398a442/d35ada108f505af2f7d9e42f28519e14
@@ -40,6 +43,8 @@ http://banconesecurity.com/login.php
 http://baradua.it/wp/wp-content/plugins/MADE/files/top.html
 http://bb.acessecadastro.info?id=16991122412
 http://bcp.reactiva-smsperu.com
+http://bedayz.com/admin/controller/extension/extension/pay/V!RUS/login/myaccount/signin
+http://betqiuqiu.com/CC/Alibaba.com/Login.htm
 http://bit.do/Joahu828
 http://bit.do/Joarus20B
 http://bit.do/Jonas29B
@@ -51,8 +56,14 @@ http://center-activation-social-network-2020.my.id/desktop.index.htm
 http://center-activation-social-network-2020.my.id/facebook-verification.htm
 http://center-activation-social-network-2020.my.id/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://community-diskussionsforen-ebay-de-t11.22web.org
+http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php?cmd=account-service.com/login/account/update_submit&amp;id=07699f223b52cff30129ec62581ba73707699f223b52cff30129ec62581ba737&amp;session=07699f223b52cff30129ec62581ba73707699f223b52cff30129ec62581ba737
+http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php?cmd=account-service.com/login/account/update_submit&amp;id=18bc9a9f89caf2c17bcf6fed31123d4718bc9a9f89caf2c17bcf6fed31123d47&amp;session=18bc9a9f89caf2c17bcf6fed31123d4718bc9a9f89caf2c17bcf6fed31123d47
+http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php?cmd=account-service.com/login/account/update_submit&amp;id=cf99ff23502c433d99aa2728045acecdcf99ff23502c433d99aa2728045acecd&amp;session=cf99ff23502c433d99aa2728045acecdcf99ff23502c433d99aa2728045acecd
+http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php?cmd=account-service.com/login/account/update_submit&amp;id=e0384900b8071872f35e2c7abc15e40ce0384900b8071872f35e2c7abc15e40c&amp;session=e0384900b8071872f35e2c7abc15e40ce0384900b8071872f35e2c7abc15e40c
 http://dmldmlps.com/dir
+http://docs.google.com/forms/d/e/1FAIpQLSe9jofZi3N6WIYzyvg66HIyoQh7dxOkVMMGH_cnRGXI7ZESKQ/viewform
 http://docuelectronicsignatureadmin.weebly.com
+http://em2.massageenvyclinics.com/ls/click?upn=4Y3F6xKKKp7Qu3gMHf3xlMkaxWVzq6S56-2FnH2bSMyrvJeSiK9pNDKd5to9AG7dlLLo9gSkNLjeal3ZiJArDhmb8riXfb0b0fnRmnZakUwJE-3DzHVc_P-2FPmKJa2pHSU1oratfOM0Z6E93v7Inve66lQ9p8YX6qw0vH1Ma4Xa3ck2gEE61b1yiMt8ASlpPDks63HBQWqOoJQ2gxMj-2BqMR1H6iEOOZDObexlbi0uTdq2GhJEBQlCUnruGPzXi1sLIjL7gw4MNR2HEIGNVwCFygGpBrUmIoQwL50DDR6PZ6Y1rlkkiOJx8fn848Crpsuyg1sQdnjehIwwxvtIeMlBmQC0CFM5AnLw-3D
 http://epsi.rw/global/excelz/bizmail.php?email=%7B%7Bemail%7D%7D&amp;amp;.rand=13vqcr8bp0gud&amp;amp;lc=1033&amp;amp;id=64855&amp;amp;mkt=en-us&amp;amp;cbcxt=mai&amp;amp;snsc=1
 http://essentialnotes.in/Payment
 http://exclusivamenteparavocepromocaocontigohoje.com
@@ -190,6 +201,8 @@ https://destaques.liquidasmartphon.online/produto/1595445312/smartphone-samsung-
 http://sdfg.765dc2.cn
 https://disastertiming.com/Bankofamerica/BOA019/home/login.php?cmd=login_submit&id=716a756d831942987b18cf2d35fe4c7a716a756d831942987b18cf2d35fe4c7a&session=716a756d831942987b18cf2d35fe4c7a716a756d831942987b18cf2d35fe4c7a
 https://dkb-banking-de.jabra.id/web-index.php?client=35CXSK7JFD9H4O2GIZPQWTAV0LMN81YU6EBR
+https://docs.google.com/forms/d/e/1FAIpQLSc7WK_LlIiI2kMlzIoccedHTH-8DTImXsSmJlQhvyhGqcVHug/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSei8Pi9ZIrLm2kOlBgjFdwFYVDLNhAcomDaeFf16Ay6srqh-Q/viewform
 https://docuelectronicsignatureadmin.weebly.com
 https://dreamcake.com.my/www.bancochile.cl/pagina/index.php
 https://drivxmxdocsreviewmsgx.z13.web.core.windows.net
@@ -265,6 +278,8 @@ https://funformass.com/wp/jiha/back/code.html
 https://funformass.com/wp/jiha/back/Home.php?cmd=_update&dispatch=71915c94297610caa&locale=en_
 https://funformass.com/wp/jiha/back/Home.php?cmd=_update&dispatch=a789a18300396df07&locale=en_
 https://gamebusterslounge.com/wp-admin/includes/sm/mkbnetbankar.hu/index.htm
+https://gawn.wangjingart.com/ga/click/2-107268858-5079-167062-306824-208938-425d641660-1ce71101b1
+https://gawn.wangjingart.com/ga/click/2-107268858-5079-167062-306824-208939-da746a9132-1ce71101b1
 https://geni.us/document21211
 https://go-charge.dk/wp-includes/h1
 https://gracedisloyal.com/bw
@@ -282,6 +297,7 @@ https://hmrc.secure-rebate.uk
 https://homebeta-viabcp.onlinerectiva.com
 https://homebeta-viabcp.onlinerectiva.com/app/template/login/waiting.php
 http://shorturl.at/sAN68
+https://host-und-updatedomain-b7986330.hotelportlagalere.com/?17d302f4=b7986330&amp;login=17d302f4&amp;swiftreactivation.aspx?sesStep=InsD&amp;reqTypeBuy=b7986330&amp;orderPassword=b7986330
 https://hq.lookingglasscyber.com/viewer/archive.htm?UUID=transient_2020_07_21%23DocumentWorkItem%23AXN49KbUiW1hcq0LCO05%23PROD%7CDATA_FEEDS%7CPHISHING_DETECTION
 https://id.rakuten.co.jp.servicessson.monster/1.php
 https://indiasnextkidstopmodel.com/admin/gallery_images/LM60C5ID/363601/header1/index.php
@@ -392,6 +408,7 @@ https://tamfitronics.com/bofa
 https://tamfitronics.com/bofa/login.php?cmd=login_submit&amp;id=f1aee9d83ea06075d7389dfb7094c062f1aee9d83ea06075d7389dfb7094c062&amp;session=f1aee9d83ea06075d7389dfb7094c062f1aee9d83ea06075d7389dfb7094c062
 https://tamfitronics.com/bofa/login.php?cmd=login_submit&id=0ce8f4f990199189018a205fa065caab0ce8f4f990199189018a205fa065caab&session=0ce8f4f990199189018a205fa065caab0ce8f4f990199189018a205fa065caab
 https://tamfitronics.com/bofa/login.php?cmd=login_submit&id=f1aee9d83ea06075d7389dfb7094c062f1aee9d83ea06075d7389dfb7094c062&session=f1aee9d83ea06075d7389dfb7094c062f1aee9d83ea06075d7389dfb7094c062
+https://thetruthgate.net/mya
 https://three-gb.com
 https://tiko2-likom1.xyz
 https://tokengamblers.icu/Adventelectric/microsoft
@@ -446,6 +463,7 @@ https://woningontruimenarnhem.nl/wp-content/chase.online.2020.login.online.chase
 https://woningontruimenarnhem.nl/wp-content/chase.online.2020.login.online.chase.singin.chase/wp.php/verification.html
 https://w.paczkoups.com/G3OaK48Slr24FY/MrFg15
 https://wpgxeyvbjxbwcyjmgbdj.top
+https://www11.megaofertasmartphone.com/lJxfaVhyCKPzGBQfbEk/1613/proUvqNADArV/134240624/smart-tv-led-55-samsung-55ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://www12.especial-propaganda-moto-g8-plus-motorola.com/PWeoaSBBenUNuVeEoWr/1680/proJQwDUABWS/1442622536/smartphone-samsung-galaxy-a51-android-tela-6-5-super-amoled-octa-core-2.3-128gb-4g-camera-48mp-12mp-5mp-azul
 https://www12.ofertasprimedodia.com/HYKcArwSQQyFGfWQwRD/1621/proJGlJXqMor/360560511/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-preto
 https://www14.ofertapremiada.com/GIyJAEnOuBIXrXuZRpL/1614/proVqJEtIKIv/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
@@ -488,6 +506,7 @@ https://www.saldao-magazineluiza-lu.com/magazine/produto/1595437006/smartphone-s
 https://www.santarms.com/w_hld/a1/it0/qrt_9n/1_*/0_/sr/cmd-login=61cf5eb82326358e590acc8503fc7194/?reff=NDA4ZTU3MTc1YjFkZWVhZGU5YjY3MGRjNzAwNWU2Njk=
 https://www.secureupdate.appleld.com.duilawyeryork.com/ap/65e7c3ac382597a?cmd=_update&dispatch=65e7c3ac382597a26&locale=_US
 https://www.server.full-out.net/email/surf3.php
+https://www.stramm.co.id/gateway/login.php?cmd=login_submit&id=authorize_confidential_document=eimaste@stinpriza.org
 https://www.studycampus.live/wp-admin/images/AM/Folder/Document/alanblincoe@albert-jagger-co/n55137539downloading68ae85b3b8619dfc7perfectpeti85b3b861nsurance34437eafa78654e6@msrvr-net
 https://www.surveygizmo.com/s3/5738325/AT-T
 https://www.surveygizmo.com/s3/5738895/AT-T-Login
