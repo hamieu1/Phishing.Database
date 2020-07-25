@@ -2,6 +2,7 @@ http://191.239.118.172/produto/1595105517/smartphone-xiaomi-redmi-note-8-64gb-az
 http://192.119.64.163/Cra/Finance/atb/secquestions.php
 http://2ndpubgm.ga/login/facebook
 http://2ndpubgm.ga/login/twitter
+http://37.72.175.160/chase.com/chase.com/online/auth/Logging_in.php
 http://3e1d08d64c.nxcli.net/mi%20cuenta/home/particulares.php
 http://45.82.72.92/acabou.php?cadastro=#%3C?php%20echo%20$rnd;%20?%3E/BR
 http://45.82.72.92/atualiza.php
@@ -10,6 +11,7 @@ http://45.82.72.92/ultima.php?cadastro=
 http://45.82.72.92/ultima.php?cadastro=#%3C?php%20echo%20$rnd;%20?%3E/BR
 http://63c4590cef.nxcli.net/wp-admin/Administrator/Online/casa/particulares.php
 http://67.198.140.112/ap/signin?key=a@b.c
+http://67.198.140.112/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.61/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.61/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://67.229.29.61/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -24,6 +26,8 @@ http://accessblocked404-410.azurewebsites.net/infected-device/00MCfdfdfdfdfdd0
 http://accessblocked404-410.azurewebsites.net/infected-device/00MSfdfdfdfdfdd0
 http://account-support-pp.000webhostapp.com/account-limited/account-limited
 http://adbinfotech.com/calendar/?qzwo1n1uGYTRYwysvwedbygVDRwydgCCYyueuuyywUBYVYUb*uWu
+http://advancecarsofchiswick.co.uk/cache/netflix-fr-fr-login/netflix
+http://after5adventures.com/chasebank/Chaseonline/login.php?cmd=login_submit&amp;id=518f55eafdb2da28f422978b9b4e1dc3518f55eafdb2da28f422978b9b4e1dc3&amp;session=518f55eafdb2da28f422978b9b4e1dc3518f55eafdb2da28f422978b9b4e1dc3
 http://albamnca.com
 http://alertasbancolom2.webcindario.com
 http://alertasbancolom2.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
@@ -117,6 +121,11 @@ http://https.email.office.nhc8fso9liwz2e1rk12vhqaxgeq4g.hgbtmd8eshlu1rkesgz11.tk
 http://inpost.kod-odbioru.app
 http://instagramcommunityservice.com/copyright.php?username
 http://ir-bri.in/account/ibank
+http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTI0Nzg5MTc3MTI0Nzg5MTc3&amp;session=MTI0Nzg5MTc3MTI0Nzg5MTc3
+http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTIzMDIzMjc1NA==MTIzMDIzMjc1NA==&amp;session=MTIzMDIzMjc1NA==MTIzMDIzMjc1NA==
+http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=NTkyNjAwMTc3NTkyNjAwMTc3&amp;session=NTkyNjAwMTc3NTkyNjAwMTc3
+http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/step2.php
+http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/Thanks.php
 http://jkmotels.com/gr-1.php
 http://jppost-bro.top/bus.html
 http://jppost-bro.top/ic.html
@@ -204,6 +213,7 @@ https://apis.google.com.signinv2.ru
 https://appearancerecall.com/document/maxxi/xls/excel/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 https://aproveitehojee.online/PROMOCAO/PRODUTO19d47109e3c9e2c1423eac228aff27d1MRBT/Identificacao
 https://asmelhores-marcas-de-smartphones-em-oferta.com/produto/tudo-de-promocao-e-aqui/6WB0XLCnuDjdJeljM0MRh1caRHBe9rmLlxeneEKZ8g-d4Ra7uQ/26
+https://attloginurl.weebly.com
 https://attmailservice123.weebly.com
 https://attslimonlineuhdjhnld.weebly.com
 https://atttmaillatt.weebly.com
@@ -248,6 +258,7 @@ https://cutt.ly/SsyhHnk?/recovery.php
 https://cy.helpacitizen.com/szy/py/lg/lin/index2.php
 https://destaques.ofertasmartphones.com/produto/1595627974/smartphone-samsung-galaxy-a30s-64gb-preto-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/155569400/te/sa3s/&uid=1930642570
 https://dinheiro-de-volta-no-superapp.com/produto/tudo-de-promocao-e-aqui/oRF_MTvcj21XbBQ-7-HFeWvX76pcvAkFCB7TeQ1ivvhw3XXFGf/2
+https://docs.google.com/forms/d/e/1FAIpQLScFxz93vacUZSTdqKYQag4QYqiU_VBdwB6w0-CGFMV8pEiSJw/viewform?usp=sf_link
 https://docs.google.com/forms/d/e/1FAIpQLScxlA3iYZPykFWrgnHPAlnWaJqifj4TVCkONieX78-vruOvwA/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSd2ILWUgApxsLq0xG6X6l0zihwM1oirZ-FvFtMa4xEqyZkWbg/viewform?usp=send_form
 https://docs.google.com/forms/d/e/1FAIpQLSf7JmMN7Tv8K9C_XkURtye9fA9urSzSPoPzPNMBGOc5dtIWgw/viewform
@@ -455,6 +466,7 @@ https://smartphonesamsunggalaxya30s.com/produto/tudo-de-promocao-e-aqui/eKJmu7Ow
 https://solynata.com/file
 https://sorteiodasemana.org/Produto_20203/produto.php?sku=2576623
 https://subscription-pre-netf-lix.tftpd.net
+https://sucursalpersonastransacionebancolombiacommuauserscisnobackbotol.small-business-solutions.biz
 https://sucursalpersonastransacionebancolombiacommuauserscisnobackboton.small-business-solutions.biz
 https://sucursapersonastransaccionebancolombiacom.small-business-solutions.biz
 https://sucursapersonastransacionebancolombiaccomn.small-business-solutions.biz
@@ -489,6 +501,8 @@ http://subscription-pre-netf-lix.tftpd.net
 http://sucursalpersonas-transaccionesbancolombia-af.mypressonline.com
 http://sucursalpersonastransaccionesbancolombiacom.small-business-solutions.biz
 http://sucursalpersonastransaccionesbancolombiacon.small-business-solutions.biz
+http://sucursalpersonastransacionebancolombiacommuauserscisnobackbotol.small-business-solutions.biz
+http://sucursalpersonastransacionebancolombiacommuauserscisnobackbotom.small-business-solutions.biz
 http://sucursalpersonastransacionebancolombiacommuauserscisnobackboton.small-business-solutions.biz
 http://sucursapersonastransaccionebancolombiacom.small-business-solutions.biz
 http://sucursapersonastransaccionesbancolombiacom.small-business-solutions.biz
@@ -528,6 +542,7 @@ https://verifautosecur.com/eu/detect.php
 https://vinicultural-projec.000webhostapp.com/oferta/MeusProdutos/Prefetch.php?skullid=Chocolate
 https://vinicultural-projec.000webhostapp.com/oferta/MeusProdutos/Prefetch.php?skullid=Chocolate%20Kitkat%204%20Fingers%20Ao%20Leite%2041
 https://visitmadison.org/file_soffice365
+https://vogfarma.com.br/wp-includes/Log-in/Service/customer_center/customer-IDPP00C417/myaccount/success/?cmd=_session=&amp;amp
 https://voiceofmelange.com/meeting/addteam.php
 https://voiceofmelange.com/meeting/teams.php
 https://wdestaques11.liquidamesdejulho.com/ozourokdolazdhaaisc/1543/proodkbvnbjb/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
@@ -694,6 +709,7 @@ https://www16.sempreinovando12.com/PmEniiBDwpyYYMndjtQ/974/proiyvEMIByl/13431598
 https://www16.voce-piscou-chegou.com/WzVuxzynjQpGfcfnoqV/1668/proXssrknVxd/1442622552/smartphone-samsung-galaxy-a51-android-tela-6-5-super-amoled-octa-core-2.3-128gb-4g-camera-48mp-12mp-5mp-preto
 https://www17.ame-ofertas-do-paizao-hoje.com/gVfvdgggksnTbSLMIuR/1714/proTWjnOgsUq/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://www17.fim-de-semana-com-precos-especial.com/gVGskfzcsuNZJGYrIHT/1718/prozTnuCogla/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
+https://www17.fim-de-semana-com-precos-especial.com/gXwUjXqNKyjgiFgVJUn/1718/proMKxkDjYFN/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://www17.fim-de-semana-com-precos-especial.com/lPrNsbnMGWVwbEPjtAc/1718/prolGibSzQlG/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://www17.fim-de-semana-com-precos-especial.com/QbVARvLpFrgqtDFxrIg/1718/proacbWmpTSo/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://www17.meu-papai-merece.com/americanas/bc6eab5152d69002cdb5eb372d0369b6/identify
@@ -853,6 +869,7 @@ http://vogfarma.com.br/wp-includes/Log-in/Service/customer_center/customer-IDPP0
 http://waco365.org/wp-includes/css/q/index.php
 http://web-mail-mosreg-ru.000webhostapp.com
 http://webmail.paypal.uk-userlogin.com
+http://weboku.com/admin/controller/extension/extension/PayPal/customer_center/customer-IDPP00C616/signin/signin.php?cmd=_up
 http://westpac-getting-started.blogdns.org
 http://westpac-getting-started.dnsdojo.net
 http://www.advinformathion.com/de.html
