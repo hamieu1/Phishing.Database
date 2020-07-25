@@ -2,6 +2,7 @@ http://191.239.118.172/produto/1595105517/smartphone-xiaomi-redmi-note-8-64gb-az
 http://67.229.29.61/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.61/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://67.229.29.61/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://67.229.29.61/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://adbinfotech.com/calendar/?qzwo1n1uGYTRYwysvwedbygVDRwydgCCYyueuuyywUBYVYUb*uWu
 http://alertasbancolom2.webcindario.com
 http://alertasbancolom2.webcindario.com/VALIDATEPASSWORDscisCjbTnfpNmVKQgeSUxnzRLmBdbq2BSLvH8jz8T1eNjJrxD2uact4fC1fGWN1VgTRClno-back-button.html
@@ -20,6 +21,7 @@ http://bit.do/sac3004-1105
 http://bit.ly/2wZfxu2tyei
 http://budgetary-prelimina.000webhostapp.com
 http://cconstructora.com/wp/linkedin/source/?email=
+http://cer.salu.edu.pk/calendar/?qzwoiniuGYTRYwysvwedbygVDRwydgCCYyueuyuywUBYVYUbxuWu
 http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php
 http://creativepointed.com/one/onedrivellcoffice
 http://creativepointed.com/one/onedrivellcoffice/index.php
@@ -30,6 +32,9 @@ http://elegant-meitner-d64348.netlify.app
 http://elisashopping.gq/pay/error
 http://employeesalaryschedule81.000webhostapp.com/adb/adb
 http://ent.lycee-nouvelle-chance.org/webapp/formule/FR/home/portail/dossier/Trait/FR/client/dossier=9839822/past=3904903992003/gouvernement/opensnrc/paiement/service/311d72935c5cac82a8f124ae8cf056a9
+http://fb-messenger.5v.pl
+http://fbyspieapp.5v.pl
+http://fecebook.5v.pl
 http://federica.ga/cs/hotMAIL/Validation/dame.php
 http://firepulsesports.com/wp-content/uploads/2019/10/Source.php
 http://fnqla.com.au/wp-admin/css/dhl/DHL
@@ -45,6 +50,7 @@ http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&amp;id=7aadebe77e5
 http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&amp;id=a98b9de8a6cbc9d1989cd58506aced8ea98b9de8a6cbc9d1989cd58506aced8e&amp;session=a98b9de8a6cbc9d1989cd58506aced8ea98b9de8a6cbc9d1989cd58506aced8e
 http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&amp;id=fc3396f536977a38bca1ca504a747044fc3396f536977a38bca1ca504a747044&amp;session=fc3396f536977a38bca1ca504a747044fc3396f536977a38bca1ca504a747044
 http://liugong.tk/liugong/Excelz/excelz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
+http://live.golivepvp.com/calendar/?qzwoiniuGYTRYwysvewdbygVDRwydgCCYyueuuyywUBYVYUbxuWu
 http://live.golivepvp.com/calendar/?qzwoiniuGYTRYwysvwedbygVDRwydgCCYyueuuyywUBYVYUb*uWu
 http://llojas-americanas.ezyro.com/146179867?smartphone-samsung-galaxy-a20-32gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-c%C3%A2mera-dupla-13mp-+-5mp-preto-&amp;skullid=685755101&amp;i=3
 http://llojas-americanas.ezyro.com/441425001?smartphone-samsung-galaxy-a20-32gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-c%C3%A2mera-dupla-13mp-+-5mp-preto-&amp;skullid=685755101&amp;i=3
@@ -58,6 +64,7 @@ http://magalufakee.000webhostapp.com/promocao.php
 http://magaluimperdivel.com/promocao.php
 http://magalu-redmi-note8.brazilsouth.cloudapp.azure.com/produto/1595105517/smartphone-xiaomi-redmi-note-8-64gb-azul-neptune-blue-4gb-ram-63-cam-quadrupla-cam-selfie-13mp/p/225200900/te/red8/&uid=1518493483
 http://mariannehoward.org/wp-includes/login.blockchain.com/c996278921be2e0b38ef81938d85df71
+http://maxsushi.com.br/hay/wp-content/upgrade/Online/onlinebankingmtb/authenticate.html
 http://medigapdirect.com/calendar/?qzw0iniuGYTRYwy$vwedbygVDRwydgCCYyueuuyywUBYVYUb*uWu
 http://medigapdirect.com/calendar/?qzwoiniuGYTRYYwysvwedbygVDRwydgCCYyueuuyywUBYVYUbxuWu
 http://microconsultant.xyz/newfacture/log-in.php?websrc=59c275dc2e97dd3b896ed4ff2b82a8fd&dispatched=61&id=5342229301
@@ -69,6 +76,7 @@ http://nixtechnix.com/hhhh/li/login.php?cmd=login_submit&id=ae44a68fe164240b42e2
 http://obinna1988.000webhostapp.com/cncountin/upload/index.php?email=aasdado3@phasdadadov.ph
 http://ofertas-produtos.ddns.net:888/cliente/MeusProdutos/Prefetch.php
 http://office365.it.support.alertsnotification.com/landing/form/f6b9fe27-81e0-4aea-ad97-4b5d1b121430
+http://okwcloud.com/alliterativekf.php?utm_source=google&utm_medium=adwords&utm_campaign=yvivcoxn
 http://onwi.ga/uk/lar
 http://owa.exchangevoice.cf
 http://paypai-activity.com/banks/hsbc.co.uk
@@ -100,6 +108,7 @@ https://bit.do/fGUYG
 https://bltrn.com/OMM/OMM/Office365.php
 https://boldproductive.com/proposal/project/Archive
 https://boxlog-ing.web.app
+https://cer.salu.edu.pk/calendar/?qzwoiniuGYTRYwysvwedbygVDRwydgCCYyueuyuywUBYVYUbxuWu
 https://cleemckenziebooks.com/nessslondaoladp
 http://scqijie.com/wp-content/themes/chigue/immowelt.de-sign-in
 https://craigslist.renew-posting.us/item.php
@@ -183,9 +192,11 @@ https://miecompany.8b.io
 https://modulecode.ro/0secure000/mfile/87cc95b350bf880f66f2399745f352c8/vote2.php?log=you_dumb_cunt@msn.com
 https://myuaeverify.com/mail/brands/back
 https://myuaeverify.com/mail/brands/back/Account.php?cmd=_update&amp;dispatch=220404b624df4e18f&amp;locale=en_BR
+https://myuaeverify.com/mail/brands/back/Account.php?cmd=_update&amp;dispatch=f20fb83df848f1855&amp;locale=en_BR
 https://myuaeverify.com/mail/brands/back/Account.php?cmd=_update&dispatch=220404b624df4e18f&locale=en_BR
 https://myuaeverify.com/mail/brands/back/Account.php?cmd=_update&dispatch=454be679750ba3646&locale=en_BR
 https://myuaeverify.com/mail/brands/back/Account.php?cmd=_update&dispatch=f20fb83df848f1855&locale=en_BR
+https://myuaeverify.com/mail/brands/back/Address.php?cmd=_update&amp;dispatch=1663bdb96ac327f&amp;locale=en_BR
 https://myuaeverify.com/mail/brands/back/Address.php?cmd=_update&amp;dispatch=70103718b8bd6ae&amp;locale=en_BR
 https://myuaeverify.com/mail/brands/back/Address.php?cmd=_update&dispatch=1663bdb96ac327f&locale=en_BR
 https://myuaeverify.com/mail/brands/back/Address.php?cmd=_update&dispatch=70103718b8bd6ae&locale=en_BR
@@ -194,6 +205,7 @@ https://myuaeverify.com/mail/brands/back/code2.html
 https://myuaeverify.com/mail/brands/back/code3.html
 https://myuaeverify.com/mail/brands/back/code.html
 https://myuaeverify.com/mail/brands/back/Home.php?cmd=_update&amp;dispatch=165fd7b308fe66c44&amp;locale=en_BR
+https://myuaeverify.com/mail/brands/back/Home.php?cmd=_update&amp;dispatch=9d68943be631af0c6&amp;locale=en_BR
 https://myuaeverify.com/mail/brands/back/Home.php?cmd=_update&dispatch=165fd7b308fe66c44&locale=en_BR
 https://myuaeverify.com/mail/brands/back/Home.php?cmd=_update&dispatch=4c4331bcf40c651d9&locale=en_
 https://myuaeverify.com/mail/brands/back/Home.php?cmd=_update&dispatch=9d68943be631af0c6&locale=en_BR
@@ -207,6 +219,7 @@ https://oibike.com.br/xz/ix/sf/SFExpress/index.php
 https://opasemnovsx.com/produto/1595560113/smartphone-samsung-galaxy-a50-128gb-25mp-tela-6-4-branco-sm-a505gzwszto/p/bc93b1b2gk/te/sga5/&uid=5886539721
 https://qwfgplh.tk/setdgdf/sharepoint-v9
 https://rakuten.co.jp.helpaccountsservices.xyz
+https://reimposta-webank.com
 https://retirar-preventivo-cliente-com-br.000webhostapp.com/ita/home
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/25431
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/25431/index2.html
@@ -218,6 +231,7 @@ https://sakurainthewind.amazonjapan.best/404.html
 https://santecaricature.fr:443/wp-admin/images/piraeus/profile
 https://santecaricature.fr:443/wp-admin/images/piraeus/profile/accrecovery.html?id=64b1a854d4b267ad87967b74798261d0country=GR/session=True
 https://santecaricature.fr/wp-admin/images/piraeus/profile
+https://santecaricature.fr/wp-admin/images/piraeus/profile/accrecovery.html?id=916caaee1f85093c9cdebfd2aedb1c97country=GR/session=True
 https://secure05b-chase.com/web/logon/home/login.php?dashboard/overviewAccounts/overview/index
 https://securek34jk5kl3h4j5kl3j45lk3j45.runescape.com-db.ru
 https://secure.runescape.com-as.ru/m=weblogin/loginform449
@@ -229,14 +243,17 @@ https://secure.runescape.com-un.ru/m=weblogin/loginform000,111,532,111,1948
 https://secure.runescape.com-zx.ru/m=weblogin/loginform487
 https://secureupdate.appleld.com.duilawyeryork.com/ap/54156f34331de10/?cmd=_update&dispatch=54156f34331de1059&locale=_
 https://secureuserinformationid.dynamic-dns.net/src/images/login/docs/xGlockV_1/PayPal%20V1/customer_center/user-447998/thanks.php
+https://services.runescape.com-un.ru/m=weblogin/loginform127
 https://service-vocalesmsprotelfixe.web.app
 https://sharesmell.com/OMM/OMM
 https://shefshenkonow.com/ed/A/B
 https://smartphonesamsunggalaxya30s.com/produto/tudo-de-promocao-e-aqui/eKJmu7OwU3LgnSazDO13MqGa3H2mQqgCeqBwrQmvluga2dtuuT/13
 https://sorteiodasemana.org/Produto_20203/produto.php?sku=2576623
 https://sucursapersonastransaccionebancolombiacom.small-business-solutions.biz
+https://sucursapersonastransacionebancolombiacom.small-business-solutions.biz
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/1b2f580020f233f/?cmd=_update&dispatch=1b2f580020f233f74&locale=_
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/9da5e1cb2372524/?cmd=_update&dispatch=9da5e1cb2372524f0&locale=_
+https://tamericans-melhorando.com/947dbd612c1ffb2efccc0d2390e1210dffb817d9/MeusProdutos/Prefetch.php?skullid=112064261&amp;fbclid=IwAR0-yY6keCP00WQfLkwqpXKy4SC0l2L030lBLOrfQkREe0GOzla2ejoZKRA
 https://thael.thmeal.com/ga/click/2-2252127-195-752-1514-1938-67b2863ab8-d7aed94dd7
 https://thael.thmeal.com/ga/click/2-2252127-195-752-1514-1939-5b28ab0c70-d7aed94dd7
 https://thael.thmeal.com/ga/click/2-2260481-195-752-1514-1938-67b2863ab8-465eb99c06
@@ -250,6 +267,7 @@ http://sucursalpersonastransaccionesbancolombiacom.small-business-solutions.biz
 http://sucursalpersonastransaccionesbancolombiacon.small-business-solutions.biz
 http://sucursapersonastransaccionebancolombiacom.small-business-solutions.biz
 http://sucursapersonastransaccionesbancolombiacom.small-business-solutions.biz
+http://sucursapersonastransacionebancolombiacom.small-business-solutions.biz
 https://ufjf-edu-br.000webhostapp.com/zw
 http://summarycheckpoint3.cf/update-payment.html
 http://summarycheckpoint3.cf/wrong.html
@@ -266,6 +284,7 @@ http://support-appleld.com.secureupdate.duilawyeryork.com/ap/e60a34c9628a53f?cmd
 https://verifautosecur.com/eu/detect.php
 https://voiceofmelange.com/meeting/teams.php
 https://wells.bank.security.cms.aksamedia.com
+https://wells.bank.security.cms.aksamedia.com/login.php?cmd=login_submit&id=9d811864bd28948de8a25d2d310160f39d811864bd28948de8a25d2d310160f3&session=9d811864bd28948de8a25d2d310160f39d811864bd28948de8a25d2d310160f3
 https://wetransfer-rfq-html-xls-pdf.000webhostapp.com
 https://wetransfer-rfq-html-xls-pdf.000webhostapp.com/error.php?email=jdoe1@emailhost.c
 https://w.paczkzups.com/UyNam3116t2Nnjq1kf0/g7Hvrl
@@ -277,10 +296,12 @@ https://www10.coomprree-ccom-amme-ddigiitall.com/IYkwaVbvITAlarMMvrR/1717/prosVL
 https://www10.coomprree-ccom-amme-ddigiitall.com/kbGHZfHSQXTCDNbjozI/1717/prowWBbVnIRj/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www10.voce-piscou-chegou.com/BWxBheAHLJgpgUVOwUr/1723/propzANTrbVJ/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www11.meu-papai-merece.com/americanas/25f95bcebc9feceeadc5c4222424be13/identify
+https://www11.meu-papai-merece.com/cFsyXnYRhbMRQhaJRJP/1638/proKOMjmaYik/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www11.meu-papai-merece.com/JmYVlgeyLwigEpGAtbV/1638/protWNpwetBx/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www11.ofertapremiada.com/DplXMuthBlQWzkBKqQJ/1614/proRhzhZKzjY/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www12.celularmotogaquitem.com/americanas/244f42655990b5415b2295fda88ef523/identify
 https://www12.meu-papai-merece.com/DznWOpjmiUJIYwUmyWm/1638/proGrpynUQDw/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www14.semanadopaizao.com/FquialTdUORQlBIdtkr/1737/proeSkGfiDLv/1299774034/smartphone-xiaomi-redmi-note-8
 https://www14.sempreinovando12.com/DDqiTiJglxqBGsylFSw/1703/proaUbLokOug/1792404301/smartphone-motorola-one-fusion-dual-chip-android-10-tela-6.5-128gb-4g-camera-64mp-frontal-16mp-branco-prisma
 https://www14.sempreinovando12.com/WbmmtnAeGGZlSxaNpWS/1703/proWjyuZTovb/1792404301/smartphone-motorola-one-fusion-dual-chip-android-10-tela-6.5-128gb-4g-camera-64mp-frontal-16mp-branco-prisma
 https://www14.sempreinovandodiadospais.com/AZmFWytDdHOeBuUzNGb/561/proGrumeNRSh/133437708/notebook-dell-inspiron-i15-3567-a50p-intel-core-i7-8gb-2tb-tela-led-15-6-windows-10-preto
@@ -288,12 +309,16 @@ https://www14.sempreinovandodiadospais.com/NebPaciEyMrDgUARfwE/561/prouqtfnRTNI/
 https://www15.celularmotogaquitem.com/ZOegqNNuDOjoYGRxpPo/1500/proCRVBwDsVN/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www16.coomprree-ccom-amme-ddigiitall.com/americanas/389f7f66f463a36a3850d481524dfec2/identify
 https://www16.melhoresofertasdom.com/americanas/ca1d17867f7890ec6f957ce6c74476c7/identify
+https://www16.melhoresofertasdom.com/xPPNpsBWBgqacNDYhux/1587/profMRGcMcNK/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
 https://www16.voce-piscou-chegou.com/WzVuxzynjQpGfcfnoqV/1668/proXssrknVxd/1442622552/smartphone-samsung-galaxy-a51-android-tela-6-5-super-amoled-octa-core-2.3-128gb-4g-camera-48mp-12mp-5mp-preto
+https://www17.meu-papai-merece.com/americanas/bc6eab5152d69002cdb5eb372d0369b6/identify
 https://www19.ofertasprimedodia.com/EyiqOZtgypaauHUyCNX/1627/proCnloCAOeB/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www19.ofertasprimedodia.com/KNWVOuNnKSypSWMnEFz/1627/progirCwUonN/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www19.ofertasprimedodia.com/XBCjYbSqqgpavoSVfjU/1627/proWGjUkLdAT/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www19.ofertasprimedodia.com/XsoknvgOviGdqWDYvpc/1627/proaIzQihVpj/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
+https://www19.xn--melhoresofertasms-8tb.net/ALpzVVIcUCZwNnKBpVU/1540/proTAOfxQERI/133731085/smartphone-samsung-galaxy-j8-64gb-dual-chip-android-8.0-tela-6-octa-core-1.8ghz-4g-camera-16mp-f1.7-5mp-f1.9-dual-cam-violeta
 https://www20.ame-ofertas-do-paizao-hoje.com/paxASEZqQIRxpeBgYAn/1679/prozcVYfFndp/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www21.xn--melhoresofertasdoms-d0b.com/KtlXYpzkFouyixxIYFQ/1531/promzQLrxSWV/132728706/lavadora-de-roupas-electrolux-16kg-lac16-branca
 https://www21.xn--melhoresofertasdoms-d0b.com/NIHOIGZqCHseMBmJkgX/1531/prowzXYxuJez/132728706/lavadora-de-roupas-electrolux-16kg-lac16-branca
 https://www21.xn--melhoresofertasdoms-d0b.com/PWKZyGyxPgcXnfoXiKd/1531/proYHhFaXEPt/132728706/lavadora-de-roupas-electrolux-16kg-lac16-branca
 https://www7.ofertasmartphones.com/produto/1595610927/smartphone-samsung-galaxy-a30s-64gb-preto-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/155569400/te/sa3s/&uid=1930642570
@@ -305,6 +330,7 @@ https://www.active-recover.xyz/m.checkpoint.htm
 https://www.active-recover.xyz/m.pay.confirm.htm
 https://www.afram.org/wp-content/plugins/.1/1/dashboard/new/home
 https://www.afram.org/wp-content/plugins/.1/1/dashboard/new/home/57711615be78d03e18913d46236ec52a/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
+https://www.afram.org/wp-content/plugins/.1/1/dashboard/new/home/5fdbc3b5e2f0b7706ed7868a8b748898/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
 https://www.afram.org/wp-content/plugins/.1/1/dashboard/new/home/9e8319409ec8a963d928d2a41674b6c3?cmd=login=www.chaseonline-com/account/service/chase-technical-department
 https://www.afram.org/wp-content/plugins/.1/1/dashboard/new/home/9e8319409ec8a963d928d2a41674b6c3/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
 https://www.afram.org/wp-content/plugins/.1/1/dashboard/new/home/d8977b74816922ef5f7ae8621c9ae32b/?cmd=login=www.chaseonline-com/account/service/chase-technical-department
@@ -318,6 +344,7 @@ https://www-bancochile.cl.studioretrofit.com.br/pagina/index.php
 https://www.en-gb.google.com.signinv2.ru
 https://www.euromotiveperformance.com/doc_apps
 https://www.euromotiveperformance.com/doc_apps/48877fd94f26f0f25af814a85a4c93da
+https://www.euromotiveperformance.com/doc_apps/c1745cc516fe62069f0a80be6955aaf5
 https://www.facebook3dviewerphoto.com/mobile/index.php?id=login
 https://www.google.com.signinv2.ru
 https://www.lirsshop.rs/vendor/phpunit/phpunit/src/Util/Log/Print/nhireit/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418
@@ -358,6 +385,8 @@ http://www.duneexcursions.icu/bv.html
 http://www.duneexcursions.icu/Login_step_2.html
 http://www.duneexcursions.icu/Login_step_3.html
 http://www.ee-login-secured.com/banks/online.tsb.co.uk
+http://www.fjn.edu.br/calendar/charcutier_vestigium.html?qzw0inluGYTRYwy$vwedbygVDRwydgCCYyueuuyywUBYVYUb*uWu
+http://www.fjn.edu.br/calendar/charcutier_vestigium.html?qzwoiinuGYTRYwysvwedbygVDRwydgCCYyueuuyywUBYVYUbxuWu
 http://www.freefinancialfacts.icu/fresh/onedri/one
 http://www.heidmane.com/mazon/amazon
 http://www.mariaega.com/mazon/amazon
