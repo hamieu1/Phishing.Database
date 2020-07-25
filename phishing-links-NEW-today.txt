@@ -1,3 +1,4 @@
+http://118.27.80.231/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin
 http://191.239.118.172/produto/1595105517/smartphone-xiaomi-redmi-note-8-64gb-azul-neptune-blue-4gb-ram-63-cam-quadrupla-cam-selfie-13mp/p/225200900/te/red8/&uid=1518493483
 http://192.119.64.163/Cra/Finance/atb/secquestions.php
 http://2ndpubgm.ga/login/facebook
@@ -12,6 +13,7 @@ http://45.82.72.92/ultima.php?cadastro=#%3C?php%20echo%20$rnd;%20?%3E/BR
 http://63c4590cef.nxcli.net/wp-admin/Administrator/Online/casa/particulares.php
 http://67.198.140.112/ap/signin?key=a@b.c
 http://67.198.140.112/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://67.198.140.114/ap/signin
 http://67.229.29.61/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.61/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://67.229.29.61/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -65,6 +67,8 @@ http://bancochile.cl.mget.com.br/pagina/index.php
 http://bancoesto-bchile.ga/imagenes/comun2008/banca-en-linea-personas.html
 http://banresevaswebs.com
 http://baradua.it/wp/wp-content/plugins/HINET/files/top.html
+http://berror01.azurewebsites.net/Clair-Avenue
+http://bespoqa.com/admin/controller/extension/extension/.../images/css/Login.htm
 http://bit.do/fGUPD
 http://bit.do/sac3004-1105
 http://bit.ly/2wZfxu2tyei
@@ -81,6 +85,7 @@ http://chimaonah.com/wp-mail/com-grandiflora-t2l9k63izn-cast/comcast/1ea9cf3e299
 http://chimaonah.com/wp-mail/com-grandiflora-t2l9k63izn-cast/comcast/768e260dfda232e602d79497058527d9
 http://class.johngoerl.com/log-sec
 http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php
+http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php?cmd=account-service.com/login/account/update_submit&amp;;id=07699f223b52cff30129ec62581ba73707699f223b52cff30129ec62581ba737&amp;;session=07699f223b52cff30129ec62581ba73707699f223b52cff30129ec62581ba737
 http://correioacreano.com.br/wp-admin/user/imgg/mkb/6c08ea37a701864b72452678c7f9bae7/login.php?cmd=account-service.com/login/account/update_submit&amp;;id=18bc9a9f89caf2c17bcf6fed31123d4718bc9a9f89caf2c17bcf6fed31123d47&amp;;session=18bc9a9f89caf2c17bcf6fed31123d4718bc9a9f89caf2c17bcf6fed31123d47
 http://creativepointed.com/one/onedrivellcoffice
 http://creativepointed.com/one/onedrivellcoffice/index.php
@@ -123,6 +128,7 @@ http://instagramcommunityservice.com/copyright.php?username
 http://ir-bri.in/account/ibank
 http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTI0Nzg5MTc3MTI0Nzg5MTc3&amp;session=MTI0Nzg5MTc3MTI0Nzg5MTc3
 http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTIzMDIzMjc1NA==MTIzMDIzMjc1NA==&amp;session=MTIzMDIzMjc1NA==MTIzMDIzMjc1NA==
+http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTM3NzQwNDA1NA==MTM3NzQwNDA1NA==&amp;session=MTM3NzQwNDA1NA==MTM3NzQwNDA1NA==
 http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=NTkyNjAwMTc3NTkyNjAwMTc3&amp;session=NTkyNjAwMTc3NTkyNjAwMTc3
 http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/step2.php
 http://janhitcollegeofeducation.com/wp-includes/js/crop/chase/Thanks.php
@@ -199,9 +205,17 @@ https://62.138.13.36/chase/verification/17M7N62ECAC10882N5M1/index.php?country_x
 https://62.138.13.36/chase/verification/22A1E7N7NB0315A59A39/index.php?country_x=-&lang_x=en
 https://62.138.13.36/chase/verification/54DB1D850M9C19DEN040/index.php?country_x=-&lang_x=en
 https://987currentupdate.weebly.com
+https://abhishekgroup.co.in/wp-http/hanmail/login.php
+https://abhishekgroup.co.in/wp-http/hanmail/login.php?cmd=login_submit&amp;id=8b5f04870582cd52c531e8de507a56fc8b5f04870582cd52c531e8de507a56fc&amp;session=8b5f04870582cd52c531e8de507a56fc8b5f04870582cd52c531e8de507a56fc
 https://accessblocked404-410.azurewebsites.net/infected-device/00MCfdfdfdfdfdd0
 https://accessblocked404-410.azurewebsites.net/infected-device/00MSfdfdfdfdfdd0
 https://adamkoford.ru/cxsw/?activity=4789652
+https://after5adventures.com/chasebank/Chaseonline/login.php
+https://after5adventures.com/chasebank/Chaseonline/login.php?cmd=login_submit&amp;id=203a3aba7ea3a85af3a7ad3ae98dedd2203a3aba7ea3a85af3a7ad3ae98dedd2&amp;session=203a3aba7ea3a85af3a7ad3ae98dedd2203a3aba7ea3a85af3a7ad3ae98dedd2
+https://after5adventures.com/chasebank/Chaseonline/login.php?cmd=login_submit&amp;id=21143a5d5af10c5e6893bbae83608e7421143a5d5af10c5e6893bbae83608e74&amp;session=21143a5d5af10c5e6893bbae83608e7421143a5d5af10c5e6893bbae83608e74
+https://after5adventures.com/chasebank/Chaseonline/login.php?cmd=login_submit&amp;id=627ff8177a833497435d410cb4763731627ff8177a833497435d410cb4763731&amp;session=627ff8177a833497435d410cb4763731627ff8177a833497435d410cb4763731
+https://after5adventures.com/chasebank/Chaseonline/login.php?cmd=login_submit&amp;id=efc8c38b0c9c7c99d09148c145b3caceefc8c38b0c9c7c99d09148c145b3cace&amp;session=efc8c38b0c9c7c99d09148c145b3caceefc8c38b0c9c7c99d09148c145b3cace
+https://after5adventures.com/chasebank/Chaseonline/login.php?cmd=login_submit&amp;id=fe603ba6e008149f0af06d1b5bf75d1bfe603ba6e008149f0af06d1b5bf75d1b&amp;session=fe603ba6e008149f0af06d1b5bf75d1bfe603ba6e008149f0af06d1b5bf75d1b
 https://aidaccounts.com/11/verified/22
 http://sakurainthewind.amazonjapan.best/?signin=YWFhYUBleGFtcGxlLmpw==&amp;email=aaaa@example.jp
 https://alert-3-update.com/my3Login.php?id=c9a2315862751a528302c6d684ecac79&session=c9a2315862751a528302c6d684ecac79c9a2315862751a528302c6d684ecac79
@@ -230,6 +244,7 @@ https://bdsfa.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=pbSWC
 https://bdsfa.sharepoint.com/_layouts/15/WopiFrame.aspx?guestaccesstoken=pbSWCmyeRRBaU9nV%209VCOdtbLNI2sAhSdqCi9C/QYR4=&amp;docid=1_11dad9ed160d14dafa586323403d7fef8&amp;wdFormId={62E5338C-C4BA-43FD-AB98-D884748022E2}&amp;action=formsubmit
 https://beaufortscd.buzz/WEST/wstpc/index.php
 https://belitamron.com/wp-admin/maint/Apple/update_info/websc-billing.php
+https://bit.do/fGUs3
 https://bit.do/fGUWC
 https://bit.do/fGUYF
 https://bit.do/fGUYG
@@ -466,6 +481,7 @@ https://smartphonesamsunggalaxya30s.com/produto/tudo-de-promocao-e-aqui/eKJmu7Ow
 https://solynata.com/file
 https://sorteiodasemana.org/Produto_20203/produto.php?sku=2576623
 https://subscription-pre-netf-lix.tftpd.net
+https://sucursalpersonastransaccionesbancolombiacomverified.small-business-solutions.biz
 https://sucursalpersonastransacionebancolombiacommuauserscisnobackbotol.small-business-solutions.biz
 https://sucursalpersonastransacionebancolombiacommuauserscisnobackboton.small-business-solutions.biz
 https://sucursapersonastransaccionebancolombiacom.small-business-solutions.biz
@@ -500,6 +516,7 @@ https://twistsalon.ca/login/2019Outlook/VdPCnDwL/bd72dc09a4c6079c97744050393f5e4
 http://subscription-pre-netf-lix.tftpd.net
 http://sucursalpersonas-transaccionesbancolombia-af.mypressonline.com
 http://sucursalpersonastransaccionesbancolombiacom.small-business-solutions.biz
+http://sucursalpersonastransaccionesbancolombiacomverified.small-business-solutions.biz
 http://sucursalpersonastransaccionesbancolombiacon.small-business-solutions.biz
 http://sucursalpersonastransacionebancolombiacommuauserscisnobackbotol.small-business-solutions.biz
 http://sucursalpersonastransacionebancolombiacommuauserscisnobackbotom.small-business-solutions.biz
@@ -622,6 +639,7 @@ https://www11.meu-papai-merece.com/EpJfdHclQSgtQvKklJU/1638/proFksTGrbUu/5928205
 https://www11.meu-papai-merece.com/JmYVlgeyLwigEpGAtbV/1638/protWNpwetBx/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www11.meu-papai-merece.com/pozjxHOAkCBmAAvSvfo/1638/pronMctmSTgy/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www11.ofertapremiada.com/americanas/4423fd2b20afe7a46d319fb1d35deccf/identify?cartId=31a4877f-71cd-400c-8af7-2cc4aa53bb77
+https://www11.ofertapremiada.com/AQMDvFweRctJDUSNmrn/1614/proVzAmKBUmD/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www11.ofertapremiada.com/DMzlasobcKfTxWKseht/1614/proabRTkdYFe/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www11.ofertapremiada.com/DplXMuthBlQWzkBKqQJ/1614/proRhzhZKzjY/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www11.ofertapremiada.com/ilULTTarVApjSJNIgvx/1614/probnFBNksuW/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
@@ -686,6 +704,7 @@ https://www14.sempreinovando12.com/WbmmtnAeGGZlSxaNpWS/1703/proWjyuZTovb/1792404
 https://www14.sempreinovandodiadospais.com/AZmFWytDdHOeBuUzNGb/561/proGrumeNRSh/133437708/notebook-dell-inspiron-i15-3567-a50p-intel-core-i7-8gb-2tb-tela-led-15-6-windows-10-preto
 https://www14.sempreinovandodiadospais.com/NebPaciEyMrDgUARfwE/561/prouqtfnRTNI/133437708/notebook-dell-inspiron-i15-3567-a50p-intel-core-i7-8gb-2tb-tela-led-15-6-windows-10-preto
 https://www15.celularmotogaquitem.com/ZOegqNNuDOjoYGRxpPo/1500/proCRVBwDsVN/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www15.salldaaoddaappproommcaaoo.com/BojYWdFUGPPuXLHMItg/1717/proWxLuuDugJ/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www15.xn--melhoresofertasms-8tb.com/americanas/88cb5ba804c2385b491a81b1b4e4e46a/identify
 https://www15.xn--melhoresofertasms-8tb.com/BHwRbNEXCcJjLABaLPt/1531/proaQtflzefP/132728706/lavadora-de-roupas-electrolux-16kg-lac16-branca
 https://www15.xn--melhoresofertasms-8tb.com/CyEuOIJdJUKwSxcvYzn/1531/proOXXMhiLaD/132728706/lavadora-de-roupas-electrolux-16kg-lac16-branca
@@ -742,6 +761,7 @@ https://www20.melhores-descontos-so-tem-aqui.com/eFVoKBSTcoFIufqvjMJ/1735/profdL
 https://www20.melhores-descontos-so-tem-aqui.com/jMkjssYVoWSYaiXKkqt/1735/proUbQffDBaA/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www20.melhores-descontos-so-tem-aqui.com/NyowCUDlvtScIpUCCgC/1735/prohthVnlZns/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www20.melhores-descontos-so-tem-aqui.com/XCOTihTLLSgZwcQPhpO/1735/proiQrDZRcjV/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
+https://www20.melhorprahojeda.com/YgNcltynJPNmnQuvAwX/1676/proOhkMyHRet/1299774034/smartphone-xiaomi-redmi-note-8
 https://www20.salldaaoddaappproommcaaoo.com/CkFXcaYinnaABvPmJZW/1717/prohMbuSlgZt/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www20.salldaaoddaappproommcaaoo.com/JwvnbwpOaiYYEBNzEMU/1717/proVuDpCYRmi/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www20.suamelhorescolha-paizao.com/americanas/02170aba4c8b08334fdc4cff9a9e2ce3/identify
@@ -865,6 +885,7 @@ http://vergasmn.buzz/Proposalreview/Proposaldocs
 http://virat24news.com/wp-admin_new/css/colors/light/ms-files/update/info-sty/grece.paypal-id.pne719/myaccount/signin/?country.x=NL&locale.x=en_NL
 http://vitahaus.com.br/wp-admin/css/colors/blue/Dropbox/main.html
 http://vitsm.com/singe.html
+http://vogfarma.com.br/wp-includes/Log-in/Service/customer_center/customer-IDPP00C225/myaccount/identity/?cmd=_session=&amp;amp
 http://vogfarma.com.br/wp-includes/Log-in/Service/customer_center/customer-IDPP00C225/myaccount/identity/?cmd=_session=&amp;fdf9d542b6e615bc07ebb59c68d3e406&amp;dispatch=b40b3325508ce6745210e1d2a7e495d6031f1423
 http://waco365.org/wp-includes/css/q/index.php
 http://web-mail-mosreg-ru.000webhostapp.com
