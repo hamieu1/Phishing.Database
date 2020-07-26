@@ -5,6 +5,7 @@ http://104.214.97.152
 http://108.166.216.177
 http://118.27.72.220/ap/signin?key=a@b.c
 http://118.27.79.247/ap/signin?key=a@b.c
+http://150.109.63.146
 http://150.109.63.146/ap/signin?key=a@b.c
 http://155.94.138.87/ap/signin?key=a@b.c
 http://160.251.1.17/ap/signin?key=a@b.c
@@ -87,7 +88,10 @@ http://bit.do/Nus9Jus
 http://bit.do/Panta4Rs
 http://bit.do/Puntu45Rs
 http://blackquarentena.com/produto/1595707581/smartphone-samsung-galaxy-a30s-64gb-violeta-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/155569800/te/sa3s/&uid=2179732707
+http://blockmarketplace.asia/wp-includes/rest-api/chasegoodnew/login/auth.php?country_x=Luxembourg&amp;locale-8731002x=E?_LU
 http://blockmarketplace.asia/wp-includes/rest-api/chasegoodnew/login/auth.php?country.x=Luxembourg&amp;locale-8731002x=E?_LU
+http://bnacion.ddns.net
+http://bnacion.hopto.org
 http://Bnacion.sytes.net
 http://bokepindonesiacrot.000webhostapp.com/login.php
 http://bokep-whatssap.hol20.org.uk
@@ -389,6 +393,7 @@ https://bhatia.com/comfirmasi/cha/se/paymt/owner/chase/verification-email.php
 https://bhatia.com/comfirmasi/cha/se/paymt/owner/chase/verification-finished.php?cmd=_account-details&session=d81eb19c1226128e811243025571d5df&dispatch=b4ae957ec081d5b13d32110ee5739ae54746711a
 https://billservice-pubg.net/signin
 https://biquyetcongai.com/wp-content/languages/loco/copperbottom
+https://bit.do/fGV2Y
 https://bit.do/fGWr8
 https://bit.ly/300Rlnq
 https://bit.ly/39rC7Lf
@@ -417,6 +422,8 @@ https://compotatory-backup.000webhostapp.com/m_t.final/Login/1/log/index.php?US=
 https://compotatory-backup.000webhostapp.com/m_t.final/Login/1/log/login.html?US=_31c08396c25c62432869ba9f907a8489=United+States
 https://compotatory-backup.000webhostapp.com/m_t.final/Login/1/log/login.html?US=_83d6791b95e1157de3b9dcf768d3186a=United+States
 https://compotatory-backup.000webhostapp.com/m_t.final/Login/1/log/login.html?US=_a0a9c0b1b92b8654bba66ca55f363a8f=United+States
+http://scoobii.000webhostapp.com
+http://scoobii.000webhostapp.com/login.html
 https://couponhunch.com/wp-content/.ch/access/login.php?cmd=login_submit&amp;id=506e6434e12a92de5bf1aba572b3470c506e6434e12a92de5bf1aba572b3470c&amp;session=506e6434e12a92de5bf1aba572b3470c506e6434e12a92de5bf1aba572b3470c
 https://csbeheer.it/.well-known/acme-challenge/index2.htm?country.x=US-United-States&ACCT.x=h=ed29nkjpsa16bhrjq4na16owq-1mucgfycc664m7vmhpjgqse65-1l5rurej3h44qodo5rn0cdvyn-8om6v2ckrxsbnwf40t9ta8a7e-34tiets5jpj294jd59h8c4s0n-28w7d5j2k2jtil9ncckolke4m-9jzlwicvu376y9q4vjq77y5ks-1m0whdrwis44c1hoa9mrwhlt4-1uvutm1mpyov7rqhtcf8fksby-aac54ic1fmca5xz1yvc5t9nfe-1hn40w0bomeivihj9lopp4hp2-c0121povror81d0xao0yez4gy
 https://csbeheer.it/.well-known/acme-challenge/index2.htm?country.x=US-United-States&amp;ACCT.x=h=ed29nkjpsa16bhrjq4na16owq-1mucgfycc664m7vmhpjgqse65-1l5rurej3h44qodo5rn0cdvyn-8om6v2ckrxsbnwf40t9ta8a7e-34tiets5jpj294jd59h8c4s0n-28w7d5j2k2jtil9ncckolke4m-9jzlwicvu376y9q4vjq77y5ks-1m0whdrwis44c1hoa9mrwhlt4-1uvutm1mpyov7rqhtcf8fksby-aac54ic1fmca5xz1yvc5t9nfe-1hn40w0bomeivihj9lopp4hp2-c0121povror81d0xao0yez4gy
@@ -433,6 +440,7 @@ https://currrently13.weebly.com
 https://cusdfxqlhhtxwwqv.vercel.app
 https://customersupportupgrade.weebly.com
 https://customeryahooofficials.weebly.com
+https://cutt.ly/Jszq6s6?/recover.php
 https://cwarchhol.typeform.com/to/GFy9q6nl
 https://daisyloke.eu/wp-includes/js/index.htm?country.x=nz-new-zealand
 https://dangau2323.000webhostapp.com/FB-QUIZ%20(SFILE.MOBI)/detail.php
@@ -631,6 +639,7 @@ https://secure.runescape.com-db.ru/m=weblogin/loginform319
 https://secure.runescape.com-en.ru/m=forum/forums.ws676
 https://secure.runescape.com-en.ru/m=forum/forums.ws676,226,282,21575983,1136
 https://secure.runescape.com-en.ru/m=weblogin/loginform527
+https://secure.runescape.com-en.ru/m=weblogin/loginform684
 https://secure.runescape.com-un.ru/m=weblogin/loginform237
 https://secure.runescape.com-un.ru/m=weblogin/loginform929
 https://secure-ssl-cdn.com/1614b4471e812992116b28dbec32f1df7ec53fc7/mon
@@ -730,6 +739,7 @@ https://www10.coomprree-ccom-amme-ddigiitall.com/jXhLwixtBuulJDfIiTZ/1717/prokRa
 https://www10.coomprree-ccom-amme-ddigiitall.com/nlEYUZWFfggNjzTMzfq/1717/prowbzNLHdpz/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www10.coomprree-ccom-amme-ddigiitall.com/TOxBTGCWgBsQCBsNjWz/1717/provSeFCPZjc/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www10.coomprree-ccom-amme-ddigiitall.com/yfEVtuuDbuBxeHgVVib/1717/proMRbrjuLAs/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
+https://www10.cupom-descontos-pra-voce-aproveita.com/HeAjKvkSjrXQYJnjNge/1741/proOgdbnMVlD/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www10.fim-de-semana-com-precos-especial.com/americanas/7d69d88d5365bbcfdac28787960a810b/identify?cartId=95505f8b-c158-4ebe-ad02-a9be81c3bc1e
 https://www10.fim-de-semana-com-precos-especial.com/gAvsbdieCTmyeIfDqYj/1598/proeTQyTHVmD/134568005/lavadora-de-roupas-brastemp-12kg-bwk12-branca
 https://www10.fim-de-semana-com-precos-especial.com/IWRMjElPyzBMBZslHms/1598/proZVIcYjjKT/134568005/lavadora-de-roupas-brastemp-12kg-bwk12-branca
@@ -786,6 +796,7 @@ https://www11.ofertapremiada.com/americanas/991c3b373c445da2ba87e9990be94882/ide
 https://www11.ofertapremiada.com/AzxnVywGybqCnHfTecL/1614/proBqHCbivYt/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www11.ofertapremiada.com/bNtsRnZxulwHCyIPRtG/1614/proUoVKmojMZ/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www11.ofertapremiada.com/FhzBOJLHzVVQnbWeoeM/1614/proKpMAiYRZK/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
+https://www11.ofertapremiada.com/HntOVcJiiYSwChvWMhL/1614/prouCJPEderP/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www11.ofertapremiada.com/REGSTaWLWUYEvdOWdDE/1614/proPNAwyrsSk/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www11.promocaodomesdopaizao.com/TwSImMyRyUKXYhzcMHO/1642/projaZcBhsJR/360562171/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-violeta
 https://www12.ame-ofertas-do-paizao-hoje.com/VsAbWaPBhBTynkwKfrO/1633/proeQKTtchxE/1299774034/smartphone-xiaomi-redmi-note-8
@@ -834,6 +845,7 @@ https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/JsLMowokTVJ
 https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/JuptzKHfRiaxpwFUmnG/1723/proCjQkbLMYm/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/KUaaIWnEUOJZregoxuc/1723/procIINncrvC/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/LbcHRUZJsPviRLHxWOH/1723/proDapJvKNEg/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/MQkFAxpVWYAfNNwyMuG/1723/proTzNOLQwgS/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/UXDHHsblHvibbPjwfUJ/1723/proAVxselxbu/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/yKYyDzMjaTtrSRGOAPM/1723/proHqBDcYqBn/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www13.seu-paizao-merece-nossos-produtos-entao-adquira-ja.com/yoQrflYpkDcWVVbOuGw/1723/proVYbaLnjLN/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
@@ -850,6 +862,7 @@ https://www14.ofertas-semana-dos-pais-aaa.com/americanas/ba09daa00538c75f2548c35
 https://www14.ofertas-semana-dos-pais-aaa.com/HxskrLOgCNZaXYnsryP/1638/proFZVjniVli/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www14.ofertas-semana-dos-pais-aaa.com/IVsjAPzJzoLHvjqTwnt/1638/proVXHhYMGgf/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www14.ofertas-semana-dos-pais-aaa.com/KNaOeMtrmKVRmKijJGq/1638/proVwvoOGPHn/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www14.ofertas-semana-dos-pais-aaa.com/LlpCuIdqLyloMQpCdgI/1638/profCVZwyplr/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www14.ofertas-semana-dos-pais-aaa.com/LVMnCUxWFBwPiFrMMdg/1638/proXLSkvraPW/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www14.ofertas-semana-dos-pais-aaa.com/MlsNVHwmbzPoVJolqdk/1638/proYklCjKUhi/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www14.ofertas-semana-dos-pais-aaa.com/OnNjNSGpyCtiDtvNqYp/1638/proRVGMDgNlX/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
@@ -864,6 +877,7 @@ https://www14.sempreinovando12.com/AAAwXhoiIrldiJoYHyB/1703/proYQKGQTWAl/1792404
 https://www14.sempreinovando12.com/AHFFGINYgdYxqFOyeIH/1703/proyuDNqExqC/1792404301/smartphone-motorola-one-fusion-dual-chip-android-10-tela-6.5-128gb-4g-camera-64mp-frontal-16mp-branco-prisma
 https://www14.sempreinovando12.com/BEIHWfaIYfgaKVLQDJH/1703/proNmBXVYLDj/1792404301/smartphone-motorola-one-fusion-dual-chip-android-10-tela-6.5-128gb-4g-camera-64mp-frontal-16mp-branco-prisma
 https://www14.sempreinovando12.com/cOpWKFymRpsILHjxyxo/1703/proTbjuhPLyD/1792404301/smartphone-motorola-one-fusion-dual-chip-android-10-tela-6.5-128gb-4g-camera-64mp-frontal-16mp-branco-prisma
+https://www14.sempreinovando12.com/eIkCKNHTUbZhJaaMZdL/1703/pronqNaXqMYG/1792404301/smartphone-motorola-one-fusion-dual-chip-android-10-tela-6.5-128gb-4g-camera-64mp-frontal-16mp-branco-prisma
 https://www15.ofertapremiada.com/kEwSJgMoNjLkyVASkwi/1653/proMPLhhkzCL/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www15.salldaaoddaappproommcaaoo.com/GAkZgoUikxgXShJBqDP/1717/proDOVGEosro/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www15.salldaaoddaappproommcaaoo.com/kGcnUctyMfcWLPFmDzu/1717/proPwTmQxRDh/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
@@ -881,6 +895,7 @@ https://www16.melhoresofertasdom.com/DrKmlXKREniDNmfAZDT/1587/proXrdMOPsuz/12375
 https://www16.melhoresofertasdom.com/IlZXZiDUFvZNKDeRQhe/1587/proXRGFHGUVP/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
 https://www16.melhoresofertasdom.com/RNwTuMKfShWBcDvDzvn/1587/prorhytmbDFW/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
 https://www16.melhoresofertasdom.com/UyuOXWrqTsaTFWGDsut/1587/proZxWBbEZyz/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
+https://www16.presentes-especiais-voce-encontra-aqui.com/americanas/7c901c1eca59238182bee8ad4899e125/identify?cartId=73b0d138-e5d2-44cc-bbee-7490261755d7
 https://www16.presentes-especiais-voce-encontra-aqui.com/jHGqxAYmIItUjhAEIsJ/1675/proobYBUPdRE/134568005/lavadora-de-roupas-brastemp-12kg-bwk12-branca
 https://www16.promocaodomesdopaizao.com/hglinqGBkZerfxJmBJe/1703/proSVeefAdcn/1792404301/smartphone-motorola-one-fusion-dual-chip-android-10-tela-6.5-128gb-4g-camera-64mp-frontal-16mp-branco-prisma
 https://www16.sempreinovandodiadospais.com/jKAjSxniSVPwdkdxTiT/1733/proXgcYqddaw/134217441/smartphone-samsung-galaxy-s10-128gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-traseira-12mp-12mp-16mp-branco
@@ -954,6 +969,7 @@ https://www17.ofertasdasemana01.com/ELtnVovgORCIGWieFSc/1661/proNThSJHQzy/182292
 https://www17.presentes-especiais-voce-encontra-aqui.com/americanas/43f80078baacd05946c8ed009f9193b9/identify
 https://www17.presentes-especiais-voce-encontra-aqui.com/americanas/a803c59d7abfd4802a8ec19f51792a35/identify?cartId=e9ec76d1-cf67-4959-991d-00fe7dc060b0
 https://www17.presentes-especiais-voce-encontra-aqui.com/americanas/bdc7fd3e6c710d005e6f0eff52a343b1/identify?cartId=e5248311-110f-475b-abf7-e2406d9751fd
+https://www17.presentes-especiais-voce-encontra-aqui.com/americanas/c89952b6e9026d09129f8258fe9b0c03/identify?cartId=1ab94e23-0e7a-440a-91ef-8bcca4768bc7
 https://www17.presentes-especiais-voce-encontra-aqui.com/DeaqxukjUPGEQsNtWKk/1303/proERSPPZzOy/1299774034/smartphone-xiaomi-redmi-note-8
 https://www17.presentes-especiais-voce-encontra-aqui.com/DhxdtaEokKTDRjhQRTf/1303/proWeREFwiQC/1299774034/smartphone-xiaomi-redmi-note-8
 https://www17.presentes-especiais-voce-encontra-aqui.com/DJuCNWQSzuXVjnSWoPI/1303/prohUIFoBdmi/1299774034/smartphone-xiaomi-redmi-note-8
@@ -1001,6 +1017,7 @@ https://www20.suamelhorescolha-paizao.com/LEzyAJphjXEEdCMrTPu/1511/proOGmWuHjQk/
 https://www20.suamelhorescolha-paizao.com/MvKLklyznQauRwWQftU/1511/profiahfmsfC/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www20.suamelhorescolha-paizao.com/ONzUKsnNceuacCXSsmc/1511/prolqKzYMJkG/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www20.suamelhorescolha-paizao.com/RXohjhyvdGSPejgpQUi/1511/prolOmTNZvbz/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
+https://www21.cupom-descontos-pra-voce-aproveita.com/WsNFevSJVNcgLZSBvfD/1598/proKfQqxSwxS/134568005/lavadora-de-roupas-brastemp-12kg-bwk12-branca
 https://www21.ofertasdasemana01.com/nwvkNDdseTHtJTGETMC/1125/proqWCDOyACn/1442622659/smartphone-samsung-galaxy-a51-branco
 https://www21.ofertas-semana-dos-pais-aaa.com/AleYmEGnpNdywgkBHSO/1638/proFExrrOgNW/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www21.ofertas-semana-dos-pais-aaa.com/BqzurRYxkmsSCfXeoby/1638/protGLMxqhna/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
@@ -1078,6 +1095,7 @@ https://www.talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-yo
 https://www.tuseguroexpress.com.mx
 https://www.xtecsoft.com/wp-content/themes/skanda/replicatile/M&amp;T%20Bank/online.htm
 https://xfkeduxutt-4mj6kgk31.vercel.app
+https://xtecsoft.com/wp-content/themes/skanda/replicatile/M&amp;T%20Bank/online.htm
 https://xwy71rsfiqr6-24mtehiin.vercel.app
 https://ycdswpwvzyjzzrhcur.top
 http://test.altipiani.net/calendar/?qzwoiinuGYTRYwysvwedbygVDRwydgCCYyueuuyywUBYVYUbxuWu
@@ -1142,6 +1160,8 @@ http://www.restart-recovery.cf
 http://www.restart-recovery.cf/m.fbrecover.htm
 http://www.restart-recovery.cf/m.pay-update.htm
 http://www.restart-recovery.cf/pay-update.htm
+http://www.restart-recovery.ga/?secure.php
+http://www.restart-recovery.ga/web.fbrecover.htm
 http://www.restart-recovery.gq/pay-update.htm
 http://www.restart-recovery.gq/web.fbrecover.htm
 http://www.samuray-wf.ru
