@@ -18,6 +18,7 @@ http://akudingentot.000webhostapp.com/login.php
 http://alefotki24.5v.pl
 http://amazonan.monster
 http://amazon.co.jp.4722f2b2cc6adac71494940ab3a3dcff3afbbf8e.info/ap/signin/login.php?openid.pape.max_auth_age%25Japan%25openid.return_to=https%253A%252F%252Fwww.amazon.co.jp%252F%253F_encoding%253DUTF8%2526ref%25md5%2582d4bffcae30015bb3e2290773d08c14%25udm%25cat%25path%25e0a8056fa7ae22e057b0868d4addfcd7453775d1
+http://amazon.co.jp.86b99361356792dd2e8cfa06590f231a262f0279.info/ap/signin/login.php?openid.pape.max_auth_age%Japan%openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3F_encoding%3DUTF8%26ref%md5%030a6c5317d580125fc598a09d9a688d%udm%cat%path%2cb3024b83ef15e60d5faba8acf77c643fc4805b
 http://amazon.co.jp.9a7582442c2689e5c819275c5914c09d6f79e143.info
 http://amcgardiennage.com/P2w9YSZpPTFBODE4TzNDMFAwbA==
 http://amcgardiennage.com/P2w9YSZpPTRrOXcxNjdl
@@ -64,6 +65,7 @@ http://fantasticomusic.000webhostapp.com
 http://fbinstasocial.000webhostapp.com
 http://fsbook-netbook.000webhostapp.com
 http://funnypuff.cl/wp-content/themes/masonic/jhhll/ali1/ali/login.php
+http://galunganday.com/appleid.apple/sg/shop/sign-in.c=aHR0cHM6Ly93d3cuYXBwbGUuY29tL2F1L3wxYW9zMDk1NTk4M2JlYTg2NGI1ZjlhZDQwZGQzNGM2MWI1ZWJlZDgxMWU4NA&amp;r=SCDHYHP7CY4H9XK2H&amp;s=001HRtL/client
 http://galunganday.com/appleid.apple/sg/shop/sign-in.c=aHR0cHM6Ly93d3cuYXBwbGUuY29tL2F1L3wxYW9zMDk1NTk4M2JlYTg2NGI1ZjlhZDQwZGQzNGM2MWI1ZWJlZDgxMWU4NA&r=SCDHYHP7CY4H9XK2H&s=001HRtL/client
 http://garena-reedem-kode-2020.000webhostapp.com/login.php
 http://gregory43spamu.000webhostapp.com
@@ -98,6 +100,7 @@ http://lobmeter.000webhostapp.com
 http://magalul.000webhostapp.com/promocao.php
 http://magaluzineofertas2020.000webhostapp.com/promocao.php
 http://mail.ukeesupport.com
+http://masterhealthcaregroup.com/wp-content/uploads/Office369/cfb7a0824144625b1067e3859bb85ffc/Login.php?websrc=59c275dc2e97dd3b896ed4ff2b82a8fd&amp;dispatched=57&amp;id=4714144183
 http://message-confirmaton.weebly.com
 http://mj7x.com/news/wp-content/plugins/soo/login.php?&amp;id=5c0a9eef88607926a49fb4ba17c9540a74f6653d142f6b9c06c69f8104ce4ae07ebf5393949b6983e45c9345e91f2509dd805e88c832b751374da124
 http://mo7trfen.ga/rta7/fb/en
@@ -154,10 +157,15 @@ https://bank-chase-ver.com/auth.php
 https://bellekr.com/wp/home
 https://bellekr.com/wp/home/confirm.php?cmd=login_submit&id=
 https://bellekr.com/wp/home/info.php?cmd=login_submit&id=
+https://bellekr.com/wp/home/login.php?cmd=login_submit&amp;id=44b920911596137d4240601aa5e4f46244b920911596137d4240601aa5e4f462&amp;session=44b920911596137d4240601aa5e4f46244b920911596137d4240601aa5e4f462
 https://bellekr.com/wp/home/login.php?cmd=login_submit&id=44b920911596137d4240601aa5e4f46244b920911596137d4240601aa5e4f462&session=44b920911596137d4240601aa5e4f46244b920911596137d4240601aa5e4f462
 https://bellekr.com/wp/home/login.php?cmd=login_submit&id=fe59cabaa7e05acc2377a8b43794ec74fe59cabaa7e05acc2377a8b43794ec74&session=fe59cabaa7e05acc2377a8b43794ec74fe59cabaa7e05acc2377a8b43794ec74
+https://bizzclan.com/Chase.com/Secure/login
 https://bizzclan.com/Chase.com/Secure/login/auth.php
+https://bizzclan.com/Chase.com/Secure/login/auth.php?country_x=France&amp;locale-8731002x=E?_FR
+https://bizzclan.com/Chase.com/Secure/login/auth.php?country_x=United%20States&amp;locale-8731002x=E?_US
 https://bizzclan.com/Chase.com/Secure/login/dashboard.php
+https://bizzclan.com/Chase.com/Secure/login/index.php
 https://blockdrops.xyz
 https://buterin-event.com/eth/?
 https://copair.org/meeting/addteams.php
@@ -184,6 +192,8 @@ https://ets.interac.ca-epay.com/sh/13e92s5/cdnbnk
 https://ets.interac.ca-epay.com/sh/13e92s5/cdnbnk/confirm
 https://ets.interac.ca-epay.com/sh/13e92s5/cdnbnk/login.php?cmd=login_submit&id=267d2bfec5ac3808fc100551faedd21b267d2bfec5ac3808fc100551faedd21b&session=267d2bfec5ac3808fc100551faedd21b267d2bfec5ac3808fc100551faedd21b
 http://severer-housings.000webhostapp.com
+https://fbforbusinesshelp20.000webhostapp.com/secure.html
+http://sfg.o9zay.cn
 https://go.supportline.cf/abb/001
 https://harawayconstruction.com/zghdghf/0jzfdvkoj3u4uehz8hbp6mj2.php?C2H16515957730307f13f8b3aa5159f884c16c4cdc78648d7f13f8b3aa5159f884c16c4cdc78648d7f13f8b3aa5159f884c16c4cdc78648d7f13f8b3aa5159f884c16c4cdc78648d7f13f8b3aa5159f884c16c4cdc78648d&Official=&AdnanSami
 https://high-handed-flags.000webhostapp.com/m_t.final/Login
@@ -221,6 +231,8 @@ https://providential-biases.000webhostapp.com/m_t.final/Login/1
 https://providential-biases.000webhostapp.com/m_t.final/Login/1/index.php?secure-auth/login?execution=e1s170726f766964656e7469616c2d6269617365732e303030776562686f73746170702e636f6d-7118711verify819
 https://providential-biases.000webhostapp.com/m_t.final/Login/1/log
 https://providential-biases.000webhostapp.com/m_t.final/Login/1/log/login.html?US=_3d249a99ef6df02d5b1a377888146ecc=United+States
+https://prtb.gmprograming.com/rk?hj=Z4NwlWpkb2KclYV2kmtpaIh7YKCDomZjbWKjY31y/fuhrmannti@online.de
+https://prtb.gmprograming.com/tjj?lm=Z4NwlWpkb2KclYV2kmtpaIh7YKCDomZkaWKjY31y/fuhrmannti@online.de
 https://r444r0r0uuser.du.r.appspot.com
 https://rentry-co-info-login-facebookapp01.webnode.com
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/5c053
@@ -229,6 +241,7 @@ https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/st
 https://rsu.tangerangselatankota.go.id/wp-content/ngg/modules/photocrati-ajax/static/LOGIN/LOGIN/postale/9788e/index2.html
 https://secure01c.web.auth.dashboard.login.jpe4id0.com
 https://secure.pay.appleld.com.apvsregiaodoslagos.com/hk
+https://secure.pay.appleld.com.apvsregiaodoslagos.com/hk/28290e2893bca71/?cmd=_update&dispatch=28290e2893bca71dc&locale=_US
 https://secure.pay.appleld.com.apvsregiaodoslagos.com/hk/9e178e07b4b3439?cmd=_update&amp;dispatch=9e178e07b4b343966&amp;locale=_US
 https://secure.pay.appleld.com.apvsregiaodoslagos.com/hk/9e178e07b4b3439/?cmd=_update&amp;dispatch=9e178e07b4b343966&amp;locale=_US
 https://secure.pay.appleld.com.apvsregiaodoslagos.com/hk/9e178e07b4b3439?cmd=_update&dispatch=9e178e07b4b343966&locale=_US
@@ -250,6 +263,7 @@ https://support-appleld.com.secureupdate.duilawyeryork.com/ap/bf34acd392291d9?cm
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/bf34acd392291d9/?cmd=_update&dispatch=bf34acd392291d9da&locale=_US
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/f34acab4d336bf8?cmd=_update&dispatch=f34acab4d336bf872&locale=_US
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/f34acab4d336bf8/?cmd=_update&dispatch=f34acab4d336bf872&locale=_US
+https://syzphlapx.cf/1000655841.html?type=68v3oWMXCKK_tLsDeLwd3VAxU9liAXf6jAuMsUDt2Bqkz9pszbcR5nARJnptToTOAO21psT53Ecvi
 https://szvjchmfjzthezwkgt.top
 https://team-prob2.com/font/upd.php
 https://team-prob2.com/font/upd.php__;!!KerVtRMxmDRY!Nly1WBPFMYfrOlN6rIre4L-37baYudOIudtNTLd_-pCR-q8ufJQhmEhJ4QKy2DcmxHYojaFh$
@@ -340,6 +354,7 @@ https://www.secureupdate.appleld.com.duilawyeryork.com/ap/f22be57a4ab48f2?cmd=_u
 https://www.secureupdate.appleld.com.duilawyeryork.com/ap/f22be57a4ab48f2/?cmd=_update&dispatch=f22be57a4ab48f29f&locale=_US
 https://www.signin-store-ws.frontieroption.com
 https://zjegssdrjbzxuzymmj.top
+http://talentmoversinc.com/vendor/theseer/tokenizer/src/intl/logs/update-your-account-information/security-measure/log-in/signin?amp
 http://tatonnow2020.000webhostapp.com/login.html
 http://tautan-vidio-hotv1.000webhostapp.com/login.php
 http://theasiantelegraph.net/meeting/team.php
@@ -353,6 +368,7 @@ http://undangangrupwabokepterbarupalinghot.000webhostapp.com/login.php
 http://valuablez.xyz/startsber/index.php?userid=50
 http://video0110--cn14135.repl.co
 http://video4vd.000webhostapp.com/login.html
+http://vogfarma.com.br/wp-includes/Log-in/Service/customer_center/customer-IDPP00C912/myaccount/identity/?cmd=_session=US&amp;807dc978150da1697eb7dcf4ed189ddc&amp;dispatch=42e1884f91e98e6f99cc1af6a20959e1c70f6256
 http://volcemailauthentlcation.netlify.app
 http://webmailclientaccess2020.moonfruit.com
 http://webshite-groupmy.000webhostapp.com/login.php
