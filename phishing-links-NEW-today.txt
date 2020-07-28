@@ -4,10 +4,12 @@ http://118.27.75.16/ap/signin?key=a@b.c
 http://118.27.79.157/ap/signin?key=a@b.c
 http://118.27.79.231/ap/signin?key=a@b.c
 http://118.27.79.70/ap/signin?key=a@b.c
+http://144.172.64.46/ap/signin?key=a@b.c
 http://155.94.184.34//ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://160.251.1.106/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://160.251.3.148/ap/signin?key=a@b.c
 http://174.139.46.123/ap/signin?key=a@b.c
+http://204.44.75.55/ap/signin?key=a@b.c
 http://35.237.11.177/myca
 http://35.237.11.177/myca/Form2.php?ssl_id=1Q2819Yz5iq18RAtkA6W6VSybcEOQkyYEpYTBhB9bu8jSrjXhdzOXUh8vZmWNHkrDDVsyFbejneLxG7DScZMeuN3oRroTl2lQ2xnul1FQ9KGurvKT8VrEuqSjX0mSQbWuO
 http://35.237.11.177/myca/Form2.php?ssl_id=Jv4tDcRdeMtahoIHXUYYKbO521i2fgy2UF6MZwpIYZxcM8msra0uY3P0FLfJEdprbheXrTGBeUECO4ECfInsLUAVeqyWr8mS3lEdymBRSasNpERqbkzjl5lVxFEhm8R8Vy
@@ -94,7 +96,9 @@ http://iniciosesion-payme.000webhostapp.com
 http://inter-social.ru/media/kunena/js/creed20/login.php
 http://inter-social.ru/media/kunena/js/creed20/login.php?cmd=login_submit&id=e94ed0fa8f74503b39d5607010bd2f4fe94ed0fa8f74503b39d5607010bd2f4f&session=e94ed0fa8f74503b39d5607010bd2f4fe94ed0fa8f74503b39d5607010bd2f4f
 http://inter-social.ru/media/kunena/js/creed20/step4.php
+http://jppost-bdo.top/dus.html
 http://jppost-bdo.top/ic.html
+http://jppost-bdo.top/ih.html
 http://jppost-bka.top/cus.html
 http://julhoofertas.com.br/?ps=PLJDiVagXXW4gfHKb4ZC&amp;id=6
 http://junhodeshowdebotaforapravc.com/Produto_23991/produto.php?&amp;sku=9489144
@@ -113,6 +117,7 @@ http://mamnonkhanhhoi.edu.vn/oo/linkedin_/index.php?email=
 http://market-secured.duckdns.org/sha00312
 http://market-secured.duckdns.org/sha00312/index.html
 http://mobilsistemgirisi.com/enjk2mk2ssmksm/es_com.kutxabank.android.php
+http://mobilsistemgirisi.com/enjk2mk2ssmksm/es_com.rsi.php
 http://motorsich.by/alibaba.directory/Alibaba/safeguardyouraccountsecurity.php?email=
 http://mypayees-new-help.com/hsbc
 http://mypp.secure-server.link
@@ -154,6 +159,7 @@ https://aapkaclassified.in/bootstrap/atualiza.php?tork=PGLCQAGQPGLC-P361-PGLCP36
 https://aapkaclassified.in/bootstrap/pagamento.php
 https://aapkaclassified.in/bootstrap/ultima.php?cadastro=#%3C?php%20echo%20$rnd;%20?%3E/BR
 https://abrpcgntmppudwyyud.top
+https://accesowebs.barcoidechille.cl.swrvrs.online/bancochile-web/persona/login/index.php
 https://accountactivityfund.network
 https://adhirajcodenamecountdown.com/fonts/excel-rd42
 https://aerobic-botany-284423.ey.r.appspot.com/home.html
@@ -163,6 +169,7 @@ https://afilinfuradeirasgrsli.com/produto/1595857237/kit-furadeira-parafusadeira
 https://amazon-support-sppapahiseuzc54nqsixbqpcnmmuhqst297o879oukcom.ga
 https://andresjorge.com.mx/newinc
 https://angular-ln97ydrkc.vercel.app
+https://annulation-commande-paypal-information.co1-rs.info/Home/app/signin
 https://arahanta.com/cc/MachInt/auth-login/verification-page/reff.php
 http://sarah-mcclatchy.com/wp-admin/js/widgets/We-Transfer/2020/login.php?ul=_LkeFUq_VJOXRTIPtoGYDw17dsfsfd18
 https://arures.000webhostapp.com/login.htm
@@ -306,10 +313,12 @@ http://secureupdate.appleld.com.duilawyeryork.com/ap/66ca7f3392dd437/?cmd=_updat
 http://secureupdate.appleld.com.duilawyeryork.com/ap/7fc49f95afc41a3
 https://eczscaz.000webhostapp.com/login.htm
 https://edifytrainingministries.org/Guy/Luxenburg
+https://eesupportuk.com
 https://e-hizmetkapisigirisi-turkiyegovtr.com/e-Hizmetler/giris.php
 https://emi4q642.vercel.app
 https://emporio89.com.br/pm/raiffeisen.hu/index.htm
 https://empresas-interbansk.com
+https://empresas-interbansk.com//home/consulta.php
 https://empresas-interbansk.com/login
 https://empresas-interbansk.com/login/assets/img/logo-white.svg
 http://server293122.nazwa.pl/weryfikacja/mobile
@@ -369,6 +378,7 @@ https://onlineverificationatthdjd.weebly.com
 https://opatestemdand.com/produto/1595015806/smartphone-samsung-galaxy-a50-128gb-25mp-tela-6-4-branco-sm-a505gzwszto/p/bc93b1b2gk/te/sga5/&amp;uid=4227617624
 https://overallhorizon.com/teet/onedrive-drive/?_branch_match_id=816372696404111177&utm_medium=marketing
 https://page.co.uk.iratrade.ml/login.alibaba-com/index.php
+https://page.web.qratrade.ml/login.alibaba-com/index.php
 https://paperhatfilms.com/vendor/phpunit/php-token-stream/build/telstra/telstra.html
 https://partrown.pbqdc.com/ga/click/2-1646784-135-985-1974-2534-c93468dadd-a92a5b89b7
 https://pay-nujilppuern.com/qr1BZ7Q
@@ -442,6 +452,7 @@ http://support.paypalverifyaccounts.net
 https://uqqycjkn.firebaseapp.com
 https://user-paypal.com
 https://user-paypal.com/app/index
+https://vfca.co/ds/oAAAANSUhEUgAAAq0AAAHyCAYAAADBbPcUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhs/dsk.html
 https://vista14.com/log/Chase
 https://vp35yvpvyup.el.r.appspot.com/%23email@goeshere.net
 https://vp35yvpvyup.el.r.appspot.com/%23janiceolson@legalshield.com
@@ -527,6 +538,8 @@ https://www.secureupdate.appleld.com.duilawyeryork.com/ap/79dc92863d6a9a6/?cmd=_
 https://www.soysodimac.estudiarfacil.com/index_bdt.php
 https://www.torkmarin.com/wp-admin/owa/OWA_06.14.20_1.0/0/0.php?email=nasir.rao@fatima-group.com
 https://www.zonasegurawebenlineareactivaperu.com/iniciar-sesion
+https://xalles.net/proxima/wp-content/upgrade/gn/onlive0j84T3Gtv.php?email=webmaster@cuni.cz
+https://xalles.net/proxima/wp-content/upgrade/index.php?email=webmaster@cuni.cz
 https://xn--localbitcns-yeb49e.com
 https://yahooattnet.weebly.com
 https://yh237tg.weebly.com
