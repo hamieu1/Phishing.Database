@@ -11,6 +11,8 @@ http://160.251.1.106/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=h
 http://160.251.3.148/ap/signin?key=a@b.c
 http://160.251.3.148/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://174.139.46.123/ap/signin?key=a@b.c
+http://192.64.118.140/~hairbase//id33000619182/fatturazione-staff/home
+http://192.64.118.140/~hairbase//id33000619182/fatturazione-staff/home/8af989323b06395/fatturazione
 http://204.44.75.55/ap/signin?key=a@b.c
 http://35.237.11.177/myca
 http://35.237.11.177/myca/Form2.php?ssl_id=1Q2819Yz5iq18RAtkA6W6VSybcEOQkyYEpYTBhB9bu8jSrjXhdzOXUh8vZmWNHkrDDVsyFbejneLxG7DScZMeuN3oRroTl2lQ2xnul1FQ9KGurvKT8VrEuqSjX0mSQbWuO
@@ -121,8 +123,12 @@ http://empresas-interbansk.com
 http://empresas-interbansk.com/login
 http://enable-pages-certificated-valid-invitation-00021.tk/desktop.index.htm
 http://enable-pages-certificated-valid-invitation-00021.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
+http://enable-pages-certificated-valid-invitation-00022.tk/desktop.index.htm
+http://enable-pages-certificated-valid-invitation-00022.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-manager-advanced-000056.tk/desktop.index.htm
 http://enable-pages-certificated-valid-manager-advanced-000056.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
+http://enable-pages-certificated-valid-manager-advanced-000057.tk/desktop.index.htm
+http://enable-pages-certificated-valid-manager-advanced-000057.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://esparaltyapi.com/images/slidess/att/login.php?email=jbhughes@bellsouth.net
 http://etjguc.grceqw.xyz/@3401@78347@
 http://etoro-mining.co
@@ -132,6 +138,7 @@ http://facebook.phwebdev.com
 http://fb-545445561-com.preview-domain.com/incorrec1.html?fb=invalid_request
 http://fb-545445561-com.preview-domain.com/payments/Add-Payments-Method-Error.htm
 http://fb-545445561-com.preview-domain.com/payments/Add-Payments-Method.htm
+http://fb-6556323232561-com.preview-domain.com/1000655841.html
 http://fb-check-update.page2849232055.com
 http://fb-loginwebv9.ydns.eu/login.php
 http://fittedstate.com/centrum_/a1b2c3/e4cca4cc9317ef6e5d5e8c683cbba1a7
@@ -303,6 +310,7 @@ https://andresjorge.com.mx/newinc
 https://angular-ln97ydrkc.vercel.app
 https://annulation-commande-paypal-information.co1-rs.info/Home/app/signin
 https://antena.cabanova.com
+https://app.blck66rmh001.my.id
 https://apple.com.aiusn.cn/mim/01592736128048c47hgi6zl823u9o235g49m7n7202g7u67475.html
 https://apple.com.aiusn.cn/mim/75n645x65z3n47x9458jg372ptq530y4q448423k40866683gy.html
 https://apple.com.aiusn.cn/mim/7c333705ch6er1y6c4802zm6i6h5j3n2w529k81o7gr5m3g559.html
@@ -340,6 +348,8 @@ https://bit.ly/3f5Xq64
 https://bit.ly/3g64jG2
 https://bitsym.com/wetransfer/download?email=ajit@viikingbeverages.com
 https://bitsym.com/wetransfer/download/?email=ajit@viikingbeverages.com
+https://blck66rmh001.my.id
+https://blck66rmh001.my.id/id.help.htm
 https://blog.fbhackpass.com/how-to-hack-an-facebook-account-online-in-2019
 https://blue02.club/caixa/atendimento/account.php
 https://blue02.club/caixa/?cliente=rafael@sdinformatica.inf.br
@@ -734,6 +744,7 @@ https://shasticbeetroote.com/smin/cddn.html
 https://shroud-item.xyz
 https://signin.ebay.de.ws.ebayisapi.nulinepcs.org/ebay.de/Einloggensoder-neu-anmelden-eBay.htm
 https://silverwingpublishing.us/OMMOM/OM9u8
+https://site.blck66rmh001.my.id
 https://site.srv465avg001.my.id
 https://sjdwtpuuzrvhmmtcgihwsedwchvcnpckoigz-dot-gl494903049.wl.r.appspot.com
 https://smbc.co.jp.aib.aibgsjsw5001.jsp.btc918.vip
@@ -1186,6 +1197,7 @@ https://www18.brasildeofertadospais.com/VZlfyAMlpXKvtMPSEJz/1742/proZaedELszn/13
 https://www18.brasildeofertadospais.com/ydzGsTyjwsfkHmpEgjH/1742/proqppFGiGiG/133731085/ofertasecreta.com
 https://www18.brasildeofertadospais.com/ZSgNRIVWXaBjmielxId/1742/proDlwkuMlcS/133731085/smartphone-samsung-galaxy-j8-64gb-dual-chip-android-8.0-tela-6-octa-core-1.8ghz-4g-camera-16mp-f1.7-5mp-f1.9-dual-cam-violeta
 https://www18.cupom-com-descontos-incriveis.com/americanas/2e4f918c614c4a2938c9db54f72e2114/identify?cartId=27a9c68e-f9a5-4710-971d-7a64117ff168
+https://www18.cupom-com-descontos-incriveis.com/americanas/367527dfbcb599249ddd63696b00bebb/identify?cartId=55fca5f1-f8ee-47a3-9cb9-279e9df1de49
 https://www18.cupom-com-descontos-incriveis.com/americanas/f060bbca9d8536f763a889cf7e559454/identify?cartId=602342a1-a813-44d0-9a75-7651c3111a7e
 https://www18.cupom-com-descontos-incriveis.com/aUZgJRExBrqFhsYWNxJ/1303/prouffuRGRIk/1299774034/smartphone-xiaomi-redmi-note-8
 https://www18.cupom-com-descontos-incriveis.com/CRfHHhMyvffVtBaCdAz/1303/proJhqtNRVQM/1299774034/smartphone-xiaomi-redmi-note-8
@@ -1275,6 +1287,7 @@ https://www21.semanadopaizao.com/qCEmzmSdgjssQtxrfGV/1757/proRmeptFrbL/592814568
 https://www21.xn--melhoresofertasdoms-d0b.com/AZmFWytDdHOeBuUzNGb/561/proGrumeNRSh/133437708/bm90ZWJvb2
 https://www80.smartphone-ofertas-premium.com/proda4bc252ea41da9941e4073054ef16318lnk/smartphone-samsung-galaxy-a20s-32gb-vermelho-4g-3gb-ram-tela-65-cam-tripla-selfie-8mp/p/1555692/te/s20s
 https://www.account.c87cbe76c1b517b3c544.info
+https://www.account.d93f0ee76c1b517b3c5.info
 https://www.alessiogiovinazzo.com/fr/1a58b416dd74d38c108236813a28e6010c8781bbbf1a8d48b0de51c3c6096a68a623a05261066c2ac0f57c7a2a75366f
 https://www.apple.com.siear.cn/mim/s9n7j0375ab3j582m82f476o45a5n1s1zxy5654392437m55m8.html
 https://www.apple.ios.siear.cn/mim/2zk9928u2bg38j9i3g8716m95u68rs64yi2828l593j3c8nn2l.html
@@ -1308,6 +1321,7 @@ https://www.fukuai.co.jp/php/go/ejaya/laco.php?websrc=59c275dc2e97dd3b896ed4ff2b
 https://www.gadgetshope.com/lzeuez/WeTransfer/index.php
 https://www.gldesarrollos.com/can/irs/index-2.php
 https://www.gowell.com.tw/wp-content/index.html
+https://www.groupesis.ca/QMD/INCDHL/MARKET
 https://www.gstnfbcsadser.my.id
 https://www.gstnfbcsadser.my.id/m.id.help.htm
 https://www.gstnfbcsadser.my.id/m.pay.id.conf.htm
@@ -1324,6 +1338,7 @@ https://www.lks.co.in/vendor/phpunit/phpunit/src/Util/PHP/chase/home/home/verifi
 https://www.lks.co.in/vendor/phpunit/phpunit/src/Util/PHP/chase/home/home/verification-email.php
 https://www.lks.co.in/vendor/phpunit/phpunit/src/Util/PHP/chase/home/home/verification-finished.php
 https://www.ltaucardmilhascomvoce.com/home.php
+https://www.ltau-manutencao.com/home.php
 https://www.lxway.pt/wson.php
 https://www.mitadmas11.net/foros
 https://www.mysurveygizmo.com/s3/5746322/AT-T
@@ -1339,6 +1354,7 @@ https://www.profsources.com/ws?/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_part
 https://www.purebag.fr/modules/ps_customersignin/vendor/autoload.html
 https://www-readerwebformulier.info
 https://www.sagacontratrading.com/smin/cddn.html
+https://www.samsonscpt.co.za/wp-includes/SimplePie/XML/swiss/manage
 https://www.secur01e-chase.com/next.php
 https://www.secure.runescape.com-ccd.best
 https://www.secure.runescape.com-ggg.best
@@ -1405,6 +1421,7 @@ http://u810624hde.ha004.t.justns.ru/sg/cc.php
 http://u810624hde.ha004.t.justns.ru/sg/sms.php
 http://u810624hde.ha004.t.justns.ru/sg/tel.php
 http://u8607916.ct.sendgrid.net/ls/click?upn=OI0VRwtLg56eAez1YPwfK-2BBHduTyfYjaORF7qqMDIXP4GsLHqNIqD-2B2palTXoeuEv21hxFRn5ZtI9-2FyraEPvYm5MtfgsAkcaNEP0tjdvJOUxJrCpWDtOOwjlqti4zAke-2BVGthi1Gfcjd5KQiKsbnEAWzoxcGn2vy0AZOZK5SfRJ-2BTGRUnHHVuSFqjbLhwRw3dKMZnuhwiheZDYcovcB-2FexJ7W2VcALZKwFrfRkccY0LfQzDwl-2Bh97pXlpRZAo0AW-2B0SMQj48KRAOxxBrT99qBYiq5w0wcr9OIwUOta3Dt4-2Be27lGr-2BKdSQoipqNT0ulrjtUizfY3QuEmMyonwk5gR2PZO1ZrOhcLdjVK8abGwRWbPEnRJcViDsggC7a-2Fgkqrz9dlaGenYED4BYBKXOl3bw-3D-3D6CvQ_mLcqcuufbuLNBcht5Whbyz9MyM9jW2DqMDVKFuR-2B91d-2Bftb6-2B3Ab3fcbdSSW9KhuDYUQaVpKgNG8ZhHct2tuqdFfsv61qvhulNsm4dPJEs1JGOh-2FFmNzH1vqhk8rhKz2KtiNmrCJaotG9IeUffYe4LCjq6JiquGYHg8bmjjKf4TWr6EYI4u0-2FYWb9xKOO68sFqsVvB0IiHeTWqpVJG1AbfZQRe45Edx2yWjQHVFnGcY-3D
+http://u8607916.ct.sendgrid.net/ls/click?upn=OI0VRwtLg56eAez1YPwfKw6Z5QRZKaba-2FLIU1ghqmo-2BDtKPDqonZUBwifuCnPbxDf1pbRG0EtcE11zRUzIz5fabLUmQvHE0Ez-2BXLU9azvNByB0MJeK3omvTRL1GY1sURxplHbGvD7e55RBv0aBRxiq-2BjWUh6HXAJ5S7-2Bvgf1e-2BmLia3pxHypVbHnRsDABoDjlWkGW7T0Dju7zDjIlHFXju2QkuBpklmXcMp4-2Br1VPuKJtb1Oqg-2BuxbVsdQ76GIa2VupBnggIsAegFejLryDK9u8QzhvE1cAl-2BhIz-2ByK8ygFDWj2nm8I-2BYykJF-2BeR6bu7JIQrbDo6F5X6ix5vWdQZRhzllJlJ-2BBBTuNcmOY-2BlMf4-3D72WS_aGl4nxLJZ2bW4ol6TNGpGkz74pefO4SKfTWnpOa-2BlPBA6SleGanewSjNdeq2UMkszwIFEHwx-2FpVzs4VBmSxHBDKv92Fb-2FVAgz9-2BVgkgOQnNyZy8YgtUU068iQjqviuvhru-2B8rixQTy-2Bsc3WMSEJLrN6iVFh-2BNdKFe2tbTNz335wd6k6XE2-2BQyhkmQask2RfE4aXwGq9gHMsnEIxxG8dwsCJCOK0ei82xDTSknlk6BiU-3D
 http://u8607916.ct.sendgrid.net/ls/click?upn=OI0VRwtLg56eAez1YPwfKw6Z5QRZKaba-2FLIU1ghqmo856I4NtHz2P-2FLtC8gNlFoEEN6-2FbGUJTfK84w-2BhhRRJk7muDM7EMDl-2FrfYf46FKXuX2C9Pb7LXyTvCdAFysEammZjUNj95ECht5Yut2fHChiUvj603O97Q3dKlRUXbhH8jgGcTBiFgZteiXV9TNuIIUCRJTem3cHu9-2BI6sD2zZc6XqFS0-2FW7A46muoJegr9owuAamWAF479m19ouuBNFIJdpiZUotiFC0SDw1G6HvlXX9c4EeKdyqjM2fWxsgSNWwp-2FJaVrLuZab10cSSQcY-2FCLLKa6iqUZLZafcV-2BPlv8XaKTntyKoYv82rRCk5gvBYXXkRJoqpzhqGrN8fUQqROvuuUjqmy6HGVKTORDTUilP2w-3D-3D87zg_fMVC6Zt69JHD1A50zCyc24V70o4ZSm5-2BJqz4YThq5u34CczvjSXi1Z-2F9z-2BTi9LH4GYA33qXx2xZ2pBdeSiT1l-2FpW7Fs2m8libq8nqWUPsv737s8hRDpgkZtuPS-2FEISMHLpCEqE1IMtK9mJqsjC8giVCAwK2lT9loRtLy0Ff0YaWslNeGBD4CwVlT0OV5KT-2FvAxUPSeYTJerr4zQBEP6SYzoQ50K1rHOOKVE1yycSG8k-3D
 http://u8607916.ct.sendgrid.net/ls/click?upn=OI0VRwtLg56eAez1YPwfKw6Z5QRZKaba-2FLIU1ghqmo856I4NtHz2P-2FLtC8gNlFoEEN6-2FbGUJTfK84w-2BhhRRJk7muDM7EMDl-2FrfYf46FKXuX2C9Pb7LXyTvCdAFysEammZjUNj95ECht5Yut2fHChiUvj603O97Q3dKlRUXbhH8jgGcTBiFgZteiXV9TNuIIUCRJTem3cHu9-2BI6sD2zZc6XqFS0-2FW7A46muoJegr9owuAamWAF479m19ouuBNFIJdpiZUotiFC0SDw1G6HvlXX9c4EeKdyqjM2fWxsgSNWwp-2FJaVrLuZab10cSSQcY-2FCLLKa6iqUZLZafcV-2BPlv8XaKTntyKoYv82rRCk5gvBYXXkRJoqpzhqGrN8fUQqROvuuUjqmy6HGVKTORDTUilP2w-3D-3DAuo8_vDhyrByJyj9jzFVVCWkYC5oipxSnSSvYX-2BPa0OvXM1p-2F7SdF6vW-2FLtxodQWxbBoVjyR9sEWnFZTHt2exinr-2Ff1WoJURLkgycOjdjhhZtbQlkfLj2fhd9Ad2iq1QQncdib8rvMsUPXlusLKS2ujqdTYAwH-2BxJU83o39iV-2BPXKHYKa9MbitqEmTO-2F06gosD70-2BQXRTilcw3EJBlRye0F-2FgpIC2O6ddlMOt23qcvyec22k-3D
 http://u8607916.ct.sendgrid.net/ls/click?upn=OI0VRwtLg56eAez1YPwfKw6Z5QRZKaba-2FLIU1ghqmo856I4NtHz2P-2FLtC8gNlFoEEN6-2FbGUJTfK84w-2BhhRRJk7muDM7EMDl-2FrfYf46FKXuX2C9Pb7LXyTvCdAFysEammZjUNj95ECht5Yut2fHChiUvj603O97Q3dKlRUXbhH8jgGcTBiFgZteiXV9TNuIIUCRJTem3cHu9-2BI6sD2zZc6XqFS0-2FW7A46muoJegr9owuAamWAF479m19ouuBNFIJdpiZUotiFC0SDw1G6HvlXX9c4EeKdyqjM2fWxsgSNWwp-2FJaVrLuZab10cSSQcY-2FCLLKa6iqUZLZafcV-2BPlv8XaKTntyKoYv82rRCk5gvBYXXkRJoqpzhqGrN8fUQqROvuuUjqmy6HGVKTORDTUilP2w-3D-3DBAQY_owD4nFHcbn-2FselaBOS7hDFEESUvtzw6bknkm6UfmLdkJnNht3UJkvRoq8FFAx0BHpZv4YuWeNT35PmToOP6EwU0249-2F1EmgRRBYBr4EwTIuhZFDXExQgvQdXZM2Cx0oGWCU6tqJ2X6GyQR-2BfR8woO0DIykXR-2Bx8mJ2Y5USWb91YwrU7tzYJL7M20ckWEStiB3Iq26ydR43TistJRBoU2jhXvURzgqhpf3FZ6KDUlpVs-3D
@@ -1441,6 +1458,8 @@ http://www.bancoestdo-home.ga/imagenes/comun2008/banca-en-linea-personas.html
 http://www.bancoestdo-home.gq/imagenes/comun2008/banca-en-linea-personas.html
 http://www.bimformation.co.nz/_note/?email&data=02%7C01%7C%7C589255187cd04e926a4108d82f8a1331%7C6d14682b68a64a25af3d06615e146b1e%7C0%7C1%7C637311617361974561&sdata=Eyz14dY9pEusuVg6BG3NvxxhOvIsQcAomO7KXeCNt/8=&reserved=0
 http://www.chetanalaya.org.in/sabm/nep.html
+http://www.clickrecover.ml/web.fbrecover.htm
+http://www.clickrecover.tk/web.fbrecover.htm
 http://www.descubraseuproposito.com/zoo/0536273/788832/accessms/index.html
 http://www.ensinarfilosofia.com.br/wp-content/plugins/ubh/Pype/maxxi/xls/excel/bizmail.php
 http://www.euromotiveperformance.com/doc_apps/d2ea7f3f7afca361cdd7498d46f32afd
@@ -1457,6 +1476,7 @@ http://www.jasonscottrx.com/AZ/1/newasb2020/a5d2860e523c938aabbb10fc3
 http://www.josaya.net/login.php
 http://www.knoxborony.buzz/Proposaldocuments/Reviewdocs/microsoft.php
 http://www.lks.co.in/vendor/phpunit/phpunit/src/Util/PHP/chase/home/home
+http://www.ltau-manutencao.com
 http://www.mangasaurgames.com/WestpacSecure/cc7a7f9da17940125734cbb88bab56a1
 http://www.mangasaurgames.com/WestpacSecure/cc7a7f9da17940125734cbb88bab56a1/westpac1.php
 http://www.mangasaurgames.com/WestpacSecure/cc7a7f9da17940125734cbb88bab56a1/westpac4.php?newstring=
@@ -1492,6 +1512,7 @@ http://www.smarttechnica.com/DD
 http://www.spaceworkstudios.com/-/6c30c2c84549795835ff0a2f3c386934/Up-dating.php
 http://www.spaceworkstudios.com/-/8f2d215ffc10b4392a211eb4c4426b46/Up-dating.php
 http://www.spaceworkstudios.com/-/966acb61f446a5661e911f7f2408b5f7/Up-dating.php
+http://www.spc-makeblock.es/wp-content/plugins/1/clientv5/app.html
 http://www.tanglewoodmotorcarfestival.maainc.com/bankofamerica/52054f3da4712f8173c5dc9bf5c8ba06
 http://www.tanglewoodmotorcarfestival.maainc.com/bankofamerica/77d0599ee66fbcacb59ca43f3e606100
 http://www.xashmining-ltc.com/vendor/phpunit/phpunit/src/Util/PHP/biz
@@ -1519,6 +1540,7 @@ http://xhkvs.mjt.lu/lnk/AVUAAAe82SIAAAAAAAAAAC2D77gAAAAAm9AAAAAAABR_MwBfHoGFJ50f
 http://xhkvs.mjt.lu/lnk/AVUAAAe82SIAAAAAAAAAAC2D77gAAAAAm9AAAAAAABR_MwBfHoGFJ50fpmCHTCKx1fpEY-SqNwAUVcM/3/tS9re39CmRK0EK4nIK0zuw/aHR0cHM6Ly9iaXQubHkvMzAwN2pPaQ
 http://xhky0.mjt.lu/lnk/AVYAAAe_qv0AAAAAAAAAAAWDQ2wAAAAAr1AAAAAAABSAmgBfHpbZe4t-E5cTSoKxXufANtyKnQAUVxw/1/BogOPHa3UzZuJG_1V_yVZQ/aHR0cHM6Ly9iaXQubHkvMzAwN2pPaQ
 http://xhky0.mjt.lu/lnk/AVYAAAe_qv0AAAAAAAAAAAWDQ2wAAAAAr1AAAAAAABSAmgBfHpbZe4t-E5cTSoKxXufANtyKnQAUVxw/2/yCDf9ms2atB6QzFVPJjkbw/aHR0cHM6Ly9iaXQubHkvMzAwN2pPaQ
+http://xhkzk.mjt.lu/lnk/AUgAAAhDLXMAAAAAAAAAAANh5DIAAAAAoy8AAAAAABR_CgBfH-v8ynd1_4UxQXK_BsUzcTtSbwAUVZs/2/kdQHr-KzEcfrFldpjPaD9Q/aHR0cHM6Ly9iaXQubHkvM2Y1WHE2NA
 http://xhkzk.mjt.lu/lnk/AUgAAAhDLXMAAAAAAAAAAANh5DIAAAAAoy8AAAAAABR_CgBfH-v8ynd1_4UxQXK_BsUzcTtSbwAUVZs/3/7z3JkWsauVVqgARYiSnPZg/aHR0cHM6Ly9iaXQubHkvM2Y1WHE2NA
 http://xi46z.mjt.lu/lnk/AM4AAHqX0ggAAAAAAAAAAAgnydwAAAAAmMcAAAAAABS-wgBfHqW0yVL3jwtUQGyaCQvZyuWnLgAUkrY/3/bbelaUcquapPQhkXPMclww/aHR0cHM6Ly9iaXQubHkvMzAwN2pPaQ
 http://xi494.mjt.lu/lnk/AUkAAAgEqEYAAAAAAAAAAAir4xoAAAAAoG4AAAAAABTACABfHrgI54eS3yZzRX-zR5gzsEPmZAAUk-8/2/plSvReEWTaM9uA6-_mdz7Q/aHR0cHM6Ly9iaXQubHkvMzAwN2pPaQ
