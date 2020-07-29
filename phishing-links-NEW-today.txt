@@ -35,6 +35,7 @@ http://67.229.29.73/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claime
 http://67.229.29.73/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.73/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.74/ap/signin?key=a@b.c
+http://67.229.29.77/ap/signin?key=a@b.c
 http://91.234.99.203
 http://abhishekgroup.co.in/wp-http/hanmail/login.php?cmd=login_submit&amp;amp=
 http://accesso-app.com
@@ -314,6 +315,7 @@ http://privatalert-confrim.cf/wrong.html
 http://pszvacabvqpksurqszwubgewdmqhyvpcswyb-dot-gl494903049.wl.r.appspot.com
 http://qeo9m.juxtanes.xyz/@0100@8000@
 http://rakuten.co.jp.rakutan.xyz
+http://rakuten.co.jp.rakvteo.xyz
 http://rakuten.co.jp.riakuten.icu
 http://random.fiesta.it/index.php
 http://regionmetro.com/rur/rur%20lcc/bcbb74128cb417b/login.php?signin#_
@@ -374,6 +376,8 @@ https://20200728233956-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200729021054-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200729051002-dot-p7q8y6t5.appspot.com/ll
 https://20200729060956-dot-p7q8y6t5.appspot.com/ll
+https://20200729061245-dot-p7q8y6t5.appspot.com/ll
+https://20200729061317-dot-p7q8y6t5.appspot.com/ll
 https://20200729065517-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200729065521-dot-s2pe7ed9y.rj.r.appspot.com/office/index.html?username=annette.paulin@lindstromgroup.com
 https://20200729065631-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
@@ -429,6 +433,10 @@ https://apple.com-is.co/find
 https://apple.com.siear.cn/mim/s9n7j0375ab3j582m82f476o45a5n1s1zxy5654392437m55m8.html
 https://apple.com.sign-online.info
 https://asta-academy.com/vendor/monolog/-/pl.html
+https://atendimentotecnico.com/pf/loader.php
+https://atendimentotecnico.com/pf/_passwd.php
+https://atendimentotecnico.com/pf/_senha6.php
+https://attaccountsettingcenterlog.weebly.com
 https://attlogsin.weebly.com
 https://attnetservices-2020ugrade.weebly.com
 https://attyahoomaildeskaa.weebly.com
@@ -441,6 +449,7 @@ https://barkinganddeganham.co.uk/mail/hanmail/login.php?cmd=login_submit&id=981f
 https://bbglow.s7up.com/order/?email=
 https://bccr-soporte.com
 https://begona-martnez-j95vihmwh.vercel.app
+https://bestchamge.ru/exchangers/c-obmen-exchanger
 https://billing.3dsecure.uk
 https://bit.ly/2ZLiKrN
 https://blackdodia.com/MeusProdutos/prefetch.php?skullid
@@ -509,6 +518,8 @@ https://dentistbydemand.com/chase.e.verificationnotification/login.php?cmd=login
 https://descontonahora10.com/product/MeusProdutos/Prefetch.php?skullid=129610205
 https://descontonahora10.com/product/simples-bask/?cart=MTI5NjEwMjA1
 https://dkrhlqqdtwgmwdpijgcyodrdodizcvwjwwtb-dot-gl494903049.wl.r.appspot.com
+https://docs.google.com/forms/d/e/1FAIpQLSc1BqkWXArwDh3sApc9PddxlHYdF9fBHFSxux1P_E98owjw0w/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSd71XkVUDofTlBh58w7QW6PmTN4YxJ5udG7QaQCl4jbjOyWEA/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSdPhXXSa_nj7fevKJ2qXZRVLs46yTlTddlRFTyHEP0mNAHppQ/viewform?usp=send_form
 https://docs.google.com/forms/d/e/1FAIpQLSe4_LdB-hwTFC9nw7HFjYvKwAz52v0UWqUj08k3_dlzvRqspA/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSea71vkvzr_RlG53h12lEic64ZFFsp4yo_wdwmEjm731efHkg/viewform?usp=send_form
@@ -635,6 +646,7 @@ https://instagram.confirmationsuccess.com/login.php
 https://ism.edu.ng/WELSS_CLEAN/ze5zgm=/myaccount/uploads
 https://itacards.net/~/index.html
 https://italcave.it/adip/alamin/Excelfv/files/index.php?email=
+https://itasuporti.com/SegmentoContas.html?session=0ADRL5UV6EP
 https://itaucard.pontos-bonus-e-vantagens.com
 https://itaucard.pontos-bonus-e-vantagens.com/confirmacao
 https://itaucard.pontos-bonus-e-vantagens.com/number.html?app=https://www.itau.com.br
@@ -773,6 +785,7 @@ https://pfingntkvqqlnaibbfedsfguguymfuegaadz-dot-gl494903049.wl.r.appspot.com
 https://piercefalo.com/online/www/asb.co.nz/online.auth
 https://pledgeable-machine.000webhostapp.com/We_Trans-fer/index.php?email=test@test.com
 https://podvarex.com/eby-de-listingd-poter/eBa.e12011.m44.l1483.euid67569894a2744aea88d4f40e7d49ea9c.bu43204723001.segname20200712114353/?REDACTED
+https://pomagamy-onet.eu/weryfikacja
 https://pontos-bonus-e-vantagens.com/br/confirmacao
 https://porticomexico.com/wp-admin/js/widgets/WESTPAC_AU
 https://pp-logon.com/Support81488/customer_center/customer-IDPP00C174/myaccount/signin
@@ -806,6 +819,7 @@ https://rankingcoach-seo.com
 https://raquelsmodernlife.com/monsf/Spotify-Login/billing.php?verify_account=session=NL&amp;a2476ed0ce19151128a06c6ed13d9d71&amp;dispatch=af05db8e4f4a26be73c4dc2b2bf1c9c440b84515
 https://receipt-1992434-adobepdf.cloud
 https://redbdgr.com/OMM/OMM
+https://region24fakty.h2g.pl
 https://remodelacionesgq.cl/assets/www.chase.com
 https://remodelacionesgq.cl/assets/www.chase.com/getcode.html
 https://remodelacionesgq.cl/assets/www.chase.com/index.html
@@ -953,6 +967,7 @@ https://vcattmail.weebly.com
 https://vercelv2-1m93v73q0.vercel.app
 https://vercelv2-cw8bzbj6m.vercel.app
 https://vercelv2-p6b65urv8.vercel.app
+https://viabcp.help/txt
 https://voscomptesenligne.labanquepostale.authentification-postale.net/moncompte/b9e35
 https://vwayyywwavhnxvsbasdhscqcqawjosbyudoq-dot-gl494903049.wl.r.appspot.com
 https://wandaboykininbiwater.cf/newsflash/letter/readme/file3432/index.php
@@ -1058,6 +1073,8 @@ https://www12.superofertas-feitas-pra-voce.com/YbAqYSggeeWiYTkqDyA/1770/prosRHXf
 https://www13.ame-ofertas-do-paizao-a51.com/zXgiSQKBJsSJMypalEg/1125/propGfuZwAAq/1442622659/smartphone-samsung-galaxy-a51-branco
 https://www13.aproveite-dia-dos-pais.online/NRRckqmbzrdBwKFfVep/1760/proxoDEMckhV/1299774034/smartphone-xiaomi-redmi-note-8
 https://www13.aproveite-dia-dos-pais.online/tTOkGYpIJelpDZyRKrv/1618/proxplNtmSSC/1299774034/smartphone-xiaomi-redmi-note-8
+https://www13.cupom-de-descontos-para-voce.com/guiyNMDiZkHVNTkibsb/1770/prozakArCNZN/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
+https://www13.cupom-de-descontos-para-voce.com/KpulmppJKiXqUtrevHW/1770/proWtwpyAtzM/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www13.julho-com-o-paizao.com/aUHVyAhmNxMNOrPPgUv/1749/proOdipffIHi/133780821/smart-tv-led-50-sony-kdl-50w665f-full-hd-com-conversor-digital-2-hdmi-2-usb-wi-fi-60hz-preta
 https://www13.julho-com-o-paizao.com/produto/133780821/frame
 https://www13.julho-com-o-paizao.com/xstToRXmUSlZtNNTdTW/1749/prooscGVniEF/133780821/smart-tv-led-50-sony-kdl-50w665f-full-hd-com-conversor-digital-2-hdmi-2-usb-wi-fi-60hz-preta
@@ -1288,6 +1305,7 @@ https://www.sungale.co.jp/editdirect/images/sharepD7/accessms
 https://www.surveygizmo.com/s3/5746401/AT-T-Login
 https://www.sw-siteinternet.com/Fatturazione-staff/1N06J70KM84FL.php
 https://www.sw-siteinternet.com/Fatturazione-staff/2ce5fdc7695ce89/fatturazione
+https://www.sw-siteinternet.com/Fatturazione-staff_/f499072ae735be4/fatturazione
 https://www.vassallo.com.ar/modules/statsbestmanufacturers/translations/fr.html
 https://www.waapos.com/modules/jmsslider/views/img/layers/BOfA/BOfA/BOfA/9a15c4e540488393f6eface736d4e606/login.php?cmd=login_submit&id=5731f7e87282459d8c5298155c7261925731f7e87282459d8c5298155c726192&session=5731f7e87282459d8c5298155c7261925731f7e87282459d8c5298155c726192
 https://www.waytoketo.com/wp-content/themes/New%20Inquiry/login.php
@@ -1365,6 +1383,7 @@ http://www.clickrecover.ml/pay-update.htm
 http://www.clickrecover.tk/pay-update.htm
 http://www.creativecombat.com/wp-admin/network/acct/login.php?rand=13InboxLightaspxn.1774256418&amp;
 http://www.dcmufgcard.com
+http://www.digitaunet.com/SegmentoContas.html?session=0MZSNIHK725
 http://www.fairilyused.com/wp-content/upgrade/en/ky-1/1/index.html?7777772e66616972696c79757365642e636f6d-7777772e66616972696c79757365642e636f6d-7777772e66616972696c79757365642e636f6d7777772e66616972696c79757365642e636f6d7777772e66616972696c79757365642e636f6d
 http://www.fb-properties-listed.com/387469923
 http://www.fb-routine-updates.page6094385378.com
