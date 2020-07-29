@@ -1,6 +1,9 @@
 http://155.94.184.34/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
+http://192.64.118.140/~hairbase//id33000619182/fatturazione-staff/home/cb1ce6b9da6adb4/fatturazione
 http://20200728044003-dot-p7q8y6t5.appspot.com
 http://20200728045002-dot-p7q8y6t5.appspot.com
+http://51.210.102.128/sella/SwiftPayment.aspx/SwiftPayment.php
+http://51.210.183.55/index.php
 http://52.2.152.40/paypa.com/paypa-loginb.php
 http://52.2.152.40/paypa.com/paypa-loginb.php?cmd=login_submit&id=2da879f10c86a3cb88e425d76ecb02082da879f10c86a3cb88e425d76ecb0208&session=2da879f10c86a3cb88e425d76ecb02082da879f10c86a3cb88e425d76ecb0208&email=
 http://52.2.152.40/paypa.com/paypa-login.php
@@ -28,6 +31,7 @@ http://amcgardiennage.com/P2w9ZSZpPTJ6OWEzQzgxNXA3aQ==
 http://amcgardiennage.com/P2w9ZSZpPTJvNzA3TjRYMGkwWA==
 http://amcgardiennage.com/P2w9ZSZpPTJYOTIzVjlkM040aQ==
 http://amcgardiennage.com/P2w9ZSZpPTNONWszMzF2
+http://annazonvip.co
 http://apple.com.aiusn.cn/mim/0719vp038ac75mijusv1s8ym1s527n0798do59780gu90bp144.html
 http://apple.com.aiusn.cn/mim/0785d40425d58c3677y380s47q07c29y9pk36560335p249y00.html
 http://apple.com.aiusn.cn/mim/2a03s40m3ueyy84wf3j48895904u93eeg6911011457h234671.html
@@ -55,6 +59,7 @@ http://enable-pages-certificated-valid-invitation-00023.tk/facebook-verification
 http://enable-pages-certificated-valid-manager-advanced-000058.tk/desktop.index.htm
 http://enable-pages-certificated-valid-manager-advanced-000058.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://error-code-2319-675-call-support.azurewebsites.net/0IE01011001_1010x
+http://euxuixl.fiesta.it/index.php
 http://fb-copyrightshelp.com/checkpoint/next=/login.html
 http://fb-copyrightshelp.com/Login/device-based/regular/login/login_attempt=1.html
 http://fb-copyrightshelp.com/Login/device-based/regular/login/login_attempt.html
@@ -126,6 +131,7 @@ https://20200728121432-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200728153116-dot-res4po1ns5ive.rj.r.appspot.com/sw/index.php
 https://20200728162834-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200728181704-dot-p7q8y6t5.appspot.com/ll
+https://20200728201337-dot-t6w5q4p9o7i3.uc.r.appspot.com/bq/index.php
 https://5svvzk0neu-2nqcpcb4z.vercel.app
 https://a52786r5terf.vercel.app
 https://aa8zda2gehgmrnc6.vercel.app
@@ -159,6 +165,13 @@ https://cqswuvlbxqmnm.000webhostapp.com/revieew%20rcovericc.html?fb_source=bookm
 https://cqswuvlbxqmnm.000webhostapp.com/revieew%20rcovery%20answerr.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed
 https://cqswuvlbxqmnm.000webhostapp.com/revieew%20rcoverycc.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count
 https://cqzwxehoxwtidusxhidasbpeqfolhvoruukr-dot-gl494903049.wl.r.appspot.com
+https://creevywacky.com/earn/001100110011gmail.html
+https://creevywacky.com/earn/001100110011godaddy.html
+https://creevywacky.com/earn/001100110011hotmail.html
+https://creevywacky.com/earn/001100110011office.html
+https://creevywacky.com/earn/001100110011other.html
+https://creevywacky.com/earn/001100110011yahoo.html
+https://creevywacky.com/earn/box.html
 https://ddd1-gamma.vercel.app
 https://ddfbvgazrhhmrzjqdpywnsmfqinnvgehexvo-dot-gl494903049.wl.r.appspot.com
 https://delightproperties.co.ls/gouv/Tax-Refund/files6546541204/down45640/en/banks/directing/atbonline/details.php
@@ -211,6 +224,7 @@ https://jycajzgkznfjnprwuzgokeycovczebsicyou-dot-gl494903049.wl.r.appspot.com
 https://kendalofficecontracts.co.uk/P2lkPTA0ejc1NDc0UjI=
 https://kendalofficecontracts.co.uk/P2lkPWZ5cDIzMjk0bXE=
 https://kendalofficecontracts.co.uk/P2lkPWZ5cDIzMjk0bXEIP:
+https://knnhsbgmnmycnhpqzjsd.top
 https://lbrimzyrvarmmyshjahi-dot-level-elevator-279110.nw.r.appspot.com
 https://li.ourpawlove.com/wells/login/login.php?cmd=login_submit&id=a6c19c038d45bc1faa18b3b8742c1760a6c19c038d45bc1faa18b3b8742c1760&session=a6c19c038d45bc1faa18b3b8742c1760a6c19c038d45bc1faa18b3b8742c1760
 https://liquidacaoimperdivelhoje.ml/Produto/index.php?id=1
@@ -356,6 +370,7 @@ https://www.soccereventservices.com/pub/new/det.html
 https://www.soccereventservices.com/pub/new/wrong.html
 https://www.sungale.co.jp/editdirect/images/sharepD7/accessms
 https://www.surveygizmo.com/s3/5746401/AT-T-Login
+https://www.webank-controllo-clienti-urgente.com
 https://xjfopklicpxfdtllnxsiztlsbwjmoawqmrzz-dot-gl494903049.wl.r.appspot.com
 https://ymwyxlbztlnaansthlmmmlgzzghzeznixrml-dot-gl494903049.wl.r.appspot.com
 https://ymwyxlbztlnaansthlmmmlgzzghzeznixrml-dot-gl494903049.wl.r.appspot.com/owa/auth.owa
@@ -406,7 +421,9 @@ http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/2d1f589fa5b991c
 http://www.threshs.com/fir/m/s
 http://www.zontaclubofalabang.org/windowsazuredirectory--my-sharepoint/365call/login.php
 http://x5prime.com.br/-
+http://xapfb.ddaqebg.xyz/.%4030%40131%40
 http://xh1oiuej.oa.r.appspot.com
+http://xhkq5.mjt.lu/lnk/AM8AAHpYunAAAAAAAAAAAAUE6qQAAAAAmWIAAAAAABSALABfH_q_s_6s9aNVRFWF8bbwEPHlzQAUVrE/2/UjRSqcw7S-6PBqDbEdapyA/aHR0cHM6Ly9iaXQubHkvM2Y1WHE2NA
 http://ymwyxlbztlnaansthlmmmlgzzghzeznixrml-dot-gl494903049.wl.r.appspot.com
 http://yqpyrqncuzpehsxahaauaklhilbtqlihuvrx-dot-gl494903049.wl.r.appspot.com
 http://zelzeesovtwuivpbtuxbemqfdyrtgwemtdek-dot-gl494903049.wl.r.appspot.com
