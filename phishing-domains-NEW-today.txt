@@ -33,6 +33,7 @@ amazon.co.jp.5e99a65fcdb5ed423ec1b28e13761cd7b5113602.info
 amazon.co.jp.6aa353a11a87a50e64175c15fcb2826d.info
 amazon.co.jp.a1bd72f6201f73deaecc1997f3e162891f56324c.info
 amazon.onedumb.com
+amczone.webstarterz.com
 animallife.co
 annazonvip.co
 antonio-manuel-conde-qufcf747f.vercel.app
@@ -142,6 +143,7 @@ mqroa.com
 mybtcomsappsappsmybthome.web.app
 mysticgamelab.com
 nab.com.au.device-manager.services
+nab.com.au.verify-details.info
 needocview.000webhostapp.com
 netfl1x-userid6442.serveirc.com
 netflix-rebills.com
