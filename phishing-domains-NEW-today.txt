@@ -47,11 +47,13 @@
 20200729021054-dot-s2pe7ed9y.rj.r.appspot.com
 20200729051002-dot-p7q8y6t5.appspot.com
 20200729060956-dot-p7q8y6t5.appspot.com
+20200729061002-dot-p7q8y6t5.appspot.com
 20200729061245-dot-p7q8y6t5.appspot.com
 20200729061317-dot-p7q8y6t5.appspot.com
 20200729065517-dot-s2pe7ed9y.rj.r.appspot.com
 20200729065521-dot-s2pe7ed9y.rj.r.appspot.com
 20200729065631-dot-s2pe7ed9y.rj.r.appspot.com
+20200729110032-dot-p7q8y6t5.appspot.com
 212.237.28.239
 23.21.22.213
 2okebs.s3-website-ap-southeast-1.amazonaws.com
@@ -166,6 +168,7 @@ compre-no-melhor-lugar-semjuros.com
 config-traveaux.site44.com
 confirmlvs.webcindario.com
 controllo-urgente-we-bank.com
+cooperativa.app
 covid19-gruppisp.000webhostapp.com
 cpserv.serveirc.com
 cqsjlzofdgrejhmafgpgbeljohwunsdpjhln-dot-gl494903049.wl.r.appspot.com
@@ -216,6 +219,7 @@ etorotradeforex.net
 eua30s.com
 euxuixl.fiesta.it
 expressover.us
+extensaoseg.me
 f23ekpwf.vercel.app
 falcoesracaliberta.com.br
 fb-copyrightshelp.com
@@ -238,6 +242,7 @@ glutjgfivrwxovckmwlvwkveoqrtgxkpoedo-dot-gl494903049.wl.r.appspot.com
 gmth7.vatkanes.xyz
 gncahphwsfiobrchoizulkmxguxrebqanczp-dot-gl494903049.wl.r.appspot.com
 google.thencoders.com
+greatestcolorsanddesign.com
 greenup.co.in
 gregoryibe.com
 gui.eligulinsaat.com
@@ -367,12 +372,14 @@ new-three-update.co
 new.updating.assistance.calcustomsdoorrefinishing.com
 nikel-verif.me
 nitechsolution.com
+njg908546.el.r.appspot.com
 nofedrese.com
 nofuturestudios.com
 nztrgzkohagencygovtz.info
 o2.uk.reference115.com
 o9dvzyam.ue.r.appspot.com
 ocnbangla.com
+oferta-relampago-aproveite-so-hoje.com
 ofertasepromocoes.online
 ofertas-imperdiveis-que-voce-precisa.com
 offshorecitizen.bk-groups.com
@@ -460,6 +467,7 @@ secureofficenow.kozow.com
 securityss.de
 securizzazione-app.com
 segundo-luengo-2jb0go780.vercel.app
+semanaespecial120.com
 semana-para-voce-cliente.com
 semanashowdeofertas.com
 server578875.nazwa.pl
@@ -472,6 +480,8 @@ shc68c2hg6klo5f-99sbhx4f0.vercel.app
 shfkcjoniwjeupxnlgiihvaxmqedhqvhbndw-dot-gl494903049.wl.r.appspot.com
 shoreditchmatchst.com
 sidehustlebigvisionblueprint.com
+signin5.godaddysites.com
+signin6.godaddysites.com
 simahic110.temp.swtest.ru
 simdik.indramayukab.go.id
 site.mdied99nqi001.my.id
@@ -535,6 +545,7 @@ vercelv2-cw8bzbj6m.vercel.app
 vercelv2-p6b65urv8.vercel.app
 verification.twitterhates.info
 viabcp.help
+vipertrend.com
 vitaeskin.com
 vps-1c9a5476.vps.ovh.net
 vps-2282d033.vps.ovh.net
@@ -570,4 +581,5 @@ zadartehnika.hr
 zahlung-strato-de-49933c04.le-paradis-rose.com
 zelzeesovtwuivpbtuxbemqfdyrtgwemtdek-dot-gl494903049.wl.r.appspot.com
 zjjh7wfcs446lur-l38eyb650.vercel.app
+zonasegobiernope.com
 zontaclubofalabang.org

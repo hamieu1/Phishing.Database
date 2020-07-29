@@ -204,6 +204,7 @@ http://informacje-onet.eu/weryfikacja/mobile
 http://instadetect.000webhostapp.com
 http://instadetect.000webhostapp.com/login.html
 http://instagram.confirmationsuccess.com
+http://interact.refund.corradinoandpapa.com/taxe
 http://interact.refund.corradinoandpapa.com/taxe/atb/complete.html
 http://interact.refund.corradinoandpapa.com/taxe/atb/details.html
 http://interact.refund.corradinoandpapa.com/taxe/atb/question.php
@@ -219,6 +220,7 @@ http://interact.refund.corradinoandpapa.com/taxe/desj/indentification.php
 http://interact.refund.corradinoandpapa.com/taxe/desj/index2.php
 http://interact.refund.corradinoandpapa.com/taxe/desj/index91484101498.php
 http://interact.refund.corradinoandpapa.com/taxe/desj/questions.php
+http://interact.refund.corradinoandpapa.com/taxe/index100.html
 http://interact.refund.corradinoandpapa.com/taxe/sco/complete.html
 http://interact.refund.corradinoandpapa.com/taxe/sco/index.php
 http://interact.refund.corradinoandpapa.com/taxe/sco/mfaAuthentication2.html
@@ -376,11 +378,13 @@ https://20200728233956-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200729021054-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200729051002-dot-p7q8y6t5.appspot.com/ll
 https://20200729060956-dot-p7q8y6t5.appspot.com/ll
+https://20200729061002-dot-p7q8y6t5.appspot.com/ll
 https://20200729061245-dot-p7q8y6t5.appspot.com/ll
 https://20200729061317-dot-p7q8y6t5.appspot.com/ll
 https://20200729065517-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
 https://20200729065521-dot-s2pe7ed9y.rj.r.appspot.com/office/index.html?username=annette.paulin@lindstromgroup.com
 https://20200729065631-dot-s2pe7ed9y.rj.r.appspot.com/office/index.php
+https://20200729110032-dot-p7q8y6t5.appspot.com/ll
 https://3alert.co.uk
 https://40.83.181.2/srv/Netflix258
 https://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=84df3c7a61312eec470eb1a950ca2a0e84df3c7a61312eec470eb1a950ca2a0e&amp;session=84df3c7a61312eec470eb1a950ca2a0e84df3c7a61312eec470eb1a950ca2a0e
@@ -452,6 +456,7 @@ https://begona-martnez-j95vihmwh.vercel.app
 https://bestchamge.ru/exchangers/c-obmen-exchanger
 https://billing.3dsecure.uk
 https://bit.ly/2ZLiKrN
+https://bit.ly/token1bndig
 https://blackdodia.com/MeusProdutos/prefetch.php?skullid
 https://blck66rmh001.my.id/m.pay.id.conf.htm
 https://bluesynergy.me/rvrteam/Refreshedshrpntcmpnyfortwentygo/index.php
@@ -484,6 +489,7 @@ https://compre-no-melhor-lugar-semjuros.com/americanas/simple-basket/?cartId=e51
 https://config-traveaux.site44.com/comptefr.html
 https://confirmlvs.webcindario.com/gracias
 https://controllo-urgente-we-bank.com
+https://cooperativa.app
 https://cpserv.serveirc.com/double
 https://cqsjlzofdgrejhmafgpgbeljohwunsdpjhln-dot-gl494903049.wl.r.appspot.com
 https://cqswuvlbxqmnm.000webhostapp.com/revieew%20rcovericc.html?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=login_failed
@@ -518,12 +524,16 @@ https://dentistbydemand.com/chase.e.verificationnotification/login.php?cmd=login
 https://descontonahora10.com/product/MeusProdutos/Prefetch.php?skullid=129610205
 https://descontonahora10.com/product/simples-bask/?cart=MTI5NjEwMjA1
 https://dkrhlqqdtwgmwdpijgcyodrdodizcvwjwwtb-dot-gl494903049.wl.r.appspot.com
+https://docs.google.com/forms/d/e/1FAIpQLSc0B1FgYch3ekDCYhbPBF4w7hP1UaCWyI2SE70eieoIfN3J5Q/viewform?usp=sf_link
 https://docs.google.com/forms/d/e/1FAIpQLSc1BqkWXArwDh3sApc9PddxlHYdF9fBHFSxux1P_E98owjw0w/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSd71XkVUDofTlBh58w7QW6PmTN4YxJ5udG7QaQCl4jbjOyWEA/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSdPhXXSa_nj7fevKJ2qXZRVLs46yTlTddlRFTyHEP0mNAHppQ/viewform?usp=send_form
+https://docs.google.com/forms/d/e/1FAIpQLSe45u33W-h1VFnrSNLb3_0lDPFDxMdcPK3ZxGrl4mRXcI6aww/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSe4_LdB-hwTFC9nw7HFjYvKwAz52v0UWqUj08k3_dlzvRqspA/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSea71vkvzr_RlG53h12lEic64ZFFsp4yo_wdwmEjm731efHkg/viewform?usp=send_form
 https://docs.google.com/forms/d/e/1FAIpQLSeHi5KGD1-fbaZ5Fc74iY-7XMDkWABsiA5RAQi8u8QRBP4ibQ/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSfCFvHS0KdYkdAm2R4nOqP_j7OrqAOGlQmZ7MNc2uWrPXP6kg/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSfCFvHS0KdYkdAm2R4nOqP_j7OrqAOGlQmZ7MNc2uWrPXP6kg/viewform?usp=sf_link%3E
 https://doking-demining.com/wp-includes/js/jquery/ui/xx1/v3/61aa9579ffb6a15/login.php
 https://drasafety.com.au/dropbox/document/index.php
 https://drleandrorodrigues.com.br/document/5647587856475354/office365.html
@@ -566,6 +576,7 @@ https://etorotradeforex.net/trade
 https://eua30s.com/produto/1595966276/smartphone-samsung-galaxy-a30s-64gb-25mp-tela-6-4-tv-digital-branco-sm-a307gzwbzto/p/hb8ddd65af/te/sa3s/&uid=1734008812
 https://expressover.us/xfinity2/index.php
 https://expressover.us/xfinity2/retry.php?email=&source=product.landing_search&locale=en_US&question_box=404
+https://extensaoseg.me
 https://f002.backblazeb2.com/file/GDMPDdbEjPdvwRiH/UIYdSJ6MAIs6oLt6Q/16fcb1091f8a0cc70c96e24New.html?response_type=code&amp;fatpt=a&amp;client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;scope=openid%20profile%20email%20offline_access&amp;response_mode=form_post&amp;redirect_uri=https://login.microsoftonline.com/common/federation/oauth2&amp;state=rQIIAXWSPW_TUBSGc5M0NFEFFUKCMQMsSE6urz9iR-qQkMR1SK7TfDRNlihx7Npx7Osmzpd_AUhIdM6ChISQKiYECPETKiHKWgl16YCYKibEhNud5bzDeYaj9zmPI3SKzj5kGZbrZwYiJfZ5hmJFGlJ9FvEUwzE8gyA95CAzuZvY_vBi653ysiw_v1z9ePSq3liDeG9szrWUSuwTcN_wPHeaTacXi0WK6Lqp3izSnwE4A-AnAOvwhuZQrcZJeMozvMAKPMeyIqQhzQhsqjoqLpV2Z4ntotfxsak0IKwWykalaXHdguV1C6URbrb8jl2yqvbeAo_yFm7mkFLIediWVze8Xx9V2qVRFckB3_KDhFiSYcevG-fhO0pu5hnoepCJ6Wu_w3GdTOyeS6beOvIWKK7myMMnxHE01UtdY5rjmWrfM4lTmxBXm3imNt0RW-6AyowPO8v-3N49WvGZXE9mMnSuKez2jD4tmBanaOVaiS9alcG0WyaC8BT7ECqNUeeAlkTUVmpIsor7_FKrMQuvW9GJinEmT0mzglxddsdUHtXn6l7JLRt4sH9QrxozvS4Tm-RbNf59JBbUahPnNHI7OMoxh0l3QnRzrJ1Fwa_oFoxkNzcT26EHoWToTxS83gjMXX28jH79-0168-lCvf
 https://f002.backblazeb2.com/file/GDMPDdbEjPdvwRiH/UIYdSJ6MAIs6oLt6Q/16fcb1091f8a0cc70c96e24New.html?response_type=code&fatpt=a&client_id=51483342-085c-4d86-bf88-cf50c7252078&scope=openid+profile+email+offline_access&response_mode=form_post&redirect_uri=https://login.microsoftonline.com/common/federation/oauth2&state=rQIIAXWSPW_TUBSGc5M0NFEFFUKCMQMsSE6urz9iR-qQkMR1SK7TfDRNlihx7Npx7Osmzpd_AUhIdM6ChISQKiYECPETKiHKWgl16YCYKibEhNud5bzDeYaj9zmPI3SKzj5kGZbrZwYiJfZ5hmJFGlJ9FvEUwzE8gyA95CAzuZvY_vBi653ysiw_v1z9ePSq3liDeG9szrWUSuwTcN_wPHeaTacXi0WK6Lqp3izSnwE4A-AnAOvwhuZQrcZJeMozvMAKPMeyIqQhzQhsqjoqLpV2Z4ntotfxsak0IKwWykalaXHdguV1C6URbrb8jl2yqvbeAo_yFm7mkFLIediWVze8Xx9V2qVRFckB3_KDhFiSYcevG-fhO0pu5hnoepCJ6Wu_w3GdTOyeS6beOvIWKK7myMMnxHE01UtdY5rjmWrfM4lTmxBXm3imNt0RW-6AyowPO8v-3N49WvGZXE9mMnSuKez2jD4tmBanaOVaiS9alcG0WyaC8BT7ECqNUeeAlkTUVmpIsor7_FKrMQuvW9GJinEmT0mzglxddsdUHtXn6l7JLRt4sH9QrxozvS4Tm-RbNf59JBbUahPnNHI7OMoxh0l3QnRzrJ1Fwa_oFoxkNzcT26EHoWToTxS83gjMXX28jH79-0168-lCvf
 https://f23ekpwf.vercel.app
@@ -585,6 +596,7 @@ https://glazoor.ru/admin/language/en-gb/extension/extension/postale/65897
 https://glazoor.ru/admin/language/en-gb/extension/extension/postale/65897/index2.html
 https://glutjgfivrwxovckmwlvwkveoqrtgxkpoedo-dot-gl494903049.wl.r.appspot.com
 https://gncahphwsfiobrchoizulkmxguxrebqanczp-dot-gl494903049.wl.r.appspot.com
+https://greatestcolorsanddesign.com/ments/imagenes/comun2008/banca-en-linea-personas.html
 https://gregoryibe.com/newusers/mailers/reviews/remarks/kleine/sendmail
 https://gregoryibe.com/newusers/mailers/reviews/remarks/kleine/sendmail/index2.php
 https://grubwa19994996222722725555555.000webhostapp.com
@@ -627,6 +639,7 @@ https://iconickidz.in/wellsfargo/login.php?cmd=login_submit&id=327974bf573e9fc4f
 https://iconickidz.in/wellsfargo/login.php?cmd=login_submit&id=8372fcf5b853cecd96e7919bc3bd2e678372fcf5b853cecd96e7919bc3bd2e67&session=8372fcf5b853cecd96e7919bc3bd2e678372fcf5b853cecd96e7919bc3bd2e67
 https://ideascomunitarias.org.mx/ch/dhl/a1b2c3/2fbb14b0e615429fc71a058000e0113f/start/?
 https://identifiezvousconnectopen.webnode.cz
+http://signin6.godaddysites.com
 https://ihsq4ndb7pcryep-khwzc5fno.vercel.app
 https://iixxg2b9.firebaseapp.com
 http://simahic110.temp.swtest.ru/airbnb/vst0211/bnb.html
@@ -714,6 +727,7 @@ https://myee.valid-billing.com/ee
 https://myee.verify-authic.com/account/ee
 https://mypp.secure-server.link
 https://myprrmkijvwmkykeqbdmhvtkntmcvlcnejhy-dot-gl494903049.wl.r.appspot.com
+https://mysp.ac/4cdEy?userid=w0brHzRw
 https://nab.com.au.device-manager.services/dataprotection?intended=https://nab.com.au.device-manager.services/Login&uid=$2y$10$QFOi.A7Btg5YrYojHoJumeyqM/nRddPykECjOSX3Au9xPwiTmRDQK
 https://nab.com.au.device-manager.services/Login?uid=$2y$10$FUwMkpKag7F21PSvH/3RqeChJfLZENJIzkzzyL50/MwJrmDZAwP0e
 https://nab.com.au.verify-details.info
@@ -735,11 +749,13 @@ https://new.updating.assistance.calcustomsdoorrefinishing.com
 https://ng.openmicspace.com/solicitud-202929940322973357&amp;cgi3-geschlossen-202929940322973357-009acctpagetype-202929940322973357=763784-solicitud&amp;info@fly-style.com.html
 https://nikel-verif.me
 https://ninkmhikooxmblpmpozl-dot-level-elevator-279110.nw.r.appspot.com
+https://njg908546.el.r.appspot.com/# email@here.net
 https://nofedrese.com/file/o4/main.html?accessToFile=accessing&amp;fileAccess=77426&amp;encryptedCookie=8fee03cb99716aa66986c6e97aecacc1&amp;u=7b49dd470f512334f8ee6e708827a414&amp;connecting=071a0bb4183729ef19ab90d3cbcdd878&amp;phaseAcces&amp;p=41db604d583f39bcc1f44312912fe0f0
 https://nofedrese.com/file/o4/main.html?accessToFile=accessing&fileAccess=77426&encryptedCookie=8fee03cb99716aa66986c6e97aecacc1&u=7b49dd470f512334f8ee6e708827a414&connecting=071a0bb4183729ef19ab90d3cbcdd878&phaseAcces&p=41db604d583f39bcc1f44312912fe0f0
 https://o2.uk.reference115.com/?o2=2
 https://o9dvzyam.ue.r.appspot.com
 https://o9dvzyam.ue.r.appspot.com/app.php
+http://sobr.org.br/files/toto
 http://sobr.org.br/wp-content/themes/netnetnet
 https://ofertasepromocoes.online
 https://ofertas-imperdiveis-que-voce-precisa.com/e3e40b426350df3c2112bc77c68e9ce6
@@ -749,6 +765,7 @@ https://oldschool.secure.com-fk.ru/m=weblogin/loginform327
 https://omelhorconjuntodatramontinaparavoce.club/MeusProdutos/Prefetch.php?skullid=29302228
 http://somgeo.com/wp-includes/assets/www.chase.com
 http://somgeo.com/wp-includes/assets/www.chase.com/getcode.html
+http://somgeo.com/wp-includes/assets/www.chase.com/index.html
 https://onlinehizmetler-giris-turkeygovtr.com/Ba%C5%9Fvuru-i%C5%9Flemlerim/giris.php
 https://onlineservicehelp.weebly.com
 https://ooo3-teal.vercel.app
@@ -872,6 +889,7 @@ https://severattmail.weebly.com
 https://shc68c2hg6klo5f-99sbhx4f0.vercel.app
 https://shfkcjoniwjeupxnlgiihvaxmqedhqvhbndw-dot-gl494903049.wl.r.appspot.com
 https://sidehustlebigvisionblueprint.com/best
+https://signin5.godaddysites.com
 https://simdik.indramayukab.go.id/ATT
 https://slammatchst.com/yaya/update/index.php?email=addieyarbrough@prepaidlegal.com
 https://smbc-card.com.smbc.life/wap
@@ -979,6 +997,7 @@ https://wdestaques10.televisoresemqueimatotal.com/fQXcFTFhiBzMxtuZsyF/838/proKDD
 https://wdestaques12.somentestasemanasurgente.com/produto/133731085/frame
 https://wdestaques15.salldaaoddaappproommcaaoo.com/IZbnWfyzXqQMUSTrxeT/1085/proIAQAAjfhU/1237560858/smartphone-samsung-galaxy-a10s-32gb-dual-chip-android-9.0-tela-6.2-octa-core-4g-camera-13mp-2mp-vermelho
 https://wdestaques17.boa-semana-ame-total.com/produto/134511121/frame
+https://wdestaques18.televisoresemqueimatotal.com/UPbVlTpaKlJMeUanyhn/1663/proJbrHhrvlm/132728731/lavadora-de-roupas-electrolux-13kg-lac13-branca
 https://wdestaques19.somentestasemanasurgente.com/produto/133731085/frame
 https://web6435.cweb04.gamingweb.de/baro
 https://web6435.cweb04.gamingweb.de/knb
@@ -996,6 +1015,7 @@ https://www10.diadospaisespecialofertavemver.com/PLLfhJPwOtXBwaDYzmk/1692/proXqy
 https://www10.diadospaisespecialofertavemver.com/qqRillsRsXbqNMjiXhD/1692/proNhkDyUfFP/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
 https://www10.diadospaisespecialofertavemver.com/tLKAQWYmyNSvzoziWww/1692/proYxVdKvPGv/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
 https://www10.diadospaisespecialofertavemver.com/XawGkmGUMSzzsgdFNFQ/1692/proYPNwBniDc/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
+https://www10.julho-com-o-paizao.com/americanas/7bb65f6fdc6b7c4bf79a4c235ed0ebbb/identify
 https://www10.julho-com-o-paizao.com/bBhrJreGZEInlXTzoBv/1511/proqhdILDlZr/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www10.julho-com-o-paizao.com/gJfbKUoxfSerKgABkgw/1511/proeHGfiUbUJ/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www10.julho-com-o-paizao.com/UhflmQokMUyWffszLRq/1511/proYaNoWHAKi/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
@@ -1004,8 +1024,10 @@ https://www10.mes-de-ofertas-dos-pais-2020.com/americanas/8642735c7909fc8df06c83
 https://www10.mes-de-ofertas-dos-pais-2020.com/vGJGJbyvHARALMZJlrC/1685/propJnGklzCr/133791942/smart-tv-led-43-samsung-43j5290-full-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-screen-mirroring-web-browser-preta
 https://www10.mes-de-ofertas-dos-pais-2020.com/vigSebuUpLALhbcowso/1685/procvutxiAdI/133791942/smart-tv-led-43-samsung-43j5290-full-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-screen-mirroring-web-browser-preta
 https://www10.mes-de-ofertas-dos-pais-2020.com/xjdrJyeoBkFtkUTAUPV/1685/proTunvCNDee/133791942/smart-tv-led-43-samsung-43j5290-full-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-screen-mirroring-web-browser-preta
+https://www10.semanadopaizao.com/efVyxhdgfIeuAsIizgL/1580/proNDlNsXIsk/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www10.semanadopaizao.com/ijyIstjJJDqydvwLfzb/1580/proMRsbbqpgv/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www10.semanadopaizao.com/mvJaEGUBfXzvxatxdZL/1580/proDsFsRhXHL/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www10.semanaespecial120.com/americanas/001c979d694e102579ff3b6026352165/identify
 https://www11.diadospaisespecialofertavemver.com
 https://www11.melhorprahojeda.com/BMacAQdiZGogBMVMKWA/1760/proyXdZDEsGa/1299774034/smartphone-xiaomi-redmi-note-8
 https://www11.melhorprahojeda.com/iBxDmYHmXBrTQCqTfZc/1760/procbvnnGldu/1299774034/smartphone-xiaomi-redmi-note-8
@@ -1045,6 +1067,7 @@ https://www12.diadeofertacomfretegratis-eaqui.com/americanas/4f2ee989e98e138b62f
 https://www12.diadospaisespecialofertavemver.com/americanas/05cb6e62b510b8dc03d64d517ef75507/identify
 https://www12.diadospaisespecialofertavemver.com/jKoehnBEtUnGRYUQItD/1567/proFnSAkgGNi/1446551000/smartphone-motorola-moto-g8-power-64gb-dual-chip-android-6-4-qualcomm-snapdragon-665-sm6125-4g-camera-traseira-16mp-8mp-2mp-filmadora-4k-azul-atlantico
 https://www12.diadospaisespecialofertavemver.com/vdYrTxnGkXXTuCIzjfd/1567/profaMjnDOTW/1446551000/smartphone-motorola-moto-g8-power-64gb-dual-chip-android-6-4-qualcomm-snapdragon-665-sm6125-4g-camera-traseira-16mp-8mp-2mp-filmadora-4k-azul-atlantico
+https://www12.melhorprahojeda.com/aXzMTSoeKCbXbkUFJmq/1789/proXwiaScwxq/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www12.mes-de-ofertas-dos-pais-2020.com/afWkHJlyeOBAdVcgMby/1709/profYhGHpNQI/1442622659/smartphone-samsung-galaxy-a51-branco
 https://www12.mes-de-ofertas-dos-pais-2020.com/EXndDRkXmhgBhtcPSCi/1709/pronmLSdLQLQ/1442622659/smartphone-samsung-galaxy-a51-branco
 https://www12.mes-de-ofertas-dos-pais-2020.com/EZpzyRlpLBjGRFsiVEU/1709/profjsOOxZnC/1442622659/smartphone-samsung-galaxy-a51-branco
@@ -1054,6 +1077,7 @@ https://www12.mes-de-ofertas-dos-pais-2020.com/SDfgEiFbTDVOhOHvTrl/1709/proXRDXS
 https://www12.mes-de-ofertas-dos-pais-2020.com/tptvPdEYqBGSvaJQJAV/1709/proTedZqMKmF/1442622659/smartphone-samsung-galaxy-a51-branco
 https://www12.mes-de-ofertas-dos-pais-2020.com/wotAVmpWUwSMUeCiMhx/1709/proRUhDjRnEP/1442622659/smartphone-samsung-galaxy-a51-branco
 https://www12.mes-de-ofertas-dos-pais-2020.com/zlOMlhrYzdRYrnevOOj/1709/proJehabkFWN/1442622659/smartphone-samsung-galaxy-a51-branco
+https://www12.salldaaoddaappproommcaaoo.com/hqcQOSPZcOUEvoJESDr/1717/prowgRvrNBHZ/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www12.semanadopaizao.com/CVvcvuAEOfaPVQBIwZy/561/pronWPmZqsKm/133437708/notebook-dell-inspiron-i15-3567-a50p-intel-core-i7-8gb-2tb-tela-led-15-6-windows-10-preto
 https://www12.semanadopaizao.com/FteiCRJYYeyUoEnsVLf/561/prowXkWrDeYq/133437708/notebook-dell-inspiron-i15-3567-a50p-intel-core-i7-8gb-2tb-tela-led-15-6-windows-10-preto
 https://www12.super-cashback-ame-de-cash-eu-quero.com/gPvHgFkCiDnaeeZlCgw/1723/prolNnTMazBX/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
@@ -1105,6 +1129,7 @@ https://www14.megaofertas-pra-voce-aproveita.com/ySbWbiYbpPmvnXDVARg/1738/prolDJ
 https://www14.mes-de-ofertas-dos-pais-2020.com/GIQeaPiYZvODkbtfRMB/1060/proffoOcVZzC/338893678/iphone-8-plus-128gb-silver-ios-camera-12mp-16mp-ultra-wide-12mp-tof-scanner-3d-4g-wi-fi-apple
 https://www14.mes-de-ofertas-dos-pais-2020.com/mxouohlYZNMtvEYjFtv/1060/proaBUibiwJM/338893678/iphone-8-plus-128gb-silver-ios-camera-12mp-16mp-ultra-wide-12mp-tof-scanner-3d-4g-wi-fi-apple
 https://www14.mes-de-ofertas-dos-pais-2020.com/tlfmsbHQBTAAxRVblkW/1060/proyafnRRuBL/338893678/iphone-8-plus-128gb-silver-ios-camera-12mp-16mp-ultra-wide-12mp-tof-scanner-3d-4g-wi-fi-apple
+https://www14.oferta-relampago-aproveite-so-hoje.com/americanas/9cc107bb8bdfe44ba926043594c326e3/identify
 https://www15.brasildeofertadospais.com/cWdYmyWnHQCENZgcpIf/1540/prouRAiuRDAW/133731085/smartphone-samsung-galaxy-j8-64gb-dual-chip-android-8.0-tela-6-octa-core-1.8ghz-4g-camera-16mp-f1.7-5mp-f1.9-dual-cam-violeta
 https://www15.brasildeofertadospais.com/hWUQtFISROSOtDtSSaB/1540/proEcNKUfZeG/133731085/smartphone-samsung-galaxy-j8-64gb-dual-chip-android-8.0-tela-6-octa-core-1.8ghz-4g-camera-16mp-f1.7-5mp-f1.9-dual-cam-violeta
 https://www15.compre-agora-com-descontos.com/americanas/3904c42cd7d9811a694e20e292c52bda/identify
@@ -1131,6 +1156,7 @@ https://www16.avisando-para-melhoras2020.com/VJWZzxoIxmFeruEfecl/1504/probVtlHzw
 https://www16.avisando-para-melhoras2020.com/XLliRtBViBjRdHaXjOc/1504/proBObcElMUU/134511121/notebook-dell-inspiron-i15-5584-a20s-intel-core-i5-8gb-geforce-mx130-com-2gb-1tb-15-6-w10-prata
 https://www16.avisando-para-melhoras2020.com/ZibAWEQsFDNrsvvwkor/1504/proBYvwcGqrW/134511121/notebook-dell-inspiron-i15-5584-a20s-intel-core-i5-8gb-geforce-mx130-com-2gb-1tb-15-6-w10-prata
 https://www16.avisando-para-melhoras2020.com/ZjAwiARDJxbsrQohpcJ/1504/proMcWvbITyF/134511121/notebook-dell-inspiron-i15-5584-a20s-intel-core-i5-8gb-geforce-mx130-com-2gb-1tb-15-6-w10-prata
+https://www16.presentes-especiais-voce-encontra-aqui.com/americanas/dcbd93d32069bd0d51dc3705af275756/identify
 https://www16.superoferta-espcial-pra-voce.com/CjvqDiEHTETEcUNSWwn/1785/proILdNURUFH/134568005/lavadora-de-roupas-brastemp-12kg-bwk12-branca
 https://www16.superoferta-espcial-pra-voce.com/kZkfXQQlQPlEtdZgpnQ/1785/proKiiMMDUSf/134568005/lavadora-de-roupas-brastemp-12kg-bwk12-branca
 https://www16.superoferta-espcial-pra-voce.com/nCeFNLfFgIilNFMmlzl/1785/proFDyIlHzAb/134568005/lavadora-de-roupas-brastemp-12kg-bwk12-branca
@@ -1179,11 +1205,13 @@ https://www19.aproveite-dia-dos-pais.online
 https://www19.cupom-de-descontos-para-voce.com/dmqjOrjWrWJcOhOBVSC/1786/proKsqCFyTCL/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/fBngyQxDBrZbTckrmSe/1786/progZjNZKjvN/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/NqsZuQXHxhlaEjIkLle/1786/proPAJLtncxe/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
+https://www19.cupom-de-descontos-para-voce.com/qpjjnZRfIrWrQryhexC/1786/prooZWrcRGmv/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/RgZFrdySMxWIUjbbgOS/1786/probtGvTtSIw/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/SChBoeHXAJAonnMfCYd/1786/proZrUShgqzP/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/UffGpGDnZxZduuwQKrD/1786/prowvTjEqhys/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/VtasNkxBROTImdGVhdx/1786/proDiZwqHFmN/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/wWBrFRvqBARIQYmYUCs/1786/proguJLnrlnr/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
+https://www19.cupom-de-descontos-para-voce.com/wXIjFjTqnMqHxImOrLe/1786/protwMFDvSEt/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.cupom-de-descontos-para-voce.com/xqLLKoAKYrPqqUtCWBn/1786/proQeASZGxeq/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.diadospaisespecialofertavemver.com/jzfUnyeigDLOUhwuQQg/1706/progcXsedihk/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www19.semanadopaizao.com/hDTssRJJMCfNzhVPZcp/1757/proCtREadJJj/592814568/motorola-one-macro-64gb-dual-chip-android-tela-6.2-4g-13mp-2mp-2mp-azul-espacial
@@ -1220,6 +1248,7 @@ https://www20.paizao-do-desconto.com/PpwNPdGkewTHqKiYKOY/1511/proilVtUdzKH/13444
 https://www20.paizao-do-desconto.com/RioVvnUlijSykoxgbnY/1511/prohqArGFxJV/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www21.brasildeofertadospais.com/nVjxLgFJyLPecUIcGmW/1587/proeaSWKtCpx/1237560751/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-preto
 https://www21.compre-agora-com-descontos.com/americanas/dc95087daf2fa5f84e86007182f86ffc/fb_login
+https://www21.compre-agora-com-descontos.com/LbRHkzJKFaVndvXSbnl/1303/proEtkchemrl/1299774034/smartphone-xiaomi-redmi-note-8
 https://www21.compre-agora-com-descontos.com/UjTqaZOubsmGBexAgkr/1663/proBhqZLdtfW/132728731/lavadora-de-roupas-electrolux-13kg-lac13-branca
 https://www21.diadospaisespecialofertavemver.com/deYgMzjXGKEhAcKpwXo/1706/proFZzqOHlJv/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www21.diadospaisespecialofertavemver.com/pNgJyQpjpPixoIguRiM/1379/prolspByANeO/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
@@ -1324,6 +1353,7 @@ https://yz7okxof-b839zpolc.vercel.app
 https://zahlung-strato-de-49933c04.le-paradis-rose.com/st/?AUTH_TOKEN=7c609f59436594d478ead19f82de4d0a20f775d4fc362167f8e7a2bfccb077b0&amp;cur=home&amp;page=welcome&amp;code=cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e.
 https://zelzeesovtwuivpbtuxbemqfdyrtgwemtdek-dot-gl494903049.wl.r.appspot.com
 https://zjjh7wfcs446lur-l38eyb650.vercel.app
+https://zonasegobiernope.com
 http://tanbo.main.jp/bomb2.htm
 http://tantiengiang.vn/wp-includes/IXR/confirm.htm
 http://taxionpanama.com/diane/bell-McKoy
@@ -1347,6 +1377,7 @@ http://unstaffedshusht.com/home/sigm0n/leapApps/sxign0nAppps/ScotiaWeb.html?coun
 http://user379834709348-0.oa.r.appspot.com
 http://verification.twitterhates.info
 http://verification.twitterhates.info/594b4
+http://vipertrend.com/1SIUyq3TN.shtml?QvIGaLBTRvrZ=qyDKrpJoNyGE15hokjk02cl8601egdr010q80708u1cow2w1h
 http://vitaeskin.com/taxe/atb/complete.html
 http://vitaeskin.com/taxe/bmo
 http://vitaeskin.com/taxe/cibc/index.php
