@@ -8,6 +8,8 @@ http://52.2.152.40/paypa.com/paypa-loginb.php
 http://52.2.152.40/paypa.com/paypa-loginb.php?cmd=login_submit&id=2da879f10c86a3cb88e425d76ecb02082da879f10c86a3cb88e425d76ecb0208&session=2da879f10c86a3cb88e425d76ecb02082da879f10c86a3cb88e425d76ecb0208&email=
 http://52.2.152.40/paypa.com/paypa-login.php
 http://67.198.140.87/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
+http://67.229.29.57/ap/signin?key=a@b.c
+http://67.229.29.73/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.74/ap/signin?key=a@b.c
 http://aerxrxpfwiswbhylfwbdnojzyidwjazwdytd-dot-gl494903049.wl.r.appspot.com
 http://allsuportlivenow.xyz/confirmacion
@@ -15,6 +17,7 @@ http://allsuportlivenow.xyz/confirmacion/Contact/Account-ID0252252/clave.php
 http://amarzon-cards.com
 http://amazon.co.jp.5e99a65fcdb5ed423ec1b28e13761cd7b5113602.info/ap/signin/login.php?openid.pape.max_auth_age%25Japan%25openid.return_to=https%253A%252F%252Fwww.amazon.co.jp%252F%253F_encoding%253DUTF8%2526ref%25md5%257f58d22e75869aa8287020031d83ccac%25udm%25cat%25path%250a6606f4b90f3e66bcc89dc1d9cf88e5524b4fea
 http://amazon.co.jp.6aa353a11a87a50e64175c15fcb2826d.info
+http://amazon.co.jp.a1bd72f6201f73deaecc1997f3e162891f56324c.info/ap/signin/login.php?openid.pape.max_auth_age%Japan%openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3F_encoding%3DUTF8%26ref%md5%edb405ee3031ae2ac7b095fd4e7163ab%udm%cat%path%cddd42e7164524ab683e2573c9770dfb5c037a08
 http://amazon.co.jp.xzbh.kotatestdata0725.top/pc/?sid=tqn3f671fijh4sa454koik3s37
 http://amazon.onedumb.com
 http://amcgardiennage.com/P2w9YSZpPTF6N2E3RDhaNjk0ag==?fbclid=IwAR21Vmfgdmlylz0mYwgBIBAn-pznoVDW-AHS7F3BZnkPlg9tffuH096PbHc
@@ -47,6 +50,7 @@ http://cofigrmwebais.000webhostapp.com
 http://csytravels.in/born/firewal/deactivate
 http://c.theborneopost.com/modules/aggregator/tests/74a2ecac443431673237d60de5a30f85/sso.godaddy.com/login1.php?cmd=login_submit&id=eae220d059a8bd62a8c4b02ca34c2fa7eae220d059a8bd62a8c4b02ca34c2fa7&session=eae220d059a8bd62a8c4b02ca34c2fa7eae220d059a8bd62a8c4b02ca34c2fa7
 http://c.theborneopost.com/modules/aggregator/tests/74a2ecac443431673237d60de5a30f85/sso.godaddy.com/login.php
+http://cucusettete.fiesta.it/index.php
 http://cy.helpacitizen.com/szy/py/lg/lin
 http://davidskeycamp.com.ua/P2Y9aW5zdGEmbD1lJmk9VEZjMjkzOTM0bzQ=
 http://davidskeycamp.com.ua/P2Y9dmVyZSZsPWUmaT1UUjAyOTM5MzRKZQ==
@@ -56,6 +60,10 @@ http://ecomm-pagamento0c2a97d71sella1it128e02a5.lainternational.it/it/pagam/Swif
 http://ecomm-pagamento2957cdbb1sella1it0d25022d.fotoparitani.it/sella/SwiftPayment.aspx/SwiftPayment.php
 http://enable-pages-certificated-valid-invitation-00023.tk/desktop.index.htm
 http://enable-pages-certificated-valid-invitation-00023.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
+http://enable-pages-certificated-valid-manager-advanced-000025.tk/desktop.index.htm
+http://enable-pages-certificated-valid-manager-advanced-000025.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
+http://enable-pages-certificated-valid-manager-advanced-000026.tk/desktop.index.htm
+http://enable-pages-certificated-valid-manager-advanced-000026.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-manager-advanced-000058.tk/desktop.index.htm
 http://enable-pages-certificated-valid-manager-advanced-000058.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://error-code-2319-675-call-support.azurewebsites.net/0IE01011001_1010x
@@ -83,6 +91,8 @@ http://informacje-onet.eu/weryfikacja/mobile
 http://instadetect.000webhostapp.com
 http://instadetect.000webhostapp.com/login.html
 http://instagram.confirmationsuccess.com
+http://itasuportin.com
+http://itasuportin.com/SegmentoContas.html?session=0VCEUBBC0RO
 http://kingbaja.com/jkl
 http://kwug4.fanomimo.xyz/@0100@8000@
 http://leasedouts.com/de/si/gn
@@ -252,6 +262,7 @@ http://sobr.org.br/wp-content/themes/netnetnet
 https://onlineservicehelp.weebly.com
 https://ooo3-teal.vercel.app
 https://owa.bimlarge.com/?sR23_7=
+https://pesay19932.wixsite.com/monsite
 https://piercefalo.com/online/www/asb.co.nz/online.auth
 https://pledgeable-machine.000webhostapp.com/We_Trans-fer/index.php?email=test@test.com
 https://pontos-bonus-e-vantagens.com/br/confirmacao
@@ -261,10 +272,12 @@ https://pvtieruyalxrihmbllbiifwolqorwklllcag-dot-gl494903049.wl.r.appspot.com
 https://pzvnwtzyaaollnycwphrvayytedawmumsixh-dot-gl494903049.wl.r.appspot.com
 https://qgrftqsdzspnrrhtlcygqdwsmdsbqbpoambw-dot-gl494903049.wl.r.appspot.com
 https://redbdgr.com/OMM/OMM
+https://royal-access.com
 https://rtdduf.000webhostapp.com/Facebook/login.php
 https://runescape-promotions.com/claim
 https://saintgeorgez.buzz/Proposaldocumentsonte/FBG
 https://secureofficenow.kozow.com/signin/o1/main.html?accessToFile=valid&fileAccess=94492&encryptedCookie=612861145b05c6d046d03724a0b7a474&u=e3668931bc0552684c3d77d23f41631b&connecting=82e182df41cf95997a6c9c2d6e932401&phaseAccess=d00023a852b0b81d9a94ce74044adde5&p=76c72b1c069c3cec8f527c09f685a80d
+https://secure.runescape.com-un.ru/m=weblogin/loginform526
 https://secure-ssl-cdn.com/8a96ac49096e7577005090e85067a8df434fbcd4/mon
 https://securityss.de/BankOfAmerica/login.php?cmd=login_submit&id=ee4dccce2ed13caa526023e48b967735ee4dccce2ed13caa526023e48b967735&session=ee4dccce2ed13caa526023e48b967735ee4dccce2ed13caa526023e48b967735
 https://server1.swiftwebsolutions.co.uk/~hairbase//id33000619182/fatturazione-staff/home
@@ -327,6 +340,7 @@ https://www13.julho-com-o-paizao.com/xstToRXmUSlZtNNTdTW/1749/prooscGVniEF/13378
 https://www13.julho-com-o-paizao.com/YsUweJfJRwajMlmMOQy/1749/proQaQMpanpT/133780821/smart-tv-led-50-sony-kdl-50w665f-full-hd-com-conversor-digital-2-hdmi-2-usb-wi-fi-60hz-preta
 https://www14.megaofertas-pra-voce-aproveita.com/ySbWbiYbpPmvnXDVARg/1738/prolDJiKmHnu/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www19.semanadopaizao.com/qfQyjHSFWJfNjVDbfmT/1757/proKyQbMoCNQ/592814568/motorola-one-macro-64gb-dual-chip-android-tela-6.2-4g-13mp-2mp-2mp-azul-espacial
+https://www21.diadospaisespecialofertavemver.com/pNgJyQpjpPixoIguRiM/1379/prolspByANeO/462138611/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-azul-safira
 https://www3-phi.vercel.app
 https://www.account.d93f0ee76c1b517b3c5.info/78e8dffe65a2898eef68a33b8db35b78/signin_encoding.php?country=AT-Austria&amp;lang=en
 https://www.account.d93f0ee76c1b517b3c5.info/78e8dffe65a2898eef68a33b8db35b78/signin_encoding.php?country=AT-Austria&lang=en
@@ -381,6 +395,7 @@ http://tantiengiang.vn/wp-includes/IXR/confirm.htm
 http://tazalicious.net/secured/news
 http://telafaque.000webhostapp.com
 http://tivaejmfvfccjlbbqiwbvauuqjzbetarthyr-dot-gl494903049.wl.r.appspot.com
+http://u17565672.ct.sendgrid.net/ls/click?upn=fREimrIQSTRr0lJyTm7Du-2Fux1LnNyfZey3p9axaAA1OblIY83Yx3WyLuoG4cYD5AVe5uimBL7IIMM-2FEEA0xpr6qS4hdW6J5rwH84NnCiJmqyG4Pfz5-2BarivdJgt5nbWH7IiXX91h46UIcZrU-2FbERPQTxeLnEx9CptvzD-2FAxydk6DrsBRgDFXtkbDZlGMmcWYdTAOn0teDnuGx-2FF463FHShU-2F5eG-2FrKN2qnj3-2BA2JGqzpHZG4Fczbbj9ah7qXGQ9kfxTNCTzf9aQW9Tdsy2G3-2FB6y0nrjJJQyzfNIlYtezwv5j5yPTDZQ430FlcThxP-2Fqyv5oUQ1-2BIDHOA32Vvu-2Fjsab4FnV1CpovQkbh-2Fu46dLagZHfEBrQzODjwRuG9zBzPzdv5_aGl4nxLJZ2bW4ol6TNGpGkz74pefO4SKfTWnpOa-2BlPDqFoSvDgAa0grSDDLrRAy166gP4ymqvfaWkUCPripyyc16w0PFXKiNFh8hjO09-2F2Br-2FH6qWEMm-2Bjxq6SmUEAWIn0G3AQAA-2BBTKyOgQca6p394ewzVCJWPHQxL3yeWh6B2bvXu6ef-2FmH8kKDF9Y7D39yA06WS4WsstGDJ4G2hCz-2BHlfwbX3KRV3QjxdqKs1J4k-3D
 http://u8607916.ct.sendgrid.net/ls/click?upn=OI0VRwtLg56eAez1YPwfKw6Z5QRZKaba-2FLIU1ghqmo-2BDtKPDqonZUBwifuCnPbxDf1pbRG0EtcE11zRUzIz5fabLUmQvHE0Ez-2BXLU9azvNByB0MJeK3omvTRL1GY1sURxplHbGvD7e55RBv0aBRxiq-2BjWUh6HXAJ5S7-2Bvgf1e-2BmLia3pxHypVbHnRsDABoDjlWkGW7T0Dju7zDjIlHFXju2QkuBpklmXcMp4-2Br1VPuKJtb1Oqg-2BuxbVsdQ76GIa2VupBnggIsAegFejLryDK9u8QzhvE1cAl-2BhIz-2ByK8ygFDWj2nm8I-2BYykJF-2BeR6bu7JIQrbDo6F5X6ix5vWdQZRhzllJlJ-2BBBTuNcmOY-2BlMf4-3DA6o__zoMd-2Fp0V7sRHyBSESlqE2TcyWwwiHUu66NowkGETC9SqMCws4jo5VEZRngKPW1ztC2Knf0RbXi4vtsh3zc6ZzrAwXkJqzQall6jIm8DINYp8YJ1ia6z3DfHLdMvbh9zWt8Bo2vDbfvmA98GtOgAOujEuW2cVkO9YqtSGakVJpFckW5X2qEtVlcvjMR1njfi-2FK21WGCwxSTej7qJ3S8871XSifprCILN8e9-2Fi7lSFxto-3D
 http://u8607916.ct.sendgrid.net/ls/click?upn=OI0VRwtLg56eAez1YPwfKw6Z5QRZKaba-2FLIU1ghqmo-2BDtKPDqonZUBwifuCnPbxDf1pbRG0EtcE11zRUzIz5fabLUmQvHE0Ez-2BXLU9azvNByB0MJeK3omvTRL1GY1sURxplHbGvD7e55RBv0aBRxiq-2BjWUh6HXAJ5S7-2Bvgf1e-2BmLia3pxHypVbHnRsDABoDjlWkGW7T0Dju7zDjIlHFXju2QkuBpklmXcMp4-2Br1VPuKJtb1Oqg-2BuxbVsdQ76GIa2VupBnggIsAegFejLryDK9u8QzhvE1cAl-2BhIz-2ByK8ygFDWj2nm8I-2BYykJF-2BeR6bu7JIQrbDo6F5X6ix5vWdQZRhzllJlJ-2BBBTuNcmOY-2BlMf4-3DhGpf_3228M2s5IxPeEgQj3EPNhcDf-2FQld9iXrWKW5Fp5X1eS9OORwfNzl7Eh-2BWxeiph7ksr2ELrGVOAFdFuVyWNsCt5CVwHJ8uuz1O2pwy4cRQIFMpskuqd-2FphzFUZch7uIrsXgdNNfD5HliDpzE6BxaNE-2Fsch3DWiU6lpTib-2Fi7AtKJkvPtiYdKf-2BvwMl2rvgfAlYaVg2Pj9e3JNX1StsHEadsVWqMi6uGe-2BIaVNVaL-2BHjc-3D
 http://uiqxqhapbkfftiwqjveidnyvqccmgakltbyp-dot-gl494903049.wl.r.appspot.com
@@ -395,6 +410,7 @@ http://www.clickrecover.ga/login_attempt=1&lwv=110.htm
 http://www.clickrecover.ga/m.pay.confirm.htm
 http://www.clickrecover.ml/pay-update.htm
 http://www.clickrecover.tk/pay-update.htm
+http://www.dcmufgcard.com
 http://www.fb-properties-listed.com/387469923
 http://www.fb-routine-updates.page6094385378.com
 http://www.greenup.co.in/wp-includes/bid/information.php?access.x29973739676&&data.x=en_8a5ea96ad64713351bcbc84a9
