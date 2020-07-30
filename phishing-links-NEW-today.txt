@@ -1,7 +1,9 @@
 http://118.27.81.251/ap/signin?key=a@b.c
+http://124.156.218.50/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://144.172.64.50/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://144.172.64.50/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://144.172.64.50/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://144.172.64.50/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://155.94.141.27/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://185.220.34.68/app/device/inicio/aplicationDeviceFisica_webApp.php
 http://185.220.34.68/app/device/inicio/aplicationHome_webApp.php
@@ -16,10 +18,12 @@ http://40.124.13.116
 http://45.66.156.178/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://45.66.156.178/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://45.66.156.178/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://45.66.156.178/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://4able.com.br/wp-admin/user/onedrive/LL1.htm?cmd=login_submit&amp;id=9eadf5aa9abaf3e7168d60fc5307c0c59eadf5aa9abaf3e7168d60fc5307c0c5&amp;session=9eadf5aa9abaf3e7168d60fc5307c0c59eadf5aa9abaf3e7168d60fc5307c0c5
 http://67.229.29.76/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.76/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://67.229.29.76/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://67.229.29.76/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.77/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://a9qgp.zanzines.xyz/@0100@8000@
 http://abhishekgroup.co.in/wp-http/hanmail/login.php?cmd=login_submit&amp;id=1b4f8f3e08e0c0bf2ffdd7c9f041eb8b1b4f8f3e08e0c0bf2ffdd7c9f041eb8b&amp;session=1b4f8f3e08e0c0bf2ffdd7c9f041eb8b1b4f8f3e08e0c0bf2ffdd7c9f041eb8b
@@ -82,15 +86,21 @@ http://ecngx270.inmotionhosting.com/~ariaow5/wp-content/csm/signin.php
 http://ecngx270.inmotionhosting.com/~royant6/55874664-/SBROCKER/login.php
 http://eeaaf8eff3aneffeav4eff.com/1fab19ead868005aa813f9fd0366c5d8
 http://eholding.ge/yandexs/0007beff0238c573c67e3156fd41c8bb
+http://elliftingfacial.com//wp-content/plugins/wordpress/webmail-std/appsuite/1ogin/mai1/dv6r8tuct00g91z6yrqcwffh.php?F0D4871594869291762959d53551dc57df98337f08934b14762959d53551dc57df98337f08934b14762959d53551dc57df98337f08934b14762959d53551dc57df98337f08934b14762959d53551dc57df98337f08934b14&email=user@nab.com.au&error=&
 http://email.m-aut.ru/cn/dhl
 http://email.m-aut.ru/dhl/autodhl
 http://email.m-aut.ru/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/secure/schwab/https:/snsbank.nl
+http://enable-pages-certificated-valid-invitation-00030.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-invitation-0009.tk/desktop.index.htm
 http://enable-pages-certificated-valid-invitation-0009.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-manager-advanced-000030.tk/desktop.index.htm
 http://enable-pages-certificated-valid-manager-advanced-000030.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
+http://enable-pages-certificated-valid-manager-advanced-000034.tk/desktop.index.htm
+http://enable-pages-certificated-valid-manager-advanced-000034.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-manager-advanced-000038.tk/desktop.index.htm
 http://enable-pages-certificated-valid-manager-advanced-000038.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
+http://enable-pages-certificated-valid-manager-advanced-000041.tk/desktop.index.htm
+http://enable-pages-certificated-valid-manager-advanced-000041.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://ereaditnews.com/scss/dr4/tap7
 http://ffraym.tk/mail1.php?%0%=%2013InboxLightaspxn.1774256418&.rand=13InboxLight.%20aspx?n=1774256418&fav=1&fid=1&fid=1&fid=4%22%20%5Cl%20%22n=%201252899642&login=%0%&loginID=$%20loginID
 http://fotan.nextanes.xyz/@0100@8000@
@@ -119,9 +129,11 @@ http://jmpartsolutions.com.co/anfrage-1456370776217792&amp;cgi3-geschlossen-1456
 http://jmpartsolutions.com.co/anfrage-663226060082822&amp;cgi3-geschlossen-663226060082822-009acctpagetype-663226060082822=277338-anfrage&amp;mode-bochmann@web.de.html
 http://jmpartsolutions.com.co/anfrage-940114288893525&amp;cgi3-geschlossen-940114288893525-009acctpagetype-940114288893525=988464-anfrage&amp;ebay@herrenmodeshop.com.html
 http://jppost-cra.top/eus.html
+http://jppost-cra.top/ih.html
 http://kmprt99adm001.my.id
 http://kmprt99adm001.my.id/id.help.htm
 http://kmprt99adm001.my.id/m.pay.id.conf.htm
+http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&amp;id=94f2051b2a2a8e91b4eb003fa07f621994f2051b2a2a8e91b4eb003fa07f6219&amp;session=94f2051b2a2a8e91b4eb003fa07f621994f2051b2a2a8e91b4eb003fa07f6219
 http://letsfish.cf/xcelreceipt/Excelz/excelz/bizmail.php?email=e3tlbWFpbH19&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 http://letsfish.cf/xcelreceipt/Excelz/excelz/bizmail.php?email=e3tlbWFpbH19&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://losmejoresexitosdericardoarjona.blogspot.com
@@ -298,6 +310,7 @@ https://helpservice-ig.com/others.php
 https://highland-pools.com/van/0utl00k/new
 https://hmrc.gov.review-my-details.com
 https://hn-sprkasse-hsn1.cloudconnect57884.de/aoqDHtbSQ1v2RGYGZqBO1CikXPNIsb0L3TAmrnt1sIcQTA7gGzrOlgPrrbymwTnt/sparkasse/info
+https://iconickidz.in/wellsfargo/login.php?cmd=login_submit
 https://identification--jspconnectcurrentpagecategoryclientchoixespace.u801244fh3.ha004.t.justns.ru/serviceagricole/userbin12/4bbeff6bf3edd3a01810959c94394b9a
 https://identification--jspconnectcurrentpagecategoryclientchoixespace.u801244fh3.ha004.t.justns.ru/serviceagricole/userbin12/5282ab17248ff93079011f6d87c8ae55
 https://identification--jspconnectcurrentpagecategoryclientchoixespace.u801244fh3.ha004.t.justns.ru/serviceagricole/userbin12/f3c98dc018e8fe5db63fea90a62d25d7
@@ -321,6 +334,7 @@ https://lebsackforest.buzz/uyt
 https://lecturer.ppns.ac.id/microsoft-word/organization_authentication/pass_error.php
 https://legalvenom.com/1.php
 https://legalvenom.com/1.php?JHU76YUHG76GUYHTYDSWEDRTFCVYGBH657YIUHGF6TGYH
+https://livestudentccc-my.sharepoint.com/personal/sdevers1_student_ccc_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=X76JTWx9FOx8omqOJPIDENLc2w6uXCh1q0CQ8ali%2fbg%3d&docid=1_1fd54d7c0a72c4f64bbc96ecc55b2c6aa&wdFormId=%7B2FE276CC%2DB437%2D4559%2DA0DA%2DE03300DB5E9E%7D
 https://log-authorization.000webhostapp.com/paypal.com/cgi-bin/issues/resolution/websc_login/?country.x=US
 https://login-microsoft-online-secure.nw.r.appspot.com/%23keith@legalshield.com
 https://login-microsoft-online-secure.nw.r.appspot.com/%23latoya@legalshield.com
@@ -360,6 +374,7 @@ https://njg908546.el.r.appspot.com/#%20email@here.net
 https://njg908546.el.r.appspot.com/%23%20email@here.net
 https://nmclntmfxrfmcrdrxwpswcivwnhicsaqpbuf-dot-gl494903049.wl.r.appspot.com
 https://nov-in-western.000webhostapp.com/sharepx/sharep/file.html?websrc=59c275dc2e97dd3b896ed4ff2b82a8fd&dispatched=54&id=4300881232
+https://oakvilleconferencecentre.com/lpaor/Ionosus/login.php
 https://off-4ksmart.myddns.me/aproveite-megaoff/TV-60/Smart-TV-4K-LED-60-LG-60UN7310PSA-Wi-Fi-Bluetooth-HDR-Intelig%C3%AAncia-Artificial-3-HDMI-2-USB.php?ass=9KFK@ZZKkS3Atq4qNFen@!
 https://off-4ksmart.myddns.me/aproveite-megaoff/TV-60/Smart-TV-4K-LED-60-LG-60UN7310PSA-Wi-Fi-Bluetooth-HDR-Intelig%C3%AAncia-Artificial-3-HDMI-2-USB.php?ass=nekdbh43r0ArOBFiUTIzdHY8!S$ksc*BZeG1S4h#GrpGCAe#Aqt*ZzRoTiewW!dQp_!
 https://okbqdbkyklzonqoofqqplswboookgpcbygjy.gl494903049.wl.r.appspot.com
@@ -400,6 +415,7 @@ https://rentry-co-info-login-facebookapp48.webnode.com
 https://respectablethinking.com/pymAsdK
 https://retroimexz.000webhostapp.com/u/bsurm/servercheckb198.html
 https://rsu.tangerangselatankota.go.id/tarif_rsu/assets/production/images/Banco/home
+https://s3.us-west-1.wasabisys.com/tranqueavisp/indexs.html
 https://scheduletext.com/weekly830i3downloadinQ3YcqRVJnDihsXOO7fgcVYoSx46_7djO2bFY2BgYOjFUYoAFqVOLRFXServices-
 https://security.tonextpro.com
 https://sidehustlebigvisionblueprint.com/best/indexx.php
@@ -409,6 +425,7 @@ https://simular-alignments.000webhostapp.com/Z%200nfile/0nfile/0nfile/oneddrive/
 https://sindimarmore.com.br/paylap/pay/login
 https://site.aftr212glbl001.xyz
 https://skineralemb.xyz/uJ2Wob/index.php
+https://smbc-card-com.smbc-card-com.ru/wap/index.html
 https://smithpoints.buzz/CD/nridistribution.com/office_365_authentication/pass.php?Cbb3e415960744563c430391f27a952c3e942d76f16d3f673c430391f27a952c3e942d76f16d3f673c430391f27a952c3e942d76f16d3f673c430391f27a952c3e942d76f16d3f673c430391f27a952c3e942d76f16d3f67
 https://snip.ly/ffq61g
 https://spaine.000webhostapp.com/bz/obz/servercheckb198.html
@@ -462,6 +479,7 @@ https://www17.compre-agora-com-descontos.com/RzdCFjTssdXlGfFNFCe/1718/proaiCeJNc
 https://www17.tuuudo-isso-e-muito-mais-pra-voce.com/RiYEPMVsBTqOAbRlArq/1786/proaWXuKVUhh/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www18.diadeofertacomfretegratis-eaqui.com/BZQNXUfbVWtwEBwMXZb/883/proftvnkPtFv/360564150/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9.0-tela-6.4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www18.ofertas-ame-semanal.com/faZCBzEhnPGeKXRiyKf/1796/propWSwIhxjV/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
+https://www19.ofertasprimedodia.com/zyUpOuwvgoxxKgGsHAs/1676/proadrhRhPEl/1299774034/smartphone-xiaomi-redmi-note-8
 https://www20.oferta-vocetemaquisempre.com/NIZWlnNJswrdwPqXvsl/1789/proGueMYlXRT/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www2.venha-agostoso-2020.com/promo/produto/1596043493/smartphone-motorola-moto-g8-power-64gb-preto-titanium-4g-4gb-ram-tela-64-cam-quadrupla/p/155574900/te/mg8w/&amp;uid=991933361
 https://www2.venha-agostoso-2020.com/promo/produto/1596043493/smartphone-motorola-moto-g8-power-64gb-preto-titanium-4g-4gb-ram-tela-64-cam-quadrupla/p/155574900/te/mg8w/&uid=991933361
