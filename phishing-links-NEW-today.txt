@@ -6,6 +6,7 @@ http://144.172.64.50/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claim
 http://144.172.64.50/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://144.172.64.50/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://155.94.141.27/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://163.172.62.122/ga/click/2-2412765-207-829-1668-2136-0128ecd01d-15565e2166
 http://174.139.46.67/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://185.220.34.68/app/device/inicio/aplicationDeviceFisica_webApp.php
 http://185.220.34.68/app/device/inicio/aplicationHome_webApp.php
@@ -240,6 +241,8 @@ http://newfarmbarry.co.uk/wp-admin/wells/login/login.php
 http://nofedrese.com/file/main.html?accessToFile=accessing&amp;fileAccess=67112&amp;encryptedCookie=9e58dfd238e5766d2f1950a5cb28f270&amp;u=5a30ff642e3d4b6f6225d3588a91b671&amp;connecting=8466335edbdbb7f87498e85c77c0e72e&amp;phaseAccess=a4c65669ae22cbdf463b03414e887343&amp;p=f8f0d070415b1e18ae3039eca5e339ad
 http://nofedrese.com/file/main.html?accessToFile=accessing&fileAccess=67112&encryptedCookie=9e58dfd238e5766d2f1950a5cb28f270&u=5a30ff642e3d4b6f6225d3588a91b671&connecting=8466335edbdbb7f87498e85c77c0e72e&phaseAccess=a4c65669ae22cbdf463b03414e887343&p=f8f0d070415b1e18ae3039eca5e339ad
 http://novuskin.com/wp-content/plugins/ali/Aliibaba.com/Alibaba.com/Alibaba.com/Login.htm
+http://ofertas-ame.giize.com:888/a30/ofertas/cod27053/360560511/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9-0-tela-6-4-octa-core-4g-/875214931/pr
+http://ofertas-ame.giize.com:888/a30/ofertas/cod51830/360560511/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9-0-tela-6-4-octa-core-4g-/462812243/pr
 http://okbqdbkyklzonqoofqqplswboookgpcbygjy.gl494903049.wl.r.appspot.com
 http://old.partiesunlimited.net/DHL/DHLAEJ3dI/DHLAEJ3dI/DHL3dI
 http://orgyofthedead.com.virtualcda.com/Chase/login.php
@@ -382,6 +385,7 @@ https://attmailupgradin.weebly.com
 https://attpostma.weebly.com
 https://auth.findsolutiontoyourproblems.com/auth/UJRES02/login/?token=9kpuspkm19pu25mj9ena
 https://awan-cohh2304.000webhostapp.com/Fb1.zip/index.html
+https://awdawdfgewegsseg-1ckn7apbp.vercel.app
 https://bankofamerican01.serveirc.com/Open/client/new/bankofamerica
 https://bankofamerican01.serveirc.com/Open/client/new/bankofamerica/login.php
 https://bankofamerican01.serveirc.com/Open/client/new/bankofamerica/login.php?cmd=login_submit&amp;id=85c0606d121e6445845cbd00450ffd8585c0606d121e6445845cbd00450ffd85&amp;session=85c0606d121e6445845cbd00450ffd8585c0606d121e6445845cbd00450ffd85
@@ -489,6 +493,7 @@ https://frontendlabs.io/wp-includes/css/FOV1/b9b5fb0c6507144d65153e0a9828e1dd
 https://full-out.net/email/login.php?cmd=login_submit&id=dcc17209dda2e757383c434a46e60c58dcc17209dda2e757383c434a46e60c58&session=dcc17209dda2e757383c434a46e60c58dcc17209dda2e757383c434a46e60c58
 https://gadgetshope.com/zushi/linkedin/index.php
 https://gci167a.com/produto/1596031488/geladeira-refrigerador-consul-frost-free-evox-duplex-405l-crm51-akana/p/088879600/ed/refr/&uid=8674796734
+https://ggg1-delta.vercel.app
 https://google-eud.newera-medical.com
 https://gov.dvla.gb-uk.ltd
 https://guineult.com/webmail/webmail.php
@@ -577,6 +582,7 @@ https://mahendraelectric.com/js/bankofamerica/login/secure.bankofamerica.comlogi
 https://mail.piercefalo.com/online/www/asb.co.nz/online.auth
 https://mailsinbox.z13.web.core.windows.net/?c=test@dummy.com
 https://manage.commbox.io/media/Brands/bezeqint/mail/7-20/7f8392_Savings%20Statement%20%20200727%204788.htm
+https://manzana-gray-smith-burlon.vercel.app
 https://maxsushi.com.br/hay/wp-admin/network/Banco-Santander/home/particulares.php
 https://medescan.com.au//document%20/wp-mall/?email=test@test.pl
 https://mein1fs3v4.firebaseapp.com
@@ -668,6 +674,7 @@ https://pmecentralnacionalunimed.com.br/citpl/Dp0yHlNBgcGWEIIIYQQkhPwdyAMb6EphYJ
 https://pmecentralnacionalunimed.com.br/citpl/Dp0yHlNBgcGWEIIIYQQkhPwdyAMb6EphYJXJ8VEsei8RLEQQggzctCCCGEEFIT8JJ0dXbKlKlTZcb06SpMpkpnV5e0w1NiKiiizFOCphp4Svbv3y/ca0ba2356d1feedd6757e32c787f647b/login.php?cmd=login_submit&id=31fcb40d3778d7fc7468ae7d155ff14631fcb40d3778d7fc7468ae7d155ff146&session=31fcb40d3778d7fc7468ae7d155ff14631fcb40d3778d7fc7468ae7d155ff146
 https://pmecentralnacionalunimed.com.br/citpl/Dp0yHlNBgcGWEIIIYQQkhPwdyAMb6EphYJXJ8VEsei8RLEQQggzctCCCGEEFIT8JJ0dXbKlKlTZcb06SpMpkpnV5e0w1NiKiiizFOCphp4Svbv3y/ca0ba2356d1feedd6757e32c787f647b/login.php?cmd=login_submit&id=97269224f265da8b8c3cac30f8a882d197269224f265da8b8c3cac30f8a882d1&session=97269224f265da8b8c3cac30f8a882d197269224f265da8b8c3cac30f8a882d1
 https://pmecentralnacionalunimed.com.br/citpl/Dp0yHlNBgcGWEIIIYQQkhPwdyAMb6EphYJXJ8VEsei8RLEQQggzctCCCGEEFIT8JJ0dXbKlKlTZcb06SpMpkpnV5e0w1NiKiiizFOCphp4Svbv3y/ca0ba2356d1feedd6757e32c787f647b/login.php?cmd=login_submit&id=c4341116cf476d6ad78ce16463905649c4341116cf476d6ad78ce16463905649&session=c4341116cf476d6ad78ce16463905649c4341116cf476d6ad78ce16463905649
+https://pmt6qag3-a0lqqqb5d.vercel.app
 https://podvarex.com/eby-de-listingd-poter/eBa.e12011.m44.l1483.euid67569894a2744aea88d4f40e7d49ea9c.bu43204723001.segname20200712114353
 https://policys01pages.000webhostapp.com/payment-update-01.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count
 https://policys01pages.000webhostapp.com/payment-update-0.html?=10065877425?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos
@@ -750,6 +757,8 @@ https://syzpudbm.cf/payments/add-payment-error.html?548130572085801&type
 https://syzpudbm.cf/payments/Add-Payments-Method.htm?type=68v3oWMXCKK_tLsDeLwd3VAxU9liAXf6jAuMsUDt2Bqkz9pszbcR5nARJnptToTOAO21psT53EcviRl
 https://t9cx8pj9stytql.vercel.app
 https://taaza-licious.net/payment/index.html
+https://tamericans-melhorando.com/947dbd612c1ffb2efccc0d2390e1210dffb817d9/MeusProdutos/Prefetch.php?skullid=112064261
+https://tamericans-melhorando.com/947dbd612c1ffb2efccc0d2390e1210dffb817d9/MeusProdutos/Prefetch.php?skullid=112064261&amp;amp;amp;amp;amp;amp
 http://starlit-strobes.000webhostapp.com
 https://t-elm.net/zimck/frames/imagines/pictures/login.php?cmd=login_submit&id=479058e27e3458ad51d1d1c8056f3aa5479058e27e3458ad51d1d1c8056f3aa5&session=479058e27e3458ad51d1d1c8056f3aa5479058e27e3458ad51d1d1c8056f3aa5
 https://textilelinks.com/ertgdamtn/mlog
@@ -789,9 +798,11 @@ https://vxxcdwpvoklpcfqeqyhqbfrypsygmhszyyat-dot-gl494903049.wl.r.appspot.com
 https://wandaboykininbiwater.ga/covid-19/dropbox/site/index.html
 https://winterspringscpa.com/audio/am9obkBtY2FmZWUuY29t
 https://wlutsjlzsedr-qxslc0i8v.vercel.app
+https://wnvlrsqdkpat-gvtxs6wfk.vercel.app
 https://workinprogress.pl/bmw/wp-includes/SimplePie/Content/Type/SFU
 https://wtrans-ff6f3.web.app/WeTransfer/process.html
 https://ww.paczkaups.com/R54U1I74GBHU7y3/QXTM8d
+https://www10.semana-especial-de-julho-oferta.com/mJNNyznLLPpZfabMWfT/1060/proHdDrheUvO/338893678/iphone-8-plus-128gb-silver-ios-camera-12mp-16mp-ultra-wide-12mp-tof-scanner-3d-4g-wi-fi-apple
 https://www10.superoferta.org/EQycKQsThaeWSohHDrn/1742/proeXewmSJTN/133731085/smartphone-samsung-galaxy-j8-64gb-dual-chip-android-8.0-tela-6-octa-core-1.8ghz-4g-camera-16mp-f1.7-5mp-f1.9-dual-cam-violeta
 https://www10.vem-pra-festa-de-precos-baixo-na-maiordobrasil.com/sTXlaPSFhKuGqArtNQC/1654/prooPQVuBHbW/1348709643/smartphone-motorola-one-hyper-128gb-dual-chip-android-tela-6.5-qualcomm-snapdragon-4g-camera-64mp-8mp-rosa-boreal
 https://www11.diadospaisespecialofertavemver.com/BkNZWHCHhdScwQoBXJK/1567/pronroGBONxG/1446551000/smartphone-motorola-moto-g8-power-64gb-dual-chip-android-6-4-qualcomm-snapdragon-665-sm6125-4g-camera-traseira-16mp-8mp-2mp-filmadora-4k-azul-atlantico
@@ -832,6 +843,7 @@ https://www14.cupom-de-descontos-para-voce.com/WmWzykIHdPXroFtfqxA/1813/proDnHHw
 https://www14.cupom-de-descontos-para-voce.com/YaMWYhvjYFQllywCCvQ/1813/proZuVJUuUJF/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www14.surpresa-relampago-dia-dos-pais.com/iPOUXVaXitLzncrynoT/1654/proxZxkwjsDV/1348709643/smartphone-motorola-one-hyper-128gb-dual-chip-android-tela-6.5-qualcomm-snapdragon-4g-camera-64mp-8mp-rosa-boreal
 https://www15.venha-agostoso-2020.com/promo/produto/1596106762/smartphone-motorola-moto-g8-power-64gb-preto-titanium-4g-4gb-ram-tela-64-cam-quadrupla/p/155574900/te/mg8w/&uid=991933361
+https://www16.julho-com-o-paizao.com/NpJXlzpqikyfyEokmSg/1815/proglxMfQlfp/1650696855/smart-tv-led-43-uhd-4k-samsung-43tu7000-crystal-uhd-wi-fi-hdr-borda-ultrafina-controle-remoto-unico-e-bluetooth
 https://www16.megaofertas-pra-voce-aproveita.com/FNRWwMxXpUBcVTNXZJV/1708/proWGUsJQygA/1706771771/smartphone-xiaomi-mi-9t-64gb-preto-
 https://www16.megaofertas-pra-voce-aproveita.com/HeoPEYdBfXQOGmZybXv/1708/proBIGTxwAvo/1706771771/smartphone-xiaomi-mi-9t-64gb-preto-
 https://www16.megaofertas-pra-voce-aproveita.com/MFOlIlDeLYQBOuPujLw/1708/proKzLnhwSiP/1706771771/smartphone-xiaomi-mi-9t-64gb-preto-
@@ -855,12 +867,16 @@ https://www18.ofertas-ame-semanal.com/faZCBzEhnPGeKXRiyKf/1796/propWSwIhxjV/1342
 https://www18.surpresa-relampago-dia-dos-pais.com/RgJUcwRYfKFTwQXJzyV/1641/proDxrpfTNZH/134514103/smartphone-samsung-galaxy-a50-128gb-dual-chip-android-9.0-tela-6-4-octa-core-4g-camera-tripla-25mp-5mp-8mp-branco
 https://www18.tuuudo-isso-e-muito-mais-pra-voce.com/XVXTQeplXFCemTvXNdi/1809/proqtXEaslGq/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www18.tuuudo-isso-e-muito-mais-pra-voce.com/YLMWrrdKMsrLYFycMOC/1809/proeZakEKumt/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
+https://www19.ame-ofertas-do-paizaoa51.com/americanas/e7f31d9e0f296011d2ee9e7facb8a4d9/identify?cartId=61bbfb6b-2e30-4e82-b257-ea8c818e2c94
+https://www19.ame-ofertas-do-paizaoa51.com/HEvAaLJiqGMYYQBfDjC/1709/proyeFOSrJiG/1442622659/smartphone-samsung-galaxy-a51-branco
+https://www19.ame-ofertas-do-paizaoa51.com/OdoTtNTYGlHGMJClTQS/1709/prownRrUBnrz/1442622659/smartphone-samsung-galaxy-a51-branco
 https://www19.ofertas-da-semana-aproveita.com/IqTyyyIESiSzqmcnrJv/1607/proJfCFssUSN/1237561068/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-vermelho
 https://www19.ofertasprimedodia.com/zyUpOuwvgoxxKgGsHAs/1676/proadrhRhPEl/1299774034/smartphone-xiaomi-redmi-note-8
 https://www20.motog8-a-oferta-da-semana.com/RjEUTlYfPOLzXNzXrUZ/1784/proPefjVTSpR/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www20.oferta-vocetemaquisempre.com/axCeaAbRZjdvbXaDcFZ/1789/proyALLUlHcI/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www20.oferta-vocetemaquisempre.com/DtXKBPgkJREzmjoFMMu/1789/probSZqShWan/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www20.oferta-vocetemaquisempre.com/fbYnhFrwNGftWkwWZNU/1789/prooZGglRAin/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
+https://www20.oferta-vocetemaquisempre.com/GjWxdzqyUMIHQTQAmRM/1789/prouXyvbEtmm/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www20.oferta-vocetemaquisempre.com/HfKVfRQMoNYhOtqWDYD/1789/proQivRseUcm/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www20.oferta-vocetemaquisempre.com/lbWPafWpGhYIPqWClKY/1789/proEkGSoBKLE/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www20.oferta-vocetemaquisempre.com/NIZWlnNJswrdwPqXvsl/1789/proGueMYlXRT/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
@@ -941,6 +957,8 @@ https://zonaseguragobierno.com/BNWeb/lnicio
 https://zonasegurainisiaseionenwebreactivaperu.com/iniciar-sesion
 https://zqmltfqisiiwcoeqkeendxurrffzcfdjacfl-dot-gl494903049.wl.r.appspot.com
 https://zzkynzjhyaeectuase.top/?lgawdbie
+http://tamericans-melhorando.com/947dbd612c1ffb2efccc0d2390e1210dffb817d9/MeusProdutos/Prefetch.php?skullid=112064261&amp;amp
+http://tamericans-melhorando.com/947dbd612c1ffb2efccc0d2390e1210dffb817d9/MeusProdutos/Prefetch.php?skullid=112064261&amp;amp;
 http://tanaduke.com/cn/excelz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://tappleapp.com/instatistics/config.php
 http://techbells.in/b2020123/1/index2.php
