@@ -1,4 +1,5 @@
 02-update.billing812.com
+0-secure-paypal.com
 10-zypw3fl55.vercel.app
 118.27.81.251
 124.156.218.50
@@ -110,6 +111,7 @@ digital-desbloqueio.com
 dndimports.com.br
 doakad34.000webhostapp.com
 drive-in-events.dk
+durgapur.shop
 dylandigzz.com
 ebay.bicycles.sporting-goods-itm87l91o52l.llc87l91o52l.com
 eeaaf8eff3aneffeav4eff.com
@@ -132,6 +134,7 @@ ffraym.tk
 fjdfjhrejhdfhrefd.com
 fnpqlx9xulakeyanwv0u.us-south.cf.appdomain.cloud
 fortispc-be.firebaseapp.com
+forumasik.com
 fotan.nextanes.xyz
 frontendlabs.io
 fultonville.buzz
@@ -141,6 +144,7 @@ gnvlogistics.com
 gov.dvla.gb-uk.ltd
 grp01.id.rakuten.co.jp.78b271a9db2f75847a5f28d214d65f5766219eeb.info
 grp01.id.rakuten.co.jp.8a0c672e33a7b2d51208e89ed3d4ef9f.info
+guthrienewspage.com
 gvlygkkxrkbtldbxoslzumavddsxvdocdffm-dot-gl494903049.wl.r.appspot.com
 heapslace.com
 hellenicelevators.gr
@@ -167,6 +171,7 @@ jhfytduy.ga
 jhnremodeling.com
 jk3bt83s.r.eu-west-1.awstrack.me
 jkdba77u62.firebaseapp.com
+jyothykkart.com
 k6qgzi7jtm-godtodtjm.vercel.app
 karldrive.buzz
 ke89u6n6nnop3-h970ze1pk.vercel.app
@@ -176,6 +181,7 @@ konfirmasi-akun83588.webnode.com
 krishentbuysell.com
 krjpl.com
 lebsackforest.buzz
+lecord.com
 legalvenom.com
 letsfish.cf
 log-authorization.000webhostapp.com
@@ -203,6 +209,7 @@ nettwtwo.blogspot.com
 ni.fizikegitimi.com
 nmclntmfxrfmcrdrxwpswcivwnhicsaqpbuf-dot-gl494903049.wl.r.appspot.com
 nov-in-western.000webhostapp.com
+novuskin.com
 oakvilleconferencecentre.com
 ofertas-ame-semanal.com
 oferta-vocetemaquisempre.com
@@ -210,6 +217,7 @@ off-4ksmart.myddns.me
 okbqdbkyklzonqoofqqplswboookgpcbygjy.gl494903049.wl.r.appspot.com
 oooferta.online
 operahouse2.com
+orgyofthedead.com.virtualcda.com
 paypai.support-user9d4al.com
 paypal.support-user9d4al.com
 pd8chd7x9z.vercel.app
@@ -237,7 +245,9 @@ s3.us-west-1.wasabisys.com
 scheduletext.com
 security.tonextpro.com
 semanadaoferta-eaqui.com
+server-mdd7update.onrender.com
 servernames.000webhostapp.com
+service.security.contact.digitalfm107.com
 serviceverificationfr.site44.com
 signin-att-secured0tp1logscreen6att.weebly.com
 simular-alignments.000webhostapp.com
