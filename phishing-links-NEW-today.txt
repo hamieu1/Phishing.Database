@@ -35,6 +35,7 @@ http://67.229.29.81/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=ht
 http://67.229.29.81/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.81/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://67.229.29.81/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%25%203A//www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http:%20//specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpfl%20ex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.open%20id.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net%25%202Fauth/2.0&&ref_=nav_em_hd_clc_signin
+http://67.229.29.8/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://98.126.214.77/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a
 http://a0459174.xsph.ru/codeagain.html
 http://a0459174.xsph.ru/LoginOnlineBankng.html
@@ -207,6 +208,7 @@ http://masterhealthcaregroup.com/wp-content/uploads/Office369/cfb7a0824144625b10
 http://maswarylanguagesolutions.com/wp-includes/fonts/genehttps
 http://melbournetelanganaforum.com.au/Niraj/Sinha
 http://midasbuyucwebsite.000webhostapp.com
+http://milzordigital.com/wordpress/wp-content/themes/twentyfifteen/inc/Permission/Console/customer_center/customer-IDPP00C349/myaccount/success/?cmd=_session=&amp;f4405a61195721e56ee281a1dbfa634f&amp;dispatch=877fdb02753eb9aac0e5b58debda1802cee36bfc
 http://mjluiza.online/Produto_48973/produto_m.php?&amp;sku=5953332
 http://mlcrosoft-0nedrive-portal.el.r.appspot.com/ver.html
 http://mm.yeouthvip.com/swiss/manage/sms
@@ -318,6 +320,7 @@ https://attcurrently-sign-in.weebly.com
 https://attlimitedemailcenter.weebly.com
 https://attloginverifyscreen.weebly.com
 https://attmailyahoolink.weebly.com
+https://attnetmailverificaton.weebly.com
 https://attupgr.weebly.com
 https://attyahoomall.weebly.com
 https://attyahoosuportemaicustomercareservice.weebly.com
@@ -338,6 +341,7 @@ https://billcenterpubgh.serveftp.com/signin/websrc.php?cmd=_login-submit&dispatc
 https://billcenterpubgj.serveftp.com/signin/websrc.php?cmd=_login-submit&
 https://billcenterpubgj.serveftp.com/signin/websrc.php?cmd=_login-submit&dispatch=5ddc911ed9a1129714aea694dc97969874f95f31fd2344c28650328ddfd6cca5cc0a1309
 https://billcenterpubgk.serveftp.com/signin
+https://bit.ly/2BRgVC0
 https://bit.ly/2WZH8Wh
 https://bit.ly/3jJT0Ft?
 https://biz-creative.info/new/Linkedin/savage/error.php
@@ -486,6 +490,7 @@ https://fhanai.com/wp-admin/user/-/wellsfargo/o9iz00k320jczthvaloejnqv.php?AFG0F
 https://fi8orm3k-1skp2hsp2.vercel.app
 https://firebasestorage.googleapis.com/v0/b/grace22-71e86.appspot.com/o/index.html?alt=media&token=81f5e63d-c8bf-4c47-995b-1093c2aafdfc#BriggettA@prepaidlegal.com
 https://firebasestorage.googleapis.com/v0/b/omej-6bf48.appspot.com/o/singles.html?alt=media&token=49e4cd16-181c-4ac3-bd24-dbcc55fdd55f#Jdonald@randallreilly.com
+https://followersfollow.000webhostapp.com
 https://forum.finaifantasyxiv.com-f.ru/threads/417225
 https://fuelfillers.com/js/random/ii.php?email=jhogancpa@comcast.net
 https://g5chf2u6uy2rdbam.vercel.app
@@ -544,6 +549,7 @@ https://internetbanking.gaosipbnk.com
 https://internetnc2-itau.cf
 https://ionosupportcentres.ml/ionos/mail.ionos.com/index.php?email=aGFsQGdjY29udHJhY3Rvci5jb20=&src=DluZDluZHNmNDBlb2RzaDluZHNmNDDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbHNmNDBlb2RzaTRDluZHNmNDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbZWppZXdpb2U5NDluZHNmNDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpb25ja29uc2NrIGtjIGtqIHZqayBj
 https://irezor.ru
+https://jackbinaspuol.blogspot.com
 https://jauhkekanan.com/secured07bchase.com
 https://jrrdf55y6-lz2fq1amd.vercel.app
 https://junkcarspickup4me.com/Yahoo
@@ -649,6 +655,7 @@ https://pt.divinegoddess.clothing/90/docusign/docusign/index.html
 http://sqazxyu.alwaysdata.net
 https://qd9gowygdxx82.vercel.app
 https://qlq7wwbxbhaxwpbn-p4tjfbnow.vercel.app
+https://r5yekrbkpoqgv6w-a570qe5iq.vercel.app
 https://rakuten.cn.jp.rakutencojprmsbnei.net
 https://rakuten.co.jp.restcow88.tk
 https://rakuten.co.jp.wwwhongtudzdjyqfdc.xyz
@@ -706,12 +713,14 @@ https://shreesamarthinteriors.com/redirect/index.php?email=nl3bgmvizaubf4a5zvwiu
 https://sicurezza-info-conto.com/bpm
 https://slick-houses.com/4/5/6
 https://slivka-shop.ru/wp-includes/images/smilies/_temp/config_temp/cloud.php?rem
+http://sslsisdavivienda.com/davivienda/wps/portal/personas/login.html
 https://snip.ly/ohq771
 https://sony-spe.org/wu5lg8vqrb5bj1q4w4vrljh6.php?A5710J15961348275afd9e8e412fca17f405d0264a0783345afd9e8e412fca17f405d0264a0783345afd9e8e412fca17f405d0264a0783345afd9e8e412fca17f405d0264a0783345afd9e8e412fca17f405d0264a078334&email=&error=
 https://spaceexperts.co.in/o/indexa.php?P_AAMkADcyMWNlOGU4LTA1MTctNGU5NC04NmVhLTM2ZjY2MWQ1ODUyZQAuAAAAAACPL3Vd8cnLS4/rNHDvh+urAQDLxtTRqKyYQrNPEBhBv0F3AAAMdHa7AAA_93894574342hdfjsixaoweue5_j1489738549283781331983743fncn_Product-UserID&amp;____
 https://sparebenk1-smsupdt.cloudaccess.host/IDLog-on/38d753cff48e32b4fa3d4bc86d5b7fe2
 https://sqazxyu.alwaysdata.net
 https://sqkijwuvolqexzvkydbdokqlzpdpkdcouirj-dot-gl494903049.wl.r.appspot.com
+https://sslsisdavivienda.com/davivienda/wps/portal/personas/login.html
 https://stocktonka.com/mazon/amazon
 https://storage.googleapis.com/filenametargeturltocheckwpgravitypytfilenametxtileendexitnlyide/pinbullet5maily657hj675webmaghyils46rty5454%20Login%20_%20IONOS%20by%201&amp;1.html#YjNKa2JuVnVaeTVyYkdGdGJXVnlRR3B2YUc1aWJHRmpheTVrWlE9PQ==
 https://storage.googleapis.com/gngfbdhgiyutysrdsfd.appspot.com/asdcddsvfv.html#jtucker@prepaidlegal.com
@@ -776,6 +785,7 @@ https://tpenrobecloture.com/media/1/?of=vicki@physics.utah.edu
 https://tqs5k3f9.vercel.app
 https://tracocivil.com/wp-content/plugins/Proton2020n
 http://strato.de.domain.infogbhome.eu/venetia.de
+http://strongersisters.com/d/89/index.php?email=test@test.com
 https://u12793796.ct.sendgrid.net/ls/click?upn=il7Nenq1nMbNcdHvuDnrZYT3Ovqe7qr-2BC3PRNoVUPnOfP-2FJHSs-2BDJq1U4mmtPDxMln-2F1Xc38WlMTHnl0-2FYsAMX-2FUvBuWwMhvjPWgScQpR50-3D8gxI_msQ3W5l6OLWo-2BkHAzmf24pdS3CWxr166P3oqaGUsZva1UZdWOsuu49BIjxpip3AHrQPytzGBhdNPDh5GrNQS-2FCEMe4TVNW-2B-2Fay51f2LXaN6amvCfJ8CXrTaPHYdLXdudF9xZ1QcJd6psBrs4jpjUjQlmslOwU3S-2BQSNyhdbCAWEuQU2FbZkZPhVkSP8Ym0Q1N9ZfADN45y6iTVKzMdfD30toU0YJUkw-2FNg5q-2BnPwfT4-3D
 https://u12793796.ct.sendgrid.net/ls/click?upn=il7Nenq1nMbNcdHvuDnrZYT3Ovqe7qr-2BC3PRNoVUPnOfP-2FJHSs-2BDJq1U4mmtPDxMln-2F1Xc38WlMTHnl0-2FYsAMX-2FUvBuWwMhvjPWgScQpR50-3DmRFp_6-2FZAwSe6nAn8Hq508yZhELpCDvrjXnN3FRMPEEH2dep2glkCzLPKgr1tox7WGpSaPhFWd9hCwfeN7ubXj5k0aV418PnmjWrahu4FCuPtWIgco2x49y6F6mLyBop-2Ft1XPzwnREEl6Z8WVHK5VdT4dzkYP9FO-2BY-2F9ALmsTDHxWfBkg7wg2ZxYicGxeTDGxLVqJN8NOR4mcEOwLcD7NUovwpqftTSl-2B976vELJKNrSAYd4-3D
 https://u12793796.ct.sendgrid.net/ls/click?upn=il7Nenq1nMbNcdHvuDnrZYT3Ovqe7qr-2BC3PRNoVUPnOfP-2FJHSs-2BDJq1U4mmtPDxMln-2F1Xc38WlMTHnl0-2FYsAMX-2FUvBuWwMhvjPWgScQpR50-3DOdBk_KKpiAjZVEIbsNJE49tNwsvA9OWMz2p-2Feg1uAUAqPvy6A4Yi0-2FByEBUp750VHhiCUciJTrAzjnxzB-2FAb-2FQp0yeen6tLjos6PQ2npw2bMdLXc8LWtJ-2FVPYCRGe8pVCTXKLd6Oerd5Udkd-2FyyTQBzn4PliU28s82D9JLH2vd3kfTw4uP-2FC4raoLx3IRqKOG1ITSZ1TrllDEjrS8BLiePgM9Iih0X5SLjHnbsyY6xLtqN3g-3D
@@ -828,6 +838,7 @@ https://webgoogl.gq
 http://sweetbasilalabama.com/ee/rr/ff/b/schwab/home/login.php?cmd=login_submit&amp;amp;id=8412030a1602b63bfa0ffc4e63651cab8412030a1602b63bfa0ffc4e63651cab&amp;amp;session=8412030a1602b63bfa0ffc4e63651cab8412030a1602b63bfa0ffc4e63651cab
 https://wefojfftpwsixott-n1qifmt79.vercel.app
 https://whatsappbokp.myz.info
+https://worpjjsgkycb-ispi9o2p7.vercel.app
 https://ww.paczksups.com/IGEGbF0MttR/MxHXdx
 https://www10.aproveite-a-festa-de-precos-baixo-na-maiordobrasil.com/GNrWEOYvsIBXDPduLpa/1654/proiUmsUfPJU/1348709643/smartphone-motorola-one-hyper-128gb-dual-chip-android-tela-6.5-qualcomm-snapdragon-4g-camera-64mp-8mp-rosa-boreal
 https://www10.cupom-de-descontos-para-voce.com/mawQcjDHIQrTHCrScAi/1828/prohAsbQYJRP/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
@@ -859,6 +870,7 @@ https://www10.semana-deofertas24.com/YzRQUtLbPQIhaQuxJtB/1633/prooZxUajZyQ/12997
 https://www10.semana-especial-de-julho-oferta.com/aWmLqgNEeFjJeCuVJJq/1796/proTSBprJzxu/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://www10.semana-especial-de-julho-oferta.com/qeGHPztoUntZivTQZJW/1796/proEnwOgyenp/134241723/smart-tv-led-50-samsung-50ru7100-ultra-hd-4k-com-conversor-digital-3-hdmi-2-usb-wi-fi-visual-livre-de-cabos-controle-remoto-unico-e-bluetooth
 https://www10.superoferta.org/americanas/47ff7880ff97f4b446bf42fb9f8f64bf/identify
+https://www11.diadospaisespecialofertavemver.com/sjgsbKzvnqATxttmbRV/1798/proCUqbdXHHO/117966044/geladeira-refrigerador-brastemp-frost-free-side-by-side-bro80akana-inverse-540l-evox
 https://www11.julho-com-o-paizao.com/bhedNXCnOyLwWaEBnbU/1511/prorlUBdfeXZ/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www11.julho-com-o-paizao.com/bzVHLxIuppuHQWtnLLd/1511/prooCSeKbEYF/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www11.julho-com-o-paizao.com/clXjoeNOMvuYtXdakDr/1511/proBbiiNuJnN/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
@@ -1083,6 +1095,7 @@ https://www14.cupom-de-descontos-para-voce.com/vTjFLrYnlieXCFTwNtb/1813/proGeIjf
 https://www14.cupom-de-descontos-para-voce.com/WFmhsRsJROdlJZmMVTe/1813/propyskBZObm/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www14.cupom-de-descontos-para-voce.com/XoivyGcfvPCjTFRfrpS/1813/proFEFIshOpw/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www14.cupom-de-descontos-para-voce.com/ZMAWobdbTVqGqYmztmb/1813/prokknmIHXEj/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
+https://www14.diadospaisespecialofertavemver.com/americanas/2361910972a4531a6b5f39bc3a83ab6e/fb_login
 https://www14.motog8-a-oferta-da-semana.com/BptueBkVFcuFmeMugRB/1639/pronDbiPjdvg/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www14.motog8-a-oferta-da-semana.com/lZRnCgUSqOEOtnyyeOz/1766/prodPrmrkZcc/1237560452/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-azul
 https://www14.motog8-a-oferta-da-semana.com/nSYwzbQgZukYqCRkZuE/1766/proqQNKtxuKL/1237560452/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-azul
@@ -1152,6 +1165,7 @@ https://www15.surpresa-relampago-dia-dos-pais.com/UbcCotvkZkuUtaqOZpG/1779/prois
 https://www15.surpresa-relampago-dia-dos-pais.com/vywIoaQHwTRzpZPfmgz/1779/proreCnAubdE/1237561068/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-vermelho
 https://www15.surpresa-relampago-dia-dos-pais.com/xRlNtTqnMENKuWchtTR/1779/proUGTECVjuS/1237561068/smartphone-samsung-galaxy-a20s-32gb-dual-chip-android-9.0-tela-6.5-octa-core-1.8-ghz-4g-camera-tripla-13.0-mp-5.0-mp-5.0-mp-uw-vermelho
 https://www16.ame-paizao-10oferta-de-eletro.com/kOZazsldldUrytWBhjt/1709/proTjgzSZETv/1442622659/smartphone-samsung-galaxy-a51-branco
+https://www16.diadospaisespecialofertavemver.com/americanas/85db7f35f5cb6c6044902840f470de3f/identify
 https://www16.julho-com-o-paizao.com/FlJtJGWjMfNVebMGoVy/1511/proNhBbOPHZk/134444740/smart-tv-led-43-lg-43lm6300-fhd-thinq-ai-conversor-digital-integrado-3-hdmi-2-usb-wi-fi
 https://www16.julho-com-o-paizao.com/kwgOfwYsWLPbguoqgFk/1771/prozyzAbdwTb/1299774034/smartphone-xiaomi-redmi-note-8
 https://www16.motog8-a-oferta-da-semana.com/FwjNVqYmoFZvcsqHgxT/1798/proOiPcdUqEZ/117966044/geladeira-refrigerador-brastemp-frost-free-side-by-side-bro80akana-inverse-540l-evox
@@ -1313,7 +1327,9 @@ https://www20.surpresa-relampago-dia-dos-pais.com/ZwirOAYknCnSFZSVOnC/1763/progH
 https://www20.surpresa-relampago-dia-dos-pais.com/zxwYBptdlFWWPRbCbLI/1763/proVZILhpFCh/8139982/kit-4-pneus-goodyear-assurance-165-70r13-79t-
 https://www21.diadospaisespecialofertavemver.com/AaWqkzBprBLZvxcVhXa/1706/proWCgGYwqgF/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www21.diadospaisespecialofertavemver.com/AhQiXXcTsbgrOgrzkMD/1706/proMOVILGfbt/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www21.diadospaisespecialofertavemver.com/americanas/6ef3e4a62da4832fa85380e623b6feb6/identify?cartId=bee30764-882a-4203-8d81-b81fa1022d80
 https://www21.diadospaisespecialofertavemver.com/UaWakHvfkRiRhXGVoEs/1706/proLszLoupPK/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www21.diadospaisespecialofertavemver.com/zVkLLtxMOMohwTVxqqY/1784/proLJBSafjyG/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www21.semana-quenteonline.com/produto/124678091/frame
 https://www61.feiraodigitaldosmartphone.com/prod351108f385f8076ee28e76345736bb08lnk/smartphone-samsung-galaxy-a30s-64gb-violeta-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/1555698/te/sa3s
 https://www.aimiljuniorsmiles.com/wp-sch/login.htm
@@ -1386,9 +1402,11 @@ https://www.waterbay.hu/BUD/DHLAUTO/dhl.php?rand=13InboxLightaspxn.1774256418&fi
 https://www.waterbay.hu/BUD/DHLAUTO/dhl.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=tad.contact@oecd.org&.rand=13InboxLight.aspx?n=1774256418&fid=4
 https://www.waterbay.hu/BUD/DHLAUTO/dhl.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=vaclav.vojtech@oecd.org&.rand=13InboxLight.aspx?n=1774256418&fid=4
 https://www.waterbay.hu/BUD/DHLAUTO/dhl.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=won.yonghwi@himet.co.kr&.rand=13InboxLight.aspx?n=1774256418&fid=4
+https://www.wonderstore.it/710-cpmoka-it-cp-mokà-produzione-e-vendita-di-abbigliamento-5433.html
 https://www.zonasegurawebenlineareactivape.com/iniciar-sesion
 https://xascacacasac.vercel.app
 https://ymwyxlbztlnaansthlmmmlgzzghzeznixrml.gl494903049.wl.r.appspot.com
+https://ypirangaagricola.com.br/imagens/titulos/MARKET
 https://ywabigbyqqjwsryuetgqevqwcujdwkkbptra-dot-gl494903049.wl.r.appspot.com
 https://zehebci86g-h37smd1sm.vercel.app
 https://zimbra1x.weebly.com
@@ -1401,6 +1419,7 @@ http://tempsite.review/oo/pp/ff/b/schwab/home/login.php?cmd=log
 http://testing.in.rs/guidelines/docx/index.php/SpryAssets/Google_docs_files=
 http://texpostavka.ru/modules/help/help/swo/gps/file
 http://thanhkieuresort.com/fin/WorkSheet/Save
+http://theellipsestory.com/Singin/myaccount/signin
 http://thegroupcounsel.com/4/5/6
 http://tlook-off365-signin.el.r.appspot.com/logi.html
 http://tournament-online-pubgm-pmco-championship-s13.000webhostapp.com
@@ -1439,6 +1458,7 @@ http://weatherkeylargoflorida.com/customer
 http://web83.cloud-host24.eu
 http://wells.fargo-activity-online.com
 http://whatsappbokp.myz.info
+http://wireless4sdg.org.zw/nysc/Alibaba.com/Alibaba.com/index.php
 http://www15.seupaifeliz-mesdeofertas.com/AKIymQYjYVYArIVxiyM/1758/proBJpDgqBqc/1299774034/smartphone-xiaomi-redmi-note-8
 http://www.aayumantra.com/wp-includes/SimplePie/HTTP/security/Update/myaccount
 http://www.aayumantra.com/wp-includes/SimplePie/HTTP/security/Update/myaccount/identity
