@@ -11,6 +11,7 @@ http://150.95.222.107/ap/signin?key=a@b.c
 http://150.95.222.107/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://174.139.46.50/ap/signin?key=a@b.c
 http://174.139.46.52/ap/signin
+http://174.139.46.56/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%20://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http%3%20A//specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpf%20lex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.ope%20nid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net%20/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://1jsus8c80.ukit.me
 http://20200728113522.t6yq5rw.rj.r.appspot.com/rx
 http://20200728201337.t6w5q4p9o7i3.uc.r.appspot.com/bq
@@ -239,6 +240,7 @@ http://owavoice.missionarieswithoutwalls.com
 http://oyzlleidmgfismropzrtwytmswabopoupnkq-dot-gl494903049.wl.r.appspot.com
 http://paypal-asisstancee.blogspot.com
 http://paypal-testscama.servebeer.com/myaccount/redirsc
+http://paypal-testscama.servebeer.com/myaccount/redirscr
 http://paypal-testscama.servebeer.com/signin/home?signin
 http://paypal-testscama.servebeer.com/signin/security
 http://peeas.cloudns.asia/office
@@ -282,6 +284,7 @@ https://2-fizndrb0n.vercel.app
 https://3mxtdy32ab.vercel.app
 https://4bwudq6y2axy499y-8vbqerep0.vercel.app
 https://5cuqtgx4c-dyr3mzkve.vercel.app
+https://62mjwiap2b-5t0vhn5dr.vercel.app
 https://7dzawzjfom-3w9k346dr.vercel.app
 https://9izyskf2ny.vercel.app
 https://abhishekgroup.co.in/wp-http/hanmail/login.php?cmd=login_submit&amp;id=956be78db481e59929755778fb2db783956be78db481e59929755778fb2db783&amp;session=956be78db481e59929755778fb2db783956be78db481e59929755778fb2db783
@@ -303,6 +306,7 @@ https://apscontact.000webhostapp.com/sets.html?=10065877425?fb_source=bookmark_a
 https://arsmry.000webhostapp.com
 https://arsmry.000webhostapp.com/login.htm
 https://asdoisk.vercel.app
+https://asdsjkadnk.vercel.app
 https://asian1on1.za.net/qq/ww/ff/b/schwab/home/login.php?cmd=l
 https://assesinpublic.za.net/yy/uu/ff/b/schwab/home/login.php?cmd=login_submit&id=8dc35394b3341deacb4691777d76d6598dc35394b3341deacb4691777d76d659&session=8dc35394b3341deacb4691777d76d6598dc35394b3341deacb4691777d76d659
 https://astsarsttsrfff.weebly.com
@@ -363,6 +367,8 @@ https://brighterfutureedu.com/rr/ff/ff/b/schwab/home/login.php?cmd=login_submit&
 https://brighterfutureedu.com/rr/ff/ff/b/schwab/home/login.php?cmd=login_submit&id=c0a6497e41777fffae5cccc44486a3d2c0a6497e41777fffae5cccc44486a3d2&session=c0a6497e41777fffae5cccc44486a3d2c0a6497e41777fffae5cccc44486a3d2
 https://brittanygordonstudio.com/doc
 https://bsiness-23.app.link/30ZsomvSs8
+https://bt-lntraneti.com/login/jzjg4zmu=/index.php
+https://bvy5w6h3jt.vercel.app
 https://c73avjl5zt-4dtimbfv4.vercel.app
 https://cajamar-es-caja-rural.bp-pt.com/cajamar1
 https://careerinmerchantnavy.com/wp/Onedrive/Onedrve/Onedrve/Dwn/RsWmLtM&amp;rn7717
@@ -435,6 +441,7 @@ https://drstevegallon.com/att-yahoo
 https://ds3ne8pbs-169d4149q.vercel.app
 https://dsdfs5fs45sd5f45.webador.de
 https://dstore8.com/wp-admin/fatturazione-staff/66c2764daecfa9f/fatturazione
+https://dulz2422oo.vercel.app
 https://dx3bagxgfr4dxqn-240wkume4.vercel.app
 https://eastmatchst.com/cb7f4e29105c62002df27ea70ded9e67?usy=bWxzdGFuaWNoQGV3c3QuY29t
 http://secure03b-chase.duckdns.org/web/auth
@@ -449,6 +456,7 @@ https://edcvyjk.ga/cmlpi/sharevps/verificationAttempt.php?sf58gfd1s689sxd2sdf8an
 https://ee-bill-update.com
 https://eerestriction.com/login
 https://eevzoaujuutignwtolwitcqnpfnuiffgqmuh-dot-gl494903049.wl.r.appspot.com
+https://eidetsielppb-oi9gjvo63.vercel.app
 https://ekonomi.unsera.ac.id/wp-includes/face1/secure.bankofamerica.comloginsign-insignOnV2Screen.go
 https://elhagearms.com/mmbg/toda
 https://emails.samanage.com/ls/click?upn=DlPemgtXEN1BDmEzaCOHxAtRQYcYYN-2FidP0VAFGg1IdWiFPWydBPSEbVsMBCwAXPU-2FLx7mPoO7K-2F5sPj-2FtsNkQ-3D-3Df0T6_XJ29Mu8eGjuoRq3cTX4qPxbfi1SkMViJBtPmvRdWV0ZjFfqY8yAfH7hVL6Gra-2BiXHf6s-2BzXjOL5xC7TUgqisWItZMtP54QPmu7ggNfH2n2JaMlY3jyFxBYzL-2FvSmkwWpmAM-2BgC6yzDXHrwRe6JL2jR0pT7AT-2FbPJHWHbsMs-2FQJpckEH-2FCqFQQh9CdjDJitISUltcv5CXetAeMgmOJQl4GULrmQPZxgIMvFK-2FWWSMwOKz6TyOHZ9LHsTJAT4-2BzkPDYt0CGWc043UId2nSrYtm8TONevXpuHc1SqadGhZaXwkDLalufGzkysBOWtjl-2FJOBM4D15zPXvq9k8bq-2BSWiu-2F7GYkA5Erp1kVI1-2FAylr63XzVfJl5LnXp9N-2F7w1sHM9wRjeOepQhb2eDwDkAPMpx209rFWe-2FZ07pmv6-2B031-2F3mwTIXx2-2B9tD-2FdrL3trkyYuxS8p4el9eC-2B6F7gGmDR4SHnhZ6VPBQXroQsajW8txIPhhKCPbq3YbEaXj2TEzMxMU
@@ -468,18 +476,21 @@ https://fabulosasbygrey.com/wp-content/themes/twentytwenty/count/CNC/enx.php?ran
 https://fabulosasbygrey.com/wp-content/themes/twentytwenty/count/CNC/enx.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=
 https://facebook.com-marketplace-item-685347921.realtorhouseusa.com
 https://facebook.com-marketplace-item-8547731.realtorhouseusa.com
+https://fadaoqrputra-k0l5ihzrf.vercel.app
 https://fantasymarchingarts.ru/rtyu/?superbeam=763293
 https://faranpublic.com/vendor/psr/Ppl
 https://fbooklat-login-com.filesusr.com/html/7a690f_d7949fc31237e5a9fa50676699db0fb7.html?ODE4NDE4OA==snapchat/d=sn&*VG9ybw==*aHR0cHM6Ly9ocmVmLmxpLz9odHRwczovL3d3dy5mYWNlYm9vay5jb20v**RmFjZWJvb2s=
 https://featherandfox.co.uk/document/45632/login.php?websrc=59c275dc2e97dd3b896ed4ff2b82a8fd&dispatched=82&id=2383891537
 https://fetcc5akr.vercel.app
 https://fhanai.com/wp-admin/user/-/wellsfargo/o9iz00k320jczthvaloejnqv.php?AFG0F51596142857bcec7bde71d2954534d6a5fb43a72767bcec7bde71d2954534d6a5fb43a72767bcec7bde71d2954534d6a5fb43a72767bcec7bde71d2954534d6a5fb43a72767bcec7bde71d2954534d6a5fb43a72767&email=
+https://fi8orm3k-1skp2hsp2.vercel.app
 https://firebasestorage.googleapis.com/v0/b/grace22-71e86.appspot.com/o/index.html?alt=media&token=81f5e63d-c8bf-4c47-995b-1093c2aafdfc#BriggettA@prepaidlegal.com
 https://firebasestorage.googleapis.com/v0/b/omej-6bf48.appspot.com/o/singles.html?alt=media&token=49e4cd16-181c-4ac3-bd24-dbcc55fdd55f#Jdonald@randallreilly.com
 https://forum.finaifantasyxiv.com-f.ru/threads/417225
 https://fuelfillers.com/js/random/ii.php?email=jhogancpa@comcast.net
 https://g5chf2u6uy2rdbam.vercel.app
 https://gazetawyborcza.com.pl
+https://gdfgdfrrr.vercel.app
 https://geminibtc.net
 https://go-copyrgiht-lnstagramform.com/form.php
 https://go-copyrgiht-lnstagramform.com/mailform.php
@@ -534,6 +545,7 @@ https://internetnc2-itau.cf
 https://ionosupportcentres.ml/ionos/mail.ionos.com/index.php?email=aGFsQGdjY29udHJhY3Rvci5jb20=&src=DluZDluZHNmNDBlb2RzaDluZHNmNDDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbHNmNDBlb2RzaTRDluZHNmNDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbpZWprMzBka2prZWtjamtkIGNuZmk0bmZpbZWppZXdpb2U5NDluZHNmNDBlb2RzaTRpZWprMzBka2prZWtjamtkIGNuZmk0bmZpb25ja29uc2NrIGtjIGtqIHZqayBj
 https://irezor.ru
 https://jauhkekanan.com/secured07bchase.com
+https://jrrdf55y6-lz2fq1amd.vercel.app
 https://junkcarspickup4me.com/Yahoo
 https://junkcarspickup4me.com/Yahoo/wapG2Gapp.php
 https://jwenbktsjwazwektyudm.top/?fbltruzrggfc
@@ -630,6 +642,7 @@ https://phanxico.org/phan
 http://spherical-door-277805.uc.r.appspot.com/home.html
 https://plurilegrand.be:443/wp-includes/IXR/main/web
 https://plurilegrand.be/wp-includes/IXR/main/web
+https://poqwertal-pdnr3abmu.vercel.app
 https://ppsiteservicea.000webhostapp.com
 https://prdoc00mentan30dlsyf202043851.ue.r.appspot.com
 https://pt.divinegoddess.clothing/90/docusign/docusign/index.html
@@ -673,6 +686,7 @@ https://secure-ssl-cdn.com/21efbf55df236400e7c423e3cdd46fdd6c8bb676/mon
 https://secure-ssl-cdn.com/7ec2f78f832e860f516972874450f4a728ab937e/mon
 https://secure-ssl-cdn.com/b873b8431c40d117c1495b6eea35aed713aee8a2/mon
 https://secure-ssl-cdn.com/c8efef6eaf82a20e1a3c5a038183632e2a8c68f5/mon
+https://securetech.net.pk/wp-includes/fonts/DHL%20AUTO/dhl.php
 https://secureupdate.appleld.com.duilawyeryork.com/ap/54005b967c8bd79
 https://securityss.de/BankOfAmerica/login.php?cmd=login_submit&amp;id=83bb475fb021d4e09df3d866f0baa06983bb475fb021d4e09df3d866f0baa069&amp;session=83bb475fb021d4e09df3d866f0baa06983bb475fb021d4e09df3d866f0baa069
 https://securityss.de/BankOfAmerica/login.php?cmd=login_submit&id=83bb475fb021d4e09df3d866f0baa06983bb475fb021d4e09df3d866f0baa069&session=83bb475fb021d4e09df3d866f0baa06983bb475fb021d4e09df3d866f0baa069
@@ -733,6 +747,7 @@ https://techbells.in/security/b2020123/1/run/index.php
 https://techbells.in/security/b2020123/1/run/security.php
 https://techbells.in/security/b2020123/1/run/sitekey.php
 https://telekom.hu-telekomfiok-belepes1.brunocaprettini.com
+https://thecupcakecarriage.ecakecollection.com/new/re
 https://thefashionoffice.com/8499494/com-grandiflora-t2l9k667889/dir
 https://thefashionoffice.com/8499494/com-grandiflora-t2l9k667889/dir/a7e0c2f819a76c122d1db7b1ef9bad43
 https://thefashionoffice.com/8499494/com-grandiflora-t2l9k667889/dir/d46ad0eb357e1576fd756d20e264afc6
@@ -811,6 +826,7 @@ https://web3292.web03.bero-webspace.de/mijn.ing.nl-premiere-beleid
 https://web83.cloud-host24.eu
 https://webgoogl.gq
 http://sweetbasilalabama.com/ee/rr/ff/b/schwab/home/login.php?cmd=login_submit&amp;amp;id=8412030a1602b63bfa0ffc4e63651cab8412030a1602b63bfa0ffc4e63651cab&amp;amp;session=8412030a1602b63bfa0ffc4e63651cab8412030a1602b63bfa0ffc4e63651cab
+https://wefojfftpwsixott-n1qifmt79.vercel.app
 https://whatsappbokp.myz.info
 https://ww.paczksups.com/IGEGbF0MttR/MxHXdx
 https://www10.aproveite-a-festa-de-precos-baixo-na-maiordobrasil.com/GNrWEOYvsIBXDPduLpa/1654/proiUmsUfPJU/1348709643/smartphone-motorola-one-hyper-128gb-dual-chip-android-tela-6.5-qualcomm-snapdragon-4g-camera-64mp-8mp-rosa-boreal
@@ -1295,6 +1311,9 @@ https://www20.surpresa-relampago-dia-dos-pais.com/zdxvskjbcPMQKWWeJOW/1763/proId
 https://www20.surpresa-relampago-dia-dos-pais.com/ZsIgVMIIgTtbBOZiSjj/1763/pronUIsOJdjB/8139982/kit-4-pneus-goodyear-assurance-165-70r13-79t-
 https://www20.surpresa-relampago-dia-dos-pais.com/ZwirOAYknCnSFZSVOnC/1763/progHWSdLBAN/8139982/kit-4-pneus-goodyear-assurance-165-70r13-79t-
 https://www20.surpresa-relampago-dia-dos-pais.com/zxwYBptdlFWWPRbCbLI/1763/proVZILhpFCh/8139982/kit-4-pneus-goodyear-assurance-165-70r13-79t-
+https://www21.diadospaisespecialofertavemver.com/AaWqkzBprBLZvxcVhXa/1706/proWCgGYwqgF/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www21.diadospaisespecialofertavemver.com/AhQiXXcTsbgrOgrzkMD/1706/proMOVILGfbt/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www21.diadospaisespecialofertavemver.com/UaWakHvfkRiRhXGVoEs/1706/proLszLoupPK/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www21.semana-quenteonline.com/produto/124678091/frame
 https://www61.feiraodigitaldosmartphone.com/prod351108f385f8076ee28e76345736bb08lnk/smartphone-samsung-galaxy-a30s-64gb-violeta-4g-4gb-ram-tela-64-cam-tripla-cam-selfie-16mp/p/1555698/te/sa3s
 https://www.aimiljuniorsmiles.com/wp-sch/login.htm
@@ -1355,6 +1374,7 @@ https://www.tanias-accounting.co.za/includes/%EC%B5%9C%EC%8B%A0%20%EC%A0%95%EB%B
 https://www.technicaindia.in/images/fitting/tmp/secure.bankofamerica.comloginsign-insignOnV2Screen.go
 https://www.technicaindia.in/images/fitting/tmp/secure.bankofamerica.comloginsign-insignOnV2Screen.go/overviewshn.php
 https://www.technicaindia.in/images/fitting/tmp/secure.bankofamerica.comloginsign-insignOnV2Screen.go/signOnV2Screen.php
+https://www.thaivigo.com/wp-includes/certificates/ebay.de/Einloggensoder-neu-anmelden-eBay.htm
 https://www.verifica-we-bank-clienti.com
 https://www.waterbay.hu/BUD/DHLAUTO/dhl.php?rand=13InboxLightaspxn.1774256418&amp;fid.4.1252899642&amp;fid=1&amp;fav.1&amp;rand.13InboxLight.aspxn.1774256418&amp;fid.1252899642&amp;fid.1&amp;fav.1&amp;email=gii9@cdc.gov&amp;.rand=13InboxLight.aspx?n=1774256418&amp;fid=4
 https://www.waterbay.hu/BUD/DHLAUTO/dhl.php?rand=13InboxLightaspxn.1774256418&amp;fid.4.1252899642&amp;fid=1&amp;fav.1&amp;rand.13InboxLight.aspxn.1774256418&amp;fid.1252899642&amp;fid.1&amp;fav.1&amp;email=labchem-tec@wako-chem.co.jp&amp;.rand=13InboxLight.aspx?n=1774256418&amp;fid=4
@@ -1454,6 +1474,7 @@ http://www.click-on-recover.ml/pay.id.htm
 http://www.click-on-recover.ml/?recover.php
 http://www.click-on-recover.ml/?recover.php#fb
 http://www.codeanddeals.com/user1/made-in-china.com/mades/mades/login.php
+http://www.creativecombat.com/wp-admin/network/acct/login.php
 http://www.ddrevent.com/board/wp-content/themes/alibaba?email=_xxx@yyy.com_
 http://www.digitalmarketingbuffs.com/a2/mobile.de/login
 http://www.digitalmarketingbuffs.com/a2/mobile.de/login/tanValidate.php
