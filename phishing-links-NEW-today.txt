@@ -7,6 +7,7 @@ http://124.156.218.50/ap/signin?openid.pcellope.max_auth_age=0&amp;openid.return
 http://150.95.222.107/ap/signin?key=a@b.c
 http://150.95.222.107/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://174.139.46.50/ap/signin?key=a@b.c
+http://174.139.46.52/ap/signin
 http://1jsus8c80.ukit.me
 http://20200728113522.t6yq5rw.rj.r.appspot.com/rx
 http://20200728201337.t6w5q4p9o7i3.uc.r.appspot.com/bq
@@ -113,6 +114,8 @@ http://farm.inpulse.tech/vendor/phpunit/phpunit/src/Util/PHP/REMINAN/chase
 http://farm.inpulse.tech/vendor/phpunit/phpunit/src/Util/PHP/REMINAN/chase/fin.php
 http://faroldelivery.com.br/sd/?dadin=%7B%7Bemail%7D%7D
 http://flamboyant-bartik-64150b.netlify.app/?realm=zLKDaRbuvMHzEHfY6WAzz7rOMGpz5UHXKCaOS2a0nZT48ldVPF2AYbnMT9hEG6io2TMvNXy3K8dDZ7FnngOypth89Jd01zewg2DTEuIvUsAfui5ei5wUtT2TR0r6Lsaw3BZnOi5mKRUk0ys4fecr0mdpqAG14se8wCalDO31PqFtFOr7gA1Wo4vYUo3yJXyADqP9SihjN8OseZuHPjmvhFKiFoNWKiyBkfPcwKx52d4Fp75T25ZANlIJl9ZxkmwESJjShNR2AFXyBMHVKAuEtFOhQorUsBCIMNbrqG45ZiA5&color=arlene.jackson@sanmina.com
+http://followersfollow.000webhostapp.com
+http://followersfollow.000webhostapp.com/login.html
 http://globalworks.main.jp
 http://gov.taxin-rebate.com
 http://gov.uk.refund-sso.com
@@ -150,6 +153,7 @@ http://mu.alexrealtor.us/boa/BOA019/home/login.php?cmd=login_submit&id=931dbe856
 http://mvywgxnbqlwrngvyarshynpsqghkicxelpxs-dot-gl494903049.wl.r.appspot.com
 http://naranjito.gob.ec/site/wp-includes/certificates/red_owa/owa/auth/?replaceCurrent=1&url=mail.cuchost.com/owa/%23authRedirect=true&update=daniel.ayfer@aarvia.ch&page=1&Cookie=YjX216nBmh2i1lMqOqjtSGJ840vPXO
 http://newsbrigade.com/wp-admin/css/colors/ocean/js/theme.js/inc-style/grece.PayPaI-ID.pro968/myaccount/identity/?cmd=_session=US&amp;amp
+http://newsbrigade.com/wp-admin/css/colors/ocean/js/theme.js/inc-style/grece.PayPaI-ID.pro968/myaccount/identity/?cmd=_session=US&amp;d34320f63d56ede7fd814ae4fb903952&amp;dispatch=28eb2b0dad222b43ece5890ac6c4995f14fbf092
 http://new-three-update.co/banks/personal.natwest.com
 http://niezezlepouldn.com/error_log.cgi
 http://nikomac.main.jp/blog/ebay-case-open
@@ -157,6 +161,8 @@ http://nine99.xyz
 http://oferta-para-os-dias-dos-pais.com/?id=43
 http://ofertas-ame.giize.com:888/teste/ofertas/cod22034/113684509/Conjunto%20De%20Panelas%20Tramontina%20Paris%20Antiaderente%207%20Pe%C3%A7as%20-%20Cereja/995343966/pr
 http://onlbc2.com/ViaBCPP
+http://onlinebdoverify.com/security/verify/login.php
+http://onlinechasebanking.onlinechasedeposite.com/Chase/home/auth/Logging_in.php
 http://oohlalasings.com/MWEBcentre/mail_messages/SignIn/mweb/auth.php
 http://owavoice.christexousia.org
 http://owavoice.missionarieswithoutwalls.com
@@ -275,6 +281,7 @@ https://drivedocmxrecordssfi1.z13.web.core.windows.net
 https://drstevegallon.com/att-yahoo
 https://ds3ne8pbs-169d4149q.vercel.app
 https://dsdfs5fs45sd5f45.webador.de
+https://dx3bagxgfr4dxqn-240wkume4.vercel.app
 https://eastmatchst.com/cb7f4e29105c62002df27ea70ded9e67?usy=bWxzdGFuaWNoQGV3c3QuY29t
 http://secure.runescape.com-as.ru/m=forum/forums.ws457,388,313,28714154,1046
 http://secureupdate.appleld.com.duilawyeryork.com/ap/56edbc022be7834?cmd=_update&dispatch=56edbc022be783402&locale=_US
@@ -287,6 +294,8 @@ https://ekonomi.unsera.ac.id/wp-includes/face1/secure.bankofamerica.comloginsign
 https://elhagearms.com/mmbg/toda
 http://semana-para-voce-cliente.com/americanas/6436099248/frame.html
 https://enmmmgdd.duckdns.org/email-account-update/english/index.php?email=gdcoxdfw@att.net
+http://service-info-softbank.com/session/index.php
+http://services-softbank.com/session/index.php
 https://estatecanoodle.com/linkedin/nerr34.php
 https://f4reuzhws7-h8frf2pz4.vercel.app
 https://facebook.com-marketplace-item-685347921.realtorhouseusa.com
@@ -300,6 +309,7 @@ https://g5chf2u6uy2rdbam.vercel.app
 https://gazetawyborcza.com.pl
 https://go-copyrgiht-lnstagramform.com/form.php
 https://go-copyrgiht-lnstagramform.com/mailform.php
+https://got.nereusvillas.com/ofk?ef=ZIJwlWxiaWKEmLqxy5qmnnx0Yq-1jqxiaWQ/cisse.schaerlaecken%40telenet.be
 https://gov.taxin-rebate.com
 http://shadetreetechnology.com/V4/validation/07416ab5cc7c20500c935583cd432e6e
 http://shadetreetechnology.com/V4/validation/09119e11423a36b64753deb725b2b904
@@ -353,6 +363,7 @@ https://makemoneyonlineplatform.com/8372/018272/login.php?websrc=59c275dc2e97dd3
 https://manuscript.ge/uploads/arqivis_fotoebi/.thumbs/online.tsb.co.uk/Login.php
 https://mega-oferta-da-lu.com/produto/1596109300/smartphone-samsung-galaxy-a30s-64gb-dual-chip-branco/p/kefg1gh776/te/galx/&uid=8849044427
 https://microsoft-secure-online.oa.r.appspot.com
+https://milzordigital.com/wordpress/wp-content/themes/twentyfifteen/inc/Permission/Console/customer_center/customer-IDPP00C349/myaccount/success/?cmd=_session=&amp;f4405a61195721e56ee281a1dbfa634f&amp;dispatch=877fdb02753eb9aac0e5b58debda1802cee36bfc
 https://mjusk397.vercel.app
 https://mlmpreis.com/verizon.net/newdr/o1
 https://mlmpreis.com/verizon.net/newdr/o1/main.html?accessToFile=accessing&amp;fileAccess=15602&amp;encryptedCookie=35af82d97fb9fbea36b5c2bdfffd28df&amp;u=61004ccd89a0fd72900c6cb53471c0d0&amp;connecting=ee4a7a01bece3e9af2344ac82ae4596a&amp;phaseAccess=27cd03582c17bf852365043c7bce7b30&amp;p=ca9c37b5756817ecbd1e39e94f585447
@@ -429,6 +440,7 @@ https://securityss.de/BankOfAmerica/login.php?cmd=login_submit&id=83bb475fb021d4
 https://server028346.nazwa.pl/weryfikacja/mobile
 https://server-mdd7update.onrender.com/googledisavow.html?vsr=bGNvbnJveUB1aWMuZWR1&strEmail=gchgberg002
 https://services.runescape.com-gifts.xyz
+https://services.runescape.com-zx.ru/m=weblogin/loginform892
 https://serviciodigitacr.online
 https://sharepntonline.oa.r.appspot.com/%23marissahair@legalshieldcorp.com
 https://slick-houses.com/4/5/6
@@ -572,6 +584,7 @@ https://www11.motog8-a-oferta-da-semana.com/hssNjuMlqnRLKDMLKsR/1798/propbaThXUv
 https://www11.motog8-a-oferta-da-semana.com/hWYLRzJlBSfeRrgxnSf/1798/proLAauvazZh/117966044/geladeira-refrigerador-brastemp-frost-free-side-by-side-bro80akana-inverse-540l-evox
 https://www11.motog8-a-oferta-da-semana.com/IQFkNJSvfvFHhHSucHD/1798/proDDbTymPUy/117966044/geladeira-refrigerador-brastemp-frost-free-side-by-side-bro80akana-inverse-540l-evox
 https://www11.motog8-a-oferta-da-semana.com/jdJzpFpjBJbPVTNJtdI/1629/proyhePMMOrA/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
+https://www11.motog8-a-oferta-da-semana.com/JfMDprRocsbiXCvVrIB/1629/provlyEErxgX/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www11.motog8-a-oferta-da-semana.com/oTCysgyzsWZoZBXmfHN/1629/proPNBOitYkg/592820520/moto-g8-plus-64gb-dual-chip-android-6.3-qualcomm-snapdragon-665-4g-camera-48mp-5mp-16mp-cereja
 https://www11.motog8-a-oferta-da-semana.com/pZsHfieTKCmebBJVpRr/1798/proogJslXznq/117966044/geladeira-refrigerador-brastemp-frost-free-side-by-side-bro80akana-inverse-540l-evox
 https://www11.motog8-a-oferta-da-semana.com/rBrBvMnFfQWbdceRVNx/1798/proWbCCavaem/117966044/geladeira-refrigerador-brastemp-frost-free-side-by-side-bro80akana-inverse-540l-evox
@@ -1100,6 +1113,7 @@ http://www.service-info-softbank.com/session/y_login.php
 http://www.somosvitalmultiservicios.com/escrow-cd/microsoft
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/043bba6d92d7d5b?cmd=_update&dispatch=043bba6d92d7d5bd0&locale=_
 http://www.support-appleld.com.secureupdate.duilawyeryork.com/ap/043bba6d92d7d5b/?cmd=_update&dispatch=043bba6d92d7d5bd0&locale=_
+http://www.teccorporacion.com/modules/autoupgrade/vendor/phpunit/.ch/952575f59148e0a9ceb364fdba14f8c5/index.php?eacgppyi38131155247=kmoowtf7tkd?eacgppyi38131155247=kmoowtf7tkd
 http://www.technicaindia.in/images/fitting/tmp/secure.bankofamerica.comloginsign-insignOnV2Screen.go
 http://www.unitedeworld.org/Office2020
 http://www.wwwitau.seuservicos.credit/promocao/descontao/card/home.php
