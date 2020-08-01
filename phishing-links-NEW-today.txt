@@ -2,6 +2,8 @@ http://0gichul.com/_auto/_pdf2xe/elfinder/files/6873331/aa.html
 http://103.75.1.198/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.73.47/ap/signin?key=a@b.c
 http://118.27.75.47/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://150.95.221.236/ap/signin?key=a@b.c
+http://185.230.142.73/1/router-app/router_info.php?secury=00
 http://199.192.18.162/~alertchasebnknot/dropbox/DropboxF/fRmxHryDfNorjSTCXoNl56VT2BLpJuaYlwv3X4HdR5EaYyMVWzg2GbWINH7wchvxO0BM5jZWoE7
 http://199.192.18.162/~alertchasebnknot/dropbox/DropboxF/LtFkbI8Xsu85aMKVyNLiVxGRAfAqslIePny15HYyb7ElTphrc3K8ArZbGzB9VjnLHWMMELlPSZb
 http://1xasf23t2gdsgdsgsdg.duckdns.org/SF2r2r2r/session/?view=login&appIdKey=&country=CA
@@ -56,8 +58,12 @@ http://dkb-banking-de.just-print.co.uk
 http://drevconnect.ga/33excelaassnni20/Excelz/excelz/bizmail.php?email=bGFzaHRvbkB0b3VnYWxvby5jb20=&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 http://drevconnect.ga/33excelaassnni20/Excelz/excelz/bizmail.php?email=bGFzaHRvbkB0b3VnYWxvby5jb20=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://eby-kleinanzeigen-de-anzeige-1000292811.000webhostapp.com
+http://enable-pages-certificated-valid-manager-advanced-000011.tk/desktop.index.htm
+http://enable-pages-certificated-valid-manager-advanced-000011.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-manager-advanced-000024.tk/desktop.index.htm
 http://enable-pages-certificated-valid-manager-advanced-000024.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
+http://enable-pages-certificated-valid-manager-advanced-000039.tk/desktop.index.htm
+http://enable-pages-certificated-valid-manager-advanced-000039.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-manager-advanced-000054.tk/desktop.index.htm
 http://enable-pages-certificated-valid-manager-advanced-000054.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://enable-pages-certificated-valid-manager-advanced-00009.tk/desktop.index.htm
@@ -80,6 +86,8 @@ http://ildsabu.com.ng/dropbox/index.php
 http://ing-twyp.com/app-login
 http://ing-twyp.com/app-login2
 http://ing-twyp.com/app-loginss
+http://itauacesso.sytes.net/ItauCard/parabens.htm
+http://itauacesso.sytes.net/ItauCard/promocao.htm
 http://itaucartoes.info
 http://jackbinaspuol.blogspot.com
 http://jmjfamilyfashion.com/latest-onedrive/office.php
@@ -129,6 +137,7 @@ https://afdeling-klantbeheer.cyou/info
 https://altohio.org/index2.php?cmd=login_submit&id=46ae280b545d7bb49e00fefd4bb626aa46ae280b545d7bb49e00fefd4bb626aa&session=46ae280b545d7bb49e00fefd4bb626aa46ae280b545d7bb49e00fefd4bb626aa
 https://amazon.co.jp-info.cf/?update
 https://amazon.co.jp.z18b.cn/main.html
+https://amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom001.ml/pc
 https://americanalojaofc.com/MeusProdutos/Prefetch.php?skullid=29302228
 https://andreacostafisio.com.br/wp-content/plugins/adob/login.php?cmd=login_submit&amp;;id=b608cb68d547d25ab586f844c757328fb608cb68d547d25ab586f844c757328f&amp;;session=b608cb68d547d25ab586f844c757328fb608cb68d547d25ab586f844c757328f
 https://asiankiosk.se/wp-admin/css/colors/ectoplasm/nessinnsmn/732c518e707a9511fd93577cff232cc2
@@ -145,6 +154,7 @@ https://d3o12sqd3xtxci.cloudfront.net/6501/index.html
 https://dev-goat-203.pantheonsite.io/wp-content/uploads/2020/07/sbcglobal.htm
 https://dev-team-176.pantheonsite.io/wp-content/uploads/2020/06/sbcglobal.htm
 https://discovery-com-dot-gl494903049.wl.r.appspot.com
+https://domainkintol844.000webhostapp.com/Anakdakjal/index.html
 https://dwzkztrkdyjvysdavzogrsybrksjbufxkbyv-dot-gl494903049.wl.r.appspot.com
 https://ebay.bicycles.sporting-goods-itm572l9o4lo9.llc572l9o4lo9.com/2018-Trek-Fuel-EX-9-9-29-Large-19-5in-SRAM-Eagle-XX1-1x12-Dropper-Guide-Ult
 https://ebay.cameras.digital-cameras.itm572l9o4lo9.llc572l9o4lo9.com/Brand-New-Canon-EOS-5D-Mk-IV-Digital-SLR-Camera
@@ -187,6 +197,7 @@ https://fbooklogpar-login-com.filesusr.com/html/7a690f_b64d8f8c3e6788b87eacdc152
 https://forumasik.com/message/hotmail/login.php
 https://gov.dvla.gbt-uk.ltd
 https://greatnorthsteam.com/83/r/index.php?email=sanjay.purushothaman@tollgroup.com
+https://healthsmart8.com/d/de/m/2
 https://idohoiccu-nl.be/myebranch.iccu.com/confirm.php
 https://info-aggiorna-web.net/dati
 https://infyte.com/donnnb/ourtime123/ourtime.php?696e667974652e636f6d
@@ -202,8 +213,10 @@ https://lcivfvexozrxhamweqyeefgwrxjgqdsfyltu-dot-gl494903049.wl.r.appspot.com
 https://leadersmerchantservices-com-dot-gl494903049.wl.r.appspot.com
 https://login-outlook-office365.el.r.appspot.com/jim@thejimburkefamily.com
 https://manuscript.ge/uploads/arqivis_fotoebi/.thumbs/online.tsb.co.uk/index.php
+https://mdvjuafbkcgvqjjwetj.top
 https://medisims.co.uk/login.php
 https://meusite-virtualon.com/americanas/simple-basket/?cartId=4941ee9f-0b97-1a1e-b8d5-6e9a2c324b01
+https://m-facebook-com66.webnode.com
 https://m-facebook-com.lry08.com
 https://microsov.oa.r.appspot.com
 https://nexi-com-dot-gl494903049.wl.r.appspot.com
@@ -217,6 +230,7 @@ https://pilotboom.com/viaBCP
 https://reinvestmentservice.com/ch-amazon/?s1=11H&s2=a1059626-206a-4ab7-a781-d57bed0705cc&s3=bb&s4=&Fname=&Lname=&Email=
 https://rfrdtrdtdtdtftttftf.weebly.com
 https://ripristino-sicurezza.com
+https://rpucymhwxbxmvxubfw.top
 https://rsacouriers.com/web.bndes.gov.br/bndes.gov.br
 https://scrippsnetworks-com-dot-gl494903049.wl.r.appspot.com
 https://secure01h-cox.webcindario.com/stepcoxmail/log/sycho
@@ -333,6 +347,7 @@ https://www.plazahotsale.com/admin/view/image/export-import/x1x/v2/449a70231810a
 https://www.surveygizmo.com/s3/5752685/AT-T-Login
 https://www.whatsapp-group-invite7-videos18.2waky.com
 https://xn--80aa0cb0jqb.emozionipiscine.it
+https://yahoomailllllllllllllllll.weebly.com
 https://yahooverificationupdateservice.weebly.com
 https://zonosegura1bngob.com
 http://taijishentie.com/js/index.htm?http:/us.battle.net/login/en?ref=bowaovvus.battle.net/d3/en/index&amp;amp
@@ -346,6 +361,7 @@ http://uufrdrd77ftfytfy.weebly.com
 http://verify-paypal.sytes.net/login.php
 http://virginiabedbugtreatment.com/sp/office-3D8/antor.php
 http://vww.online.scotibank.inverlat1.com/mxonlineV1/leap/signon/desbloqueo.php
+http://vww.online.scotibank.inverlat1.com/mxonlineV1/leap/signon/indexx.php
 http://webmail.almirail.com/appsuite
 http://wfargo-logon.weebly.com
 http://whatsapp-group-invite7-videos18.2waky.com
