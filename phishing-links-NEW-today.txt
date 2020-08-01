@@ -4,6 +4,7 @@ http://103.75.1.198/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https:
 http://118.27.73.47/ap/signin?key=a@b.c
 http://118.27.75.47/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://118.27.75.47/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
+http://14upslipa.duckdns.org/out/excelz/bizmail.php?email=c2FsZXMyQG1laWppbmctY24uY29t&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 http://14upslipa.duckdns.org/out/excelz/bizmail.php?email=c2FsZXMyQG1laWppbmctY24uY29t&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://150.95.221.236/ap/signin?key=a@b.c
 http://150.95.221.236/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
@@ -83,6 +84,7 @@ http://d48dkduy4mnnxh.du.r.appspot.com/admin
 http://dkb-banking-de.just-print.co.uk
 http://drevconnect.ga/33excelaassnni20/Excelz/excelz/bizmail.php?email=bGFzaHRvbkB0b3VnYWxvby5jb20=&amp;.rand=13vqcr8bp0gud&amp;lc=1033&amp;id=64855&amp;mkt=en-us&amp;cbcxt=mai&amp;snsc=1
 http://drevconnect.ga/33excelaassnni20/Excelz/excelz/bizmail.php?email=bGFzaHRvbkB0b3VnYWxvby5jb20=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
+http://dromanjustionfaire.gq/docu/project/a4db10e0c319c75bc64d96557ad5cc18/login.php?cmd=login_submit&amp;id=acdd83719e6be102107bbc5bf786c49dacdd83719e6be102107bbc5bf786c49d&amp;session=acdd83719e6be102107bbc5bf786c49dacdd83719e6be102107bbc5bf786c49d
 http://dromanjustionfaire.gq/docu/project/a4db10e0c319c75bc64d96557ad5cc18/login.php?cmd=login_submit&id=acdd83719e6be102107bbc5bf786c49dacdd83719e6be102107bbc5bf786c49d&session=acdd83719e6be102107bbc5bf786c49dacdd83719e6be102107bbc5bf786c49d
 http://dynamicdataprocessing.net/contractdoc/Cdoc/invoice.php/invoice.php
 http://eby-kleinanzeigen-de-anzeige-1000292811.000webhostapp.com
@@ -98,11 +100,17 @@ http://enable-pages-certificated-valid-manager-advanced-00009.tk/desktop.index.h
 http://enable-pages-certificated-valid-manager-advanced-00009.tk/facebook-verification.htm?fbclid=IwAR0DpHzyMmR9Q1m8hvlX3O_FU5ALkroRy_qhIzhAXWrn13ldVn_3Y1SQfjo
 http://f3jsffd3fosowa.ts.r.appspot.com/jim@thejimburkefamily.com
 http://facebook-log-in-attempt.anpez.org
+http://facebook-log-in-attempt.anpez.org/login.php?cmd=login_submit&amp;id=291ca20ea794e922caa97895533c51f6291ca20ea794e922caa97895533c51f6&amp;session=291ca20ea794e922caa97895533c51f6291ca20ea794e922caa97895533c51f6
+http://facebook-log-in-attempt.anpez.org/login.php?cmd=login_submit&amp;id=42a2fd64aec2c9aed198077fe42ef84442a2fd64aec2c9aed198077fe42ef844&amp;session=42a2fd64aec2c9aed198077fe42ef84442a2fd64aec2c9aed198077fe42ef844
+http://facebook-log-in-attempt.anpez.org/login.php?cmd=login_submit&amp;id=becec28f180317e548c15084acc2b512becec28f180317e548c15084acc2b512&amp;session=becec28f180317e548c15084acc2b512becec28f180317e548c15084acc2b512
 http://facebook-log-in-attempt.anpez.org/login.php?cmd=login_submit&id=291ca20ea794e922caa97895533c51f6291ca20ea794e922caa97895533c51f6&session=291ca20ea794e922caa97895533c51f6291ca20ea794e922caa97895533c51f6
 http://facebook-log-in-attempt.anpez.org/login.php?cmd=login_submit&id=42a2fd64aec2c9aed198077fe42ef84442a2fd64aec2c9aed198077fe42ef844&session=42a2fd64aec2c9aed198077fe42ef84442a2fd64aec2c9aed198077fe42ef844
+http://facebook-log-in-attempt.anpez.org/login.php?cmd=login_submit&id=58024a3a2e31782c890c1ae0681e831058024a3a2e31782c890c1ae0681e8310&session=58024a3a2e31782c890c1ae0681e831058024a3a2e31782c890c1ae0681e8310
 http://facebook-log-in-attempt.anpez.org/login.php?cmd=login_submit&id=becec28f180317e548c15084acc2b512becec28f180317e548c15084acc2b512&session=becec28f180317e548c15084acc2b512becec28f180317e548c15084acc2b512
 http://facebook-log-in-attempt.cartridgeconnexion.com
 http://facebook-log-in-attempt.cartridgeconnexion.com/login.php?cmd=login_submit&id=279e0660f5b79c888d324a3d3ae4d004279e0660f5b79c888d324a3d3ae4d004&session=279e0660f5b79c888d324a3d3ae4d004279e0660f5b79c888d324a3d3ae4d004
+http://falcoesracaliberta.com.br/includes/DROPBOX/DROPBOX/dbox%20(2)/vinc
+http://federicg.ga/new/o1/main.html?accessToFile=true&amp;fileAccess=33035&amp;encryptedCookie=e5ace737d3e131f59cb897daaeb02407&amp;u=351c87e47959366eefeeba6a5babf10b&amp;connecting=1ffe7ac8594f6330018959cb25a722df&amp;phaseAccess=b0b26964549902da77dbba4f6559a9ac&amp;p=dd350831e749e5846ddb015f017eca2f
 http://federicg.ga/new/o1/main.html?accessToFile=true&fileAccess=33035&encryptedCookie=e5ace737d3e131f59cb897daaeb02407&u=351c87e47959366eefeeba6a5babf10b&connecting=1ffe7ac8594f6330018959cb25a722df&phaseAccess=b0b26964549902da77dbba4f6559a9ac&p=dd350831e749e5846ddb015f017eca2f
 http://galaxy-a70.co/promo/MeusProdutos/prefetch.php?skullid
 http://garden-chapel.org/c/016ee72ab67e05593ad035ac366a98e0/verify.php?country_x=-&acct_x=id-ppl=pa32438.145.100.7=scrpg=d93755780816e1395a1448f17db98098bac1b5e2a5e32e7e9fe4ac1c4e6fca81s=$1$juwdyr0d$8yf4td5p99z8zql4qz08w0guiujd4xo1pntfkvjenmewzls6maybhrrz3528hcswkiyqbxt79fo0vaqcldgph2g5kyvae47stg9dnuytxhz81wulpcivxrmrwnf3d6zj0coqbbemiqlopfjska90556285092
@@ -227,7 +235,9 @@ http://laptophardware.co/Pay/office
 http://latinatel.net/tee/LinkedIn/source/root.php
 http://lcivfvexozrxhamweqyeefgwrxjgqdsfyltu-dot-gl494903049.wl.r.appspot.com
 http://leadsrus.co/wp-html/hanmail/index.php
+http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&amp;id=5e0b33e7ba3deb2042c0d840deb0f5d25e0b33e7ba3deb2042c0d840deb0f5d2&amp;session=5e0b33e7ba3deb2042c0d840deb0f5d25e0b33e7ba3deb2042c0d840deb0f5d2
 http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&amp;id=6aee61067aa296b7e6e419ff0b31f3cf6aee61067aa296b7e6e419ff0b31f3cf&amp;session=6aee61067aa296b7e6e419ff0b31f3cf6aee61067aa296b7e6e419ff0b31f3cf
+http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&id=15b1580cf94a92a51f54dc37aefc389b15b1580cf94a92a51f54dc37aefc389b&session=15b1580cf94a92a51f54dc37aefc389b15b1580cf94a92a51f54dc37aefc389b
 http://leadsrus.co/wp-html/hanmail/login.php?cmd=login_submit&id=5e0b33e7ba3deb2042c0d840deb0f5d25e0b33e7ba3deb2042c0d840deb0f5d2&session=5e0b33e7ba3deb2042c0d840deb0f5d25e0b33e7ba3deb2042c0d840deb0f5d2
 http://lifecoachingnc.com/80389548c2bb5869cad59543e4f313f0
 http://li.ourpawlove.com/wells/login/login.php?cmd=login_submit&amp;id=a6c19c038d45bc1faa18b3b8742c1760a6c19c038d45bc1faa18b3b8742c1760&amp;session=a6c19c038d45bc1faa18b3b8742c1760a6c19c038d45bc1faa18b3b8742c1760
@@ -255,6 +265,7 @@ http://office365.it.support.alertsnotification.com/landing/form/a9186c44-ac08-47
 http://office365-portal-verify.el.r.appspot.com/admin
 http://orgyofthedead.com.virtualcda.com/Chase/login.php?cmd=login_submit
 http://orgyofthedead.com.virtualcda.com/Chase/login.php?cmd=login_submit&amp;id=b6069846a71d7a5c0c83fc530cfb3abcb6069846a71d7a5c0c83fc530cfb3abc&amp;session=b6069846a71d7a5c0c83fc530cfb3abcb6069846a71d7a5c0c83fc530cfb3abc
+http://orgyofthedead.com.virtualcda.com/Chase/login.php?cmd=login_submit&amp;id=e48b64e16df0d6f0a5758fd1a57dd531e48b64e16df0d6f0a5758fd1a57dd531&amp;session=e48b64e16df0d6f0a5758fd1a57dd531e48b64e16df0d6f0a5758fd1a57dd531
 http://part.eyrehead.com/plm?pq=ZH9wlG9qbGKclbGlkm1laHZxYKCDomZkaWKjY31y/yrp@netmail.com.au
 http://paypal-serviceactidcenter.supportkonicare.com/signin/m44f/websrc?country.x=ch&locale.x=ch_ch
 http://paypal.support-user7a3dx.com
@@ -324,6 +335,7 @@ http://scrippsnetworks-com-dot-gl494903049.wl.r.appspot.com
 https://currentlymailupdateversion2020.weebly.com
 https://cyberma.com.br/wp-content/themes/twentytwenty/classes/wS
 https://d3o12sqd3xtxci.cloudfront.net/6501/index.html
+https://dailyrevelationzambia.com/.qb/daum/daaum/login.php?cmd=login_submit&amp;id=d79df8d013209e80b989fe97841afcb7d79df8d013209e80b989fe97841afcb7&amp;session=d79df8d013209e80b989fe97841afcb7d79df8d013209e80b989fe97841afcb7
 https://dailyrevelationzambia.com/.qb/daum/daaum/login.php?cmd=login_submit&id=d79df8d013209e80b989fe97841afcb7d79df8d013209e80b989fe97841afcb7&session=d79df8d013209e80b989fe97841afcb7d79df8d013209e80b989fe97841afcb7
 https://depositarenabet168.net/cellular/office/Login.php
 https://dev-goat-203.pantheonsite.io/wp-content/uploads/2020/07/sbcglobal.htm
@@ -393,6 +405,7 @@ https://eventsky.co/3.mtb.com/www3.mtb.com/emsslv908.php?yM882PAVQtsFZtM4suKdCkj
 https://eventsky.co/3.mtb.com/www3.mtb.com/?session_id=skjdfsd87ffsdf87sdfsdhfdf78sdfgysidf87sdf5e0a6003c111ef2afd9cee417&signin=@userid
 https://eventsky.co/3.mtb.com/www3.mtb.com?signin=@userid&session_id=skjdfsd87ffsdf87sdfsdhfdf78sdfgysidf87sdf1149255e33a3e0f188fcd1929
 https://eventsky.co/3.mtb.com/www3.mtb.com/?signin=@userid&session_id=skjdfsd87ffsdf87sdfsdhfdf78sdfgysidf87sdf1149255e33a3e0f188fcd1929
+https://eventsky.co/3.mtb.com/www3.mtb.com/?signin=@userid&session_id=skjdfsd87ffsdf87sdfsdhfdf78sdfgysidf87sdf1823a4ef6f4db7e95dbeedd9e
 https://eventsky.co/3.mtb.com/www3.mtb.com?signin=@userid&session_id=skjdfsd87ffsdf87sdfsdhfdf78sdfgysidf87sdf50012524a5975351fc2c060c6
 https://eventsky.co/3.mtb.com/www3.mtb.com/?signin=@userid&session_id=skjdfsd87ffsdf87sdfsdhfdf78sdfgysidf87sdf50012524a5975351fc2c060c6
 https://exchange.animals-gg-world.ru/icloud/347-zgX76
@@ -489,8 +502,11 @@ https://oki.si/pkginfo/change
 https://oki.si/pkginfo/change/login.php?client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;estsfed=1&amp;https://bankofamerica_com/=
 https://oki.si/pkginfo/change/login.php?client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;estsfed=1&amp;https://bankofamerica_com/getsessionstate?response_type=code&amp;mkt=en&amp;redirect_uri=state=rqiiaenisnllkckpklbs109myc3m0ysoyi9jts7jzm_tyy8tycnpz9zlzs_vyy9kz0wbsyqeuaqun61sl7ly4n-7wpjwqz9ev2yxcsbnzjalgurxmwosy6b-ankb_gvgxhemjjuy2h2dpoo9xsnpmdufk7vfjohflo6zel7slpqswpqi0nmbreavc48bsxuhb5saowsdasmpfszfrecntao1qlmuzuk0oati9yltyyztrpof2flj3mf5xz5ubgbzfvmu5mmrptmpzmemxvplazyf5vu-fafhzb4b2vxjtkzwhhpyhcawmz1iy9jfsbzlaq2&amp;response_mode=form_post&amp;scope=openid/federation/oauth2&amp;state=rqiiaenisnllkckpklbs109myc3m0ysoyi9jts7jzm_tyy8tycnpz9zlzs_vyy9kz0wbsyqeuaqun61sl7ly4n-7wpjwqz9ev2yxcsbnzjalgurxmwosy6b-ankb_gvgxhemjjuy2h2dpoo9xsnpmdufk7vfjohflo6zel7slpqswpqi0nmbreavc48bsxuhb5saowsdasmpfszfrecntao1qlmuzuk0oati9yltyyztrpof2flj3mf5xz5ubgbzfvmu5mmrptmpzmemxvplazyf5vu-fafhzb4b2vxjtkzwhhpyhcawmz1iy9jfsbzlaq2&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vaccess=&amp;vv=1600
 https://oki.si/pkginfo/change/login.php?client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;estsfed=1&amp;https://bankofamerica_com/getsessionstate?response_type=code&amp;mkt=en-us&amp;redirect_uri=state=rqiiaenisnllkckpklbs109myc3m0ysoyi9jts7jzm_tyy8tycnpz9zlzs_vyy9kz0wbsyqeuaqun61sl7ly4n-7wpjwqz9ev2yxcsbnzjalgurxmwosy6b-ankb_gvgxhemjjuy2h2dpoo9xsnpmdufk7vfjohflo6zel7slpqswpqi0nmbreavc48bsxuhb5saowsdasmpfszfrecntao1qlmuzuk0oati9yltyyztrpof2flj3mf5xz5ubgbzfvmu5mmrptmpzmemxvplazyf5vu-fafhzb4b2vxjtkzwhhpyhcawmz1iy9jfsbzlaq2&amp;response_mode=form_post&amp;scope=openid/federation/oauth2&amp;state=rqiiaenisnllkckpklbs109myc3m0ysoyi9jts7jzm_tyy8tycnpz9zlzs_vyy9kz0wbsyqeuaqun61sl7ly4n-7wpjwqz9ev2yxcsbnzjalgurxmwosy6b-ankb_gvgxhemjjuy2h2dpoo9xsnpmdufk7vfjohflo6zel7slpqswpqi0nmbreavc48bsxuhb5saowsdasmpfszfrecntao1qlmuzuk0oati9yltyyztrpof2flj3mf5xz5ubgbzfvmu5mmrptmpzmemxvplazyf5vu-fafhzb4b2vxjtkzwhhpyhcawmz1iy9jfsbzlaq2&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vaccess=&amp;vv=1600
+https://oki.si/pkginfo/change/login.php?https:/bankofamerica_com/getsessionstate?response_type=code&amp;client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;scope=openid/federation/oauth2&amp;state=rqiiaenisnllkckpklbs109myc3m0ysoyi9jts7jzm_tyy8tycnpz9zlzs_vyy9kz0wbsyqeuaqun61sl7ly4n-7wpjwqz9ev2yxcsbnzjalgurxmwosy6b-ankb_gvgxhemjjuy2h2dpoo9xsnpmdufk7vfjohflo6zel7slpqswpqi0nmbreavc48bsxuhb5saowsdasmpfszfrecntao1qlmuzuk0oati9yltyyztrpof2flj3mf5xz5ubgbzfvmu5mmrptmpzmemxvplazyf5vu-fafhzb4b2vxjtkzwhhpyhcawmz1iy9jfsbzlaq2&amp;estsfed=1&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vaccess=&amp;response_mode=form_post&amp;redirect_uri=state=rqiiaenisnllkckpklbs109myc3m0ysoyi9jts7jzm_tyy8tycnpz9zlzs_vyy9kz0wbsyqeuaqun61sl7ly4n-7wpjwqz9ev2yxcsbnzjalgurxmwosy6b-ankb_gvgxhemjjuy2h2dpoo9xsnpmdufk7vfjohflo6zel7slpqswpqi0nmbreavc48bsxuhb5saowsdasmpfszfrecntao1qlmuzuk0oati9yltyyztrpof2flj3mf5xz5ubgbzfvmu5mmrptmpzmemxvplazyf5vu-fafhzb4b2vxjtkzwhhpyhcawmz1iy9jfsbzlaq2&amp;vv=1600&amp;mkt=en
 https://oki.si/pkginfo/change/login.php?https://bankofamerica_com/GetSessionState?response_type=code&amp;client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;scope=openid/federation/oauth2&amp;state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;estsfed=1&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vaccess=&amp;response_mode=form_post&amp;redirect_uri=state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;vv=1600&amp;mkt=EN
+https://oki.si/pkginfo/change/login.php?https://bankofamerica.com/GetSessionState?response_type=code&client_id=51483342-085c-4d86-bf88-cf50c7252078&scope=openid%2ffederation%2foauth2&state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&estsfed=1&uaid=27aab22138724fb08da033daeafc4afa&vaccess&response_mode=form_post&redirect_uri=state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&estsfed=1&uaid=27aab22138724fb08da033daeafc4afa&vv=1600&mkt=EN-US&lc=1033
 https://oki.si/pkginfo/change/login.php?https://bankofamerica_com/GetSessionState?response_type=code&client_id=51483342-085c-4d86-bf88-cf50c7252078&scope=openid/federation/oauth2&state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&estsfed=1&uaid=27aab22138724fb08da033daeafc4afa&vaccess=&response_mode=form_post&redirect_uri=state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&vv=1600&mkt=EN
+https://oki.si/pkginfo/change/sitekeyverification.php?origin=cob&amp;check=yes&amp;destination=authentication
 https://oki.si/pkginfo/change/sitekeyverification.php?origin=cob&check=yes&destination=authentication
 https://oki.si/pkginfo/change/update.php?do=go/verifying=97614656256756525767548675259725875725998867552578685757867575258675652586752588562421089657077546
 https://olevus.co.mz/onedriveshare/32/login.php?websrc=59c275dc2e97dd3b896ed4ff2b82a8fd
@@ -506,6 +522,7 @@ https://pop3.animals-gg-world.ru/icloud/347-ynPfh
 https://pop3.animals-gg-world.ru/icloud/347-zgX76
 https://postmaster.animals-gg-world.ru/icloud/347-ynPfh
 https://postmaster.animals-gg-world.ru/icloud/347-zgX76
+https://pp-account.co/4b04b0dcd2ade339a3d7ce13252a29d4/signin.php?country=ZA-South%20Africa&amp;lang=en
 https://pp-account.co/4b04b0dcd2ade339a3d7ce13252a29d4/signin.php?country=ZA-South%20Africa&lang=en
 https://promomagalu.tk/promocao.php
 https://pt-sicurezza-app.000webhostapp.com
@@ -539,6 +556,7 @@ https://securedob6chaseid.serveirc.com/secured/chase/bc19b2fd12b6466889fd01ada64
 https://secure.runescape.com-as.ru/m=weblogin/loginform335
 https://secure.runescape.com-as.ru/m=weblogin/loginform537
 https://secure.runescape.com-as.ru/m=weblogin/loginform975
+https://secure.runescape.com-as.ru/m=weblogin/loginform984
 https://secure.runescape.com-as.ru/m=weblogin/loginform.ws697
 https://secure-vm.owa.movemaskit.tk/voice/?sR23_7=andrea.ziraldo@erthcorp.com
 https://seguroenlineabn1gob.com
@@ -576,6 +594,9 @@ https://support-appleld.com.secureupdate.duilawyeryork.com/ap/23fbd820bfa2b78?cm
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/23fbd820bfa2b78/?cmd=_update&dispatch=23fbd820bfa2b78fd&locale=_US
 https://support-appleld.com.secureupdate.duilawyeryork.com/ap/a5465d106d4f829/?cmd=_update&dispatch=a5465d106d4f829b6&locale=_
 https://theumashow.com/new.recent-activity/login.php
+https://theumashow.com/new.recent-activity/login.php?cmd=login_submit&amp;id=5dbbcc67c99aa61913d84f0b6cbd34835dbbcc67c99aa61913d84f0b6cbd3483&amp;session=5dbbcc67c99aa61913d84f0b6cbd34835dbbcc67c99aa61913d84f0b6cbd3483
+https://theumashow.com/new.recent-activity/login.php?cmd=login_submit&amp;id=7ffd1e7bf563fa4eb13a60eca09d40ea7ffd1e7bf563fa4eb13a60eca09d40ea&amp;session=7ffd1e7bf563fa4eb13a60eca09d40ea7ffd1e7bf563fa4eb13a60eca09d40ea
+https://theumashow.com/new.recent-activity/login.php?cmd=login_submit&amp;id=f1eadb0736bfc038b35cb2509a527639f1eadb0736bfc038b35cb2509a527639&amp;session=f1eadb0736bfc038b35cb2509a527639f1eadb0736bfc038b35cb2509a527639
 https://theumashow.com/new.recent-activity/login.php?cmd=login_submit&id=5dbbcc67c99aa61913d84f0b6cbd34835dbbcc67c99aa61913d84f0b6cbd3483&session=5dbbcc67c99aa61913d84f0b6cbd34835dbbcc67c99aa61913d84f0b6cbd3483
 https://theumashow.com/new.recent-activity/login.php?cmd=login_submit&id=7ffd1e7bf563fa4eb13a60eca09d40ea7ffd1e7bf563fa4eb13a60eca09d40ea&session=7ffd1e7bf563fa4eb13a60eca09d40ea7ffd1e7bf563fa4eb13a60eca09d40ea
 https://theumashow.com/new.recent-activity/login.php?cmd=login_submit&id=f1eadb0736bfc038b35cb2509a527639f1eadb0736bfc038b35cb2509a527639&session=f1eadb0736bfc038b35cb2509a527639f1eadb0736bfc038b35cb2509a527639
@@ -585,6 +606,7 @@ https://tvnetfllxusa.redirectme.net/manger/info/8093ce85953c062/login
 https://tvnetfllxusa.redirectme.net/manger/info/ff9c77b096c34f0/login
 https://u11006209.ct.sendgrid.net/ls/click?upn=iGbtbDeO5o8V-2FWqtvMX7dGUWte1dLN2oHbGVlCUU6olcSLjHAd-2FI8LZVMfznPFFtgpb5xCuALDmU7gPfCBwCbXX6G0KMROnm9mX9tRXDAdqr7utu-2BsVX7gvSulWDXlYV6ekSssTJw5upWJayVQPSbqIZ8cCFy9-2FF6QsS8TDG8C9-2BQda-2FeOzHi2xbSHj7SfgRKhRtDuDjniRbySesnK7Z43pt5wftMjLP-2FmaqdpttSIuoG0KLgOAdONRV30hJ5li6FdjpAiOzbTnKOchT7BYTJSydUxWiamKd4BsmWr3WFJs7O96-2BBJ2cxdqQy1iEuhFkYX8VaEimtV1U4JhNJWGeXoU1wx1DPrRmQJxrRcZhUbpiewwZIbFz0-2BY6SDLIp9K65mXpBROohJDu7LVMUNR7XcnGY-2BF9anv6ijDltByZyWKI3QVtohl0gQ9RnrBxtGDG6Pn4jhvsRMlHniiSzdk57g-3D-3DcYR2_6IxaBUAtd-2BWt435ZEhb-2FOPJ7teWgdqtyJyJ9s-2BNRbfJrIWpB63F5F6M9Azy6SATccJYMVZfAJRcviaayhisHkJtpWONnZZiEy4PuDx4uBV0FUU3gKsbtLNuez9YWZMf0hG6w62QNeG476zbtIiodM73LO3gNZThBCsMFngO8-2FKyTEJvKF4SfvuhlJtWtrJs3onqC8wu4vEGCE3ltYQVJBQv6gdXZMIYa1TtymwXztmY-3D
 https://u15572307.ct.sendgrid.net/ls/click?upn=Epvt9f8LeSQRTTEZNhs5Y1Yu6bbViRL8GnvC-2Fj4KhjAA3gRE-2BUvhWZ56hT4RghRrLXHZ_6-2FnjKcSH4R9c7WSosJtyNm042Ua4bFnDaCYjdh3woWYgxiY56tNqFHb-2BQxAVYudqmQqARC5N8lXPL9dpQFn2d999Cp-2F8N487j9XeUzkgjO2ORC0kFqnNg6iGD91tWINLfTZW2Hl60PTXOrBF2IBuw8ee3PN5T-2BX6mGbzOrDqh9qL1wrQFarahC87t1HP1upn-2BgQ6wPp8WxUVU-2F-2BKuuUTR5-2B7Y7aV-2FK-2B8UwIz-2BsBQ-2BYyyY5xbdrkCDsEqMqLn9JW-2F
+https://u15572307.ct.sendgrid.net/ls/click?upn=Epvt9f8LeSQRTTEZNhs5Y1Yu6bbViRL8GnvC-2Fj4KhjAA3gRE-2BUvhWZ56hT4RghRrsC4r_APjoc0H1qsQhe3pN2ut1GYVasImENXXEH8WylqHvCVfLZSiqCJ4G-2BSanAv11P4MltBT-2BxWnRcjGcBSxPYXIQF00lMIJr42Ciop-2FCqmqGGka-2BKVwZG88H3kDhm6lFt8WRbVWhcEg2bee0OmXhCD29MxN1opt9-2BmY3VI4vw7cxT1SsOVrIMkcrRzoMfWgDQxS5EyU8N8y6U9lYSyCXDpq7Y7utAWp3S9nxnn6uOk1V2X5L7n-2Fy-2FxsZFbASBxRWDP42
 https://u16534110.ct.sendgrid.net/ls/click?upn=dT5ySqIRm8I7k2oqhdhuc-2BWDU9TTIbEvTUlMkrJNgXI-3DqCD4_Cyiyr70MM3HEKLYIyliGh7IJH9CRe1QgEQF-2B8jRKUeSJnpw-2B3ayvqE4jaXxs61hZVZzj3552eyGuyJbY3z-2FEApXtuaZ4DlgFMjNPTWyVWG296Sa6-2BJ20SqX0tdpes7z12zq3FrOI2qlY8u4MQvahNUkqZ41qCHtAeTajTHg-2B2-2BvyiyweypO-2B7VI-2FpNNKvV0q-2BWGMkxg7hxjDm3wWYw9O1UbPT5RYfDdFw1HInuDT9l4-3D
 https://u3699884.ct.sendgrid.net/ls/click?upn=C78eXqp1nBAfRA58XKz2AL7jsgpJrO7mPUWfKBKe5yzGtvTFWeKDIYXPb6AEOshHRvDJcN4C1QeYOanYedr3Q924BnvZFR23DVK20zgt5u2MPsakQaJvnkKtitYWlCjhaQVhwoPR1bCGplAH-2Bz2LpXl77uAgfq0OAuAGyPS-2BToxAtOmDUZ0O1IZGGnRvmjpvbziK-2Bs4z5TIcOmFTV8ev4KzOi9QvWlRkPl9LsmUlCJu8z-2FxTQdgdGU76S63sdkUHAvncNQVESTAaQaBiAF-2BW58qBc-2F9KkV1VmgK191AqoSIX7vuQnaJ1T1dD8oWYzHm-2F1BN3wKnKjukLBfmDxMC-2FX7WoDCGQwRMV-2F8V4rHMCuQI-3DVyyi_6IxaBUAtd-2BWt435ZEhb-2FOPJ7teWgdqtyJyJ9s-2BNRbfIMUAtltHJasXYg-2BOiXd5DmwHnxonPrO5MPu6D4DkWZZ5ampX5tM-2FNT98KbPsN-2Ba-2FfLAq6TKwjX2Fa-2Fuj097ApYp3LftSqxKRdqqjWcCIy6Dp7xK-2BhWpNAdqngTcaQfJNzjSW6nJuQsnDRhlykM6g3XTMeWomutHR-2FNDuwMGDZA3GWDRLqHEGqqnzju99I-2Bvy-2BapnFKkF5u9lJpp8uzBqYH
 http://support-appleld.com.secureupdate.duilawyeryork.com/ap/06c0e8b58cb13c7
@@ -618,6 +640,9 @@ https://ww.paczkhups.com/g6GhKVDHl/MmTkgm
 https://www10.cupom-de-descontos-para-voce.com/GsfiPdxyJCczKdtFIRX/1828/proEspAkxiNg/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www10.cupom-de-descontos-para-voce.com/mTvvLDuSgtLEWBktZRM/1828/proGdiqKrFmF/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www12.cupom-de-descontos-para-voce.com/americanas/78456eeb22ab74bd836b6b5a87d4da7a/identify
+https://www13.o-melhor-presente-pro-paizao.co/DvODmhOtTNPSFXikrRu/1789/prolBFAoRoqW/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
+https://www13.o-melhor-presente-pro-paizao.co/ICTHGcPzFqlNeMYDTqk/1789/proqikvyDJmY/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
+https://www13.o-melhor-presente-pro-paizao.co/QczjNisrACoxkbMUDIO/1789/proapuQBfdkS/495161500/smart-tv-led-50-lg-50um7510psb-ultra-hd-thinq-ai-conversor-digital-integrado-wi-fi-4-hdmi-2-usb-pip
 https://www14.cupom-de-descontos-para-voce.com/bItHUXTnbkYFjppJBqI/1813/proWNZkXIzmr/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www14.cupom-de-descontos-para-voce.com/BjACpWKqGQGFaXdtmDX/1813/proDdulSJaKF/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www14.cupom-de-descontos-para-voce.com/BmiHziPxkBmbHXXmuui/1813/prooBXgzEuEK/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
