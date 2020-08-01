@@ -7,6 +7,7 @@ http://23.98.149.190
 http://34.239.107.122
 http://34.239.107.122/login/mobile/autPF.php
 http://40.124.13.116/security.php?4N/m0vYlSTeOERBymMRyCjSZG4919aerf1r5AC0zCb4yYocGoYyN0XS2ou0MsbFqNdq6WD6L5HcSEgDOmSJOeDA
+http://98.126.214.103/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 http://account.login.unlimited.serials.movies.masterkalkun.com/c86f211f7e24c622606e364fbb171bb0
 http://accurateaccountsconsultancy.com/wp-content/new-isa/New-Auto/cmd-login=304ca96ecdb5f91512496e5f6218a5b4/?595756685a54497a4d32466c4e4467774d445a6b4d6a517a4d6d45774d6a51774e6a646a5a6d517a4d44453d=595756685a54497a4d32466c4e4467774d445a6b4d6a517a4d6d45774d6a51774e6a646a5a6d517a4d44453d595756685a54497a4d32466c4e4467774d445a6b4d6a517a4d6d45774d6a51774e6a646a5a6d517a4d44453d595756685a54497a4d32466c4e4467774d445a6b4d6a517a4d6d45774d6a51774e6a646a5a6d517a4d44453d&email=7061756C2E626172746F406D636B6573736F6E2E636F6D&595756685a54497a4d32466c4e4467774d445a6b4d6a517a4d6d45774d6a51774e6a646a5a6d517a4d44453d=595756685a54497a4d32466c4e4467774d445a6b4d6a517a4d6d45774d6a51774e6a646a5a6d517a4d44453d&reff=YWVhZTIzM2FlNDgwMDZkMjQzMmEwMjQwNjdjZmQzMDE=
 http://accurateaccountsconsultancy.com/wp-content/new-isa/New-Auto/cmd-login=4078f0e0de091e35402443ef5f168fc1/?4d6a55315a4751784e4456684d6d457a4e3251784e5455354f444d325a54466b5a6a686b5a445131596d513d=4d6a55315a4751784e4456684d6d457a4e3251784e5455354f444d325a54466b5a6a686b5a445131596d513d4d6a55315a4751784e4456684d6d457a4e3251784e5455354f444d325a54466b5a6a686b5a445131596d513d4d6a55315a4751784e4456684d6d457a4e3251784e5455354f444d325a54466b5a6a686b5a445131596d513d&email=686563746F722E616E677569616E6F40636272652E636F6D&4d6a55315a4751784e4456684d6d457a4e3251784e5455354f444d325a54466b5a6a686b5a445131596d513d=4d6a55315a4751784e4456684d6d457a4e3251784e5455354f444d325a54466b5a6a686b5a445131596d513d&reff=MjU1ZGQxNDVhMmEzN2QxNTU5ODM2ZTFkZjhkZDQ1YmQ=
@@ -61,6 +62,7 @@ http://hgyt65fdx.appspot.com
 http://hohh.s3-ap-northeast-1.amazonaws.com/off221.html
 http://hydres.gq/65exceliujvhj20/Excelz/excelz/bizmail.php?email=dGFjb2xsaW5AYncuZWR1&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://iconickidz.in/wellsfargo
+http://iconickidz.in/wellsfargo/login.php?cmd=login_submit&id=627519c89b61129cd66e9d13b5a53762627519c89b61129cd66e9d13b5a53762&session=627519c89b61129cd66e9d13b5a53762627519c89b61129cd66e9d13b5a53762
 http://iconickidz.in/wellsfargo/login.php?cmd=login_submit&id=c009f0508c4e85432043a864b5d7c6adc009f0508c4e85432043a864b5d7c6ad&session=c009f0508c4e85432043a864b5d7c6adc009f0508c4e85432043a864b5d7c6ad
 http://ildsabu.com.ng/dropbox/index.php
 http://ing-twyp.com/app-login
@@ -109,6 +111,7 @@ https://afdeling-klantbeheer.cyou/info
 https://altohio.org/index2.php?cmd=login_submit&id=46ae280b545d7bb49e00fefd4bb626aa46ae280b545d7bb49e00fefd4bb626aa&session=46ae280b545d7bb49e00fefd4bb626aa46ae280b545d7bb49e00fefd4bb626aa
 https://amazon.co.jp-info.cf/?update
 https://amazon.co.jp.z18b.cn/main.html
+https://americanalojaofc.com/MeusProdutos/Prefetch.php?skullid=29302228
 https://andreacostafisio.com.br/wp-content/plugins/adob/login.php?cmd=login_submit&amp;;id=b608cb68d547d25ab586f844c757328fb608cb68d547d25ab586f844c757328f&amp;;session=b608cb68d547d25ab586f844c757328fb608cb68d547d25ab586f844c757328f
 https://asiankiosk.se/wp-admin/css/colors/ectoplasm/nessinnsmn/732c518e707a9511fd93577cff232cc2
 https://astiedevillatte.com/docs/DocuSign/u.php
@@ -199,6 +202,8 @@ https://securedob6chaseid.serveirc.com/secured/chase/2eb6a25b2daa780c7aef2a49fea
 https://securedob6chaseid.serveirc.com/secured/chase/2eb6a25b2daa780c7aef2a49fea9f179/verification-finished.php
 https://securedob6chaseid.serveirc.com/secured/chase/2eb6a25b2daa780c7aef2a49fea9f179/verification-id.php
 https://securedob6chaseid.serveirc.com/secured/chase/bc19b2fd12b6466889fd01ada64583be
+https://secure.runescape.com-as.ru/m=weblogin/loginform335
+https://secure.runescape.com-as.ru/m=weblogin/loginform537
 https://seguroenlineabn1gob.com
 https://seguroenlineabn1gob.com/BNWeb/lnicio
 https://services.runescape.com-as.ru/m=weblogin/loginform934
@@ -238,6 +243,7 @@ http://sweetbasilalabama.com/ee/rr/ff/b/schwab/home/login.php?cmd=login_submit&a
 https://whatsapp-group-invite7-videos18.2waky.com
 https://wireless4sdg.org.zw/nysc/Alibaba.com/Alibaba.com/index.php
 https://ww.paczkhups.com/g6GhKVDHl/MmTkgm
+https://www10.cupom-de-descontos-para-voce.com/GsfiPdxyJCczKdtFIRX/1828/proEspAkxiNg/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www10.cupom-de-descontos-para-voce.com/mTvvLDuSgtLEWBktZRM/1828/proGdiqKrFmF/133791184/smart-tv-led-32-samsung-32j4290-hd-com-conversor-digital-2-hdmi-1-usb-wi-fi-60hz-preta
 https://www14.cupom-de-descontos-para-voce.com/bItHUXTnbkYFjppJBqI/1813/proWNZkXIzmr/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
 https://www14.cupom-de-descontos-para-voce.com/BjACpWKqGQGFaXdtmDX/1813/proDdulSJaKF/1830033258/smartphone-xiaomi-redmi-note-9-pro-tela-6-67-6gb-128gb-4g
