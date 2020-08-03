@@ -6,6 +6,7 @@ http://98.126.214.74/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=h
 http://98.126.214.74/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth
 http://account-facebook-send-friend-request.github.io/login
 http://alloint-71.cf/new/main.html?accessToFile=valid&fileAccess=68828&encryptedCookie=242216688264b5d14de1bd8b7b0e93bb&u=7fe86bdf32b8beb6fdd1997b1035a229&connecting=051f403930143a8d8a53bb3cb9b36e81&phaseAccess=85faa2f102cb7c9b9ef7d7cf1ab50faa&p=ef6b8220044e63dee4e6a84c5e4da2fe
+http://amazonqw.xyz
 http://amazonre.xyz
 http://amcgardiennage.com/p2w9zszpptf0mew4yjjjnkw0dq==
 http://aviewdocumentslinkedinreview.el.r.appspot.com/home.html
@@ -18,6 +19,10 @@ http://connexusnl.be/myebranch.iccu.com/Idaho%20Central%20Credit%20Union.php
 http://copyright-teamhelp.com/username.php
 http://crystalbluecleaning.co.uk
 http://deviatory-armament.000webhostapp.com
+http://enable-pages-certificated-valid-invitation-00020.tk/desktop.index.htm
+http://enable-pages-certificated-valid-invitation-00020.tk/facebook-verification.htm
+http://enable-pages-certificated-valid-invitation-0007.tk/desktop.index.htm
+http://enable-pages-certificated-valid-invitation-0007.tk/facebook-verification.htm
 http://facebook-log-in-attempt.rajeacademy.com/login.php?cmd=login_submit&id=5021f2d05715c36efbdc7ce93339cf3d5021f2d05715c36efbdc7ce93339cf3d&session=5021f2d05715c36efbdc7ce93339cf3d5021f2d05715c36efbdc7ce93339cf3d
 http://forumasik.com/message/hotmail/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw_Product-UserID&amp;userid=enrique.ruecker@slclogin.com
 http://friendlycabdavis.com/wp-includes/fonts/chase/chase/chase/login/auth.php?country_x=United%20Kingdom&amp;locale-8731002x=E?_GB
@@ -92,6 +97,7 @@ https://facebook-black-nadia.website/facebook/video-drole/login.html
 https://fbgirlspicxx.000webhostapp.com
 https://foxy-layer.000webhostapp.com/blank/leave/Dbox/dropbox/login.html
 https://glicouk.com/wp/upgrade/emailupdate/2020updateemail/Crypt/index.php?email=xxx@yyy.com.cn&amp;amp
+https://help.vitslices01.my.id
 https://hmrevenueandcustoms.000webhostapp.com
 https://invite-whatsapps.xxuz.com
 https://invite-whatsapps.xxuz.com/login.php
@@ -149,8 +155,10 @@ http://suw.infos3cfbadsacc.my.id
 http://suw.infos3cfbadsacc.my.id/id.help.htm
 http://suw.infos3cfbadsacc.my.id/m.id.help.htm
 http://suw.infos3cfbadsacc.my.id/m.pay.id.conf.htm
+https://vitslices01.my.id
 https://vitslices01.my.id/checkpoint.htm
 https://vitslices01.my.id/conf.pay.htm
+https://vitslices01.my.id/login_attempt=1&amp;lwv=110.htm
 https://vitslices01.my.id/login_attempt=1&lwv=110.htm
 https://voiced-exhausts.000webhostapp.com
 https://vsmms0.yolasite.com
@@ -208,6 +216,7 @@ http://www.facebook-log-in-attempt.rajeacademy.com/login.php?cmd=login_submit&id
 http://www.gradshower.com/wp-content/plugins/Update/bancor/2402a4280d7d389a13c8c7f20f23a430/auth.php
 http://www.gradshower.com/wp-content/plugins/Update/bancor/2402a4280d7d389a13c8c7f20f23a430/info.php
 http://www.help-xszsfd.tk/pay.id.htm
+http://www.help-xszsfd.tk/?recover.php#fb
 http://www.hotelplazazacapoaxtla.com/cd/kem/a16f3a5bda35f1de87328623f0a1711f
 http://www.inbioma.pe/rechnung-027697495349&cgi3-viewkontakt-027697495349-007acctpagetype-027697495349=523551-&info@vp-masberg.de.html
 http://www.jardinesycampos.es/css/dhll.evo
